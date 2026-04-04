@@ -1,0 +1,102 @@
+Fafá de Belém - Com Açúcar, Com Afeto
+
+[ Chico Buarque ]
+
+
+[Intro:] Bb9 Cº7/Bb Bb9 Cº7/Bb Bb9
+
+    Cº7/Bb         Bb9    Am7(b5) D7(b13)    Gm7(9)
+Com açúcar, com afeto, fiz seu do...ce predileto
+     Db/Eb Eb7         D7(4) D7 Db7 D7 Eb7
+Pra você parar em casa,        qual o quê
+                    Gm7/D       Eb7M       Em7(b5)
+Com seu terno mais bonito, você sai, não acredito
+      A7(b9) A7(b13)   D7(4) F7(13) Bb9
+Quando diz que não se atrasa
+
+    Cº7/Bb             Bb9    Am7(b5) D7(b13)   Gm7(9)
+Você diz que é operário, vai em bus...ca do salário
+     Db/Eb   Eb7  D7(4) D7        Db7 D7 Eb7
+Pra poder me sustentar,   qual o quê
+                  Gm7/D      Eb7M         Em7(b5)
+No caminho da oficina, há um bar em cada esquina
+     A7(b9) A7(b13) D7(4)           G7M
+Pra você  comemorar,    sei lá o quê
+
+
+                             D/F#                  Bm7(b5)/F
+Sei que alguém vai sentar junto, você vai puxar assunto
+    E7(4)  E7 A7(9) A7(9)(11) A7(9)(#11) A7 Am7
+Discutindo futebol
+   D7(13)            G7M         F#7       Bm7(b5) Bm7(b5)/F
+E ficar olhando as saias de quem vive pelas praias
+   E7(4)   E7 A7(9) D7(13) G7M
+Coloridas pelo sol
+                        D/F#                     Bm7(b5)/F
+Vem a noite e mais um copo, sei que alegre, ma non troppo
+    E7(4)    E7   A7(9) A7(9)(11) A7(9)(#11) A7 Am7
+Você vai querer cantar
+              D7(13) G7M          F#7        Bm7(b5) Bm7(b5)/F
+Na caixinha um novo amigo vai bater um samba antigo
+     E7(4)  E7 Eb7 F7(13) Bb9
+Pra você rememorar
+
+Quando a noite enfim lhe cansa, você vem feito criança
+Pra chorar o meu perdão, qual o quê
+Diz pra eu não ficar sentida, diz que vai mudar de vida
+Pra agradar meu coração
+
+        Cº7/Bb          Bb9     Am7(b5) D7(b13)  Gm7(9)
+E ao lhe ver assim cansado, maltrapilho e maltratado
+      Db/Eb    Eb7 D7(4)  D7     G7
+Ainda quis me aborrecer qual o quê
+                        Cm7          Dbº          Am7(b5)/Eb
+Logo vou esquentar seu prato, dou um beijo em seu retrato
+                 D7(4) D7      Eb7M Cm7 Cm7/Bb Ab7M Gm7
+E abro os meus braços    pra você
+
+
+ACORDES:
+========
+
+Cº7/Bb=x1454x
+Bb9=x1353x
+Am7(b5)/Eb=x6554x
+Bm7(b5)/F=1x323x
+A7(9)(#11)=5x544x
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(9) = 5 X 5 4 2 X
+A7(9)(#11) = 5 4 5 4 4 X
+A7(9)(11) = 5 X 5 4 3 X
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+Ab7M = 4 X 5 5 4 X
+Am7 = X 0 2 0 1 0
+Am7(b5) = 5 X 5 5 4 X
+Bb9 = X 1 3 3 1 1
+Bm7(b5) = X 2 3 2 3 X
+Cm7 = X 3 5 3 4 3
+Cm7/Bb = 6 3 5 3 4 3
+Cº7/Bb = X 1 4 5 4 X
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(13) = X 5 X 5 7 7
+D7(4) = X X 0 2 1 3
+D7(b13) = X 5 X 5 7 6
+Db/Eb = 11 X 11 10 9 X
+Db7 = X 4 3 4 2 X
+Dbº = X 4 5 3 5 3
+E7 = 0 2 2 1 3 0
+E7(4) = 0 2 0 2 0 X
+Eb7 = X 6 5 6 4 X
+Eb7M = X X 1 3 3 3
+Em7(b5) = X X 2 3 3 3
+F#7 = 2 4 2 3 2 2
+F7(13) = 1 X 1 2 3 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7(9) = X X 5 3 6 5
+Gm7/D = X 5 3 3 3 3

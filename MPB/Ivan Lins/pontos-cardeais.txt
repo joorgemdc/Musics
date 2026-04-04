@@ -1,0 +1,58 @@
+Ivan Lins - Pontos Cardeais
+
+[Intro:] Am7(9)(11) G7(9) Am7(9)(11) G7(9)
+
+Am7(9)(11)                     F9
+Seu olhar, é pra mim um mar bravio
+             C/E    Dm7
+Onde arrisco meus navios
+      G7     G#º     Am7 Am7/G
+Toda vez que deixo o cais
+       F9      E7(#9)           Am7
+Perco tudo, esse ar de quem não sonha
+ A7(b13)       Dm7
+O orgulho, a vergonha
+         G7          C G7(9)
+Os meus pontos cardeais
+
+Perco ainda, os meus maus pressentimentos
+O cordão de isolamento
+Dos meus dias sempre iguais
+Perco tudo, o rancor dos infelizes
+O temor das cicatrizes
+         G7              C C7(4)
+Que um grande amor nos faz
+
+    C7 Fm7(9)     Bb7(13)
+Pra que dizer mais
+          Em7      Eb7(4)
+Pra que querer mais
+      Eb7   Dm7(11)
+Se eu nunca me vi
+Dm7/C    Bm7(b5)       E7  Am7
+Tão           perto de ser feliz
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Am7(9)(11) = 5 3 5 4 3 X
+Am7/G = 3 0 2 0 1 0
+Bb7(13) = 6 X 6 7 8 X
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7(4) = X 3 3 3 1 X
+Dm7 = X 5 7 5 6 5
+Dm7(11) = X 5 5 5 6 5
+Dm7/C = X 3 0 2 1 1
+E7 = 0 2 2 1 3 0
+E7(#9) = X 7 6 7 8 X
+Eb7 = X 6 5 6 4 X
+Eb7(4) = X X 1 3 2 4
+Em7 = 0 2 2 0 3 0
+F9 = 1 3 5 2 1 1
+Fm7(9) = X X 3 1 4 3
+G#º = 4 X 3 4 3 X
+G7 = 3 5 3 4 3 3
+G7(9) = 3 X 3 2 0 X

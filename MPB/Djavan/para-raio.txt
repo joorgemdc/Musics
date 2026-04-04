@@ -1,0 +1,69 @@
+Djavan - Pára-raio
+
+D7M(9)                   A7(4/9)
+   Descalço num pequeno espaço
+                     D7M(9)
+   Deitado em quarto crescente
+                 A7(4/9)
+Pálido, cálido, espírito   ausente
+        D7M(9)                A7(4/9)  D7M(9) A7(4/9)
+Calado, de    corpo fecha.................ado
+
+D7M/9                      A7(4/9)
+      Não traço, não sigo, não sou     obrigado
+       D7M(9)                    A7(4/9)
+Não faço segredo, não sou bem-dotado
+                D7M(9)
+Cabeça Feita, visão na    estrada
+                 A7(4/9)               D7M(9) A7(4/9)    D7M(9) A7
+Esqueço do medo, não     choro por na...........da
+
+D7M(9)             Gm7(9)               C7(13)        F7M(9)
+       No braço do mar        bem na ponta      d´arei--------a
+   F7M(9)/C   F#m7(9)             B7(#11) Em7(9)
+
+A terra tre|---------me, o tempo ser.....ra
+
+              A7(4/9)    Em7(9)  A7(4/9)
+Quem manda na  chuva é o vento
+Em7(9)           A7(4/9)       Em7(9)  A7(4/9)
+     Quem manda na   chuva é o vento
+
+
+D#m7(9)  Dm7(9)                Ab7 G7
+                 E pára-raio       cata-vento
+Db7(9) C7(9)                 G7 F#7
+                 E pára-raio    cata-vento
+
+C7(9) Bm7(9)                  A7(4/9)
+                 E pára-raio          e para o tempo
+            D7M(9)          A7(4/9)
+E pára       e pára-raio cata-vento
+
+D7M(9)                  A7(4/9)
+       E pára-raio Cata-vento
+D7M(9)                  A7(4/9)  D7M(9) A7(4/9)   D6(9)
+       E pára-raio Cata-ve
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7(4/9) = 5 X 5 4 3 X
+Ab7 = 4 6 4 5 4 4
+B7(#11) = X 2 3 2 4 X
+Bm7(9) = X 2 0 2 2 X
+C7(13) = X 3 X 3 5 5
+C7(9) = X 3 2 3 3 X
+D#m7(9) = X 6 4 6 6 X
+D6(9) = X 5 4 2 0 0
+D7M(9) = X 5 4 6 5 X
+D7M/9 = X 5 4 6 5 X
+Db7(9) = X 4 3 4 4 X
+Dm7(9) = X 5 3 5 5 X
+Em7(9) = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#m7(9) = X X 4 2 5 4
+F7M(9) = X 8 7 9 8 X
+F7M(9)/C = 8 7 5 5 6 5
+G7 = 3 5 3 4 3 3
+Gm7(9) = X X 5 3 6 5

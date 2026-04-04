@@ -1,0 +1,140 @@
+Toquinho - Choro Chorado para Paulinho Nogueira
+
+Toquinho / Vinícius de Moraes / Paulinho Nogueira
+
+
+(introdução)
+
+Gmadd9       Gm     D4     Dm/C     E7(b9)/B     A7     Cm6/Eb     A7
+
+Gmadd9       Gm     D4     Dm/C     Cm6/Eb     A7
+
+
+Dm            Dm/C      E7/B   Gm/Bb   A7          A/G      Dm/F  A7/E
+Quanta  sau - dade  anti       -  ga,  quanta  re- cordação
+
+Dm        Dm/F    Gm    Gm/D   C7          C7/E     F6    F6/C
+O  toque  pacien  -  te           de  tua  mão  ami - ga
+
+F#°       F#°/C           G7      G7/D   C7      C7/G             F7    F7/C
+Me ensi - nando  os  cami - nhos,        corri - gindo  os  defei - tos
+
+Bb7                   A7            Gm6          Dm/F       A7/E         Dm
+Dando  todos  os  jei -  tos  pras  notas  bro - tarem  do  meu  violão
+
+
+             Dm/C       E7/B    Gm6/Bb     A7         A/G      Dm/F   A7/E
+Ah,  eu  me  lembro  ain -  da,            cheio  de  gratidão
+
+Dm       Dm/F        Gm      Gm/D     C7           C7/E       F6     F6/C
+A  hora  entardecen  -   te,          a   nostal - gia  infin -  da
+
+F#°      F#°/C         G7     G7/D     C7        C7/G          F7    F7/C
+no  mo - desto  ambien -  te           da   ca - inha  da  pra - ça
+
+Bb7             Bb7/F         A7
+E  eu  em  es - tado  de  gra -  ça
+
+         Gm6          Dm/F           A7/E        Dm     C#7     C7
+de  es - tar  apren - dendo  a  to - car  violão
+
+F        Dm7             G7(13)     G7(b13)     G7     G7(b13)     G7(13)
+E  ho -  je,     nós     dois,
+
+Gm7    C7/E   C7      F     F6     F
+tempos        de -    pois
+
+Cm7   F7       Bb6           Bbm7   Eb7        Ab6
+Da -  mos  com nova  emoção  um     novo  aper - to  de  mão
+
+Bbm6/Db                C7         Cm7   F7
+Nesse  chorinho  chora -  do  jun -     tos,
+
+
+Gm6/Bb                A7             Am7(b5)   D7   D7/A
+e  que  tomara  renas - ça  em   mui -         tos
+
+Gm7            G#°       F/A            D7                 G7(9)
+Pois  a  mai - or  ale - gria  é  cho - rar  de  parceri - a
+
+           C7             C/Bb       Am7(b5)     D7
+num  cho - rinho  que  é  só  cora - ção
+
+Gm7        G#°                 F/A         D7                  G7(9)
+E  relem - brar  que  o  pas - sado  vive  num  choro  chora - do
+
+      C7                    F      A7
+Pelo  teu  e  o  meu  vio - lão
+
+
+(solo e final)
+
+Dm     Dm/C    E7/B     Gm6/Bb     A7     Gm6     Dm/F     A7/E     Dm     Gmadd9       Gm     C     C7      F7+(6)
+
+F7+     F#°     G/F     E°     F/Eb     Dm7     A     Gmadd9       Fadd9       F     A7(b13)     Dm     Dm/C
+
+E7(b9)     Bb     A7     Cm7/Eb     F#°     Gmadd9       Gm     D4     Dm/C     E7(b9)/B     A7
+
+Cm6/Eb     D7     Gmadd9       Gm     D4     Dm/C     E7(b9)/B     A7     Dm     Dmadd9
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+A7/E = 0 X 2 2 2 3
+Ab6 = 4 X 3 5 4 X
+Am7(b5) = 5 X 5 5 4 X
+Bb = X 1 3 3 3 1
+Bb6 = X 1 3 0 3 X
+Bb7 = X 1 3 1 3 1
+Bb7/F = X X 3 3 3 4
+Bbm6/Db = X 4 5 3 6 3
+Bbm7 = X 1 3 1 2 1
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C/Bb = X 1 2 0 1 X
+C7 = X 3 2 3 1 X
+C7/E = 0 3 2 3 1 0
+C7/G = 3 X 2 3 1 X
+Cm6/Eb = X X 1 2 1 3
+Cm7 = X 3 5 3 4 3
+Cm7/Eb = 11 X 10 12 11 X
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D7/A = 5 X 4 5 3 X
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+Dmadd9 = X 5 7 9 6 5
+E7(b9) = X X 2 1 3 1
+E7/B = X 2 2 1 3 X
+Eb7 = X 6 5 6 4 X
+E° = X X 2 3 2 3
+F = 1 3 3 2 1 1
+F#° = 2 X 1 2 1 X
+F#°/C = X 3 1 2 1 X
+F/A = 5 X 3 5 6 X
+F/Eb = X X 1 2 1 1
+F6 = 1 X 0 2 1 X
+F6/C = X 3 3 2 3 X
+F7 = 1 3 1 2 1 1
+F7+ = 1 X 2 2 1 X
+F7+(6) = 1 X 2 2 3 X
+F7/C = X 3 3 2 4 X
+Fadd9 = 1 3 5 2 1 1
+G#° = 4 X 3 4 3 X
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7(9) = 3 X 3 2 0 X
+G7(b13) = 3 X 3 4 4 3
+G7/D = X X 0 0 0 1
+Gm = 3 5 5 3 3 3
+Gm/Bb = 6 5 5 3 X X
+Gm/D = X 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm6/Bb = X 1 2 0 3 0
+Gm7 = 3 X 3 3 3 X
+Gmadd9 = 3 5 7 3 3 3

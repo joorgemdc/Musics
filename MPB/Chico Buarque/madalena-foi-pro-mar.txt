@@ -1,0 +1,106 @@
+Chico Buarque - Madalena Foi Pro Mar
+
+[Intro] G  F  G  F
+        G  F  G  F
+
+[Primeira Parte]
+
+   G6       Em7       A7(13) A7(b13)
+Madalena foi   pro mar
+       D7(9)        G7M
+E eu fiquei a ver navios
+   G6       Em7       A7(13) A7(b13)
+Madalena foi   pro mar
+       D7(9)        G7M
+E eu fiquei a ver navios
+
+[Segunda Parte]
+
+                     F#m7(b5)
+Quem com ela se encontrar
+B7(b9) Em7        Am7 D7(9)
+Diga   lá no alto mar
+         G6    Em7   A7(13)  A7(b13)
+Que é preciso voltar já
+
+       D7(9)          G7M
+Pra cuidar dos nossos filhos
+         G6    Em7   A7(13)  A7(b13)
+Que é preciso voltar já
+       D7(9)          G7M
+Pra cuidar dos nossos filhos
+
+    G6               E7(9)
+Pra zombar dos olhos meus
+        Am7    D7(9)   G7
+No alto mar a vela   acena
+       C6(9)        F#m7(b5)
+Tanto jeito tem de adeus
+        B7(b9)  Em7
+Tanto adeus
+   A7    Am7   D7(9)
+De Ma..dale..na
+
+[Primeira Parte]
+
+   G6       Em7       A7(13) A7(b13)
+Madalena foi   pro mar
+       D7(9)        G7M
+E eu fiquei a ver navios
+   G6       Em7       A7(13) A7(b13)
+Madalena foi   pro mar
+       D7(9)        G7M
+E eu fiquei a ver navios
+
+[Segunda Parte]
+
+                     F#m7(b5)
+Quem com ela se encontrar
+B7(b9) Em7        Am7 D7(9)
+Diga   lá no alto mar
+         G6    Em7   A7(13)  A7(b13)
+Que é preciso voltar já
+       D7(9)          G7M
+Pra cuidar dos nossos filhos
+         G6    Em7   A7(13)  A7(b13)
+Que é preciso voltar já
+       D7(9)          G7M
+Pra cuidar dos nossos filhos
+
+   G6            E7(9)
+É preciso não chorar
+     Am7       D7(9)   G7
+Maldizer, não vale a pena
+       C6(9)     F#m(b5)
+Jesus manda perdoar
+      B7(b9) Em7
+A mulher
+      A7    Am7    D7(9)
+Que é Ma..dale...na
+
+   G6       Em7       A7(13) A7(b13)
+Madalena foi   pro mar
+       D7(9)        G7M
+E eu fiquei a ver navios
+   G6       Em7       A7(13) A7(b13)
+Madalena foi   pro mar
+       D7(9)        G7M
+E eu fiquei a ver navios
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+C6(9) = X 3 2 2 3 3
+D7(9) = X 5 4 5 5 X
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#m(b5) = 2 X 4 2 1 X
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X

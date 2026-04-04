@@ -1,0 +1,69 @@
+Tom Jobim - Pato Preto
+
+Afinação Meio Tom Abaixo
+
+Bb7
+O pato preto de asa branca Já fez morada no brejão
+Eb7(9)             Ebm7(9)              F7          Bb7
+ Isso é sinal que a chuva vem Que vai ter safra no sertão
+O pato preto é da floresta  O paturi é do sertão
+              Eb7(9)       Ebm7(9) F7    Bb7
+A minha vida é cardigueira Avoante arribação
+     Gm7            C7(9)             Gm7    C 7(9)
+A minha vida é muito triste A te esperar na solidão
+             Gm7            C7(9)            Gm7       C7(9)
+Ah! se eu soubesse que era assim Eu juro, eu não casava não
+Bb7
+Eu vou me embora pra São Paulo Vou arranjar uma viração
+Eb7(9)              Ebm7(9)              F7     Bb7
+Depois te pego com as crianças A sanfona e o violão
+Eb7 Ebm7               Bbm7   Eb7   Ebm7     Bbm7
+E os meninos tão bonitos Inocentes do sertão
+Eb7  Bbm7                Eb7      Bbm7       Eb7  Bbm7
+E a danada desta seca Ai meu Deus que judiação
+    Eb7          Bbm7          Eb7       Bbm7
+Leva nós lá pra São Paulo Aqui não fico mais
+     Gm7       C7(9)           Gm7          C7(9)
+A minha vida é só tristeza É desespero, é solidão
+    Gm7         C7(9)          Gm7                C7(9)
+O Zeca foi lá pra São Paulo Acho que não volta mais não
+
+(solo) D6 D7/4(9) Am7 Eb7/4 D7M D6 D7/4(9) Am7 Bb7M Gm7 D7M Bb7M Gm7 Eb7M(9) D7M(9) A7/4(9) D7M(9) A7/4(9) D7M(9) A7/4(9)  D7M(9) A7/4(9) D7M(9) A7/4(9) D7M(9) A7/4(9) D7M(9) A7/4(9) D6 A7 D6
+
+Bm7                E7(9)     Bm7             E7(9)
+Era uma nuvem tão bonita Era uma rosa era um balão
+      Bm7            E7(9)     Bm7         G
+O camiranga deu uma volta E sumiu na imensidão
+
+(solo) D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M  A7/4 D7M
+
+A7/4(9) D7M(9) A7/4(9) D7M(9) A7/4(9)  D7M(9)  A7/4(9) D7M(9)
+Ó o dandá,             ó o dandá             Ó o dandá,     ó o dandá
+A7/4(9) D7M(9)  A7/4(9)   D7M(9)
+   o dandá,             ó o dandá
+
+----------------- Acordes -----------------
+A7*  = X 0 2 0 2 0 - (*G#7 na forma de A7)
+A7/4*  = X 0 2 0 3 0 - (*G#7/4 na forma de A7/4)
+A7/4(9)*  = 5 X 5 4 3 X - (*G#7/4(9) na forma de A7/4(9))
+Am7*  = X 0 2 0 1 0 - (*G#m7 na forma de Am7)
+Bb7*  = X 1 3 1 3 1 - (*A7 na forma de Bb7)
+Bb7M*  = X 1 3 2 3 1 - (*A7M na forma de Bb7M)
+Bbm7*  = X 1 3 1 2 1 - (*Am7 na forma de Bbm7)
+Bm7*  = X 2 4 2 3 2 - (*A#m7 na forma de Bm7)
+C*  = X 3 2 0 1 0 - (*B na forma de C)
+C7(9)*  = X 3 2 3 3 X - (*B7(9) na forma de C7(9))
+D6*  = X 5 4 2 0 X - (*C#6 na forma de D6)
+D7/4(9)*  = X 5 5 5 5 5 - (*C#7/4(9) na forma de D7/4(9))
+D7M*  = X X 0 2 2 2 - (*C#7M na forma de D7M)
+D7M(9)*  = X 5 4 6 5 X - (*C#7M(9) na forma de D7M(9))
+E7(9)*  = X X 2 1 3 2 - (*D#7(9) na forma de E7(9))
+Eb7*  = X 6 5 6 4 X - (*D7 na forma de Eb7)
+Eb7(9)*  = X 6 5 6 6 X - (*D7(9) na forma de Eb7(9))
+Eb7/4*  = X X 1 3 2 4 - (*D7/4 na forma de Eb7/4)
+Eb7M(9)*  = X 6 5 7 6 X - (*D7M(9) na forma de Eb7M(9))
+Ebm7*  = X X 1 3 2 2 - (*Dm7 na forma de Ebm7)
+Ebm7(9)*  = X 6 4 6 6 X - (*Dm7(9) na forma de Ebm7(9))
+F7*  = 1 3 1 2 1 1 - (*E7 na forma de F7)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)
+Gm7*  = 3 X 3 3 3 X - (*F#m7 na forma de Gm7)

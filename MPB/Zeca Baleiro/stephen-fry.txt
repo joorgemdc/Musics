@@ -1,0 +1,48 @@
+Zeca Baleiro - Stephen Fry
+
+Intro
+
+E|-12-12-11-9-7--7-7-------------------------------7/9-7-----12h12-11-------------|
+B|-------------------7h9p7-----7-------------5/7-5--------12----------14-12-------|
+G|-------------------------9-6---9-6/4---4/6--------------------------------13-11-|
+D|-------------------------------------6------------------------------------------|
+A|--------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------|
+
+       Eadd9
+Por onde andará Stephen Fry
+                           F#m7/11      Aadd9
+Por onde andará ... Stephen
+                      F#m7/11
+Ninguém sabe do seu paradeiro
+        Aadd9     F#m7/11
+Ninguém sabe para onde ele foi
+               F7(#11)  Aadd9  F#m7/11     F7(#11)
+prá onde ele vai
+     C#m7        C#m7/B    F#/A#  B/A
+Stephen may be felling all alone
+
+  C#m7        C#m7/B
+Stephen never do this again
+    F#/A#  B/A
+come back home
+      F#7/11
+Se correr o bicho pega Stephen
+ Aadd9     B11
+Se ficar o bicho come
+
+continua com Eadd9
+e finaliza com  E6
+
+----------------- Acordes -----------------
+Aadd9 = X 0 2 2 0 0
+B/A = X 0 4 4 4 X
+B11 = X 2 4 4 5 2
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+E6 = X X 2 4 2 4
+Eadd9 = 0 2 4 1 0 0
+F#/A# = 6 X 4 6 7 X
+F#7/11 = 2 4 2 4 2 X
+F#m7/11 = 2 X 2 2 0 X
+F7(#11) = 1 X 1 2 0 X

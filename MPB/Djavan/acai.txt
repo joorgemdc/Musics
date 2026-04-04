@@ -1,0 +1,69 @@
+Djavan - Açaí
+
+Afinação: E A D G B D
+
+Intro: D7M(9)  F°  Em  Bb(b5)/E (2x)
+
+Estrofe:
+
+D7M(9)         F°
+       Solidão   de manhã
+Em      Em/D            C7M
+   Poeira tomando assento
+        A7(9)              Bm       Bm7M
+Rajada de vento, som de assombração
+Bm7      Bm6
+    Coração
+F#m7            B7(b9)  E7(9)   A4(b9)
+     Sangrando toda  palavra sã
+
+D7M(9)          F°
+       A paixão   puro afã
+Em           Em/D      C7M
+   Místico clã de sereia
+
+           A7(9)    Bm           Bm7M
+Castelo de areia, ira de tubarão
+Bm7     Bm6
+    Ilusão
+G7M        A7(4/9)
+    O sol brilha por si
+
+Refrão:
+
+D7M(9)    E        G(#11)
+       Açaí, guardiã
+          D7M/F#       F°(b13)
+Zum de besouro, um ímã
+            Em
+Branca é a tez da manhã
+
+D7M(9)    E        G(#11)
+       Açaí, guardiã
+          D7M/F#       F°(b13)
+Zum de besouro, um ímã
+            Em
+Branca é a tez da manhã
+
+----------------- Acordes -----------------
+A4(b9) = X 0 2 3 3 0
+A7(4/9) = 5 X 5 4 3 X
+A7(9) = 5 X 5 4 2 X
+B7(b9) = X 2 1 2 1 X
+Bb(b5)/E = X X 2 3 3 0
+Bm = X 2 4 4 3 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C7M = X 3 2 0 0 X
+D7M(9) = X 5 4 6 5 X
+D7M/F# = 2 X 0 2 2 2
+E = 0 2 2 1 0 0
+E7(9) = X X 2 1 3 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4
+F°(b13) = 1 X 0 1 2 X
+G(#11) = 3 5 5 6 3 3
+G7M = 3 X 4 4 3 X

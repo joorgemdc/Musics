@@ -1,0 +1,126 @@
+João Bosco - Papel Marché
+
+[Intro]
+
+F7M(9)
+       Cores do mar
+Dm7(9/11)
+          Festa do sol
+C5+
+    Vida é fazer
+        A7(b13)
+Todo o sonho brilhar
+       Fm7(9)
+Ser feliz
+                G7(13)  C#7(#9)
+No teu colo dormir
+     C7M         Em/B
+E depois acordar
+         Em/A        A7(b9/b13)
+Sendo o seu colorido
+      D7(9/#11)/F#   G7(9)    (Intro)
+Brinquedo de        Papel Machê
+
+
+F7M(9)
+       Cores do mar
+Dm7(9/11)
+          Festa do sol
+C5+
+    Vida é fazer
+        A7(b13)
+Todo o sonho brilhar
+       Fm7(9)
+Ser feliz
+                G7(13)  C#7(#9)
+No teu colo dormir
+     C7M         Em/B
+E depois acordar
+         Em/A        A7(b9/b13)
+Sendo o seu colorido
+      D7(9/#11)/F#   G7(9)
+Brinquedo de        Papel Machê
+
+(Passagem 2)
+
+[Segunda Parte]
+
+    Am7M
+Dormir no teu colo
+      F7M(9)
+É tornar a nascer
+    Dm7(9/11)
+Violeta e azul
+       Em7(9/11)
+Outro ser
+           A7(b9/13)
+Luz do querer
+
+     F7M(9)
+Não vai desbotar
+   Dm7(9/11)
+Lilás cor do mar
+      C5+
+Seda cor de batom
+     A7(b13)
+Arco-íris crepom
+      D7(9/#11)/F#
+Nada vai desbotar
+     G7(9)             (Passagem 2)
+Brinquedo de Papel Machê
+
+    Am7M
+Dormir no teu colo
+      F7M(9)
+É tornar a nascer
+    Dm7(9/11)
+Violeta e azul
+       Em7(9/11)
+Outro ser
+           A7(b9/13)
+Luz do querer
+
+     F7M(9)
+Não vai desbotar
+   Dm7(9/11)
+Lilás cor do mar
+      C5+
+Seda cor de batom
+     A7(b13)
+Arco-íris crepom
+      D7(9/#11)/F#
+Nada vai desbotar
+     G7(9)             (Intro)
+Brinquedo de Papel Machê
+
+
+F7M(9)  Dm7(9/11)  C5+
+
+A7(b13)  D7(9/#11)/F#  G7(9)  (Intro)
+
+F7M(9)  Dm7(9/11)  C5+
+
+A7(b13)  D7(9/#11)/F#  G7(9)
+
+[Final]
+
+Bb7(9)  A7(b13)  D7(9/#11)/F#  C#7(#9)  C7M
+
+----------------- Acordes -----------------
+A7(b13) = X 0 5 6 6 5
+A7(b9/13) = X 0 5 6 7 6
+A7(b9/b13) = 5 X 5 3 6 X
+Am7M = X 0 6 5 5 4
+Bb7(9) = X 1 0 1 1 X
+C#7(#9) = X 4 3 4 5 X
+C5+ = X 3 2 1 0 0
+C7M = X 3 2 0 0 0
+D7(9/#11)/F# = 2 X 0 1 1 0
+Dm7(9/11) = 0 0 3 0 1 0
+Em/A = X 0 5 4 5 3
+Em/B = X 2 5 4 5 0
+Em7(9/11) = 2 X 4 0 3 5
+F7M(9) = 3 3 7 5 5 3
+Fm7(9) = 3 3 6 5 4 3
+G7(13) = 5 X 3 4 5 X
+G7(9) = 5 X 3 2 0 X

@@ -1,0 +1,81 @@
+Caetano Veloso - Carolina
+
+(intro) Em7  A7(9)
+
+Dmaj7(9)   Dm6(9)                  C#m7  F#7(b9)
+Carolina,            com seus olhos fun- dos
+       Bm7
+Guarda tanta dor
+  F#m7(b5)  B7        Em7   B7(#9) B7(b9) Em7
+A dor de   todo este mundo
+Em7                            A7
+Eu já lhe avisei, que não vai dar
+ Dmaj7         D6  Dmaj7   D6
+Seu pranto não vai nada ajudar
+ E7(13)               E7(b13)
+Eu já convidei para dançar
+ Em(9)                  Em7  A7(b9)
+É hora já sei de aproveitar
+   Dmaj7   D6
+Lá fora, amor
+           C#m7(9) F#7               Bm7(9)
+Uma rosa nasceu,           Todo mundo sambou
+        Bm7 Bbm7 Am7  D7(9) D7(9)
+Uma estrela ca - iu
+
+Gmaj7          C7(9)      F#7(13) F#7(b13) F#m7
+Eu bem que mostrei, sorrindo
+Bm7(13)              E7(13) E7(b13)
+Pela janela ai que lindo
+                     Em7 A7(b9)
+   E só Carolina não viu
+
+(segundo verso, mesmas notas)
+Carolina, nos seus olhos tristes
+Guarda tanto amor
+O amor de já não existe.
+Eu bem que avisei, vai acabar
+E de tudo lhe dei para aceitar
+Mil versos cantei para agradar
+Agora não sei como explicar
+
+(refrão  2)
+Lá fora, amor
+Uma rosa morreu
+Uma festa acabou, nosso barco partiu
+Eu bem que mostrei, a ela
+O tempo passou na janela
+         A7        D6
+E só Carolina não viu
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(9) = 5 X 5 4 2 X
+A7(b9) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(#9) = X 2 1 2 3 X
+B7(b9) = X 2 1 2 1 X
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+Bm7(13) = X 2 X 2 3 4
+Bm7(9) = X 2 0 2 2 X
+C#m7 = X 4 6 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C7(9) = X 3 2 3 3 X
+D6 = X 5 4 2 0 X
+D7(9) = X 5 4 5 5 X
+Dm6(9) = X 5 3 4 5 X
+Dmaj7 = X X 0 2 2 2
+Dmaj7(9) = X 5 4 6 5 X
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+Em(9) = 0 2 4 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#7(b9) = X X 4 3 5 3
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+Gmaj7 = 3 X 4 4 3 X

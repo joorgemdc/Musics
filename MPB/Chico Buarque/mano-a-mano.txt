@@ -1,0 +1,73 @@
+Chico Buarque - Mano a Mano
+
+[Intro:] F#7(4)(9)
+
+F#7(4)(9)
+Meu pára-choque com seu pára-choque
+Era um toque, era um pó que era um só, eu e meu irmão
+Era porreta, carreta parelha a carreta
+Dançando na reta meu irmão
+Em9/B                           C7M(#11)/G G7M/F#
+Na beira de estrada valeu o que era dele era meu
+       Em6(9)
+Eu era ele
+    F#7(4)(b9) G7(#11) C#7(b9)(b13)
+Ele era eu
+
+F#m   F#m7M      F#m7       B7/F#
+Ela era estrela, era flor do sertão
+  Bm7/F#   F#º            Bm7/F#    E7
+Era pérola d'oeste, era consolação
+      A7M(9)    D7M G#m7(b5)(b13) C#7(b9)(#11)
+Era amor na boléia, eram cem caminhões
+F#m   F#m7M      F#m7       B7/F#
+Mas ela era nova, viçosa, matriz
+
+  Bm7/F#   F#º            Bm7/F# E7
+Era diamantina, era imperatriz
+      A7M(9)    D7M G#m7(b5)(b13) C#7(b9)(#11)
+Era só uma menina de três corações
+F#m7(9) E7(9) F#m7(9) E7(9) F#m7(9)
+E então
+
+Atravessando a garganta, jamanta
+Fechando jamanta na curva crucial,
+Era uma barra, era engano, na certa,
+Era cano na mão, mano a mano, pau a pau
+Na beira de estrada se deu
+Se o que era dele era meu
+Ou era ele ou era eu
+
+Dm6(9)/F A7M(9)       Fº F#m7(11) C7(9)
+Então lavei as mãos do        sangue do
+    Bm7(9) E7(b9)    Am7(9)         F#m7(11)
+Meu sangue do meu sangue irmão chão
+
+----------------- Acordes -----------------
+A7M(9) = X 0 2 1 0 0
+Am7(9) = X X 7 5 8 7
+B7/F# = X X 4 4 4 5
+Bm7(9) = X 2 0 2 2 X
+Bm7/F# = X X 4 4 3 5
+C#7(b9)(#11) = X 4 3 4 3 3
+C#7(b9)(b13) = X 4 3 4 3 5
+C7(9) = X 3 2 3 3 X
+D7M = X X 0 2 2 2
+Dm6(9)/F = 1 2 0 2 0 0
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+E7(b9) = X X 2 1 3 1
+Em6(9) = X X 2 0 2 2
+Em9/B = 7 7 9 11 8 7
+F#7(4)(9) = 2 X 2 1 0 X
+F#7(4)(b9) = 2 X 2 0 0 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(9) = X X 4 2 5 4
+F#m7M = X X 4 6 6 5
+F#º = 2 X 1 2 1 X
+Fº = X X 3 4 3 4
+G#m7(b5)(b13) = 4 2 2 3 3 2
+G7(#11) = 3 X 3 4 2 X
+G7M/F# = 2 X 4 4 3 X

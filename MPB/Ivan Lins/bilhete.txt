@@ -1,0 +1,60 @@
+Ivan Lins - Bilhete
+
+Intro: A7+ D/E A7+ C#7+ F#6/7 F#7 B7+ E6/7 E7 A7+ D/E
+
+                A7+                   D/E
+Quebrei o teu prato, tranquei o meu quarto
+C#5+/7     F#m7+ F#m7 F#m6
+Bebi teu licor
+           D/E              E/G
+Arrumei a sala, já fiz tua mala
+           B/C#  F#m7
+Pus no corredor
+     F#m/E       D7+                   D#m7/9
+Eu limpei minha vida, te tirei do meu corpo
+     G#5+/7      A/C#   F/C
+Te tirei das entranhas
+        C7+       Bm7/9
+Fiz um tipo de aborto
+      D6/7      G#m5-/7  C#5+/7       F#m7+ F#m7 Fm7
+E por fim nosso caso acabou-se, está morto
+         A7/9     F#/D D              D#m7/9
+Jogue a cópia da chave por debaixo da porta
+    G#5+/7         A/C# F/C
+Que é pra não ter motivo
+     C7+        Bm7/9
+De pensar numa volta
+       D6/7      G#m5-/7
+Fique junto dos teus
+      C#5+/7  F#m7+ F#m7
+Boa sorte, adeus
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7+ = X 0 2 1 2 0
+A7/9 = 5 X 5 4 2 X
+B/C# = X 6 X 4 7 7
+B7+ = X 2 4 3 4 2
+Bm7/9 = X 2 0 2 2 X
+C#5+/7 = X 4 X 4 6 5
+C#7+ = X 4 6 5 6 4
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D#m7/9 = X 6 4 6 6 X
+D/E = X X 2 2 3 2
+D6/7 = X 5 X 5 7 7
+D7+ = X X 0 2 2 2
+E/G = 3 2 2 1 0 0
+E6/7 = 0 X 0 1 2 0
+E7 = 0 2 2 1 3 0
+F#/D = X 5 4 3 2 2
+F#6/7 = 2 X 2 3 4 X
+F#7 = 2 4 2 3 2 2
+F#m/E = X X 2 2 2 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+F/C = X 3 3 2 1 1
+Fm7 = 1 X 1 1 1 X
+G#5+/7 = 4 7 6 5 4 X
+G#m5-/7 = 4 X 4 4 3 X

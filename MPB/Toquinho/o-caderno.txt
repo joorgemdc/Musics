@@ -1,0 +1,169 @@
+Toquinho - O Caderno
+
+(versão 1)
+
+(intro) C     G/B     Am     Amadd9       Am     C7/G     F     G     F6
+        Em     Dm7     G     C     G/B     Am7     C7(13)     F
+        G6/F     C     G7
+
+E|-1-1/3-1---1---------------------------1-3-1-6-8-10-8-6-3-6-8-6---|
+B|---------3------------1---1-3---1---3-----------------------------|
+G|-------------3--3-0-3---3-----3---2-------------------------------|
+D|------------------------------------------------------------------|
+A|------------------------------------------------------------------|
+E|------------------------------------------------------------------|
+
+     C                       Em7/B
+Sou  eu  que  vou  seguir  você
+                 Am                C7
+do  primeiro   rabisco  até  o  B+A=BA
+    F                    A7/E              Dm
+em  todos  os  desenhos  coloridos  vou  estar
+   F            G/F           C/E         Am
+a  casa,  a  montanha,  duas  nuvens  no  céu
+
+       Dm7           Bb°            D7/A   G7/4(9)   G7
+e  um  sol  a  sor - rir  no   pa - pel
+     C                         Em7/B
+Sou  eu  que  vou  ser  seu  colega,
+                 Am                 C7
+seus  problemas  ajudar a  resolver
+     F                       A7/E                    Dm
+te  acompanhar  nas  provas  bimestrais,  você  vai  ver
+  F             G/F      C/E      Am
+Serei  de  vo - cê  confidente  fiel,
+         Dm7       Bb°          D7/A   G7/4(9)   G7
+se  seu  pranto  molhar  meu  papel
+     C                         Em7/B
+Sou  eu  que  vou  ser  seu  a - migo,
+                Am                   C7
+vou  lhe  dar  abrigo,  se  você  quiser
+    F                      A7/E                 Dm7
+quando  surgirem  seus  primeiros  raios  de  mulher
+   F             G/F         C/E           Am
+A  vida  se  abrirá   num  feroz  carros - sel
+     Dm7         Bb°         D7/A    G7/4(9)    G7
+e  você  vai  rasgar  meu  papel
+   C
+O  que  está  escrito  em  mim
+  Em7/B             Am                     C7
+comigo  ficará  guardado,  se  lhe  dá  prazer
+   F                        A7/E                            Dm7
+A  vida  segue  sempre  em  frente,  o  que  se  há  de  fa - zer
+
+    F          G/F       C/E         Am
+Só  peço  a  você  um  favor,  se  puder:
+           Dm7         G7         C     Fm/C     C     C/G
+não  me  esqueça  num  canto  qualquer   (2x)
+
+
+(versão 2)
+
+(intro) (C7+ Fm/C) G7/13
+
+    C                     G/B
+ Sou eu que vou seguir você
+               Am7             Gm7   C7
+Do primeiro rabisco até o bê-a-bá
+    F7+                C/E
+ Em todos os desenhos coloridos
+       Dm7  Dm/C
+ vou estar
+   F7+       G/F          C/E       Am7
+ A casa, a montanha, duas nuvens no céu
+
+    Dm7      Bbm6     Am6 Ab7  G7
+ E um sol a sorrir no papel
+      C                 G/B
+ Sou eu que vou ser seu colega
+
+                Am7           Gm7  C7
+ Seus problemas ajudar a resolver
+  F7+                      C/E
+ Sofrer também nas provas bimestrais
+         Dm7   Dm/C
+ junto à você
+  F7+        G/F       C/E    Am7
+ Serei sempre seu confidente fiel
+
+       Dm7       Bbm6      Am6 Ab7   G7
+ Se seu pranto molhar meu papel
+C                       G/B
+ Sou eu que vou ser seu amigo
+
+               Am7             Gm7   C7
+ Vou lhe dar abrigo se você quiser
+          F7+                    C/E
+ Quando surgirem seus primeiros raios
+
+      Dm7  Dm/C
+ de mulher
+ F7+           G/F      C/E       Am7
+ A vida se abrirá num feroz carrossel
+
+    Dm7       Bbm6      Am6   Ab7 G7
+ E você vai rasgar meu papel
+         C                     G/B
+ O que está escrito em mim, comigo
+
+           Am7                Gm7   C7
+ Ficará guardado se lhe dá prazer
+    F7+                 C/E
+ A vida segue sempre em frente,
+              Dm7     Dm/C
+ o que há de fazer
+    F7+     G/F       C/E      Am7
+ Só peço a você um favor, se puder
+
+         Dm7        G7         Ab7+
+ Não me esqueça num canto qualquer
+
+    Gb7+         Ab/Gb       Db/F    Bbm7
+ Só peço a você um favor, se puder
+     Ebm7          Ab7        Db7+
+ Não me esqueça num canto qualquer  (2x)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7/E = 0 X 2 2 2 3
+Ab/Gb = 2 X 1 1 1 X
+Ab7 = 4 6 4 5 4 4
+Ab7+ = 4 X 5 5 4 X
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Amadd9 = X 0 2 4 1 0
+B = X 2 4 4 4 2
+Bbm6 = 6 X 5 6 6 X
+Bbm7 = X 1 3 1 2 1
+Bb° = X 1 2 0 2 0
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C7 = X 3 2 3 1 X
+C7(13) = X 3 X 3 5 5
+C7+ = X 3 2 0 0 X
+C7/G = 3 X 2 3 1 X
+D = X X 0 2 3 2
+D7/A = 5 X 4 5 3 X
+Db/F = X 8 X 6 9 9
+Db7+ = X 4 6 5 6 4
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Ebm7 = X X 1 3 2 2
+Em = 0 2 2 0 0 0
+Em7/B = X 2 2 0 3 0
+F = 1 3 3 2 1 1
+F6 = 1 X 0 2 1 X
+F7+ = 1 X 2 2 1 X
+Fm/C = X 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+G7/13 = 3 X 3 4 5 X
+G7/4(9) = 3 X 3 2 1 X
+Gb7+ = 2 X 3 3 2 X
+Gm7 = 3 X 3 3 3 X

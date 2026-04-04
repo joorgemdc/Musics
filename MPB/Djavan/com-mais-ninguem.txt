@@ -1,0 +1,48 @@
+Djavan - Com Mais Ninguém
+
+[Intro]  F#m7  Fm6  Em7  F#m7  Fm6  Em7  A7(13-)
+
+A7(13-)    D7M9              Ab7/5-    Em9  Em7M              Em   Em7        Gm6
+Pode acreditar / Meu destino diz, meu bem / Que eu não serei feliz / Com mais ninguém
+             D7M9                Ab7/5-  Em9  Em7M               Em  Em7    A7(13)  A7(13-)
+Mesmo que o amor / Se alimente de ilusão   /   É melhor que sofrer / De solidão
+F#m7            B7/9-        Em7               Cm6   Am7      D9   Gm9
+Um amor pra crescer / Precisa ter / Como existir / Contido, retido
+          C7(sus4)  C7  F7M9   A9(sus4)  A7
+Em vez de luz,         obscuridade
+D7M                    F#º          Em7       C9     F/A      Fm6   Em9       A7(13)
+Se o que sinto / Não vai trazer / Você pra mim / Não há porque / Um céu assim
+            D7M9                Ab7/5-  Em9  Em7M
+Não dá pra dizer / Se no auge da ilusão
+             Em  Em7     Gm6            F#m7   Fm6
+O amor vai saber / O que fazer / Com a paixão
+
+[Final]  Em7  A13(b9)  F#m7  Fm6  Em7  A13(b9)
+
+----------------- Acordes -----------------
+A13(b9) = 5 X 4 3 5 X
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(13-) = X 0 X 0 2 1
+A9(sus4) = X 0 2 4 3 0
+Ab7/5- = 4 X 4 5 3 X
+Am7 = X 0 2 0 1 0
+B7/9- = X 2 1 2 1 X
+C7 = X 3 2 3 1 X
+C7(sus4) = X 3 3 3 1 X
+C9 = X 3 5 5 3 3
+Cm6 = X 3 X 2 4 3
+D7M = X X 0 2 2 2
+D7M9 = X 5 4 6 5 X
+D9 = X X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7M = X X 2 4 4 3
+Em9 = 0 2 4 0 0 0
+F#m7 = 2 X 2 2 2 X
+F#º = 2 X 1 2 1 X
+F/A = 5 X 3 5 6 X
+F7M9 = X 8 7 9 8 X
+Fm6 = 1 X 0 1 1 X
+Gm6 = 3 X 2 3 3 X
+Gm9 = 3 5 7 3 3 3

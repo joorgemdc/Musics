@@ -1,0 +1,65 @@
+Fagner - Cinza
+
+Intro:
+
+ Asus2 Am A/B        (2x)
+E|------0----------
+B|0--1--1--4--4-5-4
+G|2--2--2--4--4-4-4
+D|2--2--2--4--4-4-4
+A|0--0--0--0--0-0-0
+E|-----------------
+
+     Asus2 BbB5/A A    Asus2     A
+E|-----------------------------------
+B|---0--0--3--2--2-3-2------0--0--2--
+G|---2--3--3--2--2-2-2---2--3--2--2--
+D|---2--2--2--2--2-2-2---2--2--2--2--
+A|---0--0--0--0--000-----0--0--0--0--
+E|-----------------------------------
+
+
+Em                              A
+Jogue os meus olhos no azul do céu
+
+G                                A
+Jogue os meus dedos no clarão do mar
+
+C7M             B7                  G
+Jogue os meus cabelos na flor deste luar
+
+               C7M                     C#dim7
+E eu serei só música, me espalharei nas cinzas
+
+               Cdim7  D#dim7         F#dim7 Edim7
+E ficarei mais leve   pra      cantar
+
+                  C7M
+Serei feliz com a morte
+
+                C#dim7
+Que venha feito mansa
+
+                 Cdim7    D#dim7   F#dim7 Edim7
+Como vem mansa a última onda do mar
+
+Ponte:
+F#dim7  Edim7  F#dim7  Edim7  Cdim7  D#dim7  F#dim7  Edim7
+
+Solo:
+Am  A/B  BbB5/A  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+Am = X 0 2 2 1 0
+Asus2 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+C#dim7 = X 4 5 3 5 3
+C7M = X 3 2 0 0 X
+Cdim7 = X 3 4 2 4 2
+D#dim7 = X X 1 2 1 2
+Edim7 = X X 2 3 2 3
+Em = 0 2 2 0 0 0
+F#dim7 = 2 X 1 2 1 X
+G = 3 2 0 0 0 3

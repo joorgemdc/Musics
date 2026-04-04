@@ -1,0 +1,74 @@
+Chico Buarque - Atrás da Porta
+
+Intro: Am6/E  Em7(9)  Am6/E  Em7(9)  Am6/E
+
+Am7            Am/G          F#m7(b5)          B7(b5) B7      C7M(#11)
+Quando olhaste bem  nos olhos meus    E o teu olhar   era de adeus
+         C7(#11)      B7/4(9)            B7(b9)
+Juro que não     acreditei     Eu te estranhei
+           E7/4(9)   E7/4(b9)        E7(b9)       Am(7M) Am/G
+Me debrucei        so________bre teu corpo  E duvidei
+F#7/4        C7M(#11)  C7(#11)       B7/4(9)
+E   me arrastei       E        te arranhei
+        B7/4(b9)        B/A    Cadd9/G
+E me agarrei    nos teus   cabe___________los
+         C7M/G Am/G       F#m7(b5/9)
+Nos teus pelos         Teu pijama
+F#m7(b5)         B7/4(b9)      B7(b9)     Am6/E
+       Nos teus pés      Ao pé      da ca_____ma
+E7M      A7M             D#m7(b5/9)   D#m7(b5)     G#7(b9)            C#madd9    C#m7
+   Sem carinho, sem cober_________ta        No tapete  atrás da por________ta
+     F#7(9)     Am6/C  B7(b9)  E7/4(9)   E7/4(b9)     E7(b9)        Am(7M) Am/G
+Reclamei  baixi________nho     Dei    pra        maldizer   o nosso lar
+F#7/4          C7M(#11) C7(#11)     B7/4(9)
+Pra sujar teu nome,             te humilhar
+
+          B7/4(b9)      B/A     Cadd9  /Eb
+E me entregar     a qualquer pre___________ço
+      C7M/G Am/G      F#m7(b5/9)  F#m7(b5)
+Te adorando        pelo aves________so
+       B7/4(b9)         B/A      G7M(#5)  G6/D
+Pra mostrar    que 'inda   sou tu__________a
+F#m7(b5)          B7/4(b9)         B/A      G7M(#5)  G7(9) G7(b9)
+       Só pra provar     que 'inda   sou tu__________a
+C7M          B7/4(b9)         B7(b9)      Em(7M/9)  Em7(9)
+    Só pra provar     que 'inda      sou tu__________a
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Am(7M) = X 0 2 1 1 0
+Am/G = 3 X 2 2 1 X
+Am6/C = X 3 4 2 5 2
+Am6/E = X X 2 2 1 2
+Am7 = X 0 2 0 1 0
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+B7(b5) = X 2 3 2 4 X
+B7(b9) = X 2 1 2 1 X
+B7/4(9) = X 2 2 2 2 2
+B7/4(b9) = 4 X 4 3 1 1
+C#m7 = X 4 6 4 5 4
+C#madd9 = X 4 6 8 5 4
+C7(#11) = X 3 4 3 5 X
+C7M = X 3 2 0 0 X
+C7M(#11) = X 3 4 4 5 X
+C7M/G = 3 X 2 4 1 X
+Cadd9 = X 3 5 5 3 3
+Cadd9/G = 3 X 5 5 3 3
+D#m7(b5) = X X 1 2 2 2
+D#m7(b5/9) = X X 1 2 2 1
+E7(b9) = X X 2 1 3 1
+E7/4(9) = X X 2 2 3 2
+E7/4(b9) = X X 2 2 3 1
+E7M = X X 2 4 4 4
+Em(7M/9) = 0 X X 0 4 2
+Em7(9) = X 7 5 7 7 X
+F#7(9) = X X 4 3 5 4
+F#7/4 = 2 4 2 4 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F#m7(b5/9) = P2 3 6 2 X X
+G#7(b9) = 4 X 4 2 1 X
+G6/D = X 5 5 4 5 X
+G7(9) = 3 X 3 2 0 X
+G7(b9) = 3 X 3 1 0 X
+G7M(#5) = 3 X 4 4 4 X

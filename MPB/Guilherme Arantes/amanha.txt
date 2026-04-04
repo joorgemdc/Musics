@@ -1,0 +1,60 @@
+Guilherme Arantes - Amanhã
+
+Intro: C C4 Cm F G# Gm
+
+     C                C7M                  (Dm7 F7M)
+Amanhã será um lindo dia, da mais louca alegria
+                 G     (Dm7 F7M)      Bb
+Que se possa imaginar, amanhã redobrada a força
+                  G               F
+Pra cima que não cessa, há de vingar
+
+C                     C7M               (F7M ou Dm7)
+Amanhã mais nenhum mistério, acima do ilusório
+                    G   (F7M ou Dm7)    Bb
+O astro rei vai brilhar, amanhã a luminosidade
+                       G    F
+Alheia a qualquer vontade, há de imperar, há de imperar amanhã
+
+Interlúdio: C  Am7  D7/F#  D  D4add9  Bm7(b5) Csus4/G  C  F
+
+C                       C7M                (F7M ou Dm7)
+Amanhã está tudo esperança, por menor que pareça
+                G     (F7M ou Dm7)  Bb
+Existe é pra viscejar, amanhã apesar de hoje
+                    G               F
+Será estrada que surge, para se trilhar
+
+C                     C7M               (F7M ou Dm7)
+Amanhã mesmo que uns não queiram será de outros que esperam
+             G   (F7M ou Dm7)    Bb             G
+Ver o dia raiar, amanhã ódios aplacados temores abrandados
+       F      
+Será pleno, será pleno...
+
+Interlúdio: C  Am7  D7/F#  D  D4add9  Bm7(b5) Csus4/G  C  F
+                        
+E|---1----0-------------|
+B|---1----1----3----1---|        
+G|---2----2----2----2---|        
+D|---0****0----3****3---|              
+A|----------------------|           
+E|----------------------|
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C7M = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+Csus4/G = 3 3 5 5 6 3
+D = X X 0 2 3 2
+D7/F# = X X 4 5 3 5
+Dm7 = X 5 7 5 6 5
+F = 1 3 3 2 1 1
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3

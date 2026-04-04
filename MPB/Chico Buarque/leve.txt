@@ -1,0 +1,100 @@
+Chico Buarque - Leve
+
+Carlinhos Vergueiro / Chico Buarque
+
+[Intro:] D7M(9) D6(9) Dm7M(9) C#7(#9) B7(9)(11) F#m7(11) B7(9)(11) E7(9)(11)
+
+A/C#       F7M(9)/C
+Não me leve a mal
+      B7(b5)(13) Bb7(b5)(13) A7M A6
+Me leve à toa    pela última vez
+      Em7(9)  A7(b13)       Dm7(9) Dm6(9) C#7(#9)
+A um quiosque,       ao planetário
+       F#7(b13)/A#  B7(13) B7(b13)
+Ao cais do porto, ao paço
+
+Bm7      E9(#5) E/D    A/C#
+O meu coração, meu coração
+      F7M(9)/C    F7(9)/C        E7(#9) Fº
+Meu coração parece que perde um pedaço,
+ D7M(#5)/F# Eº G7M/D         F#7/C#    B7(9)
+Mas não             me leve a sério, passou este verão
+Bm7(b5)     Fm6 A7M/E  A6/E Eb7(#9)(#11)
+Outros passarão   eu passo
+
+
+D7M(9)      D6(9)
+Não se atire do terraço,
+Dm7M(9)    Dm6(9)    A7M A6 A7(13)    A7(b13)
+Não arranque minha cabeça     da sua cortiça
+D7M(9)        D6(9)
+Não beba muita cachaça,
+Bm7(b5)          Dm6/F     A7M A6 G#m7(11) C#7(b9)/F
+Não se esqueça depressa de mim,     sim?
+
+F#m                         C#7(b13)/F
+Pense que eu cheguei de leve
+                      A7M/E
+Machuquei você de leve
+                    Eb7(#9)(#11)
+E me retirei com pés de lã
+Am/C                     B7/D#
+Sei que o seu caminho amanhã
+       Bm7(b5)/F               E7(4) Dº
+Será um caminho bom, mas não me leve
+
+Não me leve a mal
+Me leve apenas para andar por aí
+Na lagoa, no cemitério
+Na areia, no mormaço
+
+A/C#   F7M(9)/C     F7(9)/C       E7(#9) Fº
+O meu coração parece que perde um pedaço,
+ D7M(#5)/F# Eº G7M/D         F#7/C#    B7(9)
+Mas não             me leve a sério, passou este verão
+Bm7(b5)     Fm6 A7M/E  A6/E Eb7(#9)(#11) D7M(9) D6(9) Dm7M(9) C#7(#9) A7M A6(9)
+Outros passarão   eu passo
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A6 = 5 X 4 6 5 X
+A6(9) = 5 4 4 4 X X
+A6/E = X X 2 2 2 2
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+A7M = X 0 2 1 2 0
+A7M/E = X X 2 2 2 4
+Am/C = X 3 2 2 5 X
+B7(13) = X 2 X 2 4 4
+B7(9) = X 2 1 2 2 X
+B7(9)(11) = X 2 2 2 2 2
+B7(b13) = X 2 X 2 4 3
+B7(b5)(13) = X 2 3 2 4 4
+B7/D# = X X 1 2 0 2
+Bb7(b5)(13) = X 1 2 1 3 3
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C#7(#9) = X 4 3 4 5 X
+D6(9) = X 5 4 2 0 0
+D7M(9) = X 5 4 6 5 X
+Dm6(9) = X 5 3 4 5 X
+Dm6/F = 1 X 0 2 0 X
+Dm7(9) = X 5 3 5 5 X
+Dm7M(9) = X 5 3 6 5 X
+Dº = X X 0 1 0 1
+E/D = X 5 X 4 5 4
+E7(#9) = X 7 6 7 8 X
+E7(4) = 0 2 0 2 0 X
+E7(9)(11) = X X 2 2 3 2
+E9(#5) = 0 X X 1 1 2
+Eb7(#9)(#11) = X 6 5 6 7 5
+Em7(9) = X 7 5 7 7 X
+Eº = X X 2 3 2 3
+F#7/C# = X 4 4 3 5 X
+F#m = 2 4 4 2 2 2
+F#m7(11) = 2 X 2 2 0 X
+F7M(9)/C = 8 7 5 5 6 5
+Fm6 = 1 X 0 1 1 X
+Fº = X X 3 4 3 4
+G#m7(11) = 4 X 4 4 2 X
+G7M/D = X 5 5 4 7 X

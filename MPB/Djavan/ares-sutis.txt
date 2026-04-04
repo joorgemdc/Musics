@@ -1,0 +1,101 @@
+Djavan - Ares Sutis
+
+Intro: A7(9)  Am7(9)  D7(9/13)
+
+       E7
+Quanto mais eu sei
+E7(b9)            Am7(9) F7(#11)
+Menos eu sei quem sou
+      E7
+Será que eu vivi
+E7(b9)         Am7(9) A7(9)
+Tudo porque passei
+        D7(9)           G7(9)
+E quem será que eu sou?
+C7(9)          B7/F#
+Mesmo podendo imaginar
+E7M         G°
+O que eu quiser
+F#m7              B7(9)
+Eu não sei se sou tanto!
+       E7
+Quanto mais eu sou
+E7(b9)           Am7(9) F7(#11)
+Menos sou o que sei
+
+       E7
+E pra o que nasci
+E7(b9)          Am7(9) A7(9)
+Será que cumprirei?
+        D7(9)      G7(9)
+O que será que eu sei
+C7(9)            F7(#11)
+Num corpo a mendigar
+     Bb7M
+Qual é a lei
+      Bm7(b5)  E7(#5)
+No desvão do amar?
+        Am7
+Me consumi
+           B7/D#
+Pra ter um pouco de ti
+Dm6            A7/C#
+Clamei por atenção!
+Gm7    C7(9)
+Jamais usei
+        Am7
+Sapatos tão peculiares
+  B7/F#                   Gm7
+Andei vestida por colares mis
+         Bbm7       Eb7(9)  F7M
+Violentei até  meus ares sutis!
+        E7
+E o que não tem fim
+E7(b9)       Am7(9) F7(#11)
+Começa outra vez:
+        E7
+Quanto mais eu sou
+E7(b9)            Am7(9) A7(9)
+Acho que mais eu sei
+          D7(9)     G7(9)
+O que vai ser, enfim
+C7(9)         F7(#11)
+Sedada de afeição
+         Bb7M
+Eu vou viver
+         Bm7(b5)  E7(#5)
+Pra esquecer de  mim
+
+repetir 4x: Dm7(9)  Em7(9)  Bbm6
+
+A música volta na parte "Quanto mais eu sou..."
+
+----------------- Acordes -----------------
+A7(9) = 5 X 5 4 2 X
+A7/C# = X 4 5 2 5 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B7(9) = X 2 1 2 2 X
+B7/D# = X X 1 2 0 2
+B7/F# = X X 4 4 4 5
+Bb7M = X 1 3 2 3 1
+Bbm6 = 6 X 5 6 6 X
+Bbm7 = X 1 3 1 2 1
+Bm7(b5) = X 2 3 2 3 X
+C7(9) = X 3 2 3 3 X
+D7(9) = X 5 4 5 5 X
+D7(9/13) = X 5 4 5 0 0
+Dm6 = X 5 X 4 6 5
+Dm7(9) = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7(#5) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+E7M = X X 2 4 4 4
+Eb7(9) = X 6 5 6 6 X
+Em7(9) = X 7 5 7 7 X
+F#m7 = 2 X 2 2 2 X
+F7(#11) = 1 X 1 2 0 X
+F7M = 1 X 2 2 1 X
+G7(9) = 3 X 3 2 0 X
+Gm7 = 3 X 3 3 3 X
+G° = 3 X 2 3 2 X

@@ -1,0 +1,61 @@
+Maria Bethânia - Amor Amor
+
+(intro 2x)
+
+E|--------------------------------------------|
+B|--------------------------------------------|
+G|------2---4---2----- -2---4---2-------------|
+D|----2---2---2---2---3---3---3---3-----------|
+A|--0---------------0-------------------------|
+E|--------------------------------------------|
+
+         A7+
+Quando o mar
+         A7             D/F#
+Quando o mar tem mais segredo
+       Dm/F          A7+
+Não é quando ele se agita
+      A#º            D7+
+Nem é quando é tempestade
+      F6            A7+
+Nem é quando é ventania
+         A#º            D/F#
+Quando o mar tem mais segredo
+
+         Dm/F    A7+
+É quando é calmaria.
+
+(intro 2x)
+
+          Am
+Quando o amor
+          Am/G           Dm7
+Quando o amor tem mais perigo
+       Dm7/C          Dm
+Não é quando ele se arrisca
+      Dm7             Em7/5-
+Nem é quando ele se ausenta
+           Gm6        D/F#
+Nem quando eu me desespero
+  Fm6             F#m7/5-
+O amor tem mais perigo
+       F6       A7+
+Quando ele é sincero.
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+D/F# = 2 X 0 2 3 2
+D7+ = X X 0 2 2 2
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/C = X 3 0 2 1 1
+Em7/5- = X X 2 3 3 3
+F#m7/5- = 2 X 2 2 1 X
+F6 = 1 X 0 2 1 X
+Fm6 = 1 X 0 1 1 X
+Gm6 = 3 X 2 3 3 X

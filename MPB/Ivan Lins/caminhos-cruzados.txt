@@ -1,0 +1,75 @@
+Ivan Lins - Caminhos Cruzados
+
+( Tom Jobim / Newton Mendonça )
+
+
+[Intro:] C7M(9)
+
+           C7(9)(11)    C/Bb F7M/A      Fm6/Ab C7M(9)
+Quando um coração que está cansado de sofrer
+                C/Bb         F7M/A      Fm6/Ab Am7(9)
+Encontra um coração também cansado de sofrer
+   B7(b13)       Bb6 A7(b13)
+É tempo de se pensar,
+     Em7(b5) A7(b5) A7 Dm7(9)/E     Fm6 C7M(9)
+Que o amor... pode de repente chegar
+
+        C/Bb                F7M/A         Fm6/Ab C7M(9)
+Quando existe alguém que tem saudade de alguém
+                C#º          Bm7 E7(9)(#11) E7(b9) F7M
+E esse outro alguém não entender
+   F#m7(b5) B7(b13) E7M   C#m7(9) Bbm6
+Dei...xe esse novo amor chegar,
+          F#m7(b5) Bbm6      F#m7(b5)   Fm6 C7M(9)
+Mesmo que depois seja imprescindível chorar
+
+         C7(9)(11) C/Bb      F7M/A      Fm6/Ab C7M(9)
+Que tolo fui eu que em vão tentei raciocinar
+               C/Bb           F7M/A    C7(9)(11) C7(9) F7M
+Nas coisas do amor que ninguém pode explicar
+F#m7(b5)              C/G Bb6
+Vem nós dois vamos tentar,
+           G7(13)        C7M(9)
+Só um novo amor pode a saudade apagar
+
+Solo: C#m7(11) F#m7 B7(4) B7 E7M E6 A7M
+      Bbm7(b5) Eb7(b9) Ebm7(b5) Ab7(b9) C#7M C#7(b9) C7M(9)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+A7(b5) = X 0 1 0 2 X
+A7M = X 0 2 1 2 0
+Ab7(b9) = 4 X 4 2 1 X
+Am7(9) = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+B7(b13) = X 2 X 2 4 3
+Bb6 = X 1 3 0 3 X
+Bbm6 = 6 X 5 6 6 X
+Bbm7(b5) = X 1 2 1 2 X
+Bm7 = X 2 4 2 3 2
+C#7(b9) = X 4 3 4 3 X
+C#7M = X 4 6 5 6 4
+C#m7(11) = X 4 4 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C#º = X 4 5 3 5 3
+C/Bb = X 1 2 0 1 X
+C/G = 3 3 2 X 1 X
+C7(9) = X 3 2 3 3 X
+C7(9)(11) = X 3 3 3 3 3
+C7M(9) = X 3 2 4 3 X
+E6 = X X 2 4 2 4
+E7(9)(#11) = X X 2 3 3 2
+E7(b9) = X X 2 1 3 1
+E7M = X X 2 4 4 4
+Eb7(b9) = X 6 5 6 5 X
+Ebm7(b5) = X X 1 2 2 2
+Em7(b5) = X X 2 3 3 3
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+F7M/A = 5 X 3 5 5 X
+Fm6 = 1 X 0 1 1 X
+Fm6/Ab = 4 5 3 5 3 X
+G7(13) = 3 X 3 4 5 X

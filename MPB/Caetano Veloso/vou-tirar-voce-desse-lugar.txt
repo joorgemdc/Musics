@@ -1,0 +1,71 @@
+Caetano Veloso - Vou Tirar Você Desse Lugar
+
+(intro 4x) D D4
+
+D                        Bm
+ Olha, a primeira vez que eu estive aqui
+                    B7
+ Foi só pra me distrair
+                 Em
+ Eu vim em busca do amor
+ G    A7                      F#m
+ Olha,  foi então que eu lhe conheci
+ Bm                G
+ Naquela noite fria
+           Em                     A7
+ Em seus braços meus problemas esqueci
+ D                       Bm
+ Olha, a segunda vez que eu estive aqui
+                     B7
+ Já não foi pra distrair
+                  Em
+ Eu senti saudade de você
+ G    A7                    F#m
+ Olha,  eu precisei do seu carinho
+
+ Bm                   G
+   Pois eu me sentia tão sozinho
+           Em             A7
+ Já não podia mais lhe esquecer
+           G    A7          F#m
+ Eu vou tirar você desse lugar
+           Bm             G
+ Eu vou levar você pra ficar comigo
+            Em                    A7
+ E não interessa o que os outros vão pensar
+           G    A7          F#m
+ Eu vou tirar você desse lugar
+           Bm             G
+ Eu vou levar você pra ficar comigo
+            Em                    A7
+ E não interessa o que os outros vão pensar
+     D                Bm
+ Eu sei que você tem medo de não dar certo
+                                       B7
+ Pensa que o passado vai estar sempre perto
+                             Em
+ E que um dia eu posso me arrepender
+      G  A7                    F#m
+ Eu quero  que você não pense nada triste
+ Bm                     G
+ Pois quando o amor existe
+       Em                 A7
+ Não existe tempo pra sofrer
+           G    A7          F#m
+ Eu vou tirar você desse lugar
+           Bm             G
+ Eu vou levar você pra ficar comigo
+            Em                    A7
+ E não interessa o que os outros vão pensar
+           G    A7          F#m
+ Eu vou tirar você desse lugar...
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

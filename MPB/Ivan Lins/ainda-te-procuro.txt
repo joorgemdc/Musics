@@ -1,0 +1,102 @@
+Ivan Lins - Ainda te Procuro
+
+[Intro]  C#m7(11)  A6/9  B  F#add9
+ 
+C#m7            A6/9(#11)
+Eu ainda te procuro 
+     G#7(b13)   C#m7(9/11)
+No claro, no escuro 
+F#7/4(9/13)    F#7(9/13)  A7M(9)/C#   B7(9/13)
+Nos lugares seguros ou não 
+ 
+C#m7            A6/9(#11)
+Eu ainda te procuro 
+    G#7(b13) C#m7(9/11)
+Com olhos de águia 
+      F#7/4(9/13) F#7(9/13)     A7M(9)/C#    B7(9/13)
+Com o faro       agudo   de   cão 
+ 
+D#m7(b5)        G#7
+Eu ainda te procuro 
+        C#m(7M/9)  C#m7(9) Bm7(11)  E7(9/13)
+De uma forma      sobre-humana 
+     A#m7(11)    D#7(b9/b13)
+Nas cartas da cigana 
+         G#m7(9)
+Ainda estás nas minhas mãos 
+ 
+        F#m7(9)      B7(13)  B7         E7/4(9)  E7(9)/G#  A7/4(9/13)  D#m7(b5)
+E uma chance destas não se perde assim 
+     D#m7(11)       G#7(b9)    (C#m7(11) / A6/9 B)
+Já é hora de eu gostar mais de mim 
+ 
+C#m7            A6/9(#11)
+Eu ainda te procuro 
+        G#7(b13)   C#m7(9/11)
+Porque és a minha cara 
+    F#7/4(9/13)   F#7(9/13)     A7M(9)/C#    B7(9/13)
+Um bem que não cortei pela raiz 
+ 
+    C#m7        A6/9(#11)
+Eu ainda te procuro 
+       G#7(b13)    C#m7(9/11)
+Pelo amor, pelo futuro 
+     F#7/4(9/13)   F#7(9/13)     A7M(9)/C#  B7(9/13)          (C#m7(11) / A6/9 B)
+Me recuso   a desistir de ser feliz                 de ser feliz
+
+D#m7(b5)        G#7
+Eu ainda te procuro 
+        C#m(7M/9)  C#m7(9) Bm7(11)  E7(9/13)
+De uma forma      sobre-humana 
+     A#m7(11)    D#7(b9/b13)
+Nas cartas da cigana 
+         G#m7(9)
+Ainda estás nas minhas mãos 
+ 
+        F#m7(9)      B7(13)  B7         E7/4(9)  E7(9)/G#  A7/4(9/13)  D#m7(b5)
+E uma chance destas não se perde assim 
+     D#m7(11)       G#7(b9)    (C#m7(11) / A6/9 B)
+Já é hora de eu gostar mais de mim 
+ 
+C#m7            A6/9(#11)
+Eu ainda te procuro 
+        G#7(b13)   C#m7(9/11)
+Porque és a minha cara 
+    F#7/4(9/13)   F#7(9/13)     A7M(9)/C#    B7(9/13)
+Um bem que não cortei pela raiz 
+ 
+    C#m7        A6/9(#11)
+Eu ainda te procuro 
+       G#7(b13)    C#m7(9/11)
+Pelo amor, pelo futuro 
+     F#7/4(9/13)   F#7(9/13)     A7M(9)/C#  B7(9/13)          (C#m7(11) / A6/9 B)     F#
+Me recuso   a desistir de ser feliz                 de ser feliz
+
+----------------- Acordes -----------------
+A#m7(11) = 6 X 6 6 4 X
+A6/9 = 5 4 4 4 X X
+A7/4(9/13) = X 0 0 0 0 2
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7(13) = X 2 X 2 4 4
+B7(9/13) = 7 X 7 6 4 4
+Bm7(11) = 7 X 7 7 5 X
+C#m(7M/9) = X 4 2 5 4 X
+C#m7 = X 4 6 4 5 4
+C#m7(11) = X 4 4 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C#m7(9/11) = X 4 2 4 4 2
+D#7(b9/b13) = X 6 5 6 5 7
+D#m7(11) = X 6 6 6 7 6
+D#m7(b5) = X X 1 2 2 2
+E7(9/13) = 0 X 0 1 2 2
+E7/4(9) = X X 2 2 3 2
+F# = 2 4 4 3 2 2
+F#7(9/13) = 2 X 2 3 4 4
+F#7/4(9/13) = X 9 9 9 9 11
+F#add9 = 2 4 6 3 2 2
+F#m7(9) = X X 4 2 5 4
+G#7 = 4 6 4 5 4 4
+G#7(b13) = 4 X 4 5 5 4
+G#7(b9) = 4 X 4 2 1 X
+G#m7(9) = X X 6 4 7 6

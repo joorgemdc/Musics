@@ -1,0 +1,73 @@
+Ivan Lins - Depende de Nós
+
+( Ivan Lins / Vítor Martins )
+
+[Intro:] D7M(9) G/A
+
+          D7M(9)
+Depende de nós
+        G/A             D7M(9)
+Quem já foi ou ainda é criança
+        G/A            D7M(9)
+Que acredita ou tem esperança
+       Dbm7(b5)    F#7(b13)   Bm7 G/A
+Quem faz tudo pra um mundo melhor
+
+Depende de nós
+Que o circo esteja armado
+Que o palhaço esteja engraçado
+   Dbm7(b5) F#7(b13) Bm7
+Que o riso esteja no ar
+          D/E     E7(9)    A7M Bbm7(b5) Eb7(b9) Ab7M
+Sem que a gente precise sonhar
+
+             F#/Ab             Ab7M
+Que os ventos cantem nos galhos
+             F#/Ab          Cm7(b5)
+Que as folhas bebam orvalhos
+       F7     Bb7(4) Bb7   Db/Eb Eb7  Ab7M F#/Ab
+Que o sol descorti...ne mais as ma...nhãs
+
+           Db7M
+Depende de nós
+       F#/Ab            Db7M
+Se este mundo ainda tem jeito
+  F#/Ab                   Db7M
+Apesar do que o homem tem feito
+    F#/Ab          Db7M F#/Ab D7M G/A
+Se a vida sobreviverá
+
+           Db7M
+Depende de nós
+       F#/Ab            Db7M
+Se este mundo ainda tem jeito
+  F#/Ab                   Db7M
+Apesar do que o homem tem feito
+   Cm7(b5) F7(b13) Bbm7 G/A
+Se a vida sobreviverá
+
+Solo: D7M(9) G/A D7M(9) G/A D7M(9) Dbm7(b5) F#7(b13) Bm7 G/A
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Ab7M = 4 X 5 5 4 X
+Bb7 = X 1 3 1 3 1
+Bb7(4) = X 1 3 1 4 1
+Bbm7 = X 1 3 1 2 1
+Bbm7(b5) = X 1 2 1 2 X
+Bm7 = X 2 4 2 3 2
+Cm7(b5) = X 3 4 3 4 X
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+Db/Eb = 11 X 11 10 9 X
+Db7M = X 4 6 5 6 4
+Dbm7(b5) = X 4 5 4 5 X
+E7(9) = X X 2 1 3 2
+Eb7 = X 6 5 6 4 X
+Eb7(b9) = X 6 5 6 5 X
+F#/Ab = 4 X 4 3 2 X
+F#7(b13) = 2 X 2 3 3 2
+F7 = 1 3 1 2 1 1
+F7(b13) = 1 X 1 2 2 1
+G/A = 5 X 5 4 3 X

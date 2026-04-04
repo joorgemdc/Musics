@@ -1,0 +1,96 @@
+Djavan - Não Deu
+
+     Em7(9)   F#m7  Bb7(9)       Em7(9)      Gm6
+Eu sonhei   viver          com você    assim tudo até o fim
+D7M(9)      Em7(9)         F#m7  Bb7(9)      Em7(9)
+       E no frio   te proteger          e te ver    dormir
+   C#m7(b5)       F#7(b13)   F7M            F#m7(b5)   B7(b13)
+E ali       ficar          vivendo pra você melhor   viver
+
+Em(7M/9)                Em7(9)*                Em6(9)   Em(#5/add9)
+         De Deus usar a mão     te puxar pra lugar    seguro
+Em(7M/9)                 Em7(9)*        Em6(9)            Em(#5/add9)
+         Sempre que precisar     estar aqui    pra te atender
+Am(7M)                    Am7                 Am6       Am7  D7(9)
+       Te ouvir, te aconselhar, discutir te livrar do escuro
+      G7M        G6  Em7(9)         A7(9)       D7M(9)
+De um mundo real     mas,   não deu que   mau...
+
+     Em7(9)   F#m7  Bb7(9)       Em7(9)       Gm6            D7M(9)
+Eu sonhei   viver          com você     assim dedicado a mim
+   Em7(9)         F#m7  Bb7(9)        Em7(9)         Am7       D7(9)
+De tudo   me proteger          pra me ver    feliz a te agradar
+
+
+G7M                          Gm6        F#m7         C#7/G#
+    Contando estórias pra te ver sorrir distrair, pensar    no bem
+G7M                     Gm6         F#m7         C#7/G#
+    E ver a luz da vida se  acender no  amor dos braços teus
+G7M              Gm6 / F#m7 / C#7/G# / G7M / Gm6 / F#m7 / C#7/G# / G7M
+Mas, não deu...
+
+ / Gm6 / F#m7 / C#7/G# / G7M / Gm6 / F#m7 / C#7/G# / G7M / Gm6 / F#m7 /
+
+C#7/G# / G7M / Gm6 / F#m7 / C#7/G# / G7M / Gm6 / F#m7 / C#7/G# / D7M(9)
+
+
+  Em7(9)      F#m7      Bb7(9)       Gm6      D7M(9)    C#m7(b5)
+
+  ||||||     ||||||  3ª ||||1|     ||||||  4ª ||1|||     ||||||
+  |1||||     1|234|     ||||||     ||1|||     |2||3|     ||||||
+  ||||2|     ||||||     |||2||     2||34|     |||4||     ||||||
+  ||3|||     ||||||     3|4|||     ||||||     ||||||     |1|2||
+  ||||||     ||||||     ||||||     ||||||     ||||||     ||3|4|
+  O ooo      O ooo      O ooo      O ooo       Oooo       Oooo
+
+
+ F#7(b13)      F7M     F#m7(b5)    B7(b13)   Em(7M/9)    Em7(9)*
+
+  ||||||     1|||2|     ||||1|     ||||||  5ª ||1|||  5ª ||1|||
+  1|2|||     ||34||     2|34||     |<----     ||||||     ||||||
+  |||34|     ||||||     ||||||     |||||3     |2||3|     |2|34|
+  ||||||     ||||||     ||||||     ||||4|     |||4||     ||||||
+  ||||||     ||||||     ||||||     ||||||     ||||||     ||||||
+  O ooo      O ooo      O ooo       O ooo      Oooo       Oooo
+
+
+        Em6(9)  Em(#5/add9)   Am(7M)       Am7        Am6
+
+     5ª ||1|||  5ª ||<---  5ª 1||23|     ||||||     ||||||
+        |||2||     ||||||     ||4|||     ||||||     ||||||
+        |3||4|     |3||4|     ||||||     ||||||     ||||||
+        ||||||     ||||||     ||||||     ||||||     ||1|||
+        ||||||     ||||||     ||||||     1|234|     2||34|
+
+
+
+         D7(9)       G7M        G6        A7(9)     C#7/G#
+
+        ||||||     ||||||     ||||||     ||||||     ||||||
+        ||||||     ||||||     ||1|||     ||||1|     ||||1|
+        ||||||     1|||2|     2|||3|     ||||||     ||2|||
+        ||1|||     ||34||     |||4||     |||3||     3||4||
+        |2|34|     ||||||     ||||||     ||4|||     ||||||
+
+
+----------------- Acordes -----------------
+A7(9) = 5 X 5 4 2 X
+Am(7M) = X 0 2 1 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B7(b13) = X 2 X 2 4 3
+Bb7(9) = X 1 0 1 1 X
+C#7/G# = 4 X 3 4 2 X
+C#m7(b5) = X 4 5 4 5 X
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+Em(7M/9) = 0 X X 0 4 2
+Em6(9) = X X 2 0 2 2
+Em7(9) = X 7 5 7 7 X
+F#7(b13) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

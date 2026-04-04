@@ -1,0 +1,102 @@
+Ivan Lins - Acaso
+
+( Ivan Lins / Abel Silva )
+
+
+[Intro:] D7M/F# Dm/F Dm7M/F Dm6/F E4/F# F#m6(9)
+
+Bm7(9)(11)                  D/E E/D
+Não sei se o acaso quis brincar
+ F#m7(9)                  F#m6(9) Bm7
+Ou foi a vida que escolheu
+                  D/E E7(9)
+Por ironia fez cruzar
+      F#m7(9)          F#m6(9)
+O meu caminho com o seu
+
+Eu nem queria mais sofrer
+A agonia da paixão
+Nem tinha mais o que esquecer
+Vivia em paz, na solidão
+
+            D7M/F#           F/G G7(9)
+Mas foi te encontrar e o futuro
+  A7M/C#             F#7(b13) F#7
+Chegou como um pressentimen...to
+   B7(9)    B7(9)(11)          B7(9)(#11) B7
+Meus olhos brilharam, brilharam
+       D/E         E7(9)/G# Fº
+No escuro da emoção
+
+Bm7(9)(11)                  D/E E/D
+Não sei se o acaso quis brincar
+       F#m7(9)            F#m6(9) Bm7
+Ou foi a vida que escolheu
+                  D/E E7(9)
+Por ironia fez cruzar
+      F7M(#11)      A7M
+O seu caminho com o meu
+
+Solo: Bm7(9)(11) D7M(9)/E Dm7(9)/C C#m7(11) F#m7(9) F#m7M(9)
+      Bm7 D/E E7(9) F#m7(9) F#m6(9)
+
+Bm7(9)(11)                  D/E E/D
+Não sei se o acaso quis brincar
+       F#m7(9)            F#m6(9) Bm7
+Ou foi a vida que escolheu
+                  D/E E7(9)
+Por ironia fez cruzar
+      F7M F7M(#11)  A7M F#7(b13) B7(9)
+O seu caminho com o meu
+                  D/E
+Por ironia fez cruzar
+      F7M(#11)    F#m7(9)
+O seu caminho com o meu
+
+
+Acordes:
+========
+
+Dm/F=1x023x
+Dm7M/F=1x022x
+Dm6/F=1x020x
+E4/F#=202200
+D7M/F#=2x022x
+A7M/C#=x4x254
+B7(9)(#11)=7x766x
+E7(9)/G#=4x677x
+Bm7(9)(11)=757655
+D7M(9)/E=x7765x
+Dm7(9)/C=x3355x
+F#m7M(9)=xx4264
+F#m6(9)=xx4244
+F7M(#11)=1x2200
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+A7M/C# = X 4 X 2 5 4
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+B7(9)(#11) = X 2 1 2 2 1
+B7(9)(11) = X 2 2 2 2 2
+Bm7 = X 2 4 2 3 2
+Bm7(9)(11) = X 2 0 2 2 0
+C#m7(11) = X 4 4 4 5 4
+D/E = X X 2 2 3 2
+D7M/F# = 2 X 0 2 2 2
+Dm/F = X X 3 2 3 1
+Dm6/F = 1 X 0 2 0 X
+Dm7M/F = 1 4 X 2 3 1
+E/D = X 5 X 4 5 4
+E4/F# = X X 4 4 5 4
+E7(9) = X X 2 1 3 2
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#m6(9) = X X 4 2 4 4
+F#m7(9) = X X 4 2 5 4
+F#m7M(9) = 2 0 3 1 X X
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+F7M(#11) = 1 X X 2 0 0
+Fº = X X 3 4 3 4
+G7(9) = 3 X 3 2 0 X

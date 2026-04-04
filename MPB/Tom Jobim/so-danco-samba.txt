@@ -1,0 +1,50 @@
+Tom Jobim - Só Danço Samba
+
+   C6/9               F7(9)
+Só danço samba, só danço samba
+D7(9)
+      Vai vai vai vai vai
+   Dm7(9)                 G7(#5)     C6/9  F7(9)
+Só danço samba, só danço samba  vai
+   C6/9               F7(9)
+Só danço samba, só danço samba
+D7(9)
+      Vai vai vai vai vai
+   Dm7(9)                 G7(#5)     C6/9
+Só danço samba, só danço samba  vai
+
+Gm7          C7(9)              F7M  F6
+Já dancei o twist       até demais
+ Am7          D7(9)
+Mas, não sei, me cansei
+      Dm7(9)     A7   Dm7  G7(b9)
+Do calipso ou chá-chá-chá
+
+Solo.:D7M/9 Eb7M/9 D7M/9 Eb7M/9 E7/9 Eb7M/9
+
+
+   C6/9               F7(9)
+Só danço samba, só danço samba
+D7(9)
+      Vai vai vai vai vai
+   Dm7(9)                 G7(#5) G7(b13) C6/9
+Só danço samba, só danço samba           vai
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C6/9 = X 3 2 2 3 3
+C7(9) = X 3 2 3 3 X
+D7(9) = X 5 4 5 5 X
+D7M/9 = X 5 4 6 5 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+E7/9 = X X 2 1 3 2
+Eb7M/9 = X 6 5 7 6 X
+F6 = 1 X 0 2 1 X
+F7(9) = X X 3 2 4 3
+F7M = 1 X 2 2 1 X
+G7(#5) = 3 X 3 4 4 3
+G7(b13) = 3 X 3 4 4 3
+G7(b9) = 3 X 3 1 0 X
+Gm7 = 3 X 3 3 3 X

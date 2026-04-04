@@ -1,0 +1,80 @@
+Zélia Duncan - Bom Pra Você
+
+intro: Aadd9 : B (s/3ª) : Dadd9:E
+
+Aadd9        B (s/3ª)
+Faça o que é bom
+Dadd9       E
+Sinta o que é bom
+Aadd9        B (s/3ª)
+Pense o que é bom
+Dadd9     E
+Bom pra você!
+Aadd9       B (s/3ª)
+Coma o que é bom
+Dadd9        E
+Veja o que é bom
+Aadd9         B (s/3ª)
+Volte ao que é bom
+Dadd9    E
+Bom pra você!
+Dadd9           Aadd9
+Guarda pro final
+C#7(#9)    F#madd11/C#    Dadd9
+Aquele sabor genial
+         Aadd9    B (s/3ª)    Dadd9    E
+Se é genial pra você!
+Aadd9        B (s/3ª)
+Tente o que é bom
+Dadd9          E
+Permita o que é bom
+Aadd9            B (s/3ª)
+Descubra o que é bom
+Dadd9     E
+Bom pra você!
+       Aadd9        B (s/3ª)
+Então beije o que é bom
+Dadd9         E
+Mostre o que é bom
+Aadd9          B (s/3ª)
+Excite o que é bom
+Dadd9     E
+Bom pra você!
+Dadd9    Aadd9
+Um dia você me conta
+C#7(#9)  F#madd11/C#  Dadd9
+Um dia você me apronta 
+    Bm/F#
+Um resumo
+        Dm6/A           Aadd9
+Do supra-sumo do seu prazer
+    Bm/F#
+Um resumo
+        Dm6/A
+Do supra-sumo do seu prazer
+
+B : C#m : E : F#
+B : C#m : E : F#
+
+B
+Pese o que é bom
+ C#m
+Perceba o que é bom
+ E               F#
+Decida o que é bom
+     Aadd9 : B (s/3ª) : Dadd9
+Pra você
+ E                                Aadd9
+Decida o que é bom pra você...
+
+----------------- Acordes -----------------
+Aadd9 = X 0 2 2 0 0
+B = X 2 4 4 4 2
+Bm/F# = X X 4 4 3 2
+C#7(#9) = X 4 3 4 5 X
+C#m = X 4 6 6 5 4
+Dadd9 = X X 0 2 3 0
+Dm6/A = X X 7 7 6 7
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#madd11/C# = 9 9 9 11 10 9

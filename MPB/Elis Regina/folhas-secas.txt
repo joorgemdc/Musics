@@ -1,0 +1,81 @@
+Elis Regina - Folhas Secas
+
+[Intro] G
+
+G7M         G6           F7/13  E7/9-
+ Quando eu piso em folhas se____cas
+Am7               D#7/9  D7/9
+ Caídas de uma mangue____ira
+Am7               D4/7/9  C7/9
+ Penso na minha esco______la
+Bm7     E7/9     Am7     D4/7/9     G7M
+ E nos poetas da minha Estação Primeira
+G6              F7/13  E7/9-
+ Não sei quantas ve____zes
+Am7              D#7/9   D7/9
+ Subi o morro cantan_____do
+Am7                   D4/7/9  C7/9
+ Sempre o sol me queiman______do
+G7M/D    D4/7/9     G7M  G6
+ E assim vou me acabando
+C#m7/5- F#7/11+  Bm7
+ Quando  o      tempo avisar
+Bm7/5-  E7/9-  Am7
+ Que eu   não posso mais cantar
+
+Cm7  F4/7/9     Bm7    Em7/9
+ Sei que vou sentir saudade,
+    A7/13          A7/13-
+ Ao lado do meu violão,
+  Am7/5-       D7
+ Da minha mocidade
+G7M         G6           F7/13   E7/9-
+ Quando eu piso em folhas se_____cas
+Am7                 D#7/9   D7/9
+ Caídas de uma mangue_______ira
+Am7               D4/7/9  C7/9
+ Penso na minha esco______la
+Bm7     E7/9     Am7     D4/7/9    G7M
+ E nos poetas da minha Estação Primeira
+G6              F7/13  E7/9-
+ Não sei quantas ve____zes
+Am7              D#7/9  D7/9
+ Subi o morro cantan_____do
+Am7                  D4/7/9 C7/9
+ Sempre o sol me queiman_____do
+G7M/D   D4/7/9      G7M  C#7/9
+ E assim vou me acabando
+
+[Solo] C7M  C#m7/5-  F#7/13-  F7/13
+       E7  D#7M  D7/9+  G7M  C#7/9
+
+----------------- Acordes -----------------
+A7/13 = X 0 X 0 2 2
+A7/13- = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Am7/5- = 5 X 5 5 4 X
+Bm7 = X 2 4 2 3 2
+Bm7/5- = X 2 3 2 3 X
+C#7/9 = X 4 3 4 4 X
+C#m7/5- = X 4 5 4 5 X
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+Cm7 = X 3 5 3 4 3
+D#7/9 = X 6 5 6 6 X
+D#7M = X X 1 3 3 3
+D4/7/9 = X 5 5 5 5 5
+D7 = X X 0 2 1 2
+D7/9 = X 5 4 5 5 X
+D7/9+ = X 5 4 5 6 X
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+E7/9- = X X 2 1 3 1
+Em7/9 = X 7 5 7 7 X
+F#7/11+ = 2 X 2 3 1 X
+F#7/13- = 2 X 2 3 3 2
+F4/7/9 = X X 3 3 4 3
+F7/13 = 1 X 1 2 3 X
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+G7M/D = X 5 5 4 7 X

@@ -1,0 +1,31 @@
+Tom Jobim - Cai a Tarde
+
+F#7/4(9)    F#7(9)
+Tarde cai a tarde
+    F#m7(9)                 F#7/4(9) F#(b5/b9)
+E a sombra vem andando pelo chão
+F#7/4(9)    F#7(9)
+Tarde cai a tarde
+       F#m7(9)
+E a saudade
+                  F#7/4(9) F#7(b5/b9)
+Também cai no coração
+
+      B7M
+Folha seca você já carregou
+       Bm7               E7(9)
+Então leve a saudade que ficou
+F#7/4(9)    F#7(9)
+Tarde cai a tarde
+      F#m7(9)                   F#7/4(9) F#7(b5/b9) C#m7(9)
+Cai o pranto dos meus olhos sem amor
+
+----------------- Acordes -----------------
+B7M = X 2 4 3 4 2
+Bm7 = X 2 4 2 3 2
+C#m7(9) = X 4 2 4 4 X
+E7(9) = X X 2 1 3 2
+F#(b5/b9) = X 9 8 11 8 8
+F#7(9) = X X 4 3 5 4
+F#7/4(9) = 2 X 2 1 0 X
+F#m7(9) = X X 4 2 5 4

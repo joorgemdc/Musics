@@ -1,0 +1,113 @@
+Chico Buarque - A Mais Bonita
+
+(De: Chico Buarque)
+
+Bb7M(9)    Bb7(9)     Ebm6   Ab7(13)       Am6   Fm6/Ab G7/4 G7
+Não,   solidão,  hoje não quero     me retocar
+Gm7     Gm6       Bbm6          A7(b13)   Dm7/A          Fm6/Ab G7(b13) G7(13)
+Nesse salão de tristeza onde as outras penteiam mágoas
+Eb(add9)/Bb          Eb7M(9)/Bb                 A7/4  A7
+Dei________xo que as á_________guas invadam meu ros___to
+Dm7/A                   Db(add9)/Ab Db7M(9)/Ab G7
+     Gosto de me ver chorar
+Eb/G      G7(b13)         Ab7M        Ab7(#11)   Am7       Ab7M Ab7(#11) F7/A
+    Finjo que    estão me vendo Eu preci______so me mostrar
+  Bb6  Dm7(b5) Ebm7/9             Ab7/4(9)       Db7M(9) Db/Cb Gb6/Bb
+Bonita         Pra   que os olhos do      meu bem
+          A°          Fm6/Ab G7 Cm7(9)             Ab7    Db7M(9) G7(b13)
+Não olhem mais ninguém                Quando eu me revelar
+Cm7(9)         F7(b13)      Em7(b5) D7/F#
+      Da forma mais   bonita
+Eb7M(9)      F7(b9)  Gm6 Am6   Gb7M/Bb        Ab7(13)       Db7M/Ab Abm6
+Pra    saber como  levar todos os     desejos que    ele tem
+Gb7M          F7(b13)  Bb6/9 Bb/Ab
+Ao  me ver passar    bonita
+
+Eb6/G       Ebm6/Gb D7/F#             G7
+Hoje eu arrasei          na casa de espelhos
+  Cm7(9)        Ebm6     Dm7       Gm7       C7(9)    F7/4       Bb6/9
+Espalho os meus rostos e finjo que finjo que finjo Que    não sei
+
+Bb/Ab / Eb6/G / Ebm6/Gb / Bb6(9)/F
+
+ACORDES:
+
+Bb7M(9)     - X1021X
+Bb7(9)      - X1011X     Dm7(b5)  - X5656X
+Ebm6        - XX1312     Ebm7(9)  - X6466X
+Ab7(13)     - 4X456X     Ab7/4(9) - 4X432X
+Am6         - 5X455X     Db7M(9)  - X4354X
+Fm6/Ab      - 4X353X     Db/Cb    - X2312X
+G7/4        - 3X353X     Gb6/Bb   - 6X464X
+G7          - 3X343X     Aº       - 5X454X
+Gm7         - 3X333X     Cm7(9)   - X3133X
+Gm6         - 3X233X     Ab7      - 4X454X
+Bbm6        - 6X566X     F7(b13)  - 1X122X
+A7(b13)     - 5X566X     Em7(b5)  - 0X533X
+Dm7/A       - 5X353X     D7/F#    - 2X021X
+G7(b13)     - 3X344X     Eb7M(9)  - XX1031
+G7(13)      - 3X345X     F7(b9)   - 1X424X
+Eb(add9)/Bb - 6X586X     Gb7M/Bb  - 6X466X
+Eb7M(9)/Bb  - 6X576X     Db7M/Ab  - 4X352X
+A7/4        - 5X57XX     Abm6     - 4X344X
+A7          - 5X56XX     Gb7M     - 2X332X
+Db(add9)/Ab - 4X364X     Bb6/9    - X1001X
+Db7M(9)/Ab  - 4X354X     Bb/Ab    - 4X333X
+Eb/G        - 3X134X     Eb6/G    - 3X131X
+Ab7M        - 4X554X     Ebm6/Gb  - 2X131X
+Ab7(#11)    - 4X453X     Dm7      - XX0211
+Am7         - 5X555X     C7(9)    - X3233X
+F7/A        - 5X354X     F7/4     - 1X131X
+Bb6         - 6X576X     Bb6(9)/F - 11001X
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+A7/4 = X 0 2 0 3 0
+Ab7 = 4 6 4 5 4 4
+Ab7(#11) = 4 X 4 5 3 X
+Ab7(13) = 4 X 4 5 6 X
+Ab7/4(9) = 4 X 4 3 2 X
+Ab7M = 4 X 5 5 4 X
+Abm6 = 4 X 3 4 4 X
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+A° = 5 X 4 5 4 X
+Aº = 5 X 4 5 4 X
+Bb/Ab = 4 X 3 3 3 X
+Bb6 = X 1 3 0 3 X
+Bb6/9 = 6 5 5 5 X X
+Bb7(9) = X 1 0 1 1 X
+Bb7M(9) = X 1 0 2 1 X
+Bbm6 = 6 X 5 6 6 X
+C7(9) = X 3 2 3 3 X
+Cm7(9) = X 3 1 3 3 X
+D7/F# = X X 4 5 3 5
+Db7M(9) = X 4 3 5 4 X
+Db7M/Ab = 4 4 3 1 1 1
+Dm7 = X 5 7 5 6 5
+Dm7(b5) = X X 0 1 1 1
+Dm7/A = X 0 0 2 1 1
+Eb/G = 3 X 1 3 4 X
+Eb6/G = 3 1 1 3 1 X
+Eb7M(9) = X 6 5 7 6 X
+Eb7M(9)/Bb = 6 5 3 3 4 3
+Ebm6 = X X 1 3 1 2
+Ebm6/Gb = 2 3 1 3 1 X
+Ebm7(9) = X 6 4 6 6 X
+Ebm7/9 = X 6 4 6 6 X
+Em7(b5) = X X 2 3 3 3
+F7(b13) = 1 X 1 2 2 1
+F7(b9) = X X 3 2 4 2
+F7/4 = 1 3 1 3 1 X
+F7/A = 5 X 3 5 4 X
+Fm6/Ab = 4 5 3 5 3 X
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7(b13) = 3 X 3 4 4 3
+G7/4 = 3 5 3 5 3 X
+Gb6/Bb = 6 4 4 6 4 X
+Gb7M = 2 X 3 3 2 X
+Gb7M/Bb = 6 X 4 6 6 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

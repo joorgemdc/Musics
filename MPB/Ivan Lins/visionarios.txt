@@ -1,0 +1,68 @@
+Ivan Lins - Visionários
+
+Ivan Lins / Celso Viáfora
+
+[Intro:] Em7(9) A7(11)(13) F#m7 Bm7
+         Em7(9) A7(9)(11) F#7(b13) Bm7(11) Bm7(9)(11) Em7(9)
+
+          A7(9)(11)          F#7(b13)       Bm7(9)
+De que nos valeu o tempo que você diz que dispõe
+               Bm6(9) Em7(9)
+Pra mim na sua agenda?
+              A7(9)(11)    F#7(b13)         Bm7(9)
+Ter vivido de bilhetes, bricadeiras, bibelôs
+           Bm6(9)       Em7(9)
+Bombons, lençóis de seda
+             A7(9)(11)          F#7(b13)           Bm7(9)
+Se os carinhos que trocamos falam línguas desiguais
+              Am7(9) D7
+E amor não tem legenda
+
+G#m7(b5)    Gm6  F#m7         B7(13) B7(b13)
+Vi tanta paixão cair no esquecimento
+   E7(13)      E7(b13) A7(9)(11)    A7(b9) D7M Am6/C B7
+Por falta de atenção, nós somos tão aten...tos
+
+De que nos valeu o tempo que você diz que gastou
+Por mim na academia?
+As viagens de trabalho, compromissos que troquei
+Por sua companhia?
+O amor só conta as horas dedicadas a si mesmo
+Se não tem alegria
+
+Vi tanta paixão cair no sem-sentido
+Por falta de união nós somos tão unidos
+
+G#m7(b5)    Gm6  F#m7         B7(13) B7(b13)
+Vi tanta paixão cair como um cenário
+   E7(13)    E7(b13) A7(9)(11) A7(b9)   D7M Am7(9) D7
+Por falta de visão e    nós tão visionários
+G#m7(b5)    Gm6  F#m7         B7(13) B7(b13)
+Vi tanta paixão cair como um cenário
+   E7(13)    E7(b13) A7(9)(11)   A7(b9/11) D7M
+Por falta de visão e    nós tão visioná...rios
+
+----------------- Acordes -----------------
+A7(11)(13) = X 0 2 0 3 2
+A7(9)(11) = 5 X 5 4 3 X
+A7(b9) = 5 X 5 3 2 X
+A7(b9/11) = 5 X 5 3 3 X
+Am6/C = X 3 4 2 5 2
+Am7(9) = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+B7(13) = X 2 X 2 4 4
+B7(b13) = X 2 X 2 4 3
+Bm6(9) = X 2 0 1 2 X
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm7(9) = X 2 0 2 2 X
+Bm7(9)(11) = X 2 0 2 2 0
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+Em7(9) = X 7 5 7 7 X
+F#7(b13) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+G#m7(b5) = 4 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

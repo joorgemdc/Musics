@@ -1,0 +1,90 @@
+Gilberto Gil - Deixar Você
+
+Intro:(G7M  G7  C7M/G  Cm7+/G 2X
+
+ G7M                G7                               |
+Deixar você      ir                                 |
+
+ C7M/G                                               |
+   Não vai ser bom                                  |
+
+ F|5-          F7(b5) Em7
+  Não         vai    ser                            |
+
+             A7(13)  Dm7/9   G7/13     E9  Cm/Eb BIS
+Bom pra você          nem melhor pra mim            |
+
+ G7M            G7                                   |
+  Pensar que é só                                   |
+
+ C9                 F5-          Eb5-/5+
+  Deixar de ver e aca...........bou                 |
+
+          D4/6    C#5-/7/9 C9 Cm6/9    G7M           |
+         Vai      acabar   muito    pior            |
+
+
+           pra que mentir
+     Em7/9        Dm7/9  G7/9-
+E fingir que o hori......zonte
+C9                Am7
+Termina ali de fronte
+D7(9)        G#7(b5)   G7(b5) F#7(b5) F7(b5)
+E a ponte acaba        aqui
+Em7           B7/13-
+  Vamos seguir
+Em7/9         Dm7/9   G7/9-
+    Reinventar o espaço
+C9                 Am7
+Juntos manter o passo
+        D7(9)        Dm7
+Não ter cansaço
+                   D7(4/9) D7(9/#11) D7 D7(#5)
+No crer no fim
+G7M                    G7
+   O fim do amor, oh não!
+C7M/G        Cm7+/G
+Alguma dor, talvez  sim
+   D4/6       C#5-/7/9   C9      Cm/Eb        G7M    C/D
+   Que a luz nascer     na      escuri.......dão
+   D4/6   C#5-/7/9 C9 Cm6/9   G7M
+   guarde tudo em seu cora...çao
+F#m7 B7/9- Em7
+           pra que mentir............
+   D4/6      C#5-/7/9 C9   Cm/Eb      G7M      C/D
+   que  a luz nascer na escuri.......dão
+    D4/6   C#5-/7/9 C9 Cm6/9    G7M
+    guarde tudo em seu cora....çao
+
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+Am7 = X 0 2 0 1 0
+B7/13- = X 2 X 2 4 3
+B7/9- = X 2 1 2 1 X
+C/D = X X 0 0 1 0
+C7M/G = 3 X 2 4 1 X
+C9 = X 3 5 5 3 3
+Cm/Eb = X X 1 0 1 3
+Cm6/9 = X 3 1 2 3 X
+D4/6 = X 5 7 0 7 7
+D7 = X X 0 2 1 2
+D7(#5) = X 5 X 5 7 6
+D7(4/9) = X 5 5 5 5 5
+D7(9) = X 5 4 5 5 X
+D7(9/#11) = X X 0 1 1 0
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E9 = 0 2 4 1 0 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#7(b5) = 2 X 2 3 1 X
+F#m7 = 2 X 2 2 2 X
+F5- = 1 3 3 4 1 1
+F7(b5) = 1 X 1 2 0 X
+G#7(b5) = 4 X 4 5 3 X
+G7 = 3 5 3 4 3 3
+G7(b5) = 3 X 3 4 2 X
+G7/13 = 3 X 3 4 5 X
+G7/9- = 3 X 3 1 0 X
+G7M = 3 X 4 4 3 X

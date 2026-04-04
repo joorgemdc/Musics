@@ -1,0 +1,55 @@
+Alceu Valença - Desejo
+
+Intro: A7M C#m9/A A7M Bm9/D Bm/D
+
+
+   (A7M,C#m9/A,A7M)
+E|-0--------                                        
+B|-5-----4-5
+G|-6---6----
+D|---6------
+A|-0--------
+E|----------
+
+   (Bm9/D,Bm/D)
+E|-0--------
+B|-2-----2-3
+G|-4---4----
+D|---4------
+A|-5-----5-5
+E|----------
+
+(A7M,C#m9/A,A7M)
+Te desejo
+
+      A7M G#m11 F#m11   (A7M,C#m9/A,A7M)
+Morena, eu te desejo
+
+
+(A7M,C#m9/A,A7M)
+Quando a vida inventou o desejo
+(A7M,C#m9/A,A7M)                     (Bm9/D,Bm/D)
+O desejo, num outro desejo, se transformou
+(Bm9/D,Bm/D)
+O desejo não pára, o desejo não cansa
+           C#m7(9)     F#4/C#         (A7M,C#m9/A,A7M)
+É o modo contínuo que a vida inventou
+
+(igual)
+
+Te desejo
+
+Morena, eu te desejo
+
+O amor é movido a desejo.
+Essa vida cigana, o caminhador
+O desejo não pára, o desejo não cansa
+É o modo contínuo que a vida inventou
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Bm/D = X 5 X 4 7 7
+C#m7(9) = X 4 2 4 4 X
+F#4/C# = X 4 4 6 7 7
+F#m11 = 2 2 4 2 2 2
+G#m11 = 4 X 1 4 2 X

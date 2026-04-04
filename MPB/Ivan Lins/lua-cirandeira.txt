@@ -1,0 +1,51 @@
+Ivan Lins - Lua Cirandeira
+
+[Intro:] C C4
+
+        G7(4)   G7          G7(13) G7(9)(13)
+Lua cirandeira! Fique no abandono
+        G7(4)   G7          G7(13) C7/G
+Coisa tão bonita não pode ter dono
+         F/G  Bm7(b5)   E7 Am7
+Lua cirandeira! Eu não quero tê-la
+C/E         F/G             G7   C
+Eu não quero tanto, eu só quero vê-la
+
+      Em7(b5)            A7  D7(4)
+Ó, cirandeiro, acende esse   luar
+ D7      G7(4)             G7   C7(4)         C7
+Pois o candeeiro, não demora,    vai se apagar
+      Em7(b5)            A7  D7(4)
+Ó, cirandeiro, acende esse   luar
+ D7      G7(4)           G7    C   C4    C C4 C C4
+Pois o candeeiro, não demora, vai se apagar
+
+C
+Vou passar na ponte
+            Am7
+Vou cruzar o rio
+  F9
+Quando eu chegar do outro lado
+ G7          C
+Dou um assobio
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C4 = X 3 3 0 1 X
+C7 = X 3 2 3 1 X
+C7(4) = X 3 3 3 1 X
+C7/G = 3 X 2 3 1 X
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+E7 = 0 2 2 1 3 0
+Em7(b5) = X X 2 3 3 3
+F/G = 3 X 3 2 1 X
+F9 = 1 3 5 2 1 1
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7(4) = 3 5 3 5 3 X
+G7(9)(13) = 3 X 3 2 0 0

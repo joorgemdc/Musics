@@ -1,0 +1,91 @@
+Djavan - A Ilha
+
+Intro. E7(#9) Bb7(9/#11) Am(7M/9) / Am7(9) / Am6(9) / Am7(9) /
+Am(7M/9) / Am7(9) / Am6(9) / Am(7M/9) / Am6(9) / Am(7M/9) / Am7(9) /
+Am6(9) / Am(7M/9) / Am7(9) / Am6(9) / Am(7M/9) /
+
+Am7(9)               F7(#11)  Bm7(b5)              E7(b13)
+      Um fa---cho de luz              que a tudo seduz
+     Am(7M/9) / F7(#11) / Bm7(b5/9) / E7(b9/13) /
+Por aqui
+
+Am7(9)         F7(#11)     Dm7(9)      G7(4/9) F7(#11)
+Estrela  caden--------te relu-----zentemen------------te
+    Em7(b5) / / / A7(b13) / Eb7(9) /
+Sem fim
+
+Dm7(9)                         G7(4/9)         Db7(#9)
+E      um cheiro de amor  empesta-----do no ar
+          C7M(#5) / C7M / F7(#11) /
+A me entorpecer
+
+Bm7(b5)                      E7(b13)
+        Quis---era viesse do mar
+
+         Am(7M/9) / F7(#11) / Bm7(b5/9) / E7(b9/13) /
+E não de você
+
+
+Am7(9)                F7(#11)       Bm7(b5)     E7(b13)
+       Um rai--o que inun-----da de bri-----lho
+          Am(7M/9)  F7(#11)   Bm7(b5/9) / E7(b9/13) /
+Uma noite perdi------------da
+
+Am7(9)                F7(#11)        Dm7(9)
+Um     esta--do de coi-------sas tão pu-----ras
+    G7(4/9) F7(#11)     Em7(b5) / /   / A7(b13) / Eb7(9) /
+Que mo------ve      uma vi---------da
+
+Dm7(9)                              G7(4/9)
+E      um verde profun---do no o----lhar
+  Db7(#9)        C7M(#5) / C7M / F7(#11) /
+A me      endoidecer
+Bm7(b5)                          E7(b13) / / /
+        Quise--ra estives--se no mar
+         Am(7M/9) / Eb7(9) /
+E não em você
+
+
+Dm7(9)                G7(4/9) G7(9)    C7M(9)    Eb°
+       Porque seu coração           é  u------ma i----lha
+Bm7(b5)           E7(b13)              Am(7M/9) / Eb7(9) /
+       A centenas de      milhas daqui
+
+Dm7(9)                G7(4/9) G7(9)     C7M(9)   Eb°
+       Porque seu coração            é  u-----ma i----lha
+Bm7(b5)           E7(b13)             Am7(11) Abm7(11) Gm7(11)
+       A centenas de      milhas daqui
+
+Eb7(9) Dm7(9) / G7(4/9) G7(9) C7M / F7  Bm7(b5) / E7(b13) /
+
+Am7(11) Abm7(11) Gm7(11) Eb7(9)
+
+
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Abm7(11) = 4 X 4 4 2 X
+Am(7M/9) = 5 7 6 5 5 7
+Am6(9) = X 0 4 5 0 0
+Am7(11) = 5 X 5 5 3 X
+Am7(9) = X X 7 5 8 7
+Bb7(9/#11) = X 1 0 1 1 0
+Bm7(b5) = X 2 3 2 3 X
+Bm7(b5/9) = P7 8 11 7 X X
+C7M = X 3 2 0 0 X
+C7M(#5) = X 3 2 1 0 0
+C7M(9) = X 3 2 4 3 X
+Db7(#9) = X 4 3 4 5 X
+Dm7(9) = X 5 3 5 5 X
+E = 0 2 2 1 0 0
+E7(#9) = X 7 6 7 8 X
+E7(b13) = 0 X 0 1 1 0
+E7(b9/13) = 12 X X P10 14 10
+Eb7(9) = X 6 5 6 6 X
+Eb° = X X 1 2 1 2
+Em7(b5) = X X 2 3 3 3
+F7 = 1 3 1 2 1 1
+F7(#11) = 1 X 1 2 0 X
+G7(4/9) = 3 X 3 2 1 X
+G7(9) = 3 X 3 2 0 X
+Gm7(11) = 3 X 3 3 1 X

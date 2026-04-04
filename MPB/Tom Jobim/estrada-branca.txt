@@ -1,0 +1,60 @@
+Tom Jobim - Estrada Branca
+
+Intro: Bmaj7 Emaj7 Bmaj7 Emaj7 Bmaj7 Emaj7
+
+
+         Bmaj7       Emaj7         Bmaj7     Emaj7
+ Estrada branca, Lua branca, Noite alta, Tua falta
+     Bmaj7       Emaj7       Ebm7            Dbm7 F#7
+ Caminhando, Caminhando, Caminhando, Ao lado meu
+        Bmaj7        Emaj7     Bmaj7         Emaj7     G#m6 F#7/+5 Bmaj7 Dbm7 F#7
+ Uma saudade, Uma vontade, Tao doída, De uma vida, Vida que  mo-   rreu
+  Bmaj7       Emaj7       Ebm7         E7/9
+ Estrada passarada, Noite clara, Meu caminho
+         Amaj7                      G#7/+5 G#7
+ é tao sozinho, Tao sozinho, A percorrer
+             Dbm7         Bbdim             Dbm7           Em7
+ Que mesmo andando para a frente, Olhando a lua tristemente
+             Ebm7  G#7/+5     Dbm7  F#7    Bmaj7
+ Quanto mais ando, Mais estou perto de   voce
+              Bmaj7       Bb7              Dmaj7         Ebdim
+ Se em vez de noite fosse dia, Se o sol brilhasse e a poesia
+           Dbm7          F#7         Bmaj7
+ Em vez de triste fosse alegre de partir
+
+                 Emaj7        Fdim           Ebmaj7             G#dim
+ Se em vez de eu ver só minha sombra, Nessa estrada Eu visse ao longo
+        Fm7               Bb7/9          Ebmaj7 F#7/4 F#7
+ Dessa estrada, uma outra sombra A me seguir
+          Bmaj7           Emaj7       Ebm7         E7/9
+ Mas a verdade, É que a cidade, Ficou longe, ficou longe
+      Amaj7                      G#7/+5 G#7
+ Na cidade, Se deixou meu bem-querer
+          Dbm7        Bbdim          Dbm7         Em7
+ Eu vou sozinho sem carinho, Vou caminhando meu caminho
+         Ebm7  G#7/+5  Dbm7 F#7  Bmaj7
+ Vou caminhando com vontade de morrer
+
+----------------- Acordes -----------------
+Amaj7 = X 0 2 1 2 0
+Bb7 = X 1 3 1 3 1
+Bb7/9 = X 1 0 1 1 X
+Bbdim = X 1 2 0 2 0
+Bmaj7 = X 2 4 3 4 2
+Dbm7 = X 4 6 4 5 4
+Dmaj7 = X X 0 2 2 2
+E7/9 = X X 2 1 3 2
+Ebdim = X X 1 2 1 2
+Ebm7 = X X 1 3 2 2
+Ebmaj7 = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+Emaj7 = X X 2 4 4 4
+F#7 = 2 4 2 3 2 2
+F#7/+5 = 2 X 2 3 3 2
+F#7/4 = 2 4 2 4 2 X
+Fdim = X X 3 4 3 4
+Fm7 = 1 X 1 1 1 X
+G#7 = 4 6 4 5 4 4
+G#7/+5 = 4 X 4 5 5 4
+G#dim = 4 X 3 4 3 X
+G#m6 = 4 X 3 4 4 X

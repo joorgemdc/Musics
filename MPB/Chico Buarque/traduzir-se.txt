@@ -1,0 +1,61 @@
+Chico Buarque - Traduzir-se
+
+[Intro:] Em G7(4) G7 C F#m7(b5) B7
+
+Em7(9)                  D#º
+Uma parte de mim é todo mundo
+                                Em7(9)
+Outra parte é ninguém, fundo sem fundo
+                        D#º
+Uma parte de mim é multidão
+                  F#º         C
+Outra parte estranheza e solidão
+             D/C            G/B
+Uma parte de mim, pesa e pondera
+              G7(4) G7 C
+Outra parte, delira
+           F#m7(b5) B7   C#º/G
+Uma parte de mim almoça e janta
+               F#m7(b5) B7 C/Bb
+Outra parte se espanta
+
+                             F#m7(b5)
+Uma parte de mim é permanente
+
+                B7            Em
+Outra parte se sabe de repente
+              G        F#m7(b5)
+Uma parte de mim é só vertigem
+                 Am/C B7 Em
+Outra parte, linguagem
+             Em/D                C
+Traduzir uma parte na outra parte
+              D/C                 G
+Que é uma questão de vida ou morte
+   G7(4) G7 C
+Será arte?
+  F#m7(b5) B7 Em
+Será arte?
+     Dm G7 C
+Será arte?
+  F#m7(b5) B7 C/Bb
+Será arte?
+
+----------------- Acordes -----------------
+Am/C = X 3 2 2 5 X
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#º/G = X 10 8 9 8 X
+C/Bb = X 1 2 0 1 X
+D#º = X X 1 2 1 2
+D/C = X 3 X 2 3 2
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7(9) = X 7 5 7 7 X
+F#m7(b5) = 2 X 2 2 1 X
+F#º = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+G7(4) = 3 5 3 5 3 X

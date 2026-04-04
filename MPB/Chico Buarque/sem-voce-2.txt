@@ -1,0 +1,75 @@
+Chico Buarque - Sem Você 2
+
+Intro: Dm6  Em7(b5)  Bm7(9)  E7(b9)(13)  A7M(9)
+
+      G#7(b13) B4(b9)    E6(9) C7M
+Sem você    é o fim do show
+               Bb6/D          F7M Fm6 Eb7M
+Tudo está claro, é tudo tão real
+            D7(b9)     Gm7/D Bbm6/Db Fm7/C
+As suas músicas você       levou
+                    G7/B A7M(9)
+Mas não faz mal
+
+       G#7(b13)             Cº   E6/B C7M
+Sem você dei para falar a sós
+              Bb6/D                  F7M         Fm6 Eb7M
+Se me pergunto onde ela está, com quem
+               D7(b9)    Gm7/D Bbm6/Db Fm7/C
+Respondo trêmulo, levanto a voz
+              G7/B
+Mas tudo bem pois
+
+C7M    F7M            B7(b9) Em7 F7M
+Sem você o tempo é todo meu
+
+              Fm6/C      E7/B               A7     D#m7(b5)
+Posso até ver o futebol, ir ao museu, ou não
+                Am6/C               G#m6/B Bb7
+Passo o domingo olhando o mar
+             G#m6/B Bb7         Ebm6 E7 A7M(9)
+Ondas que vêm, ondas que vão
+
+      G#7(b13)  B4(b9) E6(9) C7M
+Sem você é um silêncio tal
+                     Bb6/D         F7M Fm6 Eb7M
+Que ouço uma nuvem a vagar no céu
+         D7(b9)   Gm7/D Bbm6/Db Fm7/C
+Ou uma lágrima cair no chão
+                    G7/B
+Mas não tem nada, não
+
+Fim: A7M(9)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7M(9) = X 0 2 1 0 0
+Am6/C = X 3 4 2 5 2
+B4(b9) = X 2 2 5 5 2
+B7(b9) = X 2 1 2 1 X
+Bb6/D = X 5 3 3 6 3
+Bb7 = X 1 3 1 3 1
+Bbm6/Db = X 4 5 3 6 3
+Bm7(9) = X 2 0 2 2 X
+C7M = X 3 2 0 0 X
+Cº = X 3 4 2 4 2
+D#m7(b5) = X X 1 2 2 2
+D7(b9) = X 5 4 5 4 X
+Dm6 = X 5 X 4 6 5
+E6(9) = X 7 6 6 7 7
+E6/B = X 2 2 1 2 X
+E7 = 0 2 2 1 3 0
+E7(b9)(13) = 12 X X P10 14 10
+E7/B = X 2 2 1 3 X
+Eb7M = X X 1 3 3 3
+Ebm6 = X X 1 3 1 2
+Em7 = 0 2 2 0 3 0
+Em7(b5) = X X 2 3 3 3
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+Fm6/C = X 3 3 1 3 X
+Fm7/C = X 3 1 1 1 1
+G#7(b13) = 4 X 4 5 5 4
+G#m6/B = X 2 3 1 4 1
+G7/B = X 2 3 0 3 X
+Gm7/D = X 5 3 3 3 3

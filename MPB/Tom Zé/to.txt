@@ -1,0 +1,74 @@
+Tom Zé - Tô
+
+          G6               Am7
+Tô bem de baixo pra poder subir
+         D7(9)           G6
+Tô bem de cima pra poder cair
+       Bm7       Bbm7      Am7
+Tô dividindo pra poder sobrar
+     D7(9)                G6
+Desperdiçando pra poder faltar
+      G#º              Am7
+Devagarinho pra poder caber
+       Bbº              G/B
+Bem de leve pra não perdoar
+        C7+       C#º       G/D
+Tô estudando pra saber ignorar
+  E7   A7     D7/9         G6
+Eu tô aqui comendo para vomitar
+
+              B7                Em
+Eu tô te explicando pra te confundir
+              B7                   Em
+Eu tô te confundindo pra te esclarecer
+
+G7      C          C#º   G/D
+Tô iluminado pra poder cegar
+E7         A7               B7
+Tô ficando cego pra poder guiar
+
+               B7                Em
+Eu tô te explicando pra te confundir
+               B7                  Em
+Eu tô te confundindo pra te esclarecer
+G7     C7+         C#º  G/D
+Tô iluminado pra poder cegar
+ E7        A7        D7/9    G6
+Tô ficando cego pra poder guiar
+
+ G6             G#º      Am7
+Suavemente pra poder rasgar
+       D7(9)              G6
+Olho fechado pra te ver melhor
+       Bm7      Bbm7     Am7
+Com alegria pra poder chorar
+      D7(9)           G6
+Desesperado pra ter paciência
+   G#º               Am7
+Carinhoso pra poder ferir
+     Bbº              G/B
+Lentamente pra não atrasar
+         C7+      C#º     G/D
+Atrás da vida pra poder morrer
+ E7      A7   D7/9              G6
+Eu tô me despedindo pra poder voltar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bbm7 = X 1 3 1 2 1
+Bbº = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#º = X 4 5 3 5 3
+C7+ = X 3 2 0 0 X
+D7(9) = X 5 4 5 5 X
+D7/9 = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3

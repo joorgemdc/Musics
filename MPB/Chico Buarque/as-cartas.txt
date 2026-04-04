@@ -1,0 +1,86 @@
+Chico Buarque - As Cartas
+
+A          F7M/A   F7/A
+Ilusão Ilusão
+Bb7M/D                   Dbº(b13)                 A/G
+Veja as coisas como elas são
+F/C     Bb/D  b7M/D         A
+A carroça  A dama       O louco
+Bb7M/D      A
+O trunfo A mão
+ D7M/F#   Ab/Gb  D7M/F#
+O enforca....do
+            Ab/Gb  D7M/F#   Bbº/E
+A dançari.....na
+Abm7(b5)      Db7(b9)    F#m7       Dm/F
+Numa    corti.....na
+Bb7M    E7/B             A7
+O encarna.......do
+Bb7M      E7/B    A7
+A dançarina,             (o encantado)
+Bb7M    E7/B       A7
+O encarnado            (numa cortina)
+Bb7M            E7
+O enforcado
+
+
+A    F7M/A        F7/A
+Ilusão Ilusão
+Bb7M/D                   Dbº (b13)   A/G
+Veja as coisas como elas são
+F/C     Bb/D      Bb7M/D      A
+O curinga A noiva           O noivo
+Bb7M/D      A
+O sim O não
+ D7M/F#    Ab/Gb    D7M/F#   Ab/Gb  D7M/F#          Bbº/E
+O prateado           O cavaleiro
+Abm7(b5)    Db7(b9)     F#m7            Dm/F
+No seu espelho
+Bb7M    E7/B   A7
+Desfigurado
+Bb7M    E7/B   A7
+O cavaleiro,                 (o prateado)
+Bb7M    E7/B   A7
+Do outro lado              (do seu espelho)
+Bb7M       E7
+Desfigurado
+
+A         F7M/A        F7/A
+Ilusão Ilusão
+Bb7M/D                             Dbº(b13)   A/G
+Veja as coisas como elas são
+F/C           Bb/D      Bb7M/D       A
+A fortuna A roda O raio
+ Bb7M/D          A
+A imensidão
+D7M/F#       Ab/Gb  D7M/F#
+O estrelado
+D7M/F#       Ab/Gb  D7M/F#  Bbº/E
+O obscuro
+Abm7(b5)  Db7(b9)   F#m7  Dm/F
+O seu   futu.....ro
+Bb7M    E7/B
+Embaralhado
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Ab/Gb = 2 X 1 1 1 X
+Abm7(b5) = 4 X 4 4 3 X
+Bb/D = X 5 X 3 6 6
+Bb7M = X 1 3 2 3 1
+Bb7M/D = X 5 X 3 6 5
+Bbº/E = X 7 5 6 5 X
+D7M/F# = 2 X 0 2 2 2
+Db7(b9) = X 4 3 4 3 X
+Dbº = X 4 5 3 5 3
+Dbº(b13) = X 4 X 3 5 5
+Dm/F = X X 3 2 3 1
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+F#m7 = 2 X 2 2 2 X
+F/C = X 3 3 2 1 1
+F7/A = 5 X 3 5 4 X
+F7M/A = 5 X 3 5 5 X

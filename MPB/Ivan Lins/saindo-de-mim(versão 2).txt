@@ -1,0 +1,69 @@
+Ivan Lins - Saindo de Mim
+
+[Intro:] E7M A/B
+
+  E7M   G#7(b13)   C#m7    C#7(13)      F#m7M(9) F#m7(9)
+Você foi saindo de mim com palavras tão leves
+                  A/B             B7(9) C#7(9) D7(9) E7M A/B
+De uma forma tão branda de quem partiu     a...le...gre
+  E7M   G#7(b13)   C#m7       C#7(13) F#m7M(9) F#m7(9)
+Você foi saindo de mim com um sorriso impune
+             A/B       B7(9) C#7(9) D7(9) E7M Fº
+Como se toda faca não tivesse dois   gu...mes
+
+  A7M     B/A      G#m7   D/F# E7    A7M   Bbm7(b5)
+Você foi saindo de mim devagar e pra sempre
+     D#7(b13)   G#m7 G#m7/F# E7M
+De uma forma sincera
+  E/D   C#7(13) F#7(9)
+Definitivamente
+  A/B     B/A      G#m7    D/F#  E7      A7M  Bbm7(b5)
+Você foi saindo de mim por todos os meus poros
+D#7(b9)       G#m7 G#m7/F# E7M
+E ainda está saindo
+D7(13) C#7(13) C#7(b13)  E/F# F#7(9) A/B
+Nas      vezes    em que cho...ro
+   B7(b9)        Em7(9) A7(9) Em7(9) A7(13)
+Nas vezes em que choro
+
+Solo: C/D C7(9) B7(9) E7M E7(b13)
+
+Solo Final: C/D C7(9) B7(9) Em7(9) A7(9) Em7(9) A7(9)
+
+  E7M   G#7(b13) F7M(#11)
+Você foi saindo de mim
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7(13) = X 0 X 0 2 2
+A7(9) = 5 X 5 4 2 X
+A7M = X 0 2 1 2 0
+B/A = X 0 4 4 4 X
+B7(9) = X 2 1 2 2 X
+B7(b9) = X 2 1 2 1 X
+Bbm7(b5) = X 1 2 1 2 X
+C#7(13) = X 4 X 4 6 6
+C#7(9) = X 4 3 4 4 X
+C#7(b13) = X 4 X 4 6 5
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+C7(9) = X 3 2 3 3 X
+D#7(b13) = X 6 X 6 8 7
+D#7(b9) = X 6 5 6 5 X
+D/F# = 2 X 0 2 3 2
+D7(13) = X 5 X 5 7 7
+D7(9) = X 5 4 5 5 X
+E/D = X 5 X 4 5 4
+E/F# = X X 4 4 5 4
+E7 = 0 2 2 1 3 0
+E7(b13) = 0 X 0 1 1 0
+E7M = X X 2 4 4 4
+Em7(9) = X 7 5 7 7 X
+F#7(9) = X X 4 3 5 4
+F#m7(9) = X X 4 2 5 4
+F#m7M(9) = 2 0 3 1 X X
+F7M(#11) = 1 X X 2 0 0
+Fº = X X 3 4 3 4
+G#7(b13) = 4 X 4 5 5 4
+G#m7 = 4 X 4 4 4 X
+G#m7/F# = X X 4 4 7 4

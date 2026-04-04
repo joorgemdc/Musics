@@ -1,0 +1,61 @@
+Chico Buarque - Bem Querer
+
+A7/C#                       D#m7(b5)         G7/B                      C
+     Quando o meu bem querer        me vir   Estou certa que há de vir   atrás
+F/A                  Bbadd9                        Bm7(b5)          E7(b9)       Am Am/G
+Há  de me seguir por to_____dos   To____dos, to____dos,   to____dos os    umbrais
+
+A7/C#                       D#m7(b5)         G7/B                    C
+E    quando o seu bem querer        mentir   Que não vai haver adeus   jamais
+F/A                    Bbadd9                      Bm7(b5)       E7(b9)      Am Am/G
+Há  de responder com ju________ras   Ju___ras, ju__ras,    juras i_____morais
+
+A7/C#                       D#m7(b5)         G7/B                   C
+E    quando o meu bem querer        sentir   Que o amor é coisa tão   fugaz
+F/A                        Bbadd9                         Bm7(b5)        E7(b9)       Am Am/G
+Há  de me abraçar com a gar_______ra   A gar___ra, a gar__ra,    a garra dos   mortais
+
+A7/C#                       D#m7(b5)        G7/B                    C
+E    quando o seu bem querer        pedir   Pra você ficar um pouco   mais
+F/A                        Bbadd9                          Bm7(b5)        E7(b9)      Am Am/G
+Há  que me afagar com a cal________ma   A cal___ma, a cal__ma,    a calma dos   casais
+
+A7/C#                     D        C#7        C#/B     A  A/G# A/F# A/E
+E quando o meu bem querer   ouvir  O  meu coração bater demais
+
+D#°         B7          E/G#                        Em/G                                F#7(4) F#7
+Há de me rasgar com a fú____ria   A fú___ria, a fú__ria, a fú__ria, a fúria assim dos a_nimais
+
+A7/C#                       D#m7(b5)         G7/B                 C4          C
+E    quando o seu bem querer        dormir   Tome conta que ele so__nhe em paz
+F/A             F7/A      Bb4  Bb           Bm7(b5)             E7(b9)         Am
+Como alguém que lhe apagas_____se a luz   Vedasse a por____ta e abris__se o gás
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A/F# = 2 0 2 2 2 0
+A/G# = 4 X 2 2 2 X
+A7/C# = X 4 5 2 5 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb4 = X 1 3 3 4 1
+Bbadd9 = X 1 3 3 1 1
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C#/B = X 2 3 1 2 X
+C#7 = X 4 3 4 2 X
+C4 = X 3 3 0 1 X
+D = X X 0 2 3 2
+D#m7(b5) = X X 1 2 2 2
+D#° = X X 1 2 1 2
+E/G# = 4 X 2 4 5 X
+E7(b9) = X X 2 1 3 1
+Em/G = 3 X 2 4 5 X
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F/A = 5 X 3 5 6 X
+F7/A = 5 X 3 5 4 X
+G7/B = X 2 3 0 3 X

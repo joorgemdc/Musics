@@ -1,0 +1,67 @@
+Zeca Baleiro - Não Tenho Tempo
+
+de: Zeca Baleiro
+
+Intro: C(add9)
+
+C(add9)  G/B       Am Em F     Bb    C(add9) Bº
+eu não  tenho tempo      eu não sei voar
+Am    G#º       Am7/G     D/F#       F(add9)
+ dias passam como nuvens em brancas nuvens
+           Em Dm C(add9)  Bº
+eu não vou pas-   sar
+Am      G#º      Am7/G
+ eu não tenho medo
+       D/F#      F          G   Am
+eu não tenho tempo  eu não sei vo- ar
+
+C(add9)  G/B      Am Em F
+ eu tenho um sapato
+         G        C(add9)  Bº
+eu tenho um sapato bran-    co
+F                 Fm                 C(add9)   Bº
+ eu tenho um cavalo   eu tenho um cavalo bran-        co
+
+Am   G#º  Am7/G   D/F#    F   E4
+ e um riso     e um riso amare- lo
+Am     G#º      Am7/G    D/F#        F
+ eu não tenho medo    eu não tenho tempo
+            G   Am
+de me ouvir can- tar
+       G#º      Am7/G    D/F#        F
+eu não tenho medo     eu não tenho tempo
+         G    Am
+de me ver cho- rar
+
+[ C(add9) G/B : Am Em : F Bb Ab : C(add9) G/B : Am Em : F Bb Ab : C(add9) Bº ]
+
+Am      G#º        Am7/G    D/F#        F
+  eu não tenho medo      eu não tenho tempo
+            G     Am
+de me ouvir can-  tar
+       G#º     Am7/G    D/F#       F
+eu não tenho medo    eu não tenho tempo
+          G    Am
+de me ver cho-  rar
+       G#º      Am7/G    D/F#        F
+eu não tenho medo     eu não tenho tempo
+          G    Am
+eu não sei vo- ar
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Am7/G = 3 0 2 0 1 0
+Bb = X 1 3 3 3 1
+Bº = X 2 3 1 3 1
+C(add9) = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+Dm = X X 0 2 3 1
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F(add9) = 1 3 5 2 1 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3

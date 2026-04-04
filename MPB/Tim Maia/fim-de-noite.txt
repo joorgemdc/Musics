@@ -1,0 +1,32 @@
+Tim Maia - Fim de Noite
+
+       C#dim           Dm7  G7                    Cdim    C7M
+            É fim de noite, nossa estrela foi se embo........ra
+            C#dim              Dm7   A7/13-
+            Seu  Olhar me diz agora,
+                                 Dm7/9 G7
+            que   eu vá embora também
+       C#dim            Dm7 G7                 Cdim  C7M
+            Num fim de noite nossas mãos se separa....ram
+                   C#dim         Dm7
+            Nossos rumos se trocaram
+            G7                Gm7  C7/9-
+            Nunca mais eu vi você
+                  F7M        Fm6       Em7
+            E cada dia toda noite eu sofri
+                   A7/13-    Dm7 G7
+           Numa estrela da manhã
+                   C7M
+           Eu me perdi
+
+----------------- Acordes -----------------
+C#dim = X 4 5 3 5 3
+C7M = X 3 2 0 0 X
+Cdim = X 3 4 2 4 2
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

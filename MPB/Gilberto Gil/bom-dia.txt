@@ -1,0 +1,104 @@
+Gilberto Gil - Bom Dia
+
+Intro 2x: A D/A E E D/E A A D/A E E D/E A
+
+   A D/A E  E D/E A
+ Madrugou, madrugou
+A D/A E    F      G  A
+ A mancha branca do sol
+A D/A E   E D/E A
+ Acordou  o dia
+A D/A E   F    G  A
+ E o dia já levantou
+
+  A  E  A  C#7 F#m
+ Acorda    meu amor
+A         D   C#7 F#m    D G
+ A usina      já        tocou
+   C#7 F#m   D7 G
+ Acorda,   é hora
+   C#7      F#m  D7 G E7 A
+ De trabalhar,   meu  amor
+
+Vocalizes: A  D/A  E  E  D/E  A  A  D/A  E  E  D/E  A
+(Volta inicio)
+
+
+A          F#m
+ Acorda é hora
+D#m7(b5)       G#7(#5)
+ O dia        veio roubar
+C#m7      C#m7/B
+ Teu sono cansado
+Bbm7(b5)       Bbm Bbm(7M) Bbm7(b5)
+ É hora       de        trabalhar
+
+Fm
+ O dia te exige
+  E7   E4/7   E7
+ O suor e o braço
+Bm/D         C#4/7
+ Pra usina do dono
+B9             Bm/A    G6   E7/G#
+ Do teu         cansaço
+
+A/E D/E A/E   D/E A/E
+ Acorda       meu amor
+A/E D/E A/E   D/E E D/E A
+ É hora       de trabalhar
+A/E D/E A/E    D/E A/E
+ O dia         já raiou
+A/E D/E A/E  D/E E D/E A
+ É hora      de trabalhar
+
+ Vocalizes:  A  D/A  E  E  D/E  A  A  D/A  E  E  D/E  A
+
+  A  D/A  E   E D/E A
+ Madrugou,    madrugou
+A  D/A  E  F       G  A
+ A mancha  branca do sol
+A  D/A  E     E D/E A
+ Acordou       o dia
+A D/A E  F     G   A
+ E o dia já levantou
+ A  E A       C#7 F#m
+ Ele sai,     ele vai
+F#m A D       C#7 F#m D G
+ A usina      já     tocou
+G  C#7 F#m    D7   G
+ Bom dia,     bom dia
+   C#7 F#m D7 G E7 A
+ Até logo, meu  amor
+
+Final:
+
+Vocalizes: A  D/A  E  E  D/E  A  A  D/A  E  E  D/E  A
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+B9 = X 2 4 4 2 2
+Bbm = X 1 3 3 2 1
+Bbm(7M) = X 1 3 2 2 1
+Bbm7(b5) = X 1 2 1 2 X
+Bm/A = X 0 4 4 3 X
+Bm/D = X 5 X 4 7 7
+C#4/7 = X 4 6 4 7 4
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+D = X X 0 2 3 2
+D#m7(b5) = X X 1 2 2 2
+D/A = X 0 X 2 3 2
+D/E = X X 2 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+E4/7 = 0 2 0 2 0 X
+E7 = 0 2 2 1 3 0
+E7/G# = 4 X 2 4 3 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G#7(#5) = 4 X 4 5 5 4
+G6 = 3 X 2 4 3 X

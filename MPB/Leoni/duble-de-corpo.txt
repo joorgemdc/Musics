@@ -1,0 +1,69 @@
+Leoni - Dublê de Corpo
+
+[Intro:] Em7/9 Em7(9)/D A/C# A Bm A G A
+                                                                       G    A
+E|-----------------------|----------------|                        |--3-3--5-5----|
+B|----------10--7--------|----------------|   e no final da 2° vez:|--3-3--5-5----|
+G|-------7---------7--9--|-9--7--6--------|                        |--4-4--6-6----|
+D|--7/9------------------|----------9--7--|                        |--5-5--7-7----|
+A|-----------------------|----------------|                        |--5-5--7-7----|
+E|-----------------------|----------------|(2x)                    |--3-3--5-5----|
+
+
+Em7/9          A/C# A   Bm       A           G   A
+Eu não reconheço mais, olhando as fotos do passado
+Em7/9              A/C# A        Bm        A        G    A
+O habitante do meu corpo, deste estranho dublê de retratos
+Em7/9         A/C# A      Bm   A           G    A
+Talvez até eu já vivesse em algum corpo emprestado
+Em7/9             A/C# A     Bm A       G  A
+Esperando só por você pra reunir meus pedaços
+
+G7+                    F#m7
+Foi tanta força que eu fiz por nada,
+
+Bm7                   A/G         Em F#5 G5 A5 B5
+Pra tanta gente eu me dei de graça
+G         G\A#         D9 D7+(9) D9 D7+(9)
+Só pra você eu me poupei
+
+Será que o tempo sempre disfarça,
+Tomara um dia isso tudo passa
+Desculpa as mágoas que eu deixei
+
+Eu já dei a outra alma aos bruxos e vampiros
+Eu quero que eles façam a festa enquanto eu me retiro
+Só você sentiu por mim, o que nem eu sentiria
+Você foi o meu escudo, e eu a própria covardia
+
+Bb7+             Bm7           Bb7+             Bm7
+Se você ainda acreditar, eu prometo dublar seu corpo
+Bb7+             Bm7
+Te proteger, te poupar das dores,
+   Dm
+Te devolver o amor em dobro
+C7+                   A/C#
+Não se ama, amor, em vão
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A5 = X 0 2 2 X X
+B5 = X 2 4 4 X X
+Bb7+ = X 1 3 2 3 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C7+ = X 3 2 0 0 X
+D7+(9) = X 5 4 6 5 X
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Em = 0 2 2 0 0 0
+Em7(9)/D = 10 9 9 P12 12 12
+Em7/9 = X 7 5 7 7 X
+F#5 = 2 4 4 X X X
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G5 = 3 5 5 X X X
+G7+ = 3 X 4 4 3 X

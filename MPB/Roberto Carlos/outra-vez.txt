@@ -1,0 +1,150 @@
+Roberto Carlos - Outra Vez
+
+[Intro]  Bm7(9)  G9  Em7  A4(9)
+
+E|---4-5-2---4-5-2---------------|
+B|-------------------------------|
+G|-4-------4---------------------|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+
+[Primeira Parte]
+
+      D    
+Você foi o maior 
+          Bm7
+Dos meus casos
+               Em7
+De todos os abraços
+                   A7
+O que eu nunca esqueci
+      G               
+Você foi, dos amores 
+        Gm6  
+Que eu tive
+              D9
+O mais complicado e 
+                    F#m4(7) 
+O mais simples pra mim
+
+      F7(9)                D6
+Você foi o melhor dos meus erros
+              G6(7M)
+A mais estranha história
+              Gm6
+Que alguém já escreveu
+D9
+  E é por essas e outras
+  D#7                        G6(7M)
+Que a minha saudade faz lembrar
+             A4(6)  A9
+De tudo outra vez
+
+[Segunda Parte]
+
+      D
+Você foi
+      Bm7
+A mentira sincera
+       Em7           
+Brincadeira mais séria 
+              A7
+Que me aconteceu
+      G7M
+Você foi
+               Gm6
+O caso mais antigo
+              D9
+O amor mais amigo 
+             F#m4(7)
+Que me apareceu
+          F7(9)          
+Das lembranças que
+             D6
+Eu trago na vida
+     G6(7M)                 
+Você é a saudade que 
+             Gm6
+Eu gosto de ter
+      D9          Em9           
+Só assim sinto você 
+              A9
+Bem perto de mim
+       D
+Outra vez
+
+[Refrão]
+
+      A
+Esqueci de tentar te esquecer
+      D6(9)
+Resolvi te querer por querer
+     C#7                    
+Decidi   te lembrar quantas 
+                F#m4
+Vezes eu tenha vontade
+               A4  A5+
+Sem nada perder
+
+[Final]
+
+      D
+Você foi
+        Bm7
+Toda a felicidade
+              G6(7M) 
+Você foi a maldade 
+               A4(9)
+Que só me fez bem
+      G
+Você foi
+                    Gm6
+O melhor dos meus planos
+                D9
+E o pior dos enganos 
+               F#m4(6)
+Que eu pude fazer
+         G6(7M)  
+Das lembranças 
+                 A9
+Que eu trago na vida
+             F#m4(6)    
+Você é a saudade 
+                 Gm6
+Que eu gosto de ter
+      D9        
+Só assim 
+                G6(7M)
+Sinto você bem perto 
+    A6(9)
+De mim
+       D
+Outra vez
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A4 = X 0 2 2 3 0
+A4(6) = 5 4 2 2 3 2
+A4(9) = X 0 2 4 3 0
+A5+ = X 0 3 2 2 0
+A6(9) = 5 4 4 4 X X
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+D#7 = X 6 5 6 4 X
+D6 = X 5 4 2 0 X
+D6(9) = X 5 4 2 0 0
+D9 = X X 0 2 3 0
+Em7 = 0 2 2 0 3 0
+Em9 = 0 2 4 0 0 0
+F#m4 = 2 2 4 2 2 2
+F#m4(7) = 2 X 2 2 0 X
+F7(9) = X X 3 2 4 3
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X
+G9 = 3 X 0 2 0 X
+Gm6 = 3 X 2 3 3 X

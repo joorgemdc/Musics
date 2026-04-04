@@ -1,0 +1,48 @@
+Toquinho - Onde anda você
+
+Vinícius de Moraes / Hermano Silva
+
+[Intro:] D7(9) G6(9) C7M Em7 D#m7 Dm7 G6(9) C7M C
+
+      A7(b13)    D7(9)            G6(9)
+E por falar em saudade onde anda você
+   C#7(b5)     C7M                    Em7
+Onde andam seus olhos que a gente não vê
+    D#m7       Dm7                G6(9)    C#7(b5)   C7M C
+Onde anda esse corpo que me deixou morto de tanto prazer
+
+      A7(b13)   D7(9)               G6(9)
+E por falar em beleza onde anda a canção
+       C#7(b5)  C7M                  Em7
+Que se ouvia na noite dos bares de então
+       D#m7    Dm7            G6(9)                     Gm7 C7(b9)
+Onde a gente ficava, onde a gente se amava em total solidão
+
+      F#m7(b5)          Fm6         Em7             A7(b5)
+Hoje eu saio da noite vazia, uma boemia sem razão de ser
+   D#7(b5)   D7(9)         G6(9)              C#7(b5) F7(b13) Em7(9)
+Na rotina dos bares, que apesar dos pesares me trazem você
+
+      A7(b13)   F#m7(b5)             Fm6                 Em7        A7(b5)
+E por falar em paixão, em razão de viver, você bem que podia me aparecer
+     D#7(b5)   D7(9)          G6(9)      C#7(b5)        C7M C A7(b13)
+Nesses mesmos lugares, na noite, nos bares, onde anda você
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+A7(b5) = X 0 1 0 2 X
+C = X 3 2 0 1 0
+C#7(b5) = X 4 5 4 6 X
+C7(b9) = X 3 2 3 2 X
+C7M = X 3 2 0 0 X
+D#7(b5) = X X 1 2 2 3
+D#m7 = X X 1 3 2 2
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#m7(b5) = 2 X 2 2 1 X
+F7(b13) = 1 X 1 2 2 1
+Fm6 = 1 X 0 1 1 X
+G6(9) = X X 5 4 5 5
+Gm7 = 3 X 3 3 3 X

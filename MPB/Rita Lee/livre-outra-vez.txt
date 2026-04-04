@@ -1,0 +1,47 @@
+Rita Lee - Livre Outra Vez
+
+intro : C  Am7  F7+  G
+
+             C7+   Am7
+  Doença de amor
+              F7+   G
+  Só cura com outro
+            Dm7            G7
+  O meu coração precisa paixão
+             Em7/5-  A7  Dm7  G7
+  Senão bate pouco
+
+              C7+  Am7
+  Me disfarço bem
+              F7+   G
+  Cantando baixinho
+              Dm7
+  Olhando pro céu
+               G7               C
+  Impossível alguém se sentir sozinho
+
+F7+
+  Vou subir numa montanha bem alta,
+
+Fm                                    C
+  Vou chorar, gritar, xingar até ficar exausta
+F7+
+  Se perder mais um jogo e outro amor
+Fm                                       C    A4/7
+  É sinal que a sorte me deixou em xeque-mate
+  A7    D7        G7      (C  Am7  F7+  G)
+  Livre outra vez,   no xadrez!
+
+----------------- Acordes -----------------
+A4/7 = X 0 2 0 3 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Em7/5- = X X 2 3 3 3
+F7+ = 1 X 2 2 1 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

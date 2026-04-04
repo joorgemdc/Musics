@@ -1,0 +1,96 @@
+Chico Buarque - A Mulher de Cada Porto
+
+(De: Chico Buarque & Edu Lobo)
+
+Intr.: C7M(9) / / / Fm6/C / / / C7M(9) / Gm6/Bb / A7(b13) / A7 / Am6 / / /
+       Fm6/Ab / / / C7M / / / G7/4(9) /
+
+G7(9/13)              C7M(9)            G7/4(9) G7(9/13)       C7M
+        (ELE) Quem me dera  ficar, meu amor,            de uma vez
+G7/4(9) G7(9/13)      C7M(9)               Gb7(#5/#9)       F7M(9)
+                Mas escuta  o que dizem as on________das do mar
+Bb7(9/13)         A7/4(9)               A7(#11)     A7         D7(9)  D7(9)/A
+         Se eu me deixo  amarrar por um mês     Na amada de um por____to
+Fm6/Ab G7/4(9)    G7(9)    C7/4(9)                C7(9)                 A7/4(9)  A7(9)
+               Nou_____tro porto  outra amada é capaz  De outro amor amarrar, ah!
+      D7M(9)              F#7(#5/#9)                G7M(9)    C7(9)
+Minha vida, querida, não é          nenhum mar de ro______sas
+          F7M B7(9) Bb7M(9) A7(b13)          Dm7 Ab7(13) Db7M
+Chora não,                         vou voltar
+
+G7(9)              C7M(9)             G7/4(9) G7(9/13)         C7M
+     (ELA) Quem me dera  amarrar meu amor             quase um mês
+G7/4(9) G7(9/13)      C7M(9)               Gb7(#5/#9)        F7M(9)
+                Mas escuta  o que dizem as pe________dras do cais
+
+Bb7(9/13)         A7/4(9)              A7(#11)      A7        D7(9)  D7(9)/A
+         Se eu deixasse  juntar de uma vez    meus amores num por____to
+Fm6/Ab G7/4(9)      G7(9)   C7/4(9)           C7(9)             A7/4(9)   A7(9)
+               Trans_____bordava   a baía com todas as forças navais,  ah!
+      D7M(9)                  F#7(#5/#9)                G7M(9)    C7(9)
+Minha vi____da, querido, não é          nenhum mar de ro______sas
+          F7M B7(9) Bb7M(9) A7(b13)            Dm7 Ab7(13) Db7M G7(9)
+Volta não                          Segue em paz
+
+C7M(9) / / / G7/4(9) / G7(9/13) / C7M / / / G7/4(9) / G7(9/13) /
+C7M(9) / / / Gb7(#5/#9) / / / F7M(9) / / / Bb7(9/13) / / / A7/4(9) / / /
+A7(#11) / A7 / D7(9) / D7(9)/A / Fm6/Ab / G7/4(9) G7(9) C7/4(9) / / /
+C7(9) / / / A7/4(9) / / / A7(9) / / /
+
+                D7M(9)                     F#7(#5/#9)                G7M(9)    C7(9)
+(OS DOIS) Minha vi____da, querida(o), não é          nenhum mar de ro______sas
+               F7M B7(9) Bb7M(9) A7(b13)
+(ELE) Chora não
+                  Dm7 Ab7(13) Db7M G7(#5/#9) C7M
+(ELA) Segue em paz
+
+ACORDES:
+
+C7M(9)     - X3243X     D7(9)/A    - 5X455X
+Fm6/C      - X3313X     G7(9)      - 3X320X
+Gm6/Bb     - X12030     C7/4(9)    - X3333X
+A7(b13)    - 5X566X     C7(9)      - X3233X
+A7         - 5X565X     A7(9)      - X05420
+Am6        - 5X455X     D7M(9)     - X5465X
+Fm6/Ab     - 4X353X     F#7(#5/#9) - 2X2335
+C7M        - X32000     G7M(9)     - 3X4202
+G7/4(9)    - 3X321X     F7M        - 1X221X
+G7(9/13)   - 3X3200     B7(9)      - X2122X
+Gb7(#5/#9) - 2X2335     Bb7M(9)    - X1021X
+F7M(9)     - 1X2213     Dm7        - X5756X
+Bb7(9/13)  - 6X6533     Ab7(13)    - 4X456X
+A7/4(9)    - 5X543X     Db7M       - X46564
+A7(#11)    - 5X564X     G7(#5/#9)  - 3X3446
+D7(9)      - X5455X
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(#11) = X 0 1 0 2 X
+A7(9) = 5 X 5 4 2 X
+A7(b13) = X 0 X 0 2 1
+A7/4(9) = 5 X 5 4 3 X
+Ab7(13) = 4 X 4 5 6 X
+Am6 = 5 X 4 5 5 X
+B7(9) = X 2 1 2 2 X
+Bb7(9/13) = X 1 0 1 1 3
+Bb7M(9) = X 1 0 2 1 X
+C7(9) = X 3 2 3 3 X
+C7/4(9) = X 3 3 3 3 3
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+Db7M = X 4 6 5 6 4
+Dm7 = X 5 7 5 6 5
+F#7(#5/#9) = 2 X 2 2 3 2
+F7M = 1 X 2 2 1 X
+F7M(9) = X 8 7 9 8 X
+Fm6/Ab = 4 5 3 5 3 X
+Fm6/C = X 3 3 1 3 X
+G7(#5/#9) = 3 X 3 3 4 3
+G7(9) = 3 X 3 2 0 X
+G7(9/13) = 3 X 3 2 0 0
+G7/4(9) = 3 X 3 2 1 X
+G7M(9) = 3 2 4 2 X X
+Gb7(#5/#9) = 2 X 2 2 3 2
+Gm6/Bb = X 1 2 0 3 0

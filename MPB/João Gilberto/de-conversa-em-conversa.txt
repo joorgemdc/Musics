@@ -1,0 +1,55 @@
+João Gilberto - De Conversa em Conversa
+
+                  A7M
+De conversa em conversa
+              C#m7         Cm7    Bm7   Gb7(b13)
+Você vai arranjando um meio de brigar
+                   Bm7
+De palavra em palavra
+              E7(b9)             A7M  E7(#5)
+Você está querendo é nos separar
+           Dbm7                    Eb°
+Parece até que o destino uniu-se com você
+               Bm7  Gb7(b13)                Bm7
+Só pra me maltratar       E cada dia que passa
+         E7(b9)                     A7M    E7(#5)
+É mais uma tormenta que eu deixei ficar
+                     A7M
+Viver assim não adianta
+            C#m7   Cm7    Bm7   Gb7(b13)
+É melhor juntarmos nossos trapos
+                   Bm7
+Ajunte tudo que é seu
+                  D7              Db7
+Que eu vou separando os meus farrapos
+
+Gb7               D7M                     Dm6
+Vivendo dessa maneira    Continuar é besteira
+                 Dbm7          G7       Gb7
+Não adianta    não,      não,      não
+                 Bm7
+O que passou é poeira
+             E7(b9)                   A7M
+Deixa de asneira que eu não sou limão
+Dm7          A7M
+Não sou limão eu não
+Dm7          A7M
+Não sou limão eu não
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+Db7 = X 4 3 4 2 X
+Dbm7 = X 4 6 4 5 4
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+E7(#5) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+Eb° = X X 1 2 1 2
+G7 = 3 5 3 4 3 3
+Gb7 = 2 4 2 3 2 2
+Gb7(b13) = 2 X 2 3 3 2

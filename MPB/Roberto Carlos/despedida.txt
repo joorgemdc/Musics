@@ -1,0 +1,54 @@
+Roberto Carlos - Despedida
+
+D                  D7M       D6  D7M
+Já está chegando a hora de ir
+ D                  D7M        Em  A7
+Venho aqui me despedir e dizer
+  Em                   A7        Em A7
+Em qualquer lugar por onde eu andar
+       Em   Am   D  D7M  D6  D7M
+Vou lembrar de você
+
+  D                D7M        D6  D7M
+Só me resta agora dizer adeus
+ D                D7      G
+E depois o meu caminho seguir
+                          F#m
+O meu coração aqui vou deixar
+               B7         Em
+Não ligue se acaso eu chorar
+    A7      D   D7M  D6  D7M  D
+Mas agora adeus
+
+D                D7M          D6  D7M
+Só me resta agora dizer adeus
+ D                D7      G
+E depois o meu caminho seguir
+                          F#m
+O meu coração aqui vou deixar
+               B7         Em
+Não ligue se acaso eu chorar
+     A7     D    D7M  D6  D7M  D
+Mas agora adeus
+
+    D           D7+   D6 D7+  D          D7+    Em7 A7  Em7                A7   Em7    D D7+ D6 D7+
+E|--------------------------------------------------------------------------------------|
+B|---------------2-0-----------------------3-2------------------------3-2-2-2-0-0-------|
+G|--------------------------------------------------------------------------------4-2-2-|
+D|-4-2-4-2-4-2-4-----4-------4-2-4-2-4-2-4-----5--------5-4-5-4-5-4-5-------------------|
+A|--------------------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------------------|
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+D7M = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

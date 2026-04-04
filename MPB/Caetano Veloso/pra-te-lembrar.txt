@@ -1,0 +1,55 @@
+Caetano Veloso - Pra Te Lembrar
+
+Intro: E A G# C#m
+       C#m/C  C#m7/B  A
+
+E               A          G#4/7 G#7   C#m    C#m/C
+O que que vou fazer pra te esquecer. Sempre que já nem me lembro
+ C#m7/B    C#m7/Bb            A       G#      C#m                  C#7
+Lembras pra mim. Cada sonho teu me abraça ao acordar como um anjo lindo
+ A             B/A       A      B/A         A     B/A           G#
+Mais leve que o ar, tão doce de olhar. Que nem um adeus pode apagar
+E               A          G#4/7 G#7   C#m    C#m/C
+O que e que vou fazer pra te deixar. Sempre que eu apreço o passo.
+C#m7/B    C#m7/Bb        A           G#       C#m                  C#7
+Passas por mim, e o silencio teu me pede pra voltar ao te ver seguindo.
+A             B/A       A      B/A         A     B/A           G#
+Mais leve que o ar, tão doce de olhar. Que nem um adeus pode apagar
+
+Solo: E    A    G#4/7    G#7    C#m    C#m/C    C#m7/B    C#m7/Bb
+E|--------------------------------------------------9-12-9----9----|
+B|-9----------------12-------9--9-10-9-10-9-10-9-10--------12------|
+G|---11-9-8-6-5--------11-9----------------------------------------|
+D|--------------7-6------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+
+A G#             C#m               C#7
+Me abrace ao acordar como um anjo lindo
+ A             B/A       A      B/A         A     B/A          G#
+Mais leve que o ar, tão doce de olhar. Que nem um adeus pode apagar
+E                    A          G#4/7 G#7   C#m         C#m/C       C#m7/B   C#m7/Bb
+O que e que eu vou fazer pra te lembrar. Como tantas que eu conheço esqueço de amar.
+                 A       G#           C#m              C#7
+Bem que espelho teu, sou eu que vou estar, a ti ver sorrindo
+A             B/A       A      B/A         A     B/A           G#
+Mais leve que o ar, tão doce de olhar. Que nem um adeus vai apagar
+E              F#m7      G#m7    F#m7      G#m7    F#m7        E
+Mais leve que o ar, tão doce de olhar. Que nem um adeus vai apagar
+    G#m7       F#m7     G#m7     F#m7       G#m7   F#m7         E
+Mais leve que o ar, tão doce de olhar. Que nem um adeus vai apagar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B/A = X 0 4 4 4 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m/C = X 3 2 1 2 0
+C#m7/B = 7 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G#4/7 = 4 6 4 6 4 X
+G#7 = 4 6 4 5 4 4
+G#m7 = 4 X 4 4 4 X

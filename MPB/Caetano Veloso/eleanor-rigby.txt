@@ -1,0 +1,88 @@
+Caetano Veloso - Eleanor Rigby
+
+4/4
+
+
+C/G         [C/A  >   C]    Em* Em/D Em/C  [ Em/B > Em/A ]    
+Ah! look at all the lonely people.
+
+C/G         [C/A  >   C]    Em* Em/D [ Em/C > Em/B > Em/A > Em/G ]  
+Ah! look at all the lonely people.
+
+Em
+Eleanor Rigby,
+[Em/F    >     Em/G   >   Em/A     >    Em/B]      C6
+Picks up the rice in a church where a wedding has been,
+             
+Lives in a dream
+Em*
+Waits at the window
+Em/D#                    [ Em/D   >   Em/C# ]    C6
+Wearing the face that she keeps in a jar by the door
+           
+Who is it for?
+
+Em7/G          Em6/A
+All the lonely people
+       C                 Em
+Where do they all come from?
+Em7/G          Em6/A
+All the lonely people
+       C            Em
+Where do they all belong?
+
+Father McKenzie
+Writing the words of a sermon that no one will hear
+No one comes near.
+Look at him working,
+Darning his socks in the night when there's nobody there
+What does he care?
+
+Eleanor Rigby
+Died in the church and was buried along with her name
+Nobody came
+Father McKenzie
+Wiping the dirt from his hands as he walks from the grave
+No one was saved.
+
+
+
+Acordes:
+        EADGBe
+C/G    -3X201X
+Em     -0X200X
+Em*    -XX2000
+Em/D   -XX0000
+Em/C   -X3200X
+Em/B   -X2200X
+Em/A   -X0200X
+Em/G   -3X200X
+Em/F   -1X200X
+C6     -X3221X
+Em/D#  -XX1000
+Em/C#  -X4200X
+Em7/G  -3X203X
+Em6/A  -X0202X
+
+
+Obs: O símbolo '>' indica passagem imediata de um acorde para outro. Por exemplo no trecho: 
+[Em/F > Em/G > Em/A > Em/B]
+cada acorde é tocado uma única vez e seguido imediatamente pelo
+próximo. Na prática o que ocorre é uma progressão cromática de
+baixos para um mesmo acorde básico.
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+C/A = X 0 2 0 1 0
+C/G = 3 3 2 X 1 X
+C6 = 8 X 7 9 8 X
+Em = 0 2 2 0 0 0
+Em/A = X 0 2 0 0 X
+Em/B = X 2 2 0 0 0
+Em/C = 8 7 5 X 8 X
+Em/C# = X 4 2 0 0 X
+Em/D = X X 0 4 5 3
+Em/D# = X X 1 0 0 0
+Em/F = 1 X X 0 0 0
+Em/G = 3 X 2 4 5 X
+Em7/G = 3 X 2 4 3 X

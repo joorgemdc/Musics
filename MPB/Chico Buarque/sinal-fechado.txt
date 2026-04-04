@@ -1,0 +1,84 @@
+Chico Buarque - Sinal Fechado
+
+[Intro:] Dm9 Dm9/C Bb7M A7(b13) Bb7M Gm7 A7 Gm7/Bb Dm(b5)
+
+                Dm7(9)
+- Olá! Como vai?
+                           Dm6(9) A7/C#
+- Eu vou indo. E você, tudo bem?
+                   Dm                  Dm9
+- Tudo bem! Eu vou indo, correndo pegar
+              Dm          Dm6(9)
+Meu lugar no futuro... E você?
+                  Bbm6
+- Tudo bem! Eu vou indo, em busca de um sono tranqüilo...
+  F       Dm/C
+Quem sabe?
+        Bm7(b5)
+- Quanto tempo!
+                   A7(b9) Dm G7(9) Dm
+- Pois é, quanto tempo!
+
+                         Gm6
+- Me perdoe a pressa, é a alma dos nossos negócios!
+
+       F             Dm           Gm6         A7(b9) Em7(b5)
+- Oh! Não tem de quê! Eu também só ando a cem!
+                                   Bb/F
+- Quando é que você telefona? Precisamos nos ver por aí!
+       Gm/Bb                                 Em7(b5)/Bb A7
+- Pra semana, prometo, talvez nos vejamos...Quem sabe?
+       Bm7(b5)
+- Quanto tempo!
+                 A7(b9) Dm9 Dm9/C Bb7M Gm7 A7 Dm Dm(b5)
+- Pois é...quanto tempo!
+
+                                  Dm9
+- Tanta coisa que eu tinha a dizer,
+                               Bb/F
+Mas eu sumi na poeira das ruas...
+                                                Em7(11) Em7(b5) Gm
+- Eu também tenho algo a dizer, mas me foge à lembrança!
+                                          Bb/F                   Em7(b5)
+- Por favor, telefone, eu preciso beber alguma coisa, rapidamente...
+- Pra semana...
+         Bb/F
+- O sinal...
+- Eu procuro você...
+            Em7(b5)
+- Vai abrir...
+- Prometo, não esqueço...
+                    Bb/F            Em7(b5)
+- Por favor, não esqueça, por favor...
+- Adeus!
+               Bb/F
+- Não esqueço...
+- Adeus!
+        Em7(b5) Bb/F
+- Adeus!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+A7/C# = X 4 5 2 5 X
+Bb/F = X 8 8 7 6 X
+Bb7M = X 1 3 2 3 1
+Bbm6 = 6 X 5 6 6 X
+Bm7(b5) = X 2 3 2 3 X
+Dm = X X 0 2 3 1
+Dm(b5) = X X 0 1 3 1
+Dm/C = X 3 X 2 3 1
+Dm6(9) = X 5 3 4 5 X
+Dm7(9) = X 5 3 5 5 X
+Dm9 = X 5 7 9 6 5
+Dm9/C = X 3 3 2 5 X
+Em7(11) = X 7 X 7 8 5
+Em7(b5) = X X 2 3 3 3
+F = 1 3 3 2 1 1
+G7(9) = 3 X 3 2 0 X
+Gm = 3 5 5 3 3 3
+Gm/Bb = 6 5 5 3 X X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7/Bb = 6 X 5 7 6 X

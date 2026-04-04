@@ -1,0 +1,113 @@
+Fagner - Tanto Faz
+
+Intro:
+
+F#  F#m  E     F#  F#m  E
+
+1ª Parte
+
+E              G#7
+Tanto faz pra você, Eu sei
+C#m
+tanto faz
+
+Cm                   E
+Sei que me enganei
+
+A
+Não dá mais
+
+          B
+Pra viver de ilusão
+
+     G#m      C#4(7)       C#7
+Deixei sofrer meu coração
+
+
+    F#m     Am      B
+No chão fiquei em vão
+
+2ª Parte
+           E
+Sem você
+
+     G#7
+ A vida é sem sentido
+
+
+C#m
+Sem você
+         Cm         E
+Me perdi no paraíso
+      A
+Quero saber
+      B
+Se ainda pensa em mim
+      G#m  C#4(7)         C#7
+Porque o tempo que durou
+       F#m          Am      E         F#m  B7
+Foi bom, nós dois as sós
+
+Refrão:
+
+
+                  E
+Não vem dizer pra mim
+    G#m7       C#m
+Que você sabe amar
+              G#m7
+Como posso sorrir
+                  C#m
+Se você me fez chorar
+
+Quando o verão
+   A
+Passou por mim
+   E7+   F#m
+Chorei o mar
+Am        B      B7
+Esfriei o sol
+
+
+              G#m
+Eu deixei queimar
+          C#m
+O meu coração
+              G#m
+Eu fiquei tão mal
+                 C#m
+Tão só com a solidão
+              F#m
+Mas o inverno vai passar
+               Am
+E esse dia vai chegar
+               B      B7
+E você vai voltar pra mim
+    E      C#m
+Eu sei, eu sei
+
+       G#m
+Vai voltar
+
+Solo:       F#m   G#m  Am   B
+
+Refrão
+
+Final : F#  F#m  E     F#  F#m  E
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C#4(7) = X 4 4 6 0 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+Cm = X 3 5 5 4 3
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

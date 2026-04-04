@@ -1,0 +1,57 @@
+Djavan - Maria Das Mercedes
+
+[Intro] E7(#9)  G7(13)  F#11  B7
+
+   E7(#9)        G7(13)  F#11     B7         E7(#9)  G7(13)  F#11  B7
+Eu tenho  uma na----mora----da vi----va no interior
+   E7(#9)     G7(13)   F#11        F7            E7(#9)  G7(13)  F#11  B7
+Maria    das    Merce|-----des, lin----da como um beija--flor
+   E7(#9)        G7(13)   F#11     F7          E7(#9)        G7(13)  F#11  B7
+Ontem    eu rece|--bi car----ta de|---la cheirando     a fulô
+     E7(#9)       G7(13)   F#11       F7           E7(#9)   G7(13)  F#11  B7
+"Meu nego,  estou    intac-----ta, pu----ra volte, por    favor"
+
+           E7(#9)  G7(13)  F#11  B7        E7(#9)     G7(13)  F#11  B7
+Lá pros quarenta             lá pros quarenta   eu vou
+           E7(#9)  G7(13)  F#11  B7        E7(#9)     G7(13)  F#11  B7
+Lá pros quarenta             lá pros quarenta   eu vou
+
+         Am7       D7(9)         G7M            C7(9)
+Eu quis     escre|-------ver pro ve|----lho ende|-------reço
+      F#m7(b5)                     B7(b9)
+Sobre tudo     que eu conheço da cidade   grande
+         Bm7(b5)                E7(b13)
+Como fui infame,  esqueci o seu sobrenome
+
+
+     Am7         D7(9)               G7M
+Se é Pereira, Mo-------reira, Ferrei-----ra
+       C7(9)                   F#m7(b5)
+Só sei       que acaba com "ei----------ra"
+     B7(b9)         Bm7(b5)    E7(b13)
+Como aquela  bananei---------ra
+
+     Am7         D7(9)               G7M
+Se é Pereira, Mo-------reira, Ferrei-----ra
+       C7(9)                   F#m7(b5)
+Só sei       que acaba com "ei----------ra"
+     B7(b9)         Em7(9)    A7(13)
+Como aquela bananei--------ra
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+Bm7(b5) = X 2 3 2 3 X
+C7(9) = X 3 2 3 3 X
+D7(9) = X 5 4 5 5 X
+E7(#9) = X 7 6 7 8 X
+E7(b13) = 0 X 0 1 1 0
+Em7(9) = X 7 5 7 7 X
+F#11 = 2 4 4 4 2 2
+F#m7(b5) = 2 X 2 2 1 X
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,63 @@
+Jorge Vercillo - Nos Espelhos
+
+E7M(9)               A7M(9)
+Aton, atum, Aton, atol, Miró, miramar...
+   C#m7(9) E7M/B G#m7               Gm7
+Aton, atum,    Aton, atol, Miró, miramar...
+      F#m7           B7(4)(9)
+Aton, atum, Aton, atum...
+
+E7M(9)                                        A7M(9)
+Não vou te negar, você me dá prazer
+           E7M(9)                        A7M(9)
+Mas pra nós nem tudo é tão assim
+      C#m7(9) E7M/B G#m7 Gm7
+Nos espelhos  do querer
+F#m7         G     C7M  B7(4)(9)
+Quando olhei, já nem me vi
+
+G#m7             C#7(b9)
+Para de me projetar
+F#7                           B7
+Nesse papel tão comum!
+G#m7                   C#7(b9) F#7                       C7    B7
+Onde você quer chegar,       indo a lugar nenhum?
+
+
+            E7M(9)                      F#m7
+Eu não entendo, eu não te entendo
+             B7(4)(9)                        E7M(9)
+Diz que me ama e tá sempre correndo
+                                                 F#m7
+Tô só te vendo, vendo, vendo, vendo
+            B7(4)(9)                          E7M(9)
+Eu não entendo, juro eu não te entendo
+
+Mandou um e-mail, diz que tá chegando
+E eu nunca sei se a gente é pra valer
+Decide e sai de cima desse muro!
+Eu não entendo, juro, eu não te entendo
+
+                         G9                         Am7
+Mandou um e-mail, diz que tá chegando
+             D7(4)(9)                         G9
+No fim da noite, chega e sai correndo
+
+----------------- Acordes -----------------
+A7M(9) = X 0 2 1 0 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(4)(9) = X 2 2 2 2 2
+C#7(b9) = X 4 3 4 3 X
+C#m7(9) = X 4 2 4 4 X
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D7(4)(9) = X 5 5 5 5 5
+E7M(9) = X 7 6 8 7 X
+E7M/B = X 2 2 1 4 X
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G9 = 3 X 0 2 0 X
+Gm7 = 3 X 3 3 3 X

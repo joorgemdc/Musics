@@ -1,0 +1,74 @@
+Chico Buarque - Vence Na Vida Quem Diz Sim
+
+Intro: [E B/E C#m A] C#
+
+
+F#        B            F#  C#4 C#
+Vence na vida quem diz sim
+F#        B            F#  C#4 C#
+Vence na vida quem diz sim
+ F#           B
+Se te dói o corpo, diz que sim
+ F#             C#4   C#
+Torcem mais um pouco, diz que sim
+ F#           B
+Se te dão um soco, diz que sim
+ F#           C#4   C#
+Se te deixam louco, diz que sim
+F#                 B                 D#m
+Se te tratam no chicote, babam no cangote
+                           G#m      C#       D
+Baixa o rosto e aprende o mote, olha bem pra mim
+ A         D            A  D/E
+Vence na vida quem diz sim
+
+ A         D            A  D/E
+Vence na vida quem diz sim
+ A             D/E
+Se te mandam flores, diz que sim
+ A              D/E
+Se te dizem horrores, diz que sim
+ A            D/E
+Mandam pra cozinha, diz que sim
+ A            D/E
+Chamam pra caminha, diz que sim
+ A              D                   F#m
+Se te chamam vagabunda, montam na cacunda
+                Bm          E       A
+Se te largam moribunda olha bem pra mim
+ A         D            A  D/E
+Vence na vida quem diz sim
+ A         D            A  D/E
+Vence na vida quem diz sim
+ A             D
+Se te erguem a taça, diz que sim
+ A             D/E
+Se te xingam a raça, diz que sim
+ A              D
+Se te culpam a alma, diz que sim
+ A            D/E
+Se te pedem calma, diz que sim
+ A                      D                F#m
+Se já estás virando um caco, vives num buraco
+              Bm           E       A
+E se é do balacobaco olha bem pra mim
+ A         D            A  D/E
+Vence na vida quem diz sim
+ A         D            A  D/E
+Vence na vida quem diz sim
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B/E = X 7 9 8 7 7
+Bm = X 2 4 4 3 2
+C# = X 4 6 6 6 4
+C#4 = X 4 4 1 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m = X X 1 3 4 2
+D/E = X X 2 2 3 2
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#m = 4 6 6 4 4 4

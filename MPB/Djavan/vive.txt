@@ -1,0 +1,60 @@
+Djavan - Vive
+
+Intro:  G7M  G7M(9)  C7M(9)  D7(9)  C/D (2x)
+        G7M  Em7(9)  Am7  D7(9)
+
+1ªParte:
+      Em       Cm6/Eb  G/D          Dbm7(b5) F#7(b13)
+  É inútil chorar,    noites enveredar
+    Bm7     Bb°    Am7  D7(9)
+  Ruir por nada assim...
+         Em     Cm6/Eb  G/D                  Dbm7(b5) F#7(b13)
+  Minha vida é sua     como o marinheiro do mar
+      Bm7      Bb°     Am7  D7(9)
+  Sofrer, não há por que!
+
+Refrão 1:
+        G7M                 Bb°           Am7    C/D  D7(9)
+  Desencana meu amor, tudo seu é muita dor, vive...
+           G7M                  Bb°(b13)        Am7    C/D  D7(9)
+  Deixa o tempo resolver o que tem que acontecer livre!
+
+2ªParte:
+                     C#m7(b5)  Cm6     Bm7             Bb°
+  Tanto o que eu sonhei          nos amar à pleno vapor
+
+                   C#m7(b5)  Cm6     Bm7   Bb°        Am7               D7(9)
+  Tanto o que eu quis          fazê-la estrela da sagração de um ser feliz
+
+Refrão 2:
+        G7M                    Bb°             Am7    C/D  D7(9)
+  Desinflama meu amor, do seu jeito é muita dor, vive...
+           G7M                  Bb°(b13)        Am7    C/D  D7(9)
+  Deixa o tempo resolver, se tiver que acontecer, vive.
+        G7M                 Bb°           Am7    C/D  D7(9)
+  Desencana meu amor, tudo seu é muita dor, vive...
+           G7M                  Bb°(b13)        Am7    C/D  D7(9)
+  Deixa o tempo resolver o que tem que acontecer livre!
+
+Introdução¹,Introdução²,2ªParte e Refrão 2
+
+Introdução¹ 2x
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bb° = X 1 2 0 2 0
+Bb°(b13) = X 1 X 0 2 2
+Bm7 = X 2 4 2 3 2
+C#m7(b5) = X 4 5 4 5 X
+C/D = X X 0 0 1 0
+C7M(9) = X 3 2 4 3 X
+Cm6 = X 3 X 2 4 3
+Cm6/Eb = X X 1 2 1 3
+D7(9) = X 5 4 5 5 X
+Dbm7(b5) = X 4 5 4 5 X
+Em = 0 2 2 0 0 0
+Em7(9) = X 7 5 7 7 X
+F#7(b13) = 2 X 2 3 3 2
+G/D = X 5 5 4 3 X
+G7M = 3 X 4 4 3 X
+G7M(9) = 3 2 4 2 X X

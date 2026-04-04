@@ -1,0 +1,81 @@
+Ivan Lins - Daquilo que eu Sei
+
+[Intro:] A G/A
+         D7M(9) D6(9) D(5+/9) D7M(9) D6(9) A/B A7(b9) Em7(9) G/A F#7(b13) A/B G/A
+
+              D7M(9) D6(9)
+Daquilo que eu sei
+  B7(b13)          G7M
+Nem tudo me deu clareza
+  F#7(b13)       Bm7(9)
+Nem tudo foi permitido
+    Am7    D7(9)   F/G Bb7(13) G/A
+Nem tudo me deu certeza
+  A7(13)      D7M(9) D6(9)
+Daquilo que eu sei
+  B7(b13)        G7M
+Nem tudo foi proibido
+  F#7(b13)        Bm7(9)
+Nem tudo me foi possível
+    Am7     D7(9) F/G G7(9) Bb/C
+Nem tudo foi concebido
+
+F7M         Ab/Bb  Bb7(13)
+Não fechei os olhos
+C7M(9)         G/A  A7(9)
+Não tapei os ouvidos
+     A6             B/A
+Cheirei, toquei, provei
+      G#m7(9)        C#7(4/13) C#7(13)
+Ah! Eu usei todos os sentidos
+
+ F#7M(9)     F7(b5/9)
+Só não lavei as mãos
+Bb7(b13) Ebm7(9)    Ab7(9)(#11)
+E é por isso que eu me sinto
+F#/C#      C#7(b5/9)
+Cada vez mais limpo
+B/C#          B7M Bb7(b13)
+Cada vez mais lim...po
+Ebm7(9)    Ab7(9)(#11) B/C# G/A
+Cada vez mais limpo
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A6 = 5 X 4 6 5 X
+A7(13) = X 0 X 0 2 2
+A7(9) = 5 X 5 4 2 X
+A7(b9) = 5 X 5 3 2 X
+Ab/Bb = X 1 1 1 1 X
+Ab7(9)(#11) = 4 3 4 3 3 X
+Am7 = X 0 2 0 1 0
+B/A = X 0 4 4 4 X
+B/C# = X 6 X 4 7 7
+B7(b13) = X 2 X 2 4 3
+B7M = X 2 4 3 4 2
+Bb/C = X 3 X 3 3 1
+Bb7(13) = 6 X 6 7 8 X
+Bb7(b13) = X 1 X 1 3 2
+Bm7(9) = X 2 0 2 2 X
+C#7(13) = X 4 X 4 6 6
+C#7(4/13) = X 4 6 4 7 6
+C#7(b5/9) = X 4 3 4 4 3
+C7M(9) = X 3 2 4 3 X
+D(5+/9) = X 5 8 7 5 5
+D6(9) = X 5 4 2 0 0
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+Ebm7(9) = X 6 4 6 6 X
+Em7(9) = X 7 5 7 7 X
+F#/C# = X 4 4 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7M(9) = 2 1 3 1 X X
+F/G = 3 X 3 2 1 X
+F7(b5/9) = 1 0 1 0 0 X
+F7M = 1 X 2 2 1 X
+G#m7(9) = X X 6 4 7 6
+G/A = 5 X 5 4 3 X
+G7(9) = 3 X 3 2 0 X
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,100 @@
+Tom Jobim - Cavaleiro Monge
+
+
+             Fm
+Do vale à montanha
+      Bb       Fm
+Da montanha ao monte
+          Eb/F
+Cavalo de sombra
+          Ab7+/9
+Cavaleiro monge
+               Fm
+Por casas, por prados
+        Bb       Fm
+Por quinta e por fonte
+             Ab7+/9  Eb7(9/4)  Ab7+/9
+Caminhais aliados
+             Fm7
+Do vale à montanha
+      Bb7      Fm7
+Da montanha ao monte
+          Eb/F
+Cavalo de sombra
+
+          Ab7+/9
+Cavaleiro monge
+              D7/9+
+Por penhascos pretos
+          C#7+/9
+Atrás e defronte
+            Gb6(5-/7+)
+Caminhais secretos
+             Fm
+Do vale à montanha
+      Bb       Fm
+Da montanha ao monte
+          Eb/F
+Cavalo de sombra
+          Ab7+/9
+Cavaleiro monge
+              Fm
+Por plainos desertos
+        Bb  Fm
+Sem ter horizontes
+    Cm      F
+Caminhais libertos
+             F#m
+Do vale à montanha
+      B        F#m
+Da montanha ao monte
+          E/F#
+Cavalo de sombra
+          A7+/9
+Cavaleiro monge
+             Eb7/9+
+Por ínvios caminhos
+             D7+/9
+Por rios sem ponte
+           C#m7
+Caminhos sozinhos
+             Gm
+Do vale à montanha
+      C        Gm
+Da montanha ao monte
+          F/G
+Cavalo de sombra
+          Bb7+/9
+Cavaleiro monge
+                 Gm
+Por quanto é sem fim
+       C          Gm
+Sem ninguém que o conte
+             Ab7+/9    G
+Caminhais em mim.
+
+----------------- Acordes -----------------
+A7+/9 = X 0 2 1 0 0
+Ab7+/9 = 4 3 5 3 X X
+B = X 2 4 4 4 2
+Bb = X 1 3 3 3 1
+Bb7 = X 1 3 1 3 1
+Bb7+/9 = X 1 0 2 1 X
+C = X 3 2 0 1 0
+C#7+/9 = X 4 3 5 4 X
+C#m7 = X 4 6 4 5 4
+Cm = X 3 5 5 4 3
+D7+/9 = X 5 4 6 5 X
+D7/9+ = X 5 4 5 6 X
+E/F# = X X 4 4 5 4
+Eb/F = X 8 8 8 8 X
+Eb7(9/4) = X X 1 1 2 1
+Eb7/9+ = X 6 5 6 7 X
+F = 1 3 3 2 1 1
+F#m = 2 4 4 2 2 2
+F/G = 3 X 3 2 1 X
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+Gb6(5-/7+) = 2 1 1 3 1 1
+Gm = 3 5 5 3 3 3

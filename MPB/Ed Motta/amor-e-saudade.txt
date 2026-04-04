@@ -1,0 +1,73 @@
+Ed Motta - Amor e Saudade
+
+[Intro] C7M  B7M  C7(13)  B7M
+        C7M  B7M  C7(13)  B7M
+
+ Em7(b5)  A7/5+               C/D
+Certa vez /   uma saudade veio me apertar 
+D7(b9)
+pra saber
+Em7(b5)  A7/5+  D7M(9)     Dbm7(b5)  F#7/5+
+Pense bem /     vai querer/  me  guardar    ou
+  C7M   B7M
+esque...cer
+Em7(b5)  A7/5+                    C/D
+E me fez /   pensar que tudo que passou, passou ,
+ D7(b9)
+de uma vez
+Em7(b5)  A7/5+ D7M(9)     Dbm7(b5)  F#7/5+
+Outra vez /    nem pensar/ só    se for   pra
+ C7M   B7M
+cho...rar
+       Em7(9), A7(13),A7/5+ F#m7     B7(b9)
+Então respon...di :         o amor é mesmo assim
+  Em7(9)  A7/5+  D7M
+saudade  pense   bem
+D7M  Db7M  C7M  Bm7  G7M             F#7/5+
+Pen...se    se  já   viu  alguém que amou   /
+      Bm7          Am7  , D7(9)
+não sofreu e não sentiu
+ Db7/9+              G7M       Gb7 , Bm7 (introd)
+Saudade  / se disse: não!  / mentiu ...
+                  D7M    Db7(9)  C7(9) ...C7M, B7M
+(refrão)Amor de verdade  bate saudade
+          D7M    Db7(9)  C7(9) ...C7M, B7M
+Amor de verdade  bate saudade
+          D7M    Db7(9)  C7(9) ...C7M, B7M
+Amor de verdade  bate saudade
+          D7M    Db7(9)  C7(9) ...C7M, B7M
+Amor de verdade  bate ....
+
+(Introd:) (repete tudo) + refrão ( 2 vezes)
+B7M    D7M     Db7(9) C7(9)  B7M
+   Um amor de verda...de
+      D7M   Db7(9) C7(9)  B7M
+Bate muita sauda...de
+      D7M     Db7(9) C7(9)  B7M
+   Um amor de verda...de
+      D7M   Db7(9) C7(9)  B7M
+Bate muita sauda...de ...
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7/5+ = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+B7M = X 2 4 3 4 2
+Bm7 = X 2 4 2 3 2
+C/D = X X 0 0 1 0
+C7(13) = X 3 X 3 5 5
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D7(9) = X 5 4 5 5 X
+D7(b9) = X 5 4 5 4 X
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+Db7(9) = X 4 3 4 4 X
+Db7M = X 4 6 5 6 4
+Dbm7(b5) = X 4 5 4 5 X
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+F#7/5+ = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+G7M = 3 X 4 4 3 X

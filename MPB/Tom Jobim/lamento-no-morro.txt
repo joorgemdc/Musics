@@ -1,0 +1,36 @@
+Tom Jobim - Lamento No Morro
+
+Intro: Am9 Am7 Am9 Am7 ... Fmaj7 E7
+
+ Am7 Dm7 G7       Cmaj7 C7        Fmaj7 F#dim    E7     Am7        E7/+9
+ Não po- sso esquecer,     O teu olhar,       Longe dos olhos meus
+ Am7   Dm7 G7    Cmaj7   C7          Fmaj7 F#dim     E7   Am7
+ Ai, o meu viver,      É de esperar,        Pra te dizer adeus
+   Dm9 E7  Am7     D7/4  G7         Cmaj7
+ Mulher   amada, Destino,   destino meu
+   B7  E7/-9 Am7   Fmaj7                      F#m7/-5 E7
+ É ma- dru-  gada, Sereno dos meus olhos já correu
+ Am7 Dm7 G7       Cmaj7 C7        Fmaj7 F#dim    E7     Am7        E7/+9
+ Não po- sso esquecer,     O teu olhar,       Longe dos olhos meus
+ Am7   Dm7 G7    Cmaj7   C7          Fmaj7 F#dim     E7   Am7
+ Ai, o meu viver,      É de esperar,        Pra te dizer adeus
+ Adim E7   Am7        F#dim     E7   Am7        Adim E7   Am7
+ Pra  te dizer adeus,       Pra te dizer adeus, Pra  te dizer adeus, ...
+
+----------------- Acordes -----------------
+Adim = 5 X 4 5 4 X
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+B7 = X 2 1 2 0 2
+C7 = X 3 2 3 1 X
+Cmaj7 = X 3 2 0 0 X
+D7/4 = X X 0 2 1 3
+Dm7 = X 5 7 5 6 5
+Dm9 = X 5 7 9 6 5
+E7 = 0 2 2 1 3 0
+E7/+9 = X 6 5 6 7 X
+E7/-9 = X X 2 1 3 1
+F#dim = 2 X 1 2 1 X
+F#m7/-5 = 2 X 2 2 1 X
+Fmaj7 = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3

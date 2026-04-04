@@ -1,0 +1,53 @@
+João Bosco - Caminhos Cruzados
+
+A7+           A7/13            D7M/9     Dm6
+Quando um coração que está cansado de sofrer
+A7+           A7/13            D7M/9     Dm6
+Encontra um coração também cansado de sofrer
+A7+     G#7/13   C#m/G#
+É tempo de se pensar,
+F#7             B7               E7/13 E7(b13)
+Que o amor pode de repente chegar
+
+A7+              A7/13          D7M/9            Dm6
+Quando existe alguém que tem saudade de outro alguém
+A7+           A7/13             G#m7(b5) C#7(b9) C#7
+E esse outro alguém não entender
+D7M/9      G#7/13       C#7M/9
+Deixe esse novo amor chegar,
+F#7/b13      B7/9 C7/9         B7/9      E7/13 E7(b13)
+Mesmo que depois seja imprescindível chorar
+
+A7+          A7/13            D7M/9      Dm6
+Que tolo fui eu que em vão tentei raciocinar
+A7+             A7/13          B/D#      Dm6
+Nas coisas do amor que ninguém pode explicar
+D7M/9           G#7(b13)  C#m/G#
+Vem nós dois vamos tentar,
+F#7(b13)    B7/9 F7(b5)  E7(b9)(13) A7M E7(b13) A7M E7(b13) A7M
+Só um novo amor pode a saudade apagar
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+A7/13 = X 0 X 0 2 2
+A7M = X 0 2 1 2 0
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+C#7 = X 4 3 4 2 X
+C#7(b9) = X 4 3 4 3 X
+C#7M/9 = X 4 3 5 4 X
+C#m/G# = X X 6 6 5 4
+C7/9 = X 3 2 3 3 X
+D7M/9 = X 5 4 6 5 X
+Dm6 = X 5 X 4 6 5
+E7(b13) = 0 X 0 1 1 0
+E7(b9)(13) = 12 X X P10 14 10
+E7/13 = 0 X 0 1 2 0
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7/b13 = 2 X 2 3 3 2
+F7(b5) = 1 X 1 2 0 X
+G#7(b13) = 4 X 4 5 5 4
+G#7/13 = 4 X 4 5 6 X
+G#m7(b5) = 4 X 4 4 3 X

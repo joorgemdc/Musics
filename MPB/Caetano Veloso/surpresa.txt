@@ -1,0 +1,37 @@
+Caetano Veloso - Surpresa
+
+            C7M(9)
+Que surpresa
+Db7M(9)  C7M(9)
+Beleza
+
+            C7M(9)
+Luz acesa
+Db7M(9)  C7M(9)   Ebm7(9)  Dm7(9)   Ab74(9)     G74(9)
+Certeza
+G7(9)   Gm7
+Que saudade
+Abm7  Gm7   C7(b9)   F7M  Bb7(9)
+Verdade
+       Em7
+Já chegou
+A7(b13)   Dm7(9)
+Então
+G7(9)   C7M(9)
+Vem cá
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Ab74(9) = 4 X 4 3 2 X
+Abm7 = 4 X 4 4 4 X
+Bb7(9) = X 1 0 1 1 X
+C7(b9) = X 3 2 3 2 X
+C7M(9) = X 3 2 4 3 X
+Db7M(9) = X 4 3 5 4 X
+Dm7(9) = X 5 3 5 5 X
+Ebm7(9) = X 6 4 6 6 X
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+G7(9) = 3 X 3 2 0 X
+G74(9) = 3 X 3 2 1 X
+Gm7 = 3 X 3 3 3 X

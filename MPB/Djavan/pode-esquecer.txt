@@ -1,0 +1,65 @@
+Djavan - Pode Esquecer
+
+Intro: Gm7M  Gm7  Gm6  C7(9)  Gm7M  Gm7  Gm6  C7(9)  F7M  Gm7  Am7  D7(b9)
+
+  Gm7M           Gm7                C7(9)
+  Em algum lugar, onde se pode esperar pelo melhor,
+  Gm7M          Gm7                        C7(9)
+  Onde cada ser  se viu crescer cheio de planos pra servir,
+   Am7           D7(9)  Bm7       Em7  Am7              D7(9)    Em7(9)
+  Vida só há de ter   quem a dividir! Ser alguém por fazer mais!
+   Am7             D7(9)   Bm7           Em7
+  Não se pode ir além nas costas de ninguém,
+   Am7            D7(9)   G7M  Gm7M  Gm6  Gm7
+  Por amor, como for, vai.
+
+      G7M            Gm7M Gm6           Gm7
+  Na nova ordem geral        de um novo comando,
+   G7M           Gm7M Gm7(11)        C7(9)
+  Abstinência moral       é crime hediondo!
+     F7M             Gm7       Am7        D7(b9)
+  Aquela onda de caos que sai varrendo o mar
+               Bbm6           Am6(9)
+  Dos que têm poder, pode esquecer!
+
+       G7M                Gm7M Gm6       Gm7
+  Só procedimentos normais,     o mais é injúria.
+     G7M            Gm7M Gm7(11)         C7(9)
+  E tudo se liquefaz         num mar de candura.
+         F7M                  Gm7
+  Se alguém tiver que arbitrar
+          Am7      D7(b9)      Bbm6
+  Só vai poder contar com o delírio de um cantor:
+         Eb7(9)                 F7M(9)
+  O que se passou, passou. Prescreveu!...
+                      Bbm6
+  O amanhã ficou pra bem distante,
+F7M(9)                Bbm6
+  O hoje com a mesma cara de ontem
+F7M(9)                      Bbm6             F7M(9)  Bbm6
+  E a vida segue em frente, ardilosamente a mil.
+F7M(9)                Bbm6
+  O amanhã ficou pra bem distante,
+F7M(9)                Bbm6
+  O hoje com a mesma cara de ontem
+F7M(9)                      Bbm6             F7M(9)  Bbm6
+  E a vida segue em frente, ardilosamente a mil.
+
+----------------- Acordes -----------------
+Am6(9) = X 0 4 5 0 0
+Am7 = X 0 2 0 1 0
+Bbm6 = 6 X 5 6 6 X
+Bm7 = X 2 4 2 3 2
+C7(9) = X 3 2 3 3 X
+D7(9) = X 5 4 5 5 X
+D7(b9) = X 5 4 5 4 X
+Eb7(9) = X 6 5 6 6 X
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F7M = 1 X 2 2 1 X
+F7M(9) = X 8 7 9 8 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7(11) = 3 X 3 3 1 X
+Gm7M = 3 5 4 3 3 3

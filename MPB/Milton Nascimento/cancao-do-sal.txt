@@ -1,0 +1,116 @@
+Milton Nascimento - Canção do Sal
+
+[Intro]
+
+       F/D            E/D     Eb/D
+E|-----5---5---5---5---4---4---3---3------|
+B|-----6---6---6---6---5---5---4---4------|
+G|-----5---5---5---5---4---4---3---3------|
+D|---0-----0-0-----0-0-----0-0-----0------|
+A|-------0-------0-------0-------0--------|
+E|----------------------------------------|
+
+D6/9
+Trabalhando o sal
+            Am7
+É amor, o suor que me sai
+Bm7   Bbm7   Am7
+Vou viver cantando
+  Cm7/9   D7/9         G7/13 G7(b13)
+O dia tão quente que faz
+A7/9/4   A7/9    D7+/9/A
+   Homem ver criança
+   D6/A     A7/9/4  A7/9    D7+/9/A
+Buscando conchinhas no mar
+
+ Bbm7    Am7       D7/9    G7+
+Trabalho o dia     in......teiro
+    C7+/9   E7/9    Am7  D6 D7/4
+Pra vida de gente levar
+
+[Refrão]
+
+       F/D            E/D     Eb/D
+E|-----5---5---5---5---4---4---3---3------|
+B|-----6---6---6---6---5---5---4---4------|
+G|-----5---5---5---5---4---4---3---3------|  (4x)
+D|---0-----0-0-----0-0-----0-0-----0------|
+A|-------0-------0-------0-------0--------|
+E|----------------------------------------|
+
+F/D                   E/D  Eb/D
+Água vira sal lá na sali...na
+F/D            E/D    Eb/D
+Quem diminuiu água do mar
+F/D                         E/D  Eb/D
+Água enfrenta o sol lá na sali...na
+F/D                           E/D  Eb/D
+Sol que vai queimando até queimar
+
+E6/9
+Trabalhando o sal
+            Gm7
+Pra ver a mulher se vestir
+Dbm7    Cm7     Bm7
+E ao chegar em casa
+     Dm7/9    E7/9          A7/13  A7(b13)
+Encontrar a família a sorrir
+B7/9/4   B7/9   E7+/9/B
+Filho vir da escola
+   E6/B     B7/9/4  B7/9
+Problema maior,  estudar
+E7+/9 Cm7     Bm7     E7/9  A7+
+Que é pra não ter meu tra...balho
+  D7+/9   F#7/9 Bm7   E6  E7/4
+E vida de gente levar
+
+G/E                   F#/E  F/E
+Água vira sal lá na sali....na
+G/E            F#/E      F/E
+Quem diminuiu água do mar
+G/E                         F#/E  F/E
+Água enfrenta o sol lá na sali....na
+G/E                           F#/E  F/E
+Sol que vai queimando até queimar
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+A7+ = X 0 2 1 2 0
+A7/13 = X 0 X 0 2 2
+A7/9 = 5 X 5 4 2 X
+A7/9/4 = 5 X 5 4 3 X
+Am7 = X 0 2 0 1 0
+B7/9 = X 2 1 2 2 X
+B7/9/4 = 7 X 7 6 5 X
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+C7+/9 = X 3 2 4 3 X
+Cm7 = X 3 5 3 4 3
+Cm7/9 = X 3 1 3 3 X
+D6 = X 5 4 2 0 X
+D6/9 = X 5 4 2 0 0
+D6/A = X 0 4 4 3 X
+D7+/9 = X 5 4 6 5 X
+D7+/9/A = 5 4 2 2 3 2
+D7/4 = X X 0 2 1 3
+D7/9 = X 5 4 5 5 X
+Dbm7 = X 4 6 4 5 4
+Dm7/9 = X 5 3 5 5 X
+E/D = X 5 X 4 5 4
+E6 = X X 2 4 2 4
+E6/9 = X 7 6 6 7 7
+E6/B = X 2 2 1 2 X
+E7+/9 = X 7 6 8 7 X
+E7+/9/B = 7 6 4 4 5 4
+E7/4 = 0 2 0 2 0 X
+E7/9 = X X 2 1 3 2
+Eb/D = X 5 5 3 4 3
+F#/E = X X 2 3 2 2
+F#7/9 = X X 4 3 5 4
+F/D = X X 0 5 6 5
+F/E = 0 X X 2 1 1
+G/E = 0 2 0 0 3 3
+G7(b13) = 3 X 3 4 4 3
+G7+ = 3 X 4 4 3 X
+G7/13 = 3 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X

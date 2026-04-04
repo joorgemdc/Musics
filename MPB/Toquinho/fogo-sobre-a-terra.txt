@@ -1,0 +1,55 @@
+Toquinho - Fogo Sobre a Terra
+
+
+A melodia inicia na tônica Dó.
+
+           Cm           G       Cm
+A gente às vezes tem vontade de ser
+       Cm            G7          Cm7
+Um rio cheio "pra” poder transbordar
+         Bb           Eb        Ab/F
+Uma explosão capaz de tudo romper
+        Abm6/Eb                       Gsus4/D
+Um vendaval       capaz de tudo arrasar
+           Cm           G       Cm
+Nas outras vezes tem vontade de ser
+           Cm           G7         Cm7
+Um canto escuro "pra” poder se ocultar
+       Bb            Eb            Ab/F
+Um labirinto "pra” poder se esconder
+         Abm6/Eb                     Gsus4/D   G7
+E onde poder       fazer o tempo parar
+Cm       Eb                  Ab
+Oh dor       de saber que na vida
+
+Fm                 Dm5-        G7                 Cm
+     É melhor de saí   -   da     ser um bom perdedor
+Cm     Eb                 Ab
+Amor       minha fonte perdida
+Fm                 Dm5-        G7                   Cm
+     Vem curar a feri  -  da        de mais um sonhador.
+
+Ab/F=Fm7
+
+Formação dos acordes
+
+Gsus4/D
+Dm5-
+Abm6/Eb
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Ab/F = 1 3 1 1 4 4
+Abm6/Eb = X 6 6 4 6 X
+Bb = X 1 3 3 3 1
+Cm = X 3 5 5 4 3
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+Dm5- = X X 0 1 3 1
+Eb = X 6 5 3 4 3
+Fm = 1 3 3 1 1 1
+Fm7 = 1 X 1 1 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gsus4/D = X X 0 5 3 3

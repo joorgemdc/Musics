@@ -1,0 +1,80 @@
+Toquinho - Carta ao Tom 74
+
+[Intro] Am6  E/G#  Gm7  C7
+        F7M  Fm6  Em7
+        Am7  D7(9)  Ab6  C#7(b5)
+
+E|-5--7--8--7--5-------------------3--5--6--5--3-8--5--3--5-----------------|
+B|---------------5--3--5| -5--4--3----------------------------------------5-|
+G|----------------------------------------------------------7--5--7--7-5-7---|
+D|--------------------------------------------------------------------------|
+A|--------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------|
+
+E|----3--5h8--5--3----------------------------------------------------------|
+B|-5---------------5--3----3-----3--3-----5--3------------------------------|
+G|----------------------------5--------5---------5--------------------------|
+D|--------------------------------------------------6--5--------------------|
+A|--------------------------------------------------------------------------|
+E|--------------------------------------------------------------------------|
+
+C7M              G/B            Am7
+Rua Nascimento e Silva, cento e sete
+         C7/G         D/F#
+Você ensinando pra Eliseth
+
+                  Fm6           Gm7    C7(9)
+As canções de "canção do amor demais”
+
+D/F#               Fm6             Em7
+Lembra que tempo feliz, ai, que saudade
+            Am7     D7(9)
+Ipanema era só felicidade
+                            Fm6/Ab    C7M/G
+Era como se o amor doesse em paz
+
+C7M          G/B          Am7
+Nossa famosa garota nem sabia
+               C7/G       D/F#
+A que ponto a cidade turvaria
+            Fm6            Gm7   C7(9)
+Esse Rio de amor que se perdeu
+
+F#m7(b5)            Fm6            Em7
+Mesmo a tristeza da gente era mais bela
+               A7(b9)   D7(9)
+E além disso se via da janela
+                G7          Gm6    C7(9)
+Um cantinho de céu e o redentor
+
+F#m7(b5)         Fm6          Em7
+É, meu amigo, só resta uma certeza
+            A7(b9)           D7(9)
+É preciso acabar com essa tristeza
+               Ab6           C6(9)
+É preciso inventar de novo o amor
+
+----------------- Acordes -----------------
+A7(b9) = 5 X 5 3 2 X
+Ab6 = 4 X 3 5 4 X
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+C#7(b5) = X 4 5 4 6 X
+C6(9) = X 3 2 2 3 3
+C7 = X 3 2 3 1 X
+C7(9) = X 3 2 3 3 X
+C7/G = 3 X 2 3 1 X
+C7M = X 3 2 0 0 X
+C7M/G = 3 X 2 4 1 X
+D/F# = 2 X 0 2 3 2
+D7(9) = X 5 4 5 5 X
+E/G# = 4 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+Fm6/Ab = 4 5 3 5 3 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

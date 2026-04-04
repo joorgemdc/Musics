@@ -1,0 +1,60 @@
+Djavan - É Hora
+
+Intro: Am7/9 A7+ Am7/9 A7+ Am7/9 A7+ Am7/9 A7+
+
+      Am7/9  A7+    D7/9 A7+
+É hora de trabalhar
+        D7/9 G/A    A7
+Na hora de receber
+Dm7    G7/9    C7+       Bm5-/7          Bb7/9   Bm7 D/E
+É hora de se comer o pão     que o diabo amassou
+A7+       D7/9  A7+     D7/9
+   É hora de trabalhar
+A7+       D7/9 G/A   A7
+   É hora de receber
+Dm7    G7/9    C7+       Bm5-/7           Bb7/9  Bm7 D/E
+É hora de se comer o pão     que o diabo amassou
+A7+              D7/9  A7+  D7/9
+   Me conta como foi o dia
+   A7+            D7/9    Dm7/9      Db7/9/11+
+Me conta o que restou, do dia de amanhã
+C7+/9            Dm7/9 Em7/9      A7/9/11+      Dm7/9  G7/13    Em7/9
+Não é necessário dizer,     periga      você chorar e eu sorrir
+    Am7    F#m5-/7  B7/9-     Gm7
+E o povo inteiro a  perguntar
+
+    C7/9      F7+               Bb7/9
+Por que o rio    deságua no mar
+    Em7/9              A7/13-
+E o rio deságua no mar
+    D7/9
+E o rio deságua no mar
+  F/G                   Bb/C    C7/9
+Deságua no mar, deságua no mar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7/9/11+ = 5 4 5 4 4 X
+Am7 = X 0 2 0 1 0
+Am7/9 = X X 7 5 8 7
+Bb/C = X 3 X 3 3 1
+Bb7/9 = X 1 0 1 1 X
+Bm5-/7 = X 2 3 2 3 X
+Bm7 = X 2 4 2 3 2
+C7+ = X 3 2 0 0 X
+C7+/9 = X 3 2 4 3 X
+C7/9 = X 3 2 3 3 X
+D/E = X X 2 2 3 2
+D7/9 = X 5 4 5 5 X
+Db7/9/11+ = X 4 3 4 4 3
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+Em7/9 = X 7 5 7 7 X
+F#m5-/7 = 2 X 2 2 1 X
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G/A = 5 X 5 4 3 X
+G7/13 = 3 X 3 4 5 X
+G7/9 = 3 X 3 2 0 X
+Gm7 = 3 X 3 3 3 X

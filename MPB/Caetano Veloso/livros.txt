@@ -1,0 +1,82 @@
+Caetano Veloso - Livros
+
+[Intro]  Em  B7
+
+Em             Em/D#
+Tropeçavas nos astros desastrada
+Em/D           Em/C#
+Quase não tínhamos livros em casa
+C7             D9          C#m7  C7
+E a cidade não tinha livraria
+F                    B7/D#  B7     Em
+Mas os livros que em nossa vida entraram
+                Em/D#           Em/D
+São como a radiação de um corpo negro
+                  Em/C#
+Apontando pra a expansão do Universo
+C7                   D7(13-)            Dm7
+Porque a frase, o conceito, o enredo, o verso
+                G7          C6/9
+E, sem dúvida, sobretudo o verso
+                Cm6           Em/B  Em   F#m7add4  B7
+É o que pode lançar mundos no mundo
+
+
+Em             Em/D
+Tropeçavas nos astros desastrada
+C#m7(b13)       C7          B7
+Sem saber que a ventura e a desventura
+Em                Em/D
+Dessa estrada que vai do nada ao nada
+Em/C#          C7   B7
+São livros e o luar contra a cultura
+
+( Em  B7 )
+
+Em              Em/D#
+Os livros são objetos transcendentes
+Em/D        Em/C#           C7
+Mas podemos amá-los do amor táctil
+                 D9         C#m7  C7
+Que votamos aos maços de cigarro
+F               B7/D#  B7    Em
+Domá-los, cultivá-los em aquários
+                Em/D#
+Em estantes, gaiolas, em fogueiras
+Em/D             Em/C#
+Ou lançá-los pra fora das janelas
+C7                D7(13-)     Dm7
+(Talvez isso nos livre de lançarmo-nos)
+                    G7         C6/9
+Ou ­ o que é muito pior ­ por odiarmo-los
+               Cm6            Em/B  Em   F#m7add4  B7
+Podemos simplesmente escrever um
+
+Em               Em/D         C#m7(b13)
+Encher de vãs palavras muitas páginas
+               C7     B7
+E de mais confusão as prateleiras
+Em             Em/D
+Tropeçavas nos astros desastrada
+Em/C#               C7       B7                       Em  B7
+Mas pra mim foste a estrela entre as estrelas
+
+----------------- Acordes -----------------
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+C#m7 = X 4 6 4 5 4
+C#m7(b13) = X 4 7 4 5 4
+C6/9 = X 3 2 2 3 3
+C7 = X 3 2 3 1 X
+Cm6 = X 3 X 2 4 3
+D7(13-) = X X 0 5 7 6
+D9 = X X 0 2 3 0
+Dm7 = X 5 7 5 6 5
+Em = 0 2 2 0 0 0
+Em/B = X 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em/D = X X 0 4 5 3
+Em/D# = X X 1 0 0 0
+F = 1 3 3 2 1 1
+F#m7add4 = 2 X 2 2 0 X
+G7 = 3 5 3 4 3 3

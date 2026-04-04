@@ -1,0 +1,85 @@
+Gal Costa - Se Todos Fossem Iguais a Você
+
+E7M        E7/D                         A6/C#          Am6/C
+Vai tua vida, teu caminho é de paz e amor
+E7M        E7/D                    A6/C#            Am6/C
+Vai tua vida é uma linda canção de amor
+G#7(13)     G#7(b13) C#7(4)(9) C#7(b9)(b13)        A9
+Abre os teus braços e    canta            a última esperança
+      D7(9)(13) G7M   G#m7(b5) C#7 F#7M E7(4)(9)
+A esperança divina de amar         em paz
+
+A7M A6    G#m7(b5) C#7 F#m7          Em7(9) A7(13)
+Se         todos fossem      iguais a você
+  D7M C#m7(b5) F#7(b13) Bm Bm7M Bm7
+Que   maravilha                  viver
+E7(13)             E7(b13) A7M                      F#m7 F#m7/E
+Uma canção pelo ar,        uma mulher a cantar
+D#(b9)      G#7(13) G#7(b13)    C#m7   F#7(b5) Bm7(9)
+Uma cidade a cantar,                     a sorrir, a cantar, a  pedir
+        E7          A9(4)       G#m7(b5) C#7(b9)
+A beleza da amar como  o sol,
+            F#m7       Em7(11) A7(13)
+Como a flor, como a luz
+
+  D7M             C#º           D7M(9)
+Amar sem mentir, nem sofrer
+
+D#m7(b5) Dm6   A/C#                           F7/C
+Existiria verdade, verdade que ninguém vê
+Bm7                          E7(b9)               A7(4)(9) A7(13)
+Se todos fossem no mundo iguais a você
+D#m7(b5) Dm6   A/C#                           F7/C
+Existiria verdade, verdade que ninguém vê
+Bm7                          E7(b9)                   F7M Dm7(9) F7M Dm7(9) A7M(9)
+Se todos fossem no mundo iguais a você
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A6 = 5 X 4 6 5 X
+A6/C# = X 4 2 2 5 2
+A7(13) = X 0 X 0 2 2
+A7(4)(9) = 5 X 5 4 3 X
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+A9(4) = X 0 2 4 3 0
+Am6/C = X 3 4 2 5 2
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+Bm7M = X 2 4 3 3 2
+C#7 = X 4 3 4 2 X
+C#7(4)(9) = X 4 4 4 4 4
+C#7(b9) = X 4 3 4 3 X
+C#7(b9)(b13) = X 4 3 4 3 5
+C#m7 = X 4 6 4 5 4
+C#m7(b5) = X 4 5 4 5 X
+C#º = X 4 5 3 5 3
+D#(b9) = X X 1 3 5 3
+D#m7(b5) = X X 1 2 2 2
+D7(9)(13) = X 5 4 5 0 0
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+Dm6 = X 5 X 4 6 5
+Dm7(9) = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7(13) = 0 X 0 1 2 0
+E7(4)(9) = X X 2 2 3 2
+E7(b13) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+E7/D = X 5 X 4 5 4
+E7M = X X 2 4 4 4
+Em7(11) = X 7 X 7 8 5
+Em7(9) = X 7 5 7 7 X
+F#7(b13) = 2 X 2 3 3 2
+F#7(b5) = 2 X 2 3 1 X
+F#7M = 2 X 3 3 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7/E = X X 2 2 5 2
+F7/C = X 3 3 2 4 X
+F7M = 1 X 2 2 1 X
+G#7(13) = 4 X 4 5 6 X
+G#7(b13) = 4 X 4 5 5 4
+G#m7(b5) = 4 X 4 4 3 X
+G7M = 3 X 4 4 3 X

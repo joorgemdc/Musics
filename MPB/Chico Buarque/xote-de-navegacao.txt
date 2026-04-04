@@ -1,0 +1,102 @@
+Chico Buarque - Xote de Navegação
+
+(De: Chico Buarque & Dominguinhos)
+
+   Bm          Em         Bm  F#7            Bm            C#7/G#   F#/A#
+Eu vejo aquele rio a deslizar     O tempo a atravessar meu vilarejo
+F#7           B    B/A        G  B7/F# Em           F#7/C#          Bm  Bm/A
+   E às vezes lar_____go O afazer        Me pego em so____nho A navegar
+C#7/G#       C#7/E#  F#m    C#7/E#               F#/E
+Com   o nome Pa____ciência  Vai   a minha embarcação
+Bm/D       A/E    Bm/D  F#7/C#   B7             B7/D#   Em  B7/D#
+Pendulando como o tem___po     E tendo igual desti____nação
+Em/D           A7/C#    Bm         Bm/A    Em/G       F#7(b13)   Bm
+Pra  quem anda na    barcaça Tudo, tu___do passa Só o tem_____po não
+
+F#7/A#          F#7(b13)     G(add9)/B   Bm/A  G7M          F#7(b13)     Am/C  B7
+      Passam paisa______gens fur______ta-cor      Passa e repas_____sa o mesmo cais
+Em7             C#m7(b5)      D7M    D/C      G6  G/D      G/B    F#7/A#  Aº
+   Num mesmo instan_____te eu vejo a flor Que desabrocha e se  desfaz
+             Em/G   Em Em/D  A7/C#  A7    D7M(4/9)  D7M/A  F#7/A#
+Essa é a tua mú___sica       É     tua respi______ração
+             Bm     Bm/A     G6  F#7  Bm
+Mas eu tenho só teu lenço Em mi__nha  mão
+
+
+Em6/B              Bm7(9)  Bm/A  G6        F#7  Bm7(9)  Bm/C#
+     Olhando meu navi______o       O impaciente ca____pataz
+Em/D         A7/C#   D7M(4/9)  D7M(9)  Bm/C#       C#/B  Em6/B F#7/A#
+    Grita da ri___bancei_______ra      Que  navega pra   trás
+Bm       Em          Bm6/D  F#7/C#  Bm     Bm/A        C#7/G# F#7/A#
+No convés, eu vou sombri____o       Cabelei____ra de rapaz
+Bm           B7/D#  Em        C#m7(b5)     Bm/D  F#7/C#  Bm
+Pela água do ri___o Que é sem fim      E é nun___ca      mais
+
+ACORDES:
+
+Bm       - X24432     F#7/A#    - 6X465X
+Em       - 022000     G(add9)/B - X2523X
+F#7      - 2X232X     G7M       - 3X443X
+C#7/G#   - 4X342X     Am/C      - X3225X
+F#/A#    - 6X467X     Em7       - 022030
+B        - X24442     C#m7(b5)  - X4545X
+B/A      - X0444X     D7M       - X57675
+G        - 32000X     D/C       - X3423X
+B7/F#    - 2X120X     G6        - 3X243X
+F#7/C#   - X4435X     G/D       - X5543X
+Bm/A     - X0443X     G/B       - X2003X
+C#7/E#   - XX3424     Aº        - 5X454X
+F#m      - XX4222     A7        - X02020
+F#/E     - XX2322     D7M(4/9)  - X5565X
+Bm/D     - XX0432     D7M/A     - 5X463X
+A/E      - XX2220     Em6/B     - X22020
+B7       - X24242     Bm7(9)    - X2022X
+B7/D#    - XX1202     Bm/C#     - X4443X
+Em/D     - XX0000     D7M(9)    - X5465X
+A7/C#    - X4525X     C#/B      - X2312X
+Em/G     - 3X245X     Bm6/D     - X5647X
+F#7(b13) - 2X233X     Bm7       - X24232
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+Am/C = X 3 2 2 5 X
+Aº = 5 X 4 5 4 X
+B = X 2 4 4 4 2
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+B7/F# = X X 4 4 4 5
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+Bm/C# = X 4 4 4 3 X
+Bm/D = X 5 X 4 7 7
+Bm6/D = X X 0 1 0 2
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#/B = X 2 3 1 2 X
+C#7/G# = 4 X 3 4 2 X
+C#m7(b5) = X 4 5 4 5 X
+D/C = X 3 X 2 3 2
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+D7M/A = 5 5 4 2 2 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em/G = 3 X 2 4 5 X
+Em6/B = X 2 2 0 2 0
+Em7 = 0 2 2 0 3 0
+F#/A# = 6 X 4 6 7 X
+F#/E = X X 2 3 2 2
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7/A# = 6 X 4 6 5 X
+F#7/C# = X 4 4 3 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G(add9)/B = 7 X X 7 8 5
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,56 @@
+Chico Buarque - Trapaças
+
+(De: Chico Buarque)
+
+   D7M         C#7(b13)        Bb7M           A7(b13)
+Contigo aprendi        A perder    e achar gra_______ça
+  F7M          F7(#5)        Bb7M   A7/4   Em(b6)       Em6
+Pagar e não dar      importân____cia    Contigo  a trapa___ça
+        Cm6/Eb        Ab7(#11)   G7M(#11)        F#7/13  B7/13  D7/13
+Por trás      da trapa________ça         É pura elegân___cia
+   G(add9)/D       G(#5)         C6          F7(#11)
+Se deres    por fal_____ta Do teu  riso esper_______to
+    E7(9/#11)       E7/4(9)          F6          E7/G#
+Dos teus     sortilé_______gios Enten__de e perdo_____a
+   C#m7(b5)      Cm6            Bb7M/D       A7/C#
+Eu ando    nas ru___as Com o sol      descola_____do
+Cm6/Eb       D7/13
+      Da tua pessoa
+
+G6 / F#7/13 / B7/13 / E7/9 / A7/13 / D7/9 / G7M/B / Ab7 /
+G6 / F#7/13 / B7/13 / E7/9 / A7/13 / D7/9 / G6 / A7 /
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+A7/13 = X 0 X 0 2 2
+A7/4 = X 0 2 0 3 0
+A7/C# = X 4 5 2 5 X
+Ab7 = 4 6 4 5 4 4
+Ab7(#11) = 4 X 4 5 3 X
+B7/13 = X 2 X 2 4 4
+Bb7M = X 1 3 2 3 1
+Bb7M/D = X 5 X 3 6 5
+C#7(b13) = X 4 X 4 6 5
+C#m7(b5) = X 4 5 4 5 X
+C6 = 8 X 7 9 8 X
+Cm6 = X 3 X 2 4 3
+Cm6/Eb = X X 1 2 1 3
+D7/13 = X 5 X 5 7 7
+D7/9 = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+E7(9/#11) = X X 2 3 3 2
+E7/4(9) = X X 2 2 3 2
+E7/9 = X X 2 1 3 2
+E7/G# = 4 X 2 4 3 X
+Em(b6) = X X 2 0 1 0
+Em6 = X 7 X 6 8 7
+F#7/13 = 2 X 2 3 4 X
+F6 = 1 X 0 2 1 X
+F7(#11) = 1 X 1 2 0 X
+F7(#5) = 1 X 1 2 2 1
+F7M = 1 X 2 2 1 X
+G(#5) = 3 X 1 0 0 X
+G6 = 3 X 2 4 3 X
+G7M(#11) = 3 X 4 4 2 X
+G7M/B = 7 X 5 7 7 X

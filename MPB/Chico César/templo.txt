@@ -1,0 +1,51 @@
+Chico César - Templo
+
+Posição e dedilhados corretos dos acordes E7M e E7M(#5):
+
+   E7M                E7M(#5)
+E|------9----------------11-------
+B|-----------7-----------------7--
+G|--------9-----------------9-----
+D|--------------------------------
+A|--------------------------------
+E|-x-x---------------x-x----------
+
+(intro) E7M E7M(#5)
+
+E7M      E7M(#5)    E7M  E7M(#5)
+ Se você olha pra mim
+E7M      E7M(#5) F#4(9)
+  Se me dá atenção
+A7M(9)      F#4(9)
+Eu me derreto suave
+ E4(9)  F#4(9)   E7M E7M(#5)
+Neve    no   vulcão
+
+E7M        E7M(#5)   E7M E7M(#5)
+  Se você toca em mim
+E7M   E7M(#5)  F#4(9)
+ Alaúde    emoção
+A7M(9)      F#4(9)
+Eu em desmancho suave
+ E4(9)    F#4(9) E7M E7M(#5)
+Nuvem no avi     ão
+
+E7M     E7M(#5) F#4(9)
+  Himalaia himeneu
+                    A7M(9)
+Esse homem nu sou eu
+       F#4(9)      E7M E7M(#5)
+Olhos de contemplação
+E7M     E7M(#5) F#4(9)
+ Inca maia pigmeu
+                    A7M(9)
+Minha tribo me perdeu
+                  F#4(9)        E7M E7M(#5)
+Quando entrei no templo da paixão
+
+----------------- Acordes -----------------
+A7M(9) = X 0 2 1 0 0
+E4(9) = 0 0 2 2 0 2
+E7M = X X 2 4 4 4
+E7M(#5) = 0 X 1 1 1 X
+F#4(9) = 2 2 4 4 2 4

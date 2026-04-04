@@ -1,0 +1,64 @@
+Roberto Carlos - Sabores
+
+Intro: C G/B Am Am/G F
+        Dm G/A F/G
+ 
+ C                 G/B        Am Am/G 
+   Toda vez que eu olho pra você
+ F                C/E         Dm
+   Tanta coisa eu quero te dizer
+ G                             Am Am/G
+   Às vezes eu nem sei falar bonito
+     D/F#                        F/G G7
+ Mas sei sentir o amor que eu te digo
+ C              G/B            Am Am/G
+   Tanto faz de noite ou de manhã
+ F           C/E            Dm  
+   Cada dia mais eu sou seu fã
+    G          E/G#         Am
+ E sinto tanta paz nesse sorriso
+        D4/7           D7      F/G   G     
+ Que às vezes penso estar no paraíso
+      C       E7       F
+ Tão seu, tão eu, tão bom
+  E/G# Am  D7              F/G    G7
+ Feito mar, agitar no seu coração
+      C F/A Bm7 E/G# F/A   
+ O amor no ar, no som
+ E/G# Am       D7        F/G 
+ Me soltar e voar doce igual
+        (C C7+ F/C Fm/C) 
+ Canção
+ C                G/B        Am Am/G
+   Sendo esse seu gosto hortelã
+ F               C/E           Dm
+   Grudo no seu corpo igual colant
+    G            E/G#        Am 
+ E sinto o seu calor mexer comigo
+ D4/7           D7            F/G G
+    Nada mais falar, nem é preciso
+ 
+ ESTRIBILHO
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+D/F# = 2 X 0 2 3 2
+D4/7 = X X 0 2 1 3
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+F = 1 3 3 2 1 1
+F/A = 5 X 3 5 6 X
+F/C = X 3 3 2 1 1
+F/G = 3 X 3 2 1 X
+Fm/C = X 3 3 1 1 1
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3

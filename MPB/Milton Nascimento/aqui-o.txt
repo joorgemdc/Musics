@@ -1,0 +1,62 @@
+Milton Nascimento - Aqui, ó
+
+Intro: [E6/9 F6/9]
+
+E6/9      E7M(9)
+Oh Minas Gerais
+        A7(#11) G#m7       F#m7
+Um caminhão     leva quem ficou
+          B/A      G#m7 C#7(b9)
+Ou vinte anos, ou mais
+Am7
+Eu iria a pé
+         G#m7 C#m7(9) C#7(b9)
+Oh, meu amor
+F#m7 G#m7             Am7 B7(13) B7(b13)
+Eu     iria a pé, meu pai
+         E6/9 C#7(b9)
+Sem um tostão
+F#7
+Em Minas Gerais a alegria é
+              B7(4/9)     Bb7(#5)
+Guardada em cofres, catedrais
+       F#7M            D#m7 D#m7(9)
+Na varanda encontro o meu amor
+
+      G#7
+Tem bênção de Deus
+                   B7(4/9)        B7(b9)
+Todo aquele que trabalha no escritório
+E7M(9)    Am7(9) G#m7(b5) C#7(b9)
+  Bendito é o    fruto   dessas
+F#7       G#7
+Minas Gerais
+F#7        G#7  F#7 B7(4/9) B7(b9)
+Minas Gereais
+E6/9 E7M(9)
+Oh Minas Gerais...
+
+----------------- Acordes -----------------
+A7(#11) = X 0 1 0 2 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B/A = X 0 4 4 4 X
+B7(13) = X 2 X 2 4 4
+B7(4/9) = X 2 2 2 2 2
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bb7(#5) = X 1 X 1 3 2
+C#7(b9) = X 4 3 4 3 X
+C#m7(9) = X 4 2 4 4 X
+D#m7 = X X 1 3 2 2
+D#m7(9) = X 6 4 6 6 X
+E = 0 2 2 1 0 0
+E6/9 = X 7 6 6 7 7
+E7M(9) = X 7 6 8 7 X
+F#7 = 2 4 2 3 2 2
+F#7M = 2 X 3 3 2 X
+F#m7 = 2 X 2 2 2 X
+F6/9 = 1 0 0 0 X X
+G#7 = 4 6 4 5 4 4
+G#m7 = 4 X 4 4 4 X
+G#m7(b5) = 4 X 4 4 3 X

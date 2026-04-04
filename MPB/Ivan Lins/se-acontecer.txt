@@ -1,0 +1,41 @@
+Ivan Lins - Se Acontecer
+
+[Intro:] Em A G
+
+          Em           A      G      Em A
+Se acontecer de te perder, desencontrar
+     G      Em           A       G      Em A
+Não posso crer fazer chover, talvez nublar
+     G    D7(4)             D7           G7
+Tô pro que der, se é com você, medo não há
+        F#7(4)          F#7           Am/C B7
+E o que vier, vim pra viver, topo encarar
+
+Se me perder e acontecer de te encontrar
+Faço chover, molhar você, inunda o olhar
+Vim pra viver e o que vier medo não há
+Se é com você, tô pro que der só pra te dar
+
+ Em            D    Em
+Rumo pra teus pés, colo pros teus ais
+ D     Em                 D    Em
+Dedo pros anéis, paz nos temporais
+              D  Em Am7
+E uma vida inteira
+   D7        G7(4)   G7 F#7(4) F#7 Am/C B7
+Pra  te convencer a me levar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am/C = X 3 2 2 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7(4) = 3 5 3 5 3 X

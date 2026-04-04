@@ -1,0 +1,91 @@
+Tom Jobim - How Insensitive
+
+( Tom Jobim / Vinicius de Moraes / Norman Gimbel )
+
+Bm7          F#/A#              Am6
+How, insensitive,  I must have seemed
+                           E7/G#
+When she told me that she loved me
+G6              C7M               C#m7(b5)
+How unmoved and cold I must have seemed
+          F#(b9b13) Bm(7M)         Bm7
+When she told me so sincerely
+D7/A               Abº
+Why, she must have asked
+           G7M        Em7(9)        Bm7
+Did I just turn and stare iin icy silence?
+D7/A           C#7/G#             Em6/G
+What was I to say    What can you say
+        F#7(b13)     Bm7
+When a love affair is over
+
+--------------------------------------------
+
+
+Bm7          F#/A#              Am6
+Now, she's gone away  And I'm alone
+                           E7/G#
+With a memory of her last look
+G6              C7M               C#m7(b5)
+Vague, and drawn and sad, I see it still
+          F#(b9b13) Bm(7M)         Bm7
+All her heart break in that last look
+D7/A               Abº
+How she must have asked
+           G7M        Em7(9)        Bm7
+Could I just turn and stare in icy silence
+D7/A           C#7/G#             Em6/G
+What, was I To do, What can you do
+        F#7(b13)     Bm7
+When a love affair is over
+
+
+  Bm7        F#7/A#       Am6        E7/G#
+ ||||||    4ª||1|||    4ª||1|||      ||||||
+ |1|2|3      ||||2|      2||34|      ||1|||   
+ ||||4|      3||4||      ||||||      ||||2|
+ ||||||      ||||||      ||||||      3||4||
+ ||||||      ||||||      ||||||      ||||||
+  O ooo      O ooo       O ooo       O ooo
+
+   G6         C7M       C#m7(b5)    F#7(b9b13)
+ ||||||      ||||||      ||||||      ||||||
+ ||1|||      ||2|||      ||2|||      <-----
+ 2|||3|      |3||||      ||||||      |||234
+ |||4||      ||||||      |4||||      ||||||
+ ||||||      ||||||      ||||||      ||||||
+ O ooo        Ooooo      Ooooo       O oooo
+
+ Bm(7M)       D7/A        Abº         G7M
+ ||||||      ||||||      ||||||      ||||||
+ |1|||2      ||||||      ||||||      ||||||
+ |||34|      ||||1|      ||1|2|      1|||2|
+ ||||||      ||2|||      3||4||      ||34||
+ ||||||      3||4||      ||||||      ||||||
+  O ooo      O ooo       O ooo       O ooo
+
+  Em7(9)     C#7/G#       Em6/G     F#7(b13)
+ ||||||      ||||||      ||||||      ||||||
+ |||||1      ||||1|      ||<---      1|2|||
+ ||||2|      ||2|||      2|||||      |||34|
+ ||||||      3||4||      |||3||      ||||||
+ ||||||      ||||||      ||||||      ||||||
+ O  ooo      O ooo       O ooo       O ooo
+
+----------------- Acordes -----------------
+Abº = 4 X 3 4 3 X
+Am6 = 5 X 4 5 5 X
+Bm(7M) = X 2 4 3 3 2
+Bm7 = X 2 4 2 3 2
+C#7/G# = 4 X 3 4 2 X
+C#m7(b5) = X 4 5 4 5 X
+C7M = X 3 2 0 0 X
+D7/A = 5 X 4 5 3 X
+E7/G# = 4 X 2 4 3 X
+Em6/G = 3 4 2 4 2 X
+Em7(9) = X 7 5 7 7 X
+F#/A# = 6 X 4 6 7 X
+F#7(b13) = 2 X 2 3 3 2
+F#7/A# = 6 X 4 6 5 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

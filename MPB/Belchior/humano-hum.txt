@@ -1,0 +1,37 @@
+Belchior - Humano Hum
+
+Introdução: F# B/F# F#7+ E/F#
+
+   F#
+(Lavrar a palavra a pá
+      D
+Como quem prepara um pão)
+ G       F/G           G
+Quando o mar virar sertão
+      C/G  F/G  Dm7
+Nossa palavra será
+      C           G  F/G  C/G
+Tão humana como o pão
+     G         F/G         G
+E o canto que soar um palavrão
+       C/G  F/G  Dm7
+Se mostrará como é
+     C             G
+Anjo de espada na mão
+Dm/A     C/G   Dm/F   C/E   G
+Na,na,na,na,na,na,na,na,na,na,
+
+----------------- Acordes -----------------
+B/F# = X X 4 4 4 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D = X X 0 2 3 2
+Dm/A = X 0 X 2 3 1
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+E/F# = X X 4 4 5 4
+F# = 2 4 4 3 2 2
+F#7+ = 2 X 3 3 2 X
+F/G = 3 X 3 2 1 X
+G = 3 2 0 0 0 3

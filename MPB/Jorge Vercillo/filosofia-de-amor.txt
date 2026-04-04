@@ -1,0 +1,80 @@
+Jorge Vercillo - Filosofia de Amor
+
+[Intro] F#m7(b5)  G/F  Bb7(13)  A7(b13)  F#m7(b5)
+G/F  Bb7(13)  A7(b13)  A7  F7M  Em7  Dm7  G7/4(9)
+
+C(add9)         C(add9/#5)            C6/9
+       Quem por medo      do amor que morre
+   C(add9/#5)              C(add9)  Gm7(11)
+Na hora      que o amor percorre  recua   se
+ C7(b9)  F#m7(b5)          B7(b9)           Em7(9)
+Afasta e corre   ouça o conselho que eu lhe dou
+       A7(b13)           Dm7(9)
+É só você     morrer de amor   que a chama do
+ G7/4(9)
+Amor    não morre
+
+C(add9)         C(add9/#5)            C6/9
+       Quem por mágoa     de amor se abate
+    C(add9/#5)              C(add9)     Gm7(11)
+Por medo      que o amor maltrate  ao invés
+      C7(b9)   F#m7(b5)          B7(b9)
+De se dar   combate    ouça o conselho que eu
+    Em7(9)        A7(b13)           Dm7(9)
+Lhe dou   é muito mais   cruel a dor
+
+     Em7(9)       F6/9    G7/4(9)  C6/9  Bb7(9)
+Na casa    que o amor não bate
+
+
+Am7(11)       Am(7M/11)                 Dm7(9)
+Filosofia de amor      não é rei nem doutor
+      Dm(7M/9)  G7/4(9)              G7(b9)
+Quem aprende   só     vai sair vencedor
+                  C6/9        Bm7(9/11)  Bb7(9/#11)
+De um combate de amor quem se ren-------de
+
+Am7(11)       Am(7M/11)             Dm7(9)
+Filosofia de amor      só não é sabedor
+       Dm(7M/9)  G7/4(9)                 G7(b9)
+Quem renega    só     vai prender seu amor
+              C7/4(9)  Bb/D  C/E      F6/9
+E virar seu senhor   aquele que se entrega
+  F#m7(b5)* B7(b13)          Em7(9)    Eb7(9)
+E o       poeta    é o professor   que ensina
+       Dm7(9)  Em7(9)  F6/9  G7/4(9)  F#m7(b5)  G/F
+Todo dia     filoso--fia    de      amor
+Bb7(13)  A7(b13)  A7  F7M  Em7  Dm7  G7/4(9)  C6/9  Bb7(9)
+
+Am7(11)       Am(7M/11)
+Filosofia de amor...
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+Am7(11) = 5 X 5 5 3 X
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bb/D = X 5 X 3 6 6
+Bb7(13) = 6 X 6 7 8 X
+Bb7(9) = X 1 0 1 1 X
+Bb7(9/#11) = X 1 0 1 1 0
+Bm7(9/11) = X 2 0 2 2 0
+C(add9) = X 3 5 5 3 3
+C/E = 0 3 2 0 1 0
+C6/9 = X 3 2 2 3 3
+C7(b9) = X 3 2 3 2 X
+C7/4(9) = X 3 3 3 3 3
+Dm(7M/9) = X 5 3 6 5 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Eb7(9) = X 6 5 6 6 X
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#m7(b5) = 2 X 2 2 1 X
+F6/9 = 1 0 0 0 X X
+F7M = 1 X 2 2 1 X
+G/F = 1 X X 0 0 3
+G7(b9) = 3 X 3 1 0 X
+G7/4(9) = 3 X 3 2 1 X
+Gm7(11) = 3 X 3 3 1 X

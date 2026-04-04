@@ -1,0 +1,94 @@
+Ivan Lins - rio de maio
+
+( Ivan Lins / Celso Viáfora )
+
+F7M(9)                     G7(13) G7(b13) G7(b9) Eb7M
+Rio, as pedras pulsam na manhã      gre...ná
+ Cm7(9)(11)                     Am7(9)(11) D7(b9)(13) D7(#9)
+Frio, vejo arrepios na pele azul crepom
+F#7M(9) D#m7(9)         Cm7(9)(11) F7(b9)(13) G7M(9)
+Do mar, as folhas caem no Jardim de Alá
+ Em7(9)                     Gm7(9)/D C7(13)
+Ah! Por que, no outono, o coração dói mais?
+
+Rio, o verde vibra na manhã lilás
+Frio, Copacabana é um cartão postal
+Vazio, e o batimento das marés é blues, jazz,
+O sol enfeita a zona sul de luz,
+
+F7(11)(13) F7(b9)(13)
+Em vão,    em paz
+Bm7(b5) Bbm6(9)             A7(13) A7(b13) D7(9)(13)
+Pardais passeiam sobre o Vidigal em paz
+          D7(b9)   G7(9)(13) G7(9)(b13) C7(11)(13)
+Flamingos flanam na Rocinha em paz
+         C/Bb        A7(13) A7(b13) D7(9)(13) D7(b9)
+O Rio de maio acorda quase em paz
+
+C#m7(9)(11)      F#7(9)(11)
+Bem perto de mim
+        F#7          B7M         F#/Bb G#m7(9)(11)
+Dois sabiás se amam, perto de mim
+                C#m7(9)(11)      E/F#
+Adolescentes beijam, perto de mim
+        F#7(13)     B7M
+Ai que saudade de você e de mim
+
+Bb7(9)(11)   Eb7(9)  Dm7(9)(11)    G7(11)(13)
+Os beijos de amor, na tarde sem fim
+          G7(b13) C7M         G/B Am7(9)(11)
+Se fosse um filme a nossa vida era assim:
+           Dm7(9)(11)           G7(11)(13)
+Um beijo imenso e o mar cantando Jobim
+ G7(b9)(13)        Gm7(9)/C
+O grande amor se reprisando a vida inteira
+
+Tom, as pedras pulsam na manhã grená
+Frio, vejo arrepios na pele azul crepom
+Do mar, as folhas caem no Jardim de Alá
+Ah! O outono faz o coração doer demais...
+
+Fim: F7M(9) D6(9)
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Am7(9)(11) = 5 3 5 4 3 X
+B7M = X 2 4 3 4 2
+Bb7(9)(11) = X 1 1 1 1 1
+Bbm6(9) = 6 X 5 6 P8 8
+Bm7(b5) = X 2 3 2 3 X
+C#m7(9)(11) = X 4 2 4 4 2
+C/Bb = X 1 2 0 1 X
+C7(11)(13) = X 3 5 3 6 5
+C7(13) = X 3 X 3 5 5
+C7M = X 3 2 0 0 X
+Cm7(9)(11) = X 3 1 3 3 1
+D#m7(9) = X 6 4 6 6 X
+D7(#9) = X 5 4 5 6 X
+D7(9)(13) = X 5 4 5 0 0
+D7(b9) = X 5 4 5 4 X
+D7(b9)(13) = 10 X X P8 12 8
+Dm7(9)(11) = X 5 3 5 5 3
+E/F# = X X 4 4 5 4
+Eb7(9) = X 6 5 6 6 X
+Eb7M = X X 1 3 3 3
+Em7(9) = X 7 5 7 7 X
+F#/Bb = 6 X 4 6 7 X
+F#7 = 2 4 2 3 2 2
+F#7(13) = 2 X 2 3 4 X
+F#7(9)(11) = 2 X 2 1 0 X
+F#7M(9) = 2 1 3 1 X X
+F7(11)(13) = 1 3 1 3 3 X
+F7(b9)(13) = 13 X X P11 15 11
+F7M(9) = X 8 7 9 8 X
+G#m7(9)(11) = 4 2 4 3 2 X
+G/B = X 2 0 0 3 3
+G7(11)(13) = 3 5 3 5 5 X
+G7(13) = 3 X 3 4 5 X
+G7(9)(13) = 3 X 3 2 0 0
+G7(9)(b13) = 3 X 3 2 4 X
+G7(b13) = 3 X 3 4 4 3
+G7(b9) = 3 X 3 1 0 X
+G7(b9)(13) = 3 X X P1 5 1
+G7M(9) = 3 2 4 2 X X

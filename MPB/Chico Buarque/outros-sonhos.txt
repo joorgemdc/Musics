@@ -1,0 +1,110 @@
+Chico Buarque - Outros Sonhos
+
+[Intro] C#  E7(9)  G7(9)  Bb7(9)  C#7(9)  B7(9)  A7(b13)  G#7(b13)  C#7M
+
+                    Fm7  E7(9)/B
+Sonhei que o fogo gelou
+                     A7M  D#7(9)  D7M(9)
+Sonhei que a neve fervia
+              G7(11)(13)  G7(b13)  C7M(9)
+Sonhei que ela corava    quando me via
+           E7(9)(11)  D7(9)  A7M/C#
+Sonhei que ao meio dia
+              G#7/C  E9/B                A#º  F#7/A#  A6
+Havia intenso luar    e o povo se embebecia
+             G#m7(b5)         C#7(b9)  F#m7  B7(b9)  E7M
+Se enpetecava João, se emperiquitava Maria
+                Dº  C#7
+Doentes do coração
+A7M/C#             Am/C  E9/B
+Dançavam na enfermaria
+           A#º  F#7/A#  Am6  G#7(b9)(13)  C#7M
+E a beleza não        feneci...a
+
+
+C#7M                 Fm7  E7(9)/B
+Belo e sereno era o som
+                     A7M  D#7(9)  D7M(9)
+Que lá no morro se ouvia
+                       G7(11)(13)  G7(b13)  C7M(9)
+Eu sei que o sonho era bom porque ela sorria
+              E7(9)(11)  D7(9)  A7M/C#
+Até quando chovia
+                 G#7/C  E9/B             A#º  F#7/A#  A6
+Guris inertes no chão falavam de astronomia
+               G#m7(b5)          C#7(b9)  F#m7  B7(b9)  E7M
+E me jurava o diabo que Deus existia
+                    Dº  C#7
+De mão em mão o ladrão
+A7M/C#             Am/C  E9/B
+Relógios distribuia
+              A#º  F#7/A#  Am6  G#7(b9)(13)  C#7M
+E a polícia já não batia
+
+                  Fm7  E7(9)/B  E7(b13)
+De noite raiava o sol
+                    A7M  D#7(9)  D7M(9)
+Que todo mundo aplaudia
+               G7(11)(13)  G7(b13)  C7M(9)
+Maconha só se comprava   na tabacaria
+         E7(9)(11)  D7(9)
+Drogas, na drogaria
+A7M/C#              Cº  E9/B             A#º  F#7/A#  Am6
+Um passarinho espanhol cantava esta melodia
+                G#m7(b13)   C#7     F#m7  B7(b9)  E7M
+E com sotaque esta letra de sua autoria
+                     Dº  C#7
+Sonhei que o fogo gelou
+A7M/C#               Am/C  E9/B
+Sonhei que a neve fervia
+                    A#º  F#7/A#  Am6  G#7(b9)(13)
+E por sonhar o impossível,      ai
+                    C#7M  F#m7  B7(b9)  E7M
+Sonhei que tu me querias
+                     Dº  C#7  A7M/C#
+Soñé que el fuego heló
+                   Am/C  E9/B
+Soñé que la neve ardia
+                   A#º  F#7/A#   Am6  G#7(b9)(13)
+Y por soñar lo imposible,     ay, ay
+                   C#  E7(9)  G7(9)  Bb7(9)  C#7(9)
+Soñé que tu me querias
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A6 = 5 X 4 6 5 X
+A7(b13) = X 0 X 0 2 1
+A7M = X 0 2 1 2 0
+A7M/C# = X 4 X 2 5 4
+Am/C = X 3 2 2 5 X
+Am6 = 5 X 4 5 5 X
+B7(9) = X 2 1 2 2 X
+B7(b9) = X 2 1 2 1 X
+Bb7(9) = X 1 0 1 1 X
+C# = X 4 6 6 6 4
+C#7 = X 4 3 4 2 X
+C#7(9) = X 4 3 4 4 X
+C#7(b9) = X 4 3 4 3 X
+C#7M = X 4 6 5 6 4
+C7M(9) = X 3 2 4 3 X
+Cº = X 3 4 2 4 2
+D#7(9) = X 6 5 6 6 X
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+Dº = X X 0 1 0 1
+E7(9) = X X 2 1 3 2
+E7(9)(11) = X X 2 2 3 2
+E7(b13) = 0 X 0 1 1 0
+E7M = X X 2 4 4 4
+E9/B = X 2 X 4 5 2
+F#7/A# = 6 X 4 6 5 X
+F#m7 = 2 X 2 2 2 X
+Fm7 = 1 X 1 1 1 X
+G#7(b13) = 4 X 4 5 5 4
+G#7(b9)(13) = 4 X X P2 6 2
+G#7/C = X 3 4 1 4 X
+G#m7(b13) = X X 6 9 7 7
+G#m7(b5) = 4 X 4 4 3 X
+G7(11)(13) = 3 5 3 5 5 X
+G7(9) = 3 X 3 2 0 X
+G7(b13) = 3 X 3 4 4 3

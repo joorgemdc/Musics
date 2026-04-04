@@ -1,0 +1,76 @@
+Gal Costa - Modinha
+
+(intro) Gm Dm E A Dm
+
+Dm               Gm
+Olho a rosa na janela
+         A          Dm
+Sonho um sonho pequenino
+                    Gm
+Se eu pudesse ser menino
+      C         F
+Eu roubava essa rosa
+      Am        Edim7
+E ofertava todo prosa
+     A         Dm
+À primeira namorada
+        C Dm           B/E
+E nesse pouco ou quase nada
+     A#         A
+Eu dizia o meu amor
+       A
+(O meu amor)
+
+
+Dm                  Gm
+Olho o sol findando lento
+         A         Dm
+Sonho um sonho de adulto
+                    Gm
+Minha voz na voz do vento
+        C            F
+Indo em busca do teu vulto
+        Am         Em
+E o meu verso em pedaços
+      A              Dm
+Só querendo o teu perdão
+      F#/D           Gm
+Eu me perco nos teus passos
+       A            Dm
+E me encontro na canção
+
+(2x)
+G#/E G/A Dm
+Ai,  amor eu vou morrer
+   B/E     A   Dm
+Buscando o teu amor
+
+(solo) Dm Gm A Dm Gm C F Em A Dm F#/D Gm A Dm
+
+G#/E G/A Dm
+Ai,  amor eu vou morrer,
+   B/E     A    Dm
+Buscando o teu amor.
+G#/E G/A Dm
+Ai, amor eu vou morrer,
+       B/E       A           Dm   Gm Dm
+Eu vou morrer buscando o teu amor
+B/E     A               Dm   Dm7
+Eu vou morrer de muito amor
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A# = X 1 3 3 3 1
+Am = X 0 2 2 1 0
+B/E = X 7 9 8 7 7
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+Edim7 = X X 2 3 2 3
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F#/D = X 5 4 3 2 2
+G#/E = 0 X 1 1 1 X
+G/A = 5 X 5 4 3 X
+Gm = 3 5 5 3 3 3

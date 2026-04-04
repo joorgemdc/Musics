@@ -1,0 +1,81 @@
+Chico Buarque - Não Fala de Maria
+
+(De: Chico Buarque)
+
+              Em7(9/11)              E7(b9)
+Não fala de Maria       Maria lembra mar
+                  Am7(11)     Am(add9)/G         F#m7(11)
+Que lembra aquele dia     Que não       é bom lembrar
+    F7M(#11)        Em7(9/11)                   E7(b9)
+Que dia,    que tristeza      Que noite, que agonia
+                 Am7(11)       Am(add9)/G      F#m7(11)
+Que puxa a correnteza    E traz          a maresia
+  B7          E                       Am/E
+E bate aquele vento Que lembra um assobio
+                   A#º/E                B7
+Que lembra um sofrimento Que eu não merecia
+
+                      Em7(9/11)                E7(b9)
+Não fala não, te esconjuro      Que só de imaginar
+               Am7(11)       Am(add9)/G        F#m7(11)
+O tempo fica escuro    E o espanto     agita o mar
+    B7            E                     E/D
+Que lembra aquele dia Que lembra uma canção
+
+                  A7M                 G#7/4   G#7        A6
+Que faz lembrar Maria E aí não lembro não   A coisa fica séria
+               A#m7(b5)               E/B          B7    Em   D7(9)  G6
+É como um turbilhão     Fazendo uma miséria No meu cora__cão
+G7(13)    G7(b13)          C7M(9)                 B7/4   B7         C6
+      Que faz    lembrar Maria    E aí não lembro não  A coisa fica séria
+               C#m7(b5)               D7/4         D7    G
+É como um turbilhão     Fazendo uma miséria No meu cora__cão
+
+ACORDES:
+
+Em7(9/11)  - 025232      A#m7(b5) - X12120
+E7(b9)     - 0X2131      E/B      - X2210X
+Am7(11)    - X05530      Em       - 022000
+Am(add9)/G - 3X2410      D7(9)    - X5455X
+F#m7(11)   - 2X2200      G6       - 3X243X
+F7M(#11)   - 133200      G7(13)   - 3X345X
+B7         - X24242      G7(b13)  - 3X344X
+E          - 022100      C7M(9)   - X3243X
+Am/E       - 0X221X      B7/4     - X24252
+A#º/E      - 0X232X      C6       - X3525X
+E/D        - XX0100      C#m7(b5) - X4545X
+A7M        - X02120      D7/4     - XX0213
+G#7/4      - 4X464X      D7       - XX0212
+G#7        - 4X454X      G        - 320003
+A6         - 5X465X
+
+----------------- Acordes -----------------
+A#m7(b5) = X 1 2 1 2 X
+A#º/E = X 7 5 6 5 X
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+Am(add9)/G = 3 0 2 4 1 0
+Am/E = 0 X 2 2 1 0
+Am7(11) = 5 X 5 5 3 X
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+C#m7(b5) = X 4 5 4 5 X
+C6 = 8 X 7 9 8 X
+C7M(9) = X 3 2 4 3 X
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+D7/4 = X X 0 2 1 3
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em7(9/11) = X 7 5 7 7 5
+F#m7(11) = 2 X 2 2 0 X
+F7M(#11) = 1 X X 2 0 0
+G = 3 2 0 0 0 3
+G#7 = 4 6 4 5 4 4
+G#7/4 = 4 6 4 6 4 X
+G6 = 3 X 2 4 3 X
+G7(13) = 3 X 3 4 5 X
+G7(b13) = 3 X 3 4 4 3

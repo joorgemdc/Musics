@@ -1,0 +1,128 @@
+Lenine - Paciência
+
+Na contagem de cada compasso segue o seguinte
+dedilhado para todos os acordes da música:
+
+G   1 ^ 2 ^ 3 ^ 4 ^
+e:-------------------
+B:------3-----3------
+G:--------0-----0----
+D:----0-----0-----0--
+A:-------------------
+E:--3----------------
+
+
+Em7:1 ^ 2 ^ 3 ^ 4 ^
+e:-------------------
+B:------3-----3------
+G:--------0-----0----
+D:----2-----2-----2--
+A:-------------------
+E:--0----------------
+
+
+C9: 1 ^ 2 ^ 3 ^ 4 ^
+e:-------------------
+B:------3-----3------
+G:--------0-----0----
+D:----2-----2-----2--
+A:--3----------------
+E:-------------------
+
+
+F:  1 ^ 2 ^ 3 ^ 4 ^
+e:-------------------
+B:------1-----1------
+G:--------2-----2----
+D:----3-----3-----3--
+A:-------------------
+E:--1----------------
+
+
+Exceto na passagem de C9 para Am7
+O dedilhado é assim: 
+
+C9: 1 ^ 2 ^ 3 ^ 4 ^
+e:-------------------
+B:------3-----3---1--
+G:--------0---0---0--
+D:----2-----2-2---2--
+A:--3---------3---0--
+E:-------------------
+
+
+Intro: : G : G : Em7 : Em7 : C9 : C9 : G : G  :: 2x
+
+G                                               
+    Mesmo quando tudo pede um pouco mais de calma
+Em7                       
+    Até quando o corpo pede um pouco mais de alma
+C9             G
+    A vida não para
+G                  
+    Enquanto o tempo acelera e pede pressa
+Em7                       
+   Eu me recuso faço hora vou na valsa
+C9             G
+   A vida tão rara
+G               
+   Enquanto todo mundo espera a cura do mal
+Em7                       
+   E a loucura finge que isso tudo é normal
+C9                  G
+   Eu finjo ter paciência
+G               
+   O mundo vai girando cada vez mais veloz
+Em7                                     
+   A gente espera do mundo e o mundo espera de nós
+C9                        G
+   Um pouco mais de paciência
+F                                       
+   Será que é o tempo que lhe falta pra perceber
+Em7
+   Será que temos esse tempo pra perder
+C9                   Am7 
+   E quem quer saber 
+              G 
+A vida é tão rara (Tão rara)
+F                                               
+   Mesmo quando tudo pede um pouco mais de calma
+Em7                 
+   Até quando o corpo pede um pouco mais de alma
+C9      Am7               
+  Eu sei,    
+             G          
+a vida não para (a vida não para não)
+
+(Solo, repete intro)
+
+F
+   Será que é tempo que lhe falta pra perceber
+Em7
+   Será que temos esse tempo pra perder 
+C9                  Am7
+   E quem quer saber
+              G
+A vida é tão rara (tão rara)
+F
+   Mesmo quando tudo pede um pouco mais de calma 
+Em7     
+   Até quando o corpo pede um pouco mais de alma
+C9       Am7              
+   Eu sei,   
+             G  
+a vida não para (a vida não para não...a vida não para)
+
+
+(Repete intro dando uma pausa em C9)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

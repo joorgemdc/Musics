@@ -1,0 +1,54 @@
+Lenine - O Silêncio das Estrelas
+
+[Intro] Em7  C9  C#m5-  C9  Em7  G  A9  C9
+
+     Em7  G     A9           C9          Em7  C9
+Solidão,  o silêncio das estrelas, a ilusão
+       C#m5-              C9              F#m7(11)  F#m7(5-)
+Eu pensei que tinha o mundo em minhas mãos
+         B7(13-)        B7(13)  Em7  C9  C#m5-  C9
+Como um deus e amanheço mortal
+    Em7  G   A9               C9           Em7  C9
+E assim, repetindo os mesmos erros, dói em mim
+          C#m5-       C9            Fm7(11)  F#m7(5-)
+Ver que toda essa procura não tem fim
+        B7(13-)        B7(13)   Em  C9  C#m5-  D9-
+E o que é que eu procuro afinal?
+      Am  Am7M    Am7         F#m7(5-)  Am  Am7M
+Um sinal, uma porta pro infinito,    irreal
+      Am6  Gm7(11)  F#7(11+)        F7M
+O que não pode ser dito,        afinal
+         E4   A4/E     Am  Am7M  C7(9)  C7(9-)
+Ser um homem em busca de mais      de mais
+F7M           E4          A4/E     Am9  Am7M  Am7(11)  Am6    Am9  Am7M  Am7(11)  Am6
+Afinal, feito estrelas que brilham em paz,                em paz
+
+( Em7  C9  C#m5-  C9 )
+( Em7  G  A9  C9)
+
+----------------- Acordes -----------------
+A4/E = 0 0 2 2 3 0
+A9 = X 0 2 2 0 0
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Am7M = X 0 2 1 1 0
+Am9 = X 0 2 4 1 0
+B7(13) = X 2 X 2 4 4
+B7(13-) = X 2 X 2 4 3
+C#m5- = X 4 5 6 5 4
+C7(9) = X 3 2 3 3 X
+C7(9-) = X 3 2 3 2 X
+C9 = X 3 5 5 3 3
+D9- = X X 0 2 4 2
+E4 = 0 2 2 2 0 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7(11+) = 2 X 2 3 1 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(5-) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Fm7(11) = X 8 X 8 9 6
+G = 3 2 0 0 0 3
+Gm7(11) = 3 X 3 3 1 X

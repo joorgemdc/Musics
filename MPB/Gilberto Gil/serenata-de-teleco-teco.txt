@@ -1,0 +1,51 @@
+Gilberto Gil - Serenata de Teleco-Teco
+
+Intro: D  Bm7  Em  A7
+
+   D          Em                 D
+o tamborim bateu, chamando o pessoal
+    D       Em               Am
+um violão gemeu num ritmo legal
+   Am       D7                F7M
+e começou assim em plena madrugada
+        Bb7M               Ab7M
+um tamborim no samba de calçada
+                       Eb7M  A7/9
+visitando o sono da cidade
+   D         Em                D
+a lua a iluminar o grupo barulhento
+     D          Em
+um guarda a reclamar silêncio
+                    Am D7
+silêncio pra quem dorme
+  G#m7(b5)            Gm
+e eu, que escuto ao longe
+          F#m         B7/9
+o som do meu teleco-teco
+
+ Em            A7/9          Am
+sinto o romantismo feito à porta
+                 D7
+à porta de um boteco
+ G#m7(b5)     Gm         F#m      B7
+seresta de samba também tem suavidade
+ Em           A7/9        D
+samba também fala de saudade
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/9 = 5 X 5 4 2 X
+Ab7M = 4 X 5 5 4 X
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+Bb7M = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Eb7M = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F7M = 1 X 2 2 1 X
+G#m7(b5) = 4 X 4 4 3 X
+Gm = 3 5 5 3 3 3

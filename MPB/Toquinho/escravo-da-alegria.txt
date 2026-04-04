@@ -1,0 +1,69 @@
+Toquinho - Escravo da Alegria
+
+[Intro:] Em9 Em9(#5) Em6(9) Em9(#5)
+
+ Em                     F6     E7(b9)
+E eu que andava nessa escuridão
+Am7                D7(4)    D7(9)
+De repente foi me acontecer
+G7M    D/F#          F/G    G7(13)
+Me roubou o sono e a solidão
+C7M                  Am6/C   B7
+Me mostrou o que eu temia ver
+Em   Em/D#       Em/D   Em/C#
+Sem pedir licença nem perdão
+Am6/C               B7(4)     B7
+Veio louca pra me enlouquecer
+
+Em                  F6       E7(b9)
+Vou dormir querendo despertar
+Am7               D7(4)    D7(9)
+Pra depois de novo conviver
+G7M      D/F#            F/G    G7(13)
+Com essa luz que veio me habitar
+
+C7M                 Am6/C     B7(4) B7
+Com esse fogo que me faz arder
+Em   Em/D#           Em/D    Em/C#
+Me dá medo e vem me encorajar
+Am6/C               B7    E7
+Fatalmente me fará sofrer
+
+Am7     D7(9)       G7M           C7M        F#m7/b5         B7  Bm7(b5) E7(b9)
+Ando escravo da alegria e hoje em dia, minha gente, isso não é normal
+Am7   D7(9)      G7M         C7M          F#m7/b5            B7  Bm7/b5  E7(b9)
+Se o amor é fantasia eu me encontro ultimamente em pleno carnaval
+Am7      D7(9)      G7M           C7M        F#m7/b5           B7  Bm7(b5) E(b9)
+Ando escravo da alegria e hoje em dia, minha gente, isso não é normal
+Am7   D7(9)      G7M         C7M           F#m7/b5         B7  C7M F7M F#m7(11) F7M E
+Se o amor é fantasia eu me encontro ultimamente em pleno carnaval
+
+----------------- Acordes -----------------
+Am6/C = X 3 4 2 5 2
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+Bm7(b5) = X 2 3 2 3 X
+Bm7/b5 = X 2 3 2 3 X
+C7M = X 3 2 0 0 X
+D/F# = 2 X 0 2 3 2
+D7(4) = X X 0 2 1 3
+D7(9) = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E(b9) = 0 2 3 1 0 0
+E7 = 0 2 2 1 3 0
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em/C# = X 4 2 0 0 X
+Em/D = X X 0 4 5 3
+Em/D# = X X 1 0 0 0
+Em6(9) = X X 2 0 2 2
+Em9 = 0 2 4 0 0 0
+Em9(#5) = 8 X 0 11 8 8
+F#m7(11) = 2 X 2 2 0 X
+F#m7/b5 = 2 X 2 2 1 X
+F/G = 3 X 3 2 1 X
+F6 = 1 X 0 2 1 X
+F7M = 1 X 2 2 1 X
+G7(13) = 3 X 3 4 5 X
+G7M = 3 X 4 4 3 X

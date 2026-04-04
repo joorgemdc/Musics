@@ -1,0 +1,102 @@
+Caetano Veloso - Com Que Roupa
+
+(intro) Amaj7 A#dim7 G#m7 C#7 F#m7 B7 E B7
+
+Emaj7     F#m7  B7       Emaj7 E6
+Agora vou mudar minha conduta,
+           Emaj7
+Eu vou pra luta
+         C#7       F#m7 G#m7 C#7
+pois eu quero me aprumar
+F#m7         C#7            F#m7
+Vou tratar você com a força bruta,
+F#m7         B7     Emaj7
+pra poder me reabilitar
+
+          F#m7          Emaj7       F#m7             Emaj7
+Pois esta vida não está sopa e eu pergunto: com que roupa?
+        G#m7  C#7        F#m7
+Com que roupa     que eu vou
+     F#m7     B7            G#m7
+pro samba que você me convidou?
+                     C#7       F#7     B7           Emaj7 B7
+Com que roupa que eu vou pro samba que você me convidou?
+
+
+Agora, eu não ando mais fagueiro,
+Pois o dinheiro
+não é fácil de ganhar
+
+Mesmo eu sendo um cabra trapaceiro,
+não consigo ter nem pra gastar
+
+Eu já corri de vento em popa, mas agora com que roupa?
+Com que roupa que eu vou
+ pro samba que você me convidou?
+Com que roupa que eu vou
+      F#7       F#m7   B7  Emaj7  C7 Fmaj7 Gm7 C7
+ pro samba que você me convidou?
+   Fmaj7   Gm7             Am7   Gm7 C7        Em7(9) A7
+Eu hoje to pulando como um sapo, pra ver se escapo
+      D7(9)   D7(b9) Gm7 Am7 D7(b9)
+desta praga de uru - bu
+Gm       Gm7M         Gm7
+Já estou coberto de farrapo,
+Gm7       C7
+eu vou acabar
+        Am7
+ficando nu
+   D7   Gm7 C7     Fmaj7         Gm7              Am7
+Meu paletó virou estopa e eu nem sei mais com que roupa
+Am7(b5)       D7     Gm7  Am7 Bbmaj7 Am7
+Com que roupa que eu vou
+     Gm7       C7            Am7
+ pro samba que você me convidou?
+                    D7        G7        C7
+Com que roupa que eu vou pro samba que você me
+      Fmaj7 Dm7 Gm7 C7
+convidou?
+
+(como a estrofe 3)
+
+Seu português agora deu o fora, já foi-se embora
+E levou seu capital
+Esqueceu quem tanto amou outrora
+Foi no Adamastor pra Portugal
+Pra se casar com uma cachopa, e agora, com que roupa
+
+Am7(b5)       D7     Gm7  Am7 Bbmaj7 Am7
+Com que roupa que eu vou
+     Gm7       C7            Am7
+ pro samba que você me convidou?
+                    D7        G7        C7
+Com que roupa que eu vou pro samba que você me
+      Fmaj7
+convidou?
+
+----------------- Acordes -----------------
+A#dim7 = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Am7(b5) = 5 X 5 5 4 X
+Amaj7 = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bbmaj7 = X 1 3 2 3 1
+C#7 = X 4 3 4 2 X
+C7 = X 3 2 3 1 X
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+D7(b9) = X 5 4 5 4 X
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+Em7(9) = X 7 5 7 7 X
+Emaj7 = X X 2 4 4 4
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+Fmaj7 = 1 X 2 2 1 X
+G#m7 = 4 X 4 4 4 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X
+Gm7M = 3 5 4 3 3 3

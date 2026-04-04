@@ -1,0 +1,59 @@
+Fagner - Cigano
+
+[Intro] G  D/F#  Em  E7
+        Am  Am/G  D/F#  D7  G
+
+F#m7(b5)                        B7(b9)
+    Eu não vivo guardado em segredo
+       Em   B7/D#                  Em
+Nem no medo,          um receio sequer
+G#°                         E4(7)  E7
+   A não ser quando a morte vier
+               Am    E/G#           Am
+E me pegar sorrindo     querendo ficar
+
+D                             D#°
+   Eu não sei viver de outro jeito
+                 Em    B7/D#
+A não ser desse jeito
+           Dm7   G7
+Destino cigano
+
+            C
+Comigo não dá
+
+      F#m7(b5)     B7(b9)
+Pra ficar    amargando
+     G°
+Esperando o tempo passar
+       F#m7/b5
+Até sonhando
+        B7(b9)              G°
+E sem saber  onde posso chegar
+              F#m7/b5    B7(b9)
+E ficar   amargando
+
+( G  D/F#  Em  E7 )
+( Am  Am/G  D/F#  D7  G )
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B7(b9) = X 2 1 2 1 X
+B7/D# = X X 1 2 0 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D#° = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E4(7) = 0 X 0 2 0 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m7(b5) = 2 X 2 2 1 X
+F#m7/b5 = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G#° = 4 X 3 4 3 X
+G7 = 3 5 3 4 3 3
+G° = 3 X 2 3 2 X

@@ -1,0 +1,35 @@
+Tim Maia - Escrituração Racional
+
+[Intro] B7  A9/B
+
+        A       G#m7
+É preciso ler e reler
+           F#m       C  B7
+A escrituração racional
+           A       G#m7
+E você vai ver como é
+               F#m         C  B
+Que tudo vai mudar pra melhor
+
+A            Am        E
+Banhado de energia racional
+A        Am            G#7        C#m
+Você será orientado onde es   ti   ver
+         F#
+Para que tudo, tudo dê certo
+       B7
+Pra você
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A9/B = X 2 2 2 0 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4
+G#m7 = 4 X 4 4 4 X

@@ -1,0 +1,55 @@
+Chico Buarque - Introdução Para a Turma do Funil
+
+C7+                    D7/9
+Quando é tão densa a fumaça
+                Dm7/9
+Que o tempo não passa
+             G7/6
+E a porta do bar já fechou
+C7+       B7            E7+
+Quando ninguém mais tem dono
+    C#7         F#7
+O garçom tá com sono
+       B7       E7
+E a primeira edição circulou
+Am         Am/G       F#m7/5+         Fm6
+Quando não há mais saudade, nem felicidade
+              Em7       A7
+Nem sede, nem nada, nem dor
+Dm7        G7/6         C7+
+Quando não tem mais cadeira
+     A7  Dm7         E7/9-    Am7  A7
+Tomo uma besteira de pé no balcão
+Dm7        E7/9-    Am7
+Eis que da porta do fundo
+
+F7/C      Bb7
+Do oco do mundo
+E7            Am   G7
+Desponta o cordão
+   Cm     G7       Cm
+Chegou a turma do funil
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bb7 = X 1 3 1 3 1
+C#7 = X 4 3 4 2 X
+C7+ = X 3 2 0 0 X
+Cm = X 3 5 5 4 3
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+E7/9- = X X 2 1 3 1
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m7/5+ = X X 4 7 5 5
+F7/C = X 3 3 2 4 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+G7/6 = 3 X 3 4 5 X

@@ -1,0 +1,37 @@
+Fagner - Astro Vagabundo
+
+Intro: G  D/F#  Em  G  D  A  C  G
+
+G  D/F#  Em         G
+Velha estampa na parede
+    D         A
+A toalha do jantar
+    C                    G
+Na fumaça um anjo negro vai chegar
+G   D/F# Em       G
+Por trás da veneziana
+     D        A
+A cigana me falar
+        C                        G
+Que o inferno monstruoso vai  entrar
+          Am       Am7+
+Mas se o astro vagabundo
+     Am7         D
+Na verdade vai chegar
+         Em          F#º
+Não quero ver o fim do mundo
+        Em D C Bm A G D/F#
+Vou dormir em teu jardim...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+Bm = X 2 4 4 3 2
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+Em = 0 2 2 0 0 0
+F#º = 2 X 1 2 1 X
+G = 3 2 0 0 0 3

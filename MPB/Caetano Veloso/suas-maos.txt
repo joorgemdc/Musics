@@ -1,0 +1,61 @@
+Caetano Veloso - Suas Mãos
+
+(intro) E7  A7M
+
+        G#(#5)        G7  F#7
+As suas mãos  onde estão?
+                 B7(9)
+Onde está o seu carinho?
+ E7         Amaj7 E7
+Onde está você?
+      A7M      G#(#5)  G7  F#7
+Ah... se eu pudesse buscar
+                     B7
+Se eu soubesse onde está
+    E7     Amaj7  A7
+Seu amor, seu...
+   Dm7               G7
+Um dia há de chegar
+                Amaj7  A7
+Quando ainda não sei
+ Dm7              G7            C#m7
+Você vai procurar    onde eu estiver
+     C7        Bm7   E7(b9) Amaj7
+Sem amor, sem você
+
+
+Se eu pudesse buscar,
+Se eu soubesse, onde está
+Seu amor, você.
+
+Suas mãos onde estão?
+Onde está o seu carinho?
+Onde está você?
+
+Um dia há de chegar
+Quando ainda não sei
+Você vai procurar onde eu estiver
+Sem amor, sem você
+As suas mãos onde estão?
+Onde está o seu carinho?
+Onde está você?
+
+Se eu pudesse buscar,
+Se eu soubesse, onde está
+Seu amor, você.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+Amaj7 = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C7 = X 3 2 3 1 X
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E7(b9) = X X 2 1 3 1
+F#7 = 2 4 2 3 2 2
+G#(#5) = 4 7 6 5 4 X
+G7 = 3 5 3 4 3 3

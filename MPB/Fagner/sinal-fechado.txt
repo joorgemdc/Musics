@@ -1,0 +1,84 @@
+Fagner - Sinal Fechado
+
+[Intro:] Em9 Em9/D C7M B7(b13) C7M Am7 B7 Am7/C Em(b5)
+
+                Em7(9)
+- Olá! Como vai?
+                           Em6(9) B7/Eb
+- Eu vou indo. E você, tudo bem?
+                   Em                  Em9
+- Tudo bem! Eu vou indo, correndo pegar
+              Em          Em6(9)
+Meu lugar no futuro... E você?
+                  Cm6
+- Tudo bem! Eu vou indo, em busca de um sono tranqüilo...
+  G       Em/D
+Quem sabe?
+        C#m7(b5)
+- Quanto tempo!
+                   B7(b9) Em A7(9) Em
+- Pois é, quanto tempo!
+
+                         Am6
+- Me perdoe a pressa, é a alma dos nossos negócios!
+
+       G             Em           Am6         B7(b9) F#m7(b5)
+- Oh! Não tem de quê! Eu também só ando a cem!
+                                   C/G
+- Quando é que você telefona? Precisamos nos ver por aí!
+       Am/C                                  F#m7(b5)/C B7
+- Pra semana, prometo, talvez nos vejamos...Quem sabe?
+       C#m7(b5)
+- Quanto tempo!
+                 B7(b9) Em9 Em9/D C7M Am7 B7 Em Em(b5)
+- Pois é...quanto tempo!
+
+                                  Em9
+- Tanta coisa que eu tinha a dizer,
+                               C/G
+Mas eu sumi na poeira das ruas...
+                                                F#m7(11) F#m7(b5) Am
+- Eu também tenho algo a dizer, mas me foge à lembrança!
+                                          C/G                    F#m7(b5)
+- Por favor, telefone, eu preciso beber alguma coisa, rapidamente...
+- Pra semana...
+         C/G
+- O sinal...
+- Eu procuro você...
+            F#m7(b5)
+- Vai abrir...
+- Prometo, não esqueço...
+                    C/G     F#m7(b5)
+- Por favor, não esqueça, por favor...
+- Adeus!
+               C/G
+- Não esqueço...
+- Adeus!
+        F#m7(b5) C/G
+- Adeus!
+
+----------------- Acordes -----------------
+A7(9) = 5 X 5 4 2 X
+Am = X 0 2 2 1 0
+Am/C = X 3 2 2 5 X
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7/C = X 3 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+B7/Eb = X X 1 2 0 2
+C#m7(b5) = X 4 5 4 5 X
+C/G = 3 3 2 X 1 X
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+Em = 0 2 2 0 0 0
+Em(b5) = 0 1 2 0 0 0
+Em/D = X X 0 4 5 3
+Em6(9) = X X 2 0 2 2
+Em7(9) = X 7 5 7 7 X
+Em9 = 0 2 4 0 0 0
+Em9/D = X 5 5 4 7 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3

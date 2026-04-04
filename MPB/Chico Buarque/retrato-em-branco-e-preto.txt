@@ -1,0 +1,88 @@
+Chico Buarque - Retrato Em Branco e Preto
+
+[ Chico Buarque / Tom Jobim ]
+
+
+[Intro:] Cm7 Cm6 Bb7M Bb6 A7(13) D7(#9)
+
+ Gm                           D/F#
+Já conheço os passos dessa estrada,
+                       Fm6            E7        Eb7M(#5) Eb7M(6)
+Sei que não vai dar em nada, seus segredos sei de cor
+Cm7          D7(#9)       Bb7M           Bb6          A7(13)
+Já conheço as pedras do caminho e sei também que ali sozinho
+       A7(b13)      D7M(9)             Ab7(b5)             Gm
+Eu vou ficar, tanto pior, o que é que eu posso contra o encanto
+
+                       D/F#
+Desse amor que eu nego tanto, evito tanto
+           Fm6    E7                   Eb7M
+E que no entanto volta sempre a enfeitiçar
+Cm7              C#º           Bb/D
+Com seus mesmos tristes velhos fatos
+       Eb7M         Cm7 Am7(b5)        D7(#9) Gm D7(#9)
+Que num álbum de retratos eu teimo em colecionar
+
+
+Lá vou eu de novo como um tolo,
+Procurar o desconsolo que cansei de conhecer
+Novos dias tristes, noites claras, versos, cartas, minha cara
+Ainda volto a lhe escrever pra lhe dizer que isso é pecado
+
+                        D/F#
+Eu trago o peito tão marcado
+                    Fm6       E7       Eb7M(#5) Eb7M
+De lembranças do passado e você sabe a razão
+Cm7        C#º           Bb/D           Eb7M              Cm7
+Vou colecionar mais um soneto, outro retrato em branco e preto
+       D7(#9) Em7(b5)  Eb7M Eb6 G7(b13)/B
+A maltratar meu coração
+Cm7        C#º           Bb/D           Eb7M              Cm7
+Vou colecionar mais um soneto, outro retrato em branco e preto
+       D7(#9)   Eb7M   Eb6 Gm7
+A maltratar meu coração
+
+
+ACORDES:
+
+Gm       - 3X033X
+D/F#     - 2X023X     A7(b13)  - 5X566X
+Fm6      - 1X011X     D7M(9)   - X5465X
+E7       - 0X010X     Ab7(#11) - 4X453X
+Eb7M(#5) - X6543X     Eb7M     - X65333
+Eb7M(6)  - X6553X     C#º      - X4535X
+Cm7      - X3534X     Gm7/D    - X5536X
+D7(b9)   - X5454X     Cm(7M)   - X3544X
+Bb7M     - 6X776X     Ebm7     - X646XX
+Bb6      - 6X576X     D7       - X545XX
+A7(13)   - 5X567X     Am7(b5)  - 5655XX
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Ab7(#11) = 4 X 4 5 3 X
+Ab7(b5) = 4 X 4 5 3 X
+Am7(b5) = 5 X 5 5 4 X
+Bb/D = X 5 X 3 6 6
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+C#º = X 4 5 3 5 3
+Cm(7M) = X 3 5 4 4 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(#9) = X 5 4 5 6 X
+D7(b9) = X 5 4 5 4 X
+D7M(9) = X 5 4 6 5 X
+E7 = 0 2 2 1 3 0
+Eb6 = X X 1 3 1 3
+Eb7M = X X 1 3 3 3
+Eb7M(#5) = X 6 5 4 3 3
+Eb7M(6) = X 6 5 5 3 3
+Ebm7 = X X 1 3 2 2
+Em7(b5) = X X 2 3 3 3
+Fm6 = 1 X 0 1 1 X
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X
+Gm7/D = X 5 3 3 3 3

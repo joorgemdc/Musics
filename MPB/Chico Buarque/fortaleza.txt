@@ -1,0 +1,45 @@
+Chico Buarque - Fortaleza
+
+(De: Chico Buarque & Ruy Guerra)
+
+Em7(9)            C#m7(b5)                 Eb7M
+      A minha tristeza    não é feita de angústias
+            Em7(b5)                 A7
+A minha tristeza   não é feita de angústias
+           D7M   D7  Gm           Gm(add9)/F              Eb7
+A minha surpresa       A minha surpresa     é só feita de fatos
+              D7/4    D7         A7
+De sangue nos olhos e lama nos sapatos
+           D7M   D7  Gm           Gm(add9)/F                   Eb7
+Minha fortaleza        Minha fortaleza      é de um silêncio infame
+              D7/4     D7         C#m7(b5)          B7(b9)
+Bastando a si mesma, retendo o derrame    A minha represa
+
+ACORDES:
+
+Em7(9)     - 02403X
+C#m7(b5)   - X42000
+Eb7M       - XX1333
+Em7(b5)    - XX2333
+
+A7         - X02020
+D7M        - XX0222
+D7         - XX0212
+Gm         - XX5333
+Gm(add9)/F - XX3335
+Eb7        - XX1323
+D7/4       - XX0213
+B7(b9)     - X2121X
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7(b9) = X 2 1 2 1 X
+C#m7(b5) = X 4 5 4 5 X
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+D7M = X X 0 2 2 2
+Eb7 = X 6 5 6 4 X
+Eb7M = X X 1 3 3 3
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+Gm = 3 5 5 3 3 3

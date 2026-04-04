@@ -1,0 +1,81 @@
+Djavan - Vidas Pra Contar
+
+Em7(9)
+No correr da noite
+Cº
+   Tudo é espreita
+Em7(9)
+Destemidos,
+     C#º
+Vaga-lumes luz-sombreiam
+Cm6
+Semiescondidos
+Em7(9)/B
+Muitos morreram
+Bbº(b13)
+        Puros
+   F#m7(b5) B7(b9)
+Sem ver a manhã
+
+Em7(9)
+À sombra da noite,
+Cº
+Nos palacetes
+
+Em7(9)
+Dormem odaliscas
+            C#º
+Em seus retretes
+Cm6
+Serão mocinhas
+Em7(9)/G
+De sonhos verdes,
+Bbº(b13)
+Puras
+  F#m7(b5)  B7(b9)
+Na luz da manhã
+
+Dm7    Bb7(13) B7(b13)  Em7(9)
+Fui ver vidas  pra contar
+          D#º
+Enquanto o sono incerto
+    Dm7(9)
+Não vem
+G7(13)  C7M(9)
+   Acolher
+Dm7         Bb7(13) B7(b13)  Em7(9)
+Na noite eu perdi    meu    olhar
+        D#º
+Imagens não param
+       Dm7(9)
+De referir
+G7(13)    C7M(9)
+   E envolver
+
+F7M
+Não é natural,
+Em7M(9)
+Mas fazia bem
+F7M          Dm7(9)
+Não estar perdido
+        Em7M(9)
+Por ninguém.
+
+----------------- Acordes -----------------
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bb7(13) = 6 X 6 7 8 X
+Bbº(b13) = X 1 X 0 2 2
+C#º = X 4 5 3 5 3
+C7M(9) = X 3 2 4 3 X
+Cm6 = X 3 X 2 4 3
+Cº = X 3 4 2 4 2
+D#º = X X 1 2 1 2
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Em7(9) = X 7 5 7 7 X
+Em7(9)/B = X 2 4 0 3 0
+Em7M(9) = 0 X X 0 4 2
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+G7(13) = 3 X 3 4 5 X

@@ -1,0 +1,102 @@
+Chico Buarque - Beatriz
+
+(De: Chico Buarque & Edu Lobo)
+
+Intr.: Ab9   / Eb6/G / Fm7(9) / Eb7M / A7 Ab9   / Eb6/G / Fm7(b5/9) / / /
+
+D°/Eb  Eb7M               Fm7(6)                   Eb7M/G
+O______lha Será que ela é mo____ça? Será que ela é triste?
+                Ab9                A°add9             Cmadd9  /Bb
+Será que é o contrário? Será que é pintura    o rosto da atriz?
+       Cmadd9  /B          Cmadd9             Cmadd9  /Db              Bb7M/D
+Se ela dança     no sétimo céu?    Se ela acredita       que é outro país?
+                           Bb7(9)
+E se ela só decora o seu papel?
+  Dbm6     Cm6             Abm7M/B   Bb7(9-/13-)  Bb7(9-/13)
+E se  eu pudesse entrar na sua         vi___________da...
+
+D°/Eb  Eb7M              Fm7(6)               Eb7M/G
+O______lha Será que é de louça? Será que é de é_____ter?
+              Ab9               A°add9            Cmadd9  /Bb
+Será que é loucura?   Será que é cenário   a casa da atriz?
+       Cmadd9  /B            Cmadd9            Cmadd9  /Db              Bb7M/D
+Se ela mora      num arranha-céu?    E se as paredes      são feitas de giz?
+
+                               Bb7(9)
+E se ela chora num quarto de hotel?
+  Dbm6     Cm6             Abm7M/B   Bb7(9-/13-)  Bb7(9-/13)
+E se  eu pudesse entrar na sua         vi___________da...
+
+B6/9                         E7M(9)                                    B6/9
+Sim, me leva para sempre, Beatriz  Me ensina a não andar com os pés no chão
+F#7/A#  G#m      G#m/F#  F7(9)   E7M(9)
+Para    sempre é sempre  por  um triz
+A7(13)  D7M(6/9)          C7(9/11+)             C#m7(9)  F#7(9+/13-)
+Ah,     diz     quantos desastres  tem na minha mão
+B7M(9)         A7(9/11+/13)              A#7/4(9)  Bb7(9-/11+) Bb7(13)
+Diz   se é perigoso        a gente ser feliz
+
+D°/Eb  Eb7M                 Fm7(6)                  Eb7M/G
+O______lha Será que é uma estre___la? Será que é menti_____ra?
+             Ab9               A°add9             Cmadd9  /Bb
+Será que é comédia?  Será que é divina    a vida da atriz?
+          Cmadd9  /B             Cmadd9            Cmadd9  /Db         Bb7M/D
+Se ela um dia       despencar do céu?    E se os pagantes     exigirem bis?
+                            Bb7(9)
+E se um arcanjo passar o chapéu?
+  Dbm6     Cm6             Abm7M/B   Bb7(9-/13-)  Bb7(9-/13)
+E se  eu pudesse entrar na sua         vi___________da...
+
+Ab9   / Eb6/G / Fm7(9) / Eb7M / A7 Ab9   / Eb6/G / Fm7(b5/9) / / / Eb7M / / /
+
+ACORDES:
+
+Ab9      - 4X131X
+Eb6/G       - 3X131X     Bb7(9-/13-)  - X10102
+Fm7(9)      - 131113     Bb7(9-/13)   - X10103
+Eb7M        - X65333     B6/9         - 76667X
+A7          - 5456XX     E7M(9)       - 07687X
+Fm7(b5/9)   - XX3443     F#7/A#       - 6X465X
+D°/Eb       - X6646X     G#m          - 466444
+Fm7(6)      - X8674X     G#m/F#       - 2XX444
+Eb7M/G      - XX5746     F7(9)        - 1XX243
+A°add9      - X04547     A7(13)       - 5X5675
+Cmadd9  /Bb - 6X574X     D7M(6/9)     - X54420
+Cmadd9  /B  - 7X574X     C7(9/11+)    - X32332
+Cmadd9      - X3574X     C#m7(9)      - X4244X
+Cmadd9  /Db - X4574X     F#7(9+/13-)   - 2X2335
+Bb7M/D      - X5736X     B7M(9)       - X2132X
+Bb7(9)      - X10111     A7(9/11+/13) - X05442
+Dbm6        - X4X354     A#7/4(9)     - 6X654X
+Cm6         - X3X243     Bb7(9-/11+)  - 6X6430
+Abm7M/B   - X2X143     Bb7(13)      - 6X6786
+
+----------------- Acordes -----------------
+A#7/4(9) = X 1 1 1 1 1
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+Ab9 = 4 6 8 5 4 4
+A°add9 = X 0 4 5 4 7
+B6/9 = X 2 1 1 2 2
+B7M(9) = X 2 1 3 2 X
+Bb7(13) = 6 X 6 7 8 X
+Bb7(9) = X 1 0 1 1 X
+Bb7M/D = X 5 X 3 6 5
+C#m7(9) = X 4 2 4 4 X
+C7(9/11+) = X 3 2 3 3 2
+Cm6 = X 3 X 2 4 3
+Cmadd9 = X 3 1 0 3 X
+D7M(6/9) = X 5 4 6 0 0
+Dbm6 = X 4 X 3 5 4
+D°/Eb = X X 1 1 0 1
+E7M(9) = X 7 6 8 7 X
+Eb6/G = 3 1 1 3 1 X
+Eb7M = X X 1 3 3 3
+Eb7M/G = 3 X 1 3 3 X
+F#7/A# = 6 X 4 6 5 X
+F7(9) = X X 3 2 4 3
+Fm7(6) = X 8 X 8 9 10
+Fm7(9) = X X 3 1 4 3
+Fm7(b5/9) = P1 2 5 1 X X
+G#m = 4 6 6 4 4 4
+G#m/F# = X X 4 4 4 4

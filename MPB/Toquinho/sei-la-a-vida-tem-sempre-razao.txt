@@ -1,0 +1,52 @@
+Toquinho - Sei Lá, a Vida Tem Sempre Razão
+
+                 A7             D7/9
+Tem dias que eu fico pensando na vida
+         G7/13        G7    C6/9
+E sinceramente não vejo saída.
+              A7                   D7(4/9)
+Como é, por exemplo, que dá pra entender:
+             D7/9              G7/13
+A gente mal nasce, começa a morrer.
+          C7(4/9)                D7/9
+Depois da chegada vem sempre a partida,
+               G7/13 G7/b13  Gm7  C7/9
+Porque não há nada sem separação.
+
+       F#m5-/7  Fm6       Em7  A7     D7/9        G7/13   C7/9
+Sei lá,              sei lá,      só sei que é preciso paixão.
+       F#m5-/7  Fm6       Em7  A7    D7/9       G7/13    C6/9
+Sei lá,              sei lá,       a vida tem sempre  razão.
+
+             A7                D7/9
+A gente nem sabe que males se apronta.
+           G7/13        G7       C6/9
+Fazendo de conta, fingindo esquecer
+
+            A7               D7(4/9)
+Que nada renasce antes que se acabe,
+               D7/9            G7/13
+E o sol que desponta tem que adormecer.
+         C7(4/9)           D7/9
+De nada adianta ficar-se de fora.
+          G7/13       G7/b13   Gm7  C7/9
+A hora do sim é o descuido do não.
+       F#m5-/7 Fm6      Em7  A7    D7/9         G7/13  Gm7  C7/9
+Sei lá,             sei lá,     só sei que é preciso paixão.
+      F#m5-/7  Fm6      Em7  A7    D7/9    G7/13    C6/9
+Sei lá,             sei lá,     a vida tem sempre razão.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+C6/9 = X 3 2 2 3 3
+C7(4/9) = X 3 3 3 3 3
+C7/9 = X 3 2 3 3 X
+D7(4/9) = X 5 5 5 5 5
+D7/9 = X 5 4 5 5 X
+Em7 = 0 2 2 0 3 0
+F#m5-/7 = 2 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+G7/13 = 3 X 3 4 5 X
+G7/b13 = 3 X 3 4 4 3
+Gm7 = 3 X 3 3 3 X

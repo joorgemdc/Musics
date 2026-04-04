@@ -1,0 +1,69 @@
+Elba Ramalho - Sabiá
+
+Elba Ramalho, Alceu Valença e Geraldo Azevedo
+
+Introdução:
+
+e|12--10--9------------------|10--9----------------------|9---9----------------------|
+B|------------12--10--9--12--|--------12--10--9--10--12--|--------12--10--9--10--12--|
+
+
+e|----12--9------------------|--------10--9--------------|--------10--9--------------|
+B|10----------12--10--9--10--|9---12----------12--10--9--|10--12----------12--10--9--|
+
+Solo:
+  Em           Em               Am                 B7                  Em
+e|------------|----------------|---------8-7------|-------------------|----------|
+B|-----8---8--|----8---8---8---|-10---10-----10-8-|-7-----------------|----------|
+G|---9---9----|--9---9---9---9-|------------------|---9-8-------------|----------|
+D|------------|----------------|------------------|-------10-9-7------|----------|
+A|------------|----------------|------------------|--------------10-9-|-7--------|
+E|------------|----------------|------------------|-------------------|----------|
+
+
+
+Em                    Am
+A todo mundo eu dou psiu
+                    Em
+Perguntando por meu bem
+                   F#m5-/7
+Tenho um coração vazio
+                   B7
+Vivo assim a dar psiu
+                 Em
+Sabiá vem cá também
+Em                    Am
+A todo mundo eu dou psiu
+                    Em
+Perguntando por meu bem
+                   F#m5-/7
+Tenho um coração vazio
+                   B7
+Vivo assim a dar psiu
+                Em
+Sabiá vem cá também
+                   E7
+Tú que andas pelo mundo (Sabiá)
+                  Am
+Tú que tanto já voou (Sabiá )
+                    D7
+Tú que cantas passarinho (Sabiá)
+                G
+Alivia a minha dor
+          B7       Em
+Tem pena d'eu (Sabiá )
+          B7      Em
+Diz por favor (Sabiá)
+                    B7        Em
+Tú que cantas passarinho (Sabiá)
+              B7     Em         B7          Em         Am
+Alivia minha dor Sabiá          á           á          á
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m5-/7 = 2 X 2 2 1 X
+G = 3 2 0 0 0 3

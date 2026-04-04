@@ -1,0 +1,30 @@
+João Gilberto - Mágoa
+
+  A7M    E7(b13)  C#m7(b5)        Gm6
+Você chegou tão tarde na minha vida
+   F#7(b13)   Bm7      Dm6              F#7M
+Que só encontrou muita mágoa no meu coração
+
+( Bm7  E7(b13) )
+
+  A7M     E7(b13)    C#m7(b5)        F#7(b13)
+Você me olhou, sorriu com tanta ternura
+            Bm7      Dm7      Dm6    C#m7(b5)   F#7
+Que eu descobri em você uma nova razão
+           F#m6      Bm7      C#m7(b5)   F#7(b13)
+Comovido fiquei e beijei sua mão
+                F#m6     Bm7       A7M  E7(b13)
+Quis falar de amor você disse que não
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#m7(b5) = X 4 5 4 5 X
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+E7(b13) = 0 X 0 1 1 0
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7M = 2 X 3 3 2 X
+F#m6 = 2 X 1 2 2 X
+Gm6 = 3 X 2 3 3 X

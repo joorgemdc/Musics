@@ -1,0 +1,44 @@
+Tom Jobim - Amor Em Paz
+
+[Intro]  Am7  D7/+5
+
+     Bm7 E7/5+/9-    Am7                A#dim          Bm7     Gm7 Gm6
+Eu Amei,            e amei ai de mim muito mais do que devia amar
+     Fmaj7 F6       Gbm7/-5        B7          Emaj7   E7 Am7 D7/+5
+E chorei      ao sentir que iria sofrer, E me desesperar
+     Bm7 E7/5+/9-        Am7              A#dim        Bm7     Gm7 Gm6
+Foi então,          que da minha infinita tristeza aconteceu você
+     Fmaj7 F6      Gbm7/-5         B7       Emaj7     Em6
+Encontrei     em você a razão de viver e de amar em paz
+             Dmaj7 Dm6       Cmaj7 C6
+e não sofrer mais,       nunca mais
+          C#dim                Cdim           E7       C7/9
+Porque o amor, É a coisa mais triste, Quando se desfaz
+          C#dim                Gbdim          Em7      Em9 Am7 D7/+5
+Porque o amor, É a coisa mais triste, Quando se desfaz
+
+----------------- Acordes -----------------
+A#dim = X 1 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#dim = X 4 5 3 5 3
+C6 = 8 X 7 9 8 X
+C7/9 = X 3 2 3 3 X
+Cdim = X 3 4 2 4 2
+Cmaj7 = X 3 2 0 0 X
+D7/+5 = X 5 X 5 7 6
+Dm6 = X 5 X 4 6 5
+Dmaj7 = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+E7/5+/9- = 0 X 0 1 1 1
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+Em9 = 0 2 4 0 0 0
+Emaj7 = X X 2 4 4 4
+F6 = 1 X 0 2 1 X
+Fmaj7 = 1 X 2 2 1 X
+Gbdim = 2 X 1 2 1 X
+Gbm7/-5 = 2 X 2 2 1 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

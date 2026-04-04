@@ -1,0 +1,77 @@
+Chico Buarque - Você Não Ouviu
+
+[Intro] C#m7(b5)  F#7  B  Bm7(b5)  E7  Am7  B7  Em  F#7  B7  D7(9)
+
+C#m7(b5)  F#7   B    Bm7(b5)
+Você      não ouviu
+  E7                Am7
+O samba que eu lhe trouxe
+    B7            Em   Em/D
+Ai, eu lhe trouxe rosas
+    C#m7(b5)  F#7     D7(9)
+Ai, eu lhe trouxe um doce
+    C    G/B     Am7
+As rosas vão murchando
+            D7(9)   G6
+E o que era doce acabou-se
+
+             G7M
+Você me desconserta
+               Am7          B7       Em
+Pensa que está certa, porém não se iluda
+         Fm#7/(b5)       B7       Em
+No fim do mês, quando o dinheiro aperta
+
+     Em/D    F#7/C#      F#7    B7
+Você corre esperta e vem pedir ajuda
+       E7
+Eu lhe procuro, mas você se esconde
+           Am7             E7      Am7
+Não me diz aonde, nem quer ver seu filho
+         Fm#7/(b5)    B7    Em
+No fim do mês é que você responde
+     Em/D     F#7/C#      F#7    B7   D7(9)
+E no primeiro bonde vem pedir auxílio
+
+                         G7M
+Você diz que minha rosa é frágil
+                  Am7           B7      Em
+Que o meu samba é plágio e é só lugar comum
+          Fm#7/(b5)    B7      Em
+No fim do mês sei que você vem ágil
+         Em/D    F#7/C#          F#7   B7
+Passa um curto estágio e eu fico sem nenhum
+      E7
+A sua dança vai durar enquanto
+           Am7             E7  Am7
+Você tem encanto e não tem solidão
+          Fm#7/(b5)        B7     Em
+No fim da festa há de escutar meu canto
+         Em/D     F#7/C#      F#7    B7    D7(9)
+E vir correndo em pranto me pedir perdão (ou não?)
+
+    C    G/B     Am7
+As rosas vão murchando
+            D7(9)   G6
+E o que era doce acabou-se
+    C    G/B     Am7
+As rosas vão murchando
+            D7(9)   G6
+E o que era doce acabou-se
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C#m7(b5) = X 4 5 4 5 X
+D7(9) = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#7 = 2 4 2 3 2 2
+F#7/C# = X 4 4 3 5 X
+G/B = X 2 0 0 3 3
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

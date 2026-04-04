@@ -1,0 +1,56 @@
+Ivan Lins - Meu Espelho
+
+Intro: E(#4) E9 Aº(7M) A7M/E E7M/G# A#º B7(9)(#11) B7
+
+E9            G#7(#9) G7(4)(9)
+Tens que cuidar    de mim,
+G7/B   C7M C6 C7(4)(13)
+E me curar        de mim,
+C7(13) F#m7(11) B7 E7(4)(9) E7(9)(#11) A7(9)(#11) A7 Dm7(9)
+Me     proteger          da dor,                     por favor,
+Cm7(9)        Bm7(b5) E6(b9) A7M(b13)
+Se eu me espelhar         em        ti,
+C#7(b13) F#m7(9) Em7(9)(11) D#m7(b5)
+Me ensinas     a             sorrir,
+                G#7(b9) C#7M B7(4)(9)
+Mesmo sem estar feliz
+
+Tens que cuidar de nós,
+Pois temos de aprender
+Como envelhecer, é assim!
+E sempre que houver luz,
+Espelhos, camarins,
+Nos encarar e fim
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+A7(9)(#11) = 5 4 5 4 4 X
+A7M(b13) = X 0 X 1 2 1
+A7M/E = X X 2 2 2 4
+B7 = X 2 1 2 0 2
+B7(4)(9) = X 2 2 2 2 2
+B7(9)(#11) = X 2 1 2 2 1
+Bm7(b5) = X 2 3 2 3 X
+C#7(b13) = X 4 X 4 6 5
+C#7M = X 4 6 5 6 4
+C6 = 8 X 7 9 8 X
+C7(13) = X 3 X 3 5 5
+C7(4)(13) = X 3 5 3 6 5
+C7M = X 3 2 0 0 X
+Cm7(9) = X 3 1 3 3 X
+D#m7(b5) = X X 1 2 2 2
+Dm7(9) = X 5 3 5 5 X
+E(#4) = 0 2 2 3 0 0
+E6(b9) = 0 2 3 1 2 0
+E7(4)(9) = X X 2 2 3 2
+E7(9)(#11) = X X 2 3 3 2
+E7M/G# = 4 X 2 4 4 X
+E9 = 0 2 4 1 0 0
+Em7(9)(11) = X 7 5 7 7 5
+F#m7(11) = 2 X 2 2 0 X
+F#m7(9) = X X 4 2 5 4
+G#7(#9) = X X 6 5 7 7
+G#7(b9) = 4 X 4 2 1 X
+G7(4)(9) = 3 X 3 2 1 X
+G7/B = X 2 3 0 3 X

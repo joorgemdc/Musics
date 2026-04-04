@@ -1,0 +1,37 @@
+Luiz Gonzaga - Aproveita Gente
+
+(intro 5x) C Am Dm G C
+
+*     Am   Dm             G     C
+Aproveita gente que o pagode é quente
+    Am       Dm        G            C
+É forró pra toda essa gente se espalhar
+      Am    Dm         G    C
+Êita, coisa boa! Êita, pessoá!
+      Am        Dm        G            C
+Hoje aqui a páia voa vamo gente aproveitar
+        G                       C
+O resfunlengo desse fole não é mole
+                    G
+Todo mundo aqui se bole
+                   C
+Com o seu resfunlengar
+         E7                       Am
+E o sanfoneiro que não só faz resfunlengo
+                     E7                 Am
+Quando sai do lengo lengo bota pra improvisar
+
+
+(improviso) G C G C E7 Am E7 Am Abm G (G A B C)
+
+(volta ao *)
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Abm = 4 6 6 4 4 4
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+C = X 3 2 0 1 0
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

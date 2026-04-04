@@ -1,0 +1,50 @@
+Ivan Lins - Espelho Piano
+
+(intro)  C#m7(9) G#m7(9)
+
+C#m7(9)  G#m7(9)    C#m7(9)    G#m7(9)
+De onde eu estava, eu bebia        feliz
+   C#m7(9)     G#m7(9)    C#m7(9)
+Pois te via    através do verniz
+      C#7  F#m7(11) B7 F#m7(11) B7 F#m7(11) B7
+Que espelha o piano
+C#m7(9) G#m7(9) C#m7(9) G#m7(9)
+O piano
+
+De onde eu sonhava eu torcia por mim
+E bem antes da noite ter fim
+Descobri que te amo
+Que te amo
+
+E9             C#7(4)(9)     C#7(9)
+Ah! Esse espelho negro juntou
+A7M(9)          G#7(b13)
+Agente mais de uma vez
+C#m7            Bm7(11)        E7
+Coisa que o nosso destino não fez
+A7(4)(9)    A7(9)  G#7(4)(9)    G#7(9)
+Juntou nossas almas, juntou nossas auras
+
+Ah esse espelho negro juntou
+Um pouco de cada um
+Coisa pra ele bonita e comum
+E nós nos tocamos, e nós nos beijamos lá
+
+----------------- Acordes -----------------
+A7(4)(9) = 5 X 5 4 3 X
+A7(9) = 5 X 5 4 2 X
+A7M(9) = X 0 2 1 0 0
+B7 = X 2 1 2 0 2
+Bm7(11) = 7 X 7 7 5 X
+C#7 = X 4 3 4 2 X
+C#7(4)(9) = X 4 4 4 4 4
+C#7(9) = X 4 3 4 4 X
+C#m7 = X 4 6 4 5 4
+C#m7(9) = X 4 2 4 4 X
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+F#m7(11) = 2 X 2 2 0 X
+G#7(4)(9) = 4 X 4 3 2 X
+G#7(9) = 4 X 4 3 1 X
+G#7(b13) = 4 X 4 5 5 4
+G#m7(9) = X X 6 4 7 6

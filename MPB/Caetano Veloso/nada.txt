@@ -1,0 +1,80 @@
+Caetano Veloso - Nada
+
+G7M
+
+G7M                    Am7   Am6
+Cheguei juntinho à tua porta
+G7M                 F#7 B7/9-
+ Nem sei como consegui
+E7/9   B7/9-          C7M
+Me disseram que não estavas
+      Gm        C7+/9
+E que nunca voltarias
+        C6/9(G)       Am6  D7/9
+E que tu já tinhas partido
+
+G7M               Cm6  D7/9
+Uma dor senti no peito
+G7M                  F#7 B7/9-
+ Tua casa está em silêncio
+E7/9   B7/9-        E7/9  Am7
+Ao fechar de novo a porta
+    D7/9  G7   C7/9  F7
+Uma lagrima de dor
+
+     E7/5+  E7   Am Am6
+Invadiu meu coração
+
+Am7         Am6     G7M
+Nada, nada, nada restou desse amor
+F#m7         B7/9-     E7/9       E7/9-
+Só teias de aranha que tecem na dor
+  Am7     Cm6        Bm7          E7        Am7
+O roseiral também murchou e hoje caído pelo chão
+          Am6        G6
+Também arrasta a sua cruz
+
+Am7         Am6        G7M
+Nada, nada mais que tristeza e silêncio
+F#m7/5-      B7/9-   E7/9       E7/9-
+Nada que me diga que vives ainda
+Am7       Cm6
+Onde estás?
+        Bm7           E7          Am7
+Quero dizer que hoje volto arrependido
+      Am6         G6      Cm6   G6   Cm6  G6
+Implorando o teu amor
+
+
+C6/9(G)    x32233
+E7/9       0xx132
+E7/9-      0xx131
+Am6        5x455x
+Cm6        x3x243
+G6         3x243x
+F#m7/5-    2x221x
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B7/9- = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C7+/9 = X 3 2 4 3 X
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+D7/9 = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+E7/5+ = 0 X 0 1 1 0
+E7/9 = X X 2 1 3 2
+E7/9- = X X 2 1 3 1
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/5- = 2 X 2 2 1 X
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gm = 3 5 5 3 3 3

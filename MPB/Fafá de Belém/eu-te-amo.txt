@@ -1,0 +1,91 @@
+Fafá de Belém - Eu te Amo
+
+Chico Buarque / Tom Jobim
+
+[Intro:] G7M(9) Em7(9)/B Am7(11) D7
+
+G7M(9)     F#7(4) F#7        F7M(9) F7M
+Ah, se já perdemos a noção da hora
+      E7(b13) E7(b9)    Eb7M(9) Eb7M
+Se juntos já jogamos tudo fora
+        D7(13) D7(b13)        C#7M C7(4) C7
+Me conta agora como hei de partir
+B7M D7(b13)       G7M(9)
+Ah, se, ao te conhecer,
+          Em7(9)              C#m7(b5)
+Dei pra sonhar, fiz tantos desvarios
+          F#7(b9)               Bm7M(9)
+Rompi com o mundo, queimei meus navios
+         E7(13)                Am7(9) E7(13) E7(b13)
+Me diz pra onde é que inda posso ir
+   C7M           B7(4)   B7       Bb7M(9) Bb7M
+Se nós, nas travessuras das noites eternas
+        A7(4)   A7           Ab7M(9) Ab7M
+Já confundimos tanto as nossas pernas
+
+           G7(4)   G7         F#7M
+Diz com que pernas eu devo seguir
+
+ G7M(9)        Em7(9)          A7(9)(#11)
+Se entornaste a nossa sorte pelo chão
+        G/A           Fº   Am7(9)
+Se na bagunça do teu co...ração
+           Am7(9)/G              F#m7 B7(b9) B7
+Meu sangue errou de veia e se perdeu
+C7M          B7(4)      B7          Bb7M
+Como, se na desordem do armário embutido
+       A7(4)  A7           Ab7M
+Teu paletó enlaça o meu vestido
+         G7(4)    G7        F#7M
+E o teu sapato inda pisa no meu
+
+Como, se nos amamos feito dois pagãos
+Meus seios inda estão nas suas mãos
+Me explica com que cara eu vou sair
+Não, acho que estás me fazendo de tonta
+Te dei meus olhos pra tomares conta
+Agora conta como hei de partir
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+A7(9)(#11) = 5 4 5 4 4 X
+Ab7M = 4 X 5 5 4 X
+Ab7M(9) = 4 3 5 3 X X
+Am7(11) = 5 X 5 5 3 X
+Am7(9) = X X 7 5 8 7
+Am7(9)/G = 3 2 2 P5 5 5
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+B7(b9) = X 2 1 2 1 X
+B7M = X 2 4 3 4 2
+Bb7M = X 1 3 2 3 1
+Bb7M(9) = X 1 0 2 1 X
+Bm7M(9) = X 2 0 3 2 X
+C#7M = X 4 6 5 6 4
+C#m7(b5) = X 4 5 4 5 X
+C7 = X 3 2 3 1 X
+C7(4) = X 3 3 3 1 X
+C7M = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+D7(13) = X 5 X 5 7 7
+D7(b13) = X 5 X 5 7 6
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+Eb7M = X X 1 3 3 3
+Eb7M(9) = X 6 5 7 6 X
+Em7(9) = X 7 5 7 7 X
+Em7(9)/B = X 2 4 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F#7(b9) = X X 4 3 5 3
+F#7M = 2 X 3 3 2 X
+F#m7 = 2 X 2 2 2 X
+F7M = 1 X 2 2 1 X
+F7M(9) = X 8 7 9 8 X
+Fº = X X 3 4 3 4
+G/A = 5 X 5 4 3 X
+G7 = 3 5 3 4 3 3
+G7(4) = 3 5 3 5 3 X
+G7M(9) = 3 2 4 2 X X

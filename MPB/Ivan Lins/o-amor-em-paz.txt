@@ -1,0 +1,113 @@
+Ivan Lins - O Amor em Paz
+
+(Tom Jobim / Vinícius de Moraes)
+
+
+Abm7(9) C#7(13) C#7/B Bb7(13) Bb7(b13) Eb7(#9)
+Eu                a...mei
+Abm7(9)                  A°         Bbm7(9)(11) Eb7(9)(11)
+E amei ai de mim, muito mais do que devia amar
+F#m7(9) B7(9)(11) B7(13) E7M(#5) E7M
+E                cho...rei
+   Fm7(b5)(9)         Bb7(b13)     Eb7M    A7(b5) Abm7(9)
+Ao sentir que eu iria sofrer e me desesperar
+
+   C#7(13) C#7/B Bb7(13) Bb7(b13) Eb7(#9)
+Foi          en...tão
+     Abm7(9)               A°    Bbm7(9)(11) Eb7(9)(11) Eb7(#9) F#m7(9)
+Que da minha infinita tristeza aconteceu você
+B7(9)(11) B7(13) E7M(#5) E7M
+En...con...trei
+ Fm7(b5)(9)      Bb7(b13) Eb7M  Ab7(9)(11)
+Em você a razão de viver e de amar em paz
+Ab7(9)(13) C#7M     F#7(9)(11)
+E não so...frer mais
+
+F#7(13)  Cm7 B7M
+Nun...ca mais
+      Cm7(b5)               Bm6
+Pois o amor é a coisa mais triste
+Ebm7(9)         A7(b5)
+Quando se desfaz
+
+Solo: Cm7(b5) Bm6 Ebm7(9) A7(b5) Dm7(9) G7(13) G7/F Em7(9) A7(b5)
+      C7M F#7(b13) F#7(b9) Bm7(9) E7(#9)
+      Gm7(9) C7(9)(11) C7(13) F7M(#5) F7M(b13) F7(13)
+      Fm7(b5)(9) Bb7(b13) Eb7M Eb7(9)(11) A7(b5) Abm7(9)
+
+F#7(13)  Cm7 B7M
+Nun...ca mais
+      Cm7(b5)               Bm6
+Pois o amor é a coisa mais triste
+Ebm7(9)         A7(b5) Cm7(b5) Bm6 Ebm7(9) A7(b5)
+Quando se desfaz
+Abm7(9) C#7(13)     C#7/B  B7M
+Não,          não me diga adeus
+
+Fim: Bb7M F7(13)
+
+
+Acordes:
+========
+
+Bbm7(9)(11)=646544
+D#7(9)(11)=x6666x
+D#7(#9)=x6567x
+B7(9)(11)=x2222x
+E7M(#5)=x76544
+G#7(9)(11)=x4x432x
+G#7(9)(13)=x4x311
+F#7(9)(11)=202100
+G7/F=1x343x
+E7(#9)=x7678x
+C7(9)(11)=x3333x
+F7M(#5)=1x220x
+F7M(b13)=1x222x
+Fm7(b5)(9)=x8x887
+Eb7(9)(11)=x6666x
+C#7/B=7x966x
+
+----------------- Acordes -----------------
+A7(b5) = X 0 1 0 2 X
+Ab7(9)(11) = 4 X 4 3 2 X
+Ab7(9)(13) = 4 X 4 3 1 1
+Abm7(9) = X X 6 4 7 6
+A° = 5 X 4 5 4 X
+B7(13) = X 2 X 2 4 4
+B7(9)(11) = X 2 2 2 2 2
+B7M = X 2 4 3 4 2
+Bb7(13) = 6 X 6 7 8 X
+Bb7(b13) = X 1 X 1 3 2
+Bbm7(9)(11) = 6 4 6 5 4 X
+Bm6 = 7 X 6 7 7 X
+Bm7(9) = X 2 0 2 2 X
+C#7(13) = X 4 X 4 6 6
+C#7/B = X 2 3 1 2 X
+C#7M = X 4 6 5 6 4
+C7(13) = X 3 X 3 5 5
+C7(9)(11) = X 3 3 3 3 3
+C7M = X 3 2 0 0 X
+Cm7 = X 3 5 3 4 3
+Cm7(b5) = X 3 4 3 4 X
+Dm7(9) = X 5 3 5 5 X
+E7(#9) = X 7 6 7 8 X
+E7M = X X 2 4 4 4
+E7M(#5) = 0 X 1 1 1 X
+Eb7(#9) = X 6 5 6 7 X
+Eb7(9)(11) = X X 1 1 2 1
+Eb7(9)(11) = X X 1 1 2 1
+Eb7M = X X 1 3 3 3
+Ebm7(9) = X 6 4 6 6 X
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F#7(9)(11) = 2 X 2 1 0 X
+F#7(b13) = 2 X 2 3 3 2
+F#7(b9) = X X 4 3 5 3
+F#m7(9) = X X 4 2 5 4
+F7(13) = 1 X 1 2 3 X
+F7M(#5) = 1 X 2 2 2 X
+F7M(b13) = 1 X 2 2 2 X
+Fm7(b5)(9) = P1 2 5 1 X X
+G7(13) = 3 X 3 4 5 X
+G7/F = 1 X X 0 0 3
+Gm7(9) = X X 5 3 6 5

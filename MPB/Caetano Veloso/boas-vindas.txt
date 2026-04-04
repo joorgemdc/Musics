@@ -1,0 +1,118 @@
+Caetano Veloso - Boas-Vindas
+
+(intro)  Bm E7 A
+
+A7        D
+Sua mãe e eu
+E7          A
+Seu irmão e eu
+    Bm     E7     A  Bm E7 A
+E a mãe do seu irmão
+A7          D
+Minha mãe e eu
+E7            A
+Meus irmãos e eu
+     Bm      E7  A    Bm E7 A
+E os pais da sua mãe
+A7        D
+Sua mãe e eu
+E7          A
+Seu irmão e eu
+    Bm     E7     A  Bm E7 A
+E a mãe do seu irmão
+A7          D
+Minha mãe e eu
+
+E7            A
+Meus irmãos e eu
+     Bm      E7  A    Bm E7 A
+E os pais da sua mãe
+      Bm    E7  G#m   Bm E7 A
+E a irmã da sua mãe
+    G#m      C#7  F#m
+Lhe damos as boas-vindas
+     Em      A7   D
+Boas-vindas, boas-vindas
+       C#m  F#7  Bm  Bbm Am
+Venha conhecer a vida
+   D7                G     Em
+Eu digo que ela é gostosa
+Am    D7          G
+Tem o sol e tem a lua
+      Em           Am
+Tem o medo e tem a rosa
+   D7                 G   Em Am
+Eu digo que ela é gostosa
+      D7             G
+Tem a noite e tem o dia
+       Em         Am
+A poesia e tem a prosa
+    D7               G     Em Am
+Eu digo que ela é gostosa
+      Em             G
+Tem a morte e tem o amor
+        Em           Am
+E tem o mote e tem a glosa
+   D7                G
+Eu digo que ela é gostosa
+      Bm         E7   A
+Eu digo que ela é gostosa
+A7        D
+Sua mãe e eu
+E7          A
+Seu irmão e eu
+     Bm      E7  A    (Bm E7 A)
+E o irmão da sua mãe
+     Bm      E7  A    (Bm E7 A)
+E o irmão da sua mãe
+    G#m      C#7  F#m
+Lhe damos as boas-vindas
+     Em      A7   D
+Boas-vindas, boas-vindas
+       C#m  F#7  Bm  Bbm Am
+Venha conhecer a vida
+   D7                G     Em
+Eu digo que ela é gostosa
+Am    D7          G
+Tem o sol e tem a lua
+      Em           Am
+Tem o medo e tem a rosa
+   D7                 G   Em Am
+Eu digo que ela é gostosa
+      D7             G
+Tem a noite e tem o dia
+       Em         Am
+A poesia e tem a prosa
+    D7               G     Em Am
+Eu digo que ela é gostosa
+      Em             G
+Tem a morte e tem o amor
+        Em           Am
+E tem o mote e tem a glosa
+   D7                G
+Eu digo que ela é gostosa
+      Bm         E7   A
+Eu digo que ela é gostosa
+A7        D
+Sua mãe e eu
+E7          A
+Seu irmão e eu
+     Bm      E7  A
+E o irmão da sua mãe
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bbm = X 1 3 3 2 1
+Bm = X 2 4 4 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G#m = 4 6 6 4 4 4

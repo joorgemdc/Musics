@@ -1,0 +1,60 @@
+Ney Matogrosso - Corrente
+
+A          C#7          Em6/9   F#7
+   Eu hoje fiz um samba bem pra frente
+B7/9       E6              A        E
+   Dizendo realmente o que é que eu acho
+A          C#7                Em6/9 F#7
+   Eu acho que o meu samba é uma corrente
+B7/9    E6           A      E
+   E coerentemente assino embaixo
+A            C#7       Em6/9  F#7
+   Hoje é preciso refletir um pouco
+F                E          Am    E
+   Pra ver que o samba tá jeito
+A             C#7         Em6/9 F#7
+   Só mesmo embriagado ou muito louco
+F            E           Am    E
+   Pra contestar e pra botar defeito
+C#m        Cm5+         E/B    Bbm5+
+   Precisa ser muito sincero e claro
+A7+          G#7              Gº      G#7
+   Pra confessar que andei sambando errado
+C#m          Cm5+       E/B    Bbm5+
+   Talvez precise até na cara
+
+A7+              G#7          Gº   E7/G#
+   Pra ver que o samba tá bem melhorado
+A             C#7           Em6/9 F#7
+   Tem mais é que ser bem cara de tacho
+B7/9         E6          A      E
+   Não ver a multidão sambar contente
+A          C#7            Em6/9   F#7
+   Isso me deixa triste e cabis...baixo
+F              E            Am      E
+   Por isso eu fiz um samba bem pra frente
+
+F#m7/5-   B7   Bm7   E7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+Bbm5+ = 6 9 8 6 7 6
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+Cm5+ = X 3 1 1 1 4
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+E7/G# = 4 X 2 4 3 X
+Em6/9 = X X 2 0 2 2
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+F#m7/5- = 2 X 2 2 1 X
+G#7 = 4 6 4 5 4 4
+Gº = 3 X 2 3 2 X

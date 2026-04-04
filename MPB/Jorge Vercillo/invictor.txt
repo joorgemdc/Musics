@@ -1,0 +1,68 @@
+Jorge Vercillo - Invictor
+
+Intro: F#m7(9) B7(#11) Em7(9) A7(b13)
+
+             D7M(9) D7(9)              G7M              Gm6
+Você chegou           pra consagrar um amor
+            F#m7          Em7        A7   D7M(9) Bm7(9) Bb7M A7(4)(9)
+Pele de neve, mente limpa, corpo invicto,            "invictor"
+               D7M(9) D7(9)          G7M                   Gm6
+E desde então          é o guardião desse amor
+                   F#m7          Em7        A7   D7M(9)
+Que fez descer a esse plano o seu explendor
+
+Am7    D7(9) Gm7             C7(9)
+Boca de lua,        cachos de uva
+F#m7 B7(9) Em7(9)  A7(13) A7(b13)
+Arte de jaboticaba no olhar
+Am7        D7(9) Gm7     C7(9)
+No pé de pitanga haja apetite!
+F#m7                B7(9)      Em7(9)  A7(13) A7(b13)
+Que fome, meu clone, meu libra, meu par
+
+E hoje sei um mundo novo eu verei
+
+Com a geração mente-limpa corpo invicto, "invictor"
+De onde vem esse destino ancestral?
+Quem traz a estrela de Davi em seu mapa astral?
+
+Am7      D7(9) Gm7     C7(9)
+O tempo muda a força bruta
+F#m7 B7(9)        Em7(9)  A7(13) A7(b13)
+Sei que verei essa transformação
+Am7   D7(9) Gm7  C7(9)
+De toda birra e teimosia
+F#m7       B7(9)                 Em7 Em7/D
+Tecendo as fibras de um guerreiro bom!
+
+Solo: B7M G7M B7M A7(13) A7(b13) A7 A7(4)(9)
+
+             D7M(9) D7(9)              G7M              Gm6
+Você chegou           pra consagrar um amor
+            F#m7          Em7        A7   D7M(9) Bm7(9) Bb7M A7(4)(9)
+Pele de neve, mente limpa, corpo invicto,            "invictor"
+   D7M(9)
+Invictor
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(4)(9) = 5 X 5 4 3 X
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+B7(#11) = X 2 3 2 4 X
+B7(9) = X 2 1 2 2 X
+B7M = X 2 4 3 4 2
+Bb7M = X 1 3 2 3 1
+Bm7(9) = X 2 0 2 2 X
+C7(9) = X 3 2 3 3 X
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7/D = X X 0 0 3 0
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

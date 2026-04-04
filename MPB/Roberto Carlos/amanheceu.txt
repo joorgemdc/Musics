@@ -1,0 +1,60 @@
+Roberto Carlos - Amanheceu
+
+Introcução: E F#/E  Am/E
+
+e|---4-4---4-----------4-4---4------------7-7-7/8-7-5-4-5-4-|
+B|-7-----7---7-5-4-5-7-----7---7-5-4-5-10-------------------|
+
+E                   F#/E
+Amanheceu e o brilho do sol da manhã
+             Am/E                           E7+
+Refletiu no quarto e eu sonhei com seu corpo quente junto ao meu
+G                           A/G
+E escutei a tua voz dizendo: "meu amor!"
+             F#m7
+Seu sorriso enchendo o ar, meu bem.
+F7+             Em11
+De repente, um campo abriu-se em flor
+                E7+              Bm13
+Lado a lado a liberdade e o amor!
+E                     F#/E
+E depois veio a noite sobre o nosso amor,
+              Am/E                            E7+
+céu fechado e sem abrigo a dor tomou conta de nós dois
+G                           A/G
+Você se foi, disse adeus em pranto e eu chorei,
+              F#m7
+veio a chuva e eu morri no chão,
+F7+                    Em11    Em5-7
+veio um raio e me fez renascer
+      A7       D            B7  Em  Am  B7  Em  C#7 F#m7 B7
+e acordei chorando sem você.
+
+
+[essa é só a partezinha final do solo, q se faz com instrumento,
+ a parte da vocalização eu ainda não tive tempo pra tirar.]
+e|------------------------------------|
+B|-5/7-5-5---5-4--5-------------------|
+G|------------------6-6/8-8/9--9/11-4-|
+
+E  A/E    E   F#/E
+E depois veio a noite sobre o nosso amor ...
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am/E = 0 X 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm13 = 7 X 6 7 7 X
+C#7 = X 4 3 4 2 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7+ = X X 2 4 4 4
+Em = 0 2 2 0 0 0
+Em11 = 0 0 2 0 0 0
+F#/E = X X 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

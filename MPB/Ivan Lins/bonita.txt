@@ -1,0 +1,70 @@
+Ivan Lins - Bonita
+
+( Tom Jobim / Ray Gilbert )
+
+
+Am         Am7M   Am7   Am6 E7/G#
+What can I say to you bonita
+                       D/F#     A4
+What magic words would capture you
+Am           Am7M           Am7    Am6 E7/G#
+Like a soft evasive mist you are bonita
+         D/F#      A4         D7(b9) Gm7(9)
+You fly away when love is new
+
+         Gm7M(9) Gm7(9) Gm6(9) Gm7(9) Gm7M(9)
+What do you ask of me bonita
+    Gm7(9)  Gm6(9)  Gm9(b6) E7(#9) G7(13) Gm7
+What part to you want me to play
+      Gm7(b5)           Gm7(11)  G7 Gm7(b5)
+Shall I be the clowin for you bonita
+Gm7(11)   G7      Gm    A4 E7(#9)
+I will be anything you say
+
+ Am7(9)                 A7(9) F#m7(11) B7(b9)
+Bonita, don't run away bonita
+  F7M A7(b13)             D7(9)              Am7 D7(#9)
+Bonita, don't be afraid to fall in love with me
+  Gm7(9)   C7           F#7(13)      F7M
+I love you, I tell you I love you, I love you
+ Bb7(9)   C7M(9)      Am7(9)       F#m7(b5) F7M
+Bonita, if you love me life will be beautiful
+   B C     B C     B  B7(#9)
+Bonita, bonita, bonita...
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+A7(9) = 5 X 5 4 2 X
+A7(b13) = X 0 X 0 2 1
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+Am7M = X 0 2 1 1 0
+B = X 2 4 4 4 2
+B7(#9) = X 2 1 2 3 X
+B7(b9) = X 2 1 2 1 X
+Bb7(9) = X 1 0 1 1 X
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7M(9) = X 3 2 4 3 X
+D/F# = 2 X 0 2 3 2
+D7(#9) = X 5 4 5 6 X
+D7(9) = X 5 4 5 5 X
+D7(b9) = X 5 4 5 4 X
+E7(#9) = X 7 6 7 8 X
+E7/G# = 4 X 2 4 3 X
+F#7(13) = 2 X 2 3 4 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+Gm = 3 5 5 3 3 3
+Gm6(9) = X X 5 3 5 5
+Gm7 = 3 X 3 3 3 X
+Gm7(11) = 3 X 3 3 1 X
+Gm7(9) = X X 5 3 6 5
+Gm7(b5) = 3 X 3 3 2 X
+Gm7M(9) = 3 1 4 2 X X
+Gm9(b6) = 15 X 15 14 11 11

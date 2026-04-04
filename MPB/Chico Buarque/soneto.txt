@@ -1,0 +1,64 @@
+Chico Buarque - Soneto
+
+
+INTR: E(#9)
+
+    E7+/9                     D#m7/5- G#7(b9)
+Por que me descobriste no abando......no?
+    C#m7/9         C#m7+/9       G#m7/5- G7(#11)
+Com que tortura me arrancaste um bei.....jo?
+    F#m5+         F#m6      F#7    F#7/13
+Por que me incendiaste de dese.....jo
+       F#m   F#m7+    F#m7  B7/9         E9+
+Quando eu           estava  bem morta de sono?
+    E7+/9                     D#m7/5- G#7(b9)
+Com que mentira abriste meu segre.....do?
+   C#m7/9        C#m7+/9    G#m7/5- G7(#11)
+De que romance antigo me roubas.....te?
+    F#m5+       F#m6        F#7     F#7/13
+Com que raio de luz me iluminas.....te
+       F#m   F#m7+    F#m7  B7/9         E9
+Quando eu           estava  bem morta de medo?
+    E7+/9                     D#m7/5-  G#7(b5)
+Por que não me deixaste adormeci.......da?
+
+  C#m7/9         C#m7+/9        G#m7/5-  G7(#11)
+E me indicaste o mar, com que navi.......o?
+  F#m5+       F#m6          A#m7/5-   D#7/9+
+E me deixaste só, com que saí.........da?
+    D#m/F#           F7           Bb7+   A7(b13)
+Por que desceste ao meu porão sombrio?
+    D7+          B7/9-         Gm6     F#7/13
+Com que direito me ensinaste a vida
+       F#m   F#m7+    F#m7  B7/9         E(#9)
+Quando eu           estava  bem morta de frio?
+
+----------------- Acordes -----------------
+A#m7/5- = X 1 2 1 2 X
+A7(b13) = X 0 X 0 2 1
+B7/9 = X 2 1 2 2 X
+B7/9- = X 2 1 2 1 X
+Bb7+ = X 1 3 2 3 1
+C#m7+/9 = X 4 2 5 4 X
+C#m7/9 = X 4 2 4 4 X
+D#7/9+ = X 6 5 6 7 X
+D#m/F# = 2 X 1 3 4 X
+D#m7/5- = X X 1 2 2 2
+D7+ = X X 0 2 2 2
+E(#9) = 12 X 9 12 9 10
+E7+/9 = X 7 6 8 7 X
+E9 = 0 2 4 1 0 0
+E9+ = 12 X 9 12 9 10
+F#7 = 2 4 2 3 2 2
+F#7/13 = 2 X 2 3 4 X
+F#m = 2 4 4 2 2 2
+F#m5+ = 2 5 4 2 3 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7+ = X X 4 6 6 5
+F7 = 1 3 1 2 1 1
+G#7(b5) = 4 X 4 5 3 X
+G#7(b9) = 4 X 4 2 1 X
+G#m7/5- = 4 X 4 4 3 X
+G7(#11) = 3 X 3 4 2 X
+Gm6 = 3 X 2 3 3 X

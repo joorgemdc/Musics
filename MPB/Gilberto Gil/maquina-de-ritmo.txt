@@ -1,0 +1,155 @@
+Gilberto Gil - Máquina de Ritmo
+
+(intro)   Em     Cm7M     4x
+
+Em              Cm7M
+Máquina de Ritmo
+       C#m7(5-)                          Gº
+Tão prática, tão fácil de ligar
+Gº
+Nada além de um bom botão
+       F#º                                     Em7    G7     C7M     B7(9+)
+Sob a leve pressão do polegar
+E7M(9)    C#7(9+)       F#7
+Poderei legar um dicionário
+            B7(9)               G#m7       C#7(9+)       F#7(13)       F7(13)
+De compassos pra você
+E7M(9)    C#7(9+)    F#7
+No futuro você vai tocar
+                   B7(9)              C#m7(5-)/E        B7(9+)
+Meu samba duro sem querer
+
+Em              Cm7M
+Máquina de Ritmo
+
+          C#m7(5-)       D#6(4)      D6     E7(9+)    A7    D7(9)
+Quem dança nessa dança digital
+G7M        E7(9+)
+Será por exemplo
+                   A7           D7(9)            G7M   E7(9+)   A7   D7(9)
+Que o meu surdo ficará mudo afinal
+G7M           E7(9+)               A7
+Pendurado como um dinossauro
+           D7(9)             G7M   E7(9+)   A7   D7(9)
+No museu do Carnaval
+G7M        E7(9+)               A7
+Se você aposta que a resposta é sim,
+              Ab7                  G7M      G6     G7M   G6      B7(9+)
+Por Deus mande um sinal
+
+Em              Cm7M
+Máquina de Ritmo
+      C#m7(5-)                              Gº
+Programação de sons sequenciais
+Gº
+Mais de 100 milhões de bambas
+     F#º                                     Em7    G7     C7M     B7(9+)
+De escolas de samba virtuais
+E7M(9)      C#7(9+)    F#7
+Virtuais, virtuosas vertentes
+            B7(9)               G#m7       C#7(9+)       F#7(13)       F7(13)
+De variações sem fim
+
+E7M(9)    C#7(9+)        F#7
+Daí por diante samba avante
+                 B7(9)              C#m7(5-)/E        B7(9+)
+Já sem precisar de mim
+
+Em              Cm7M
+Máquina de Ritmo
+          C#m7(5-)            D#6(4)          D6     E7(9+)    A7    D7(9)
+Quem sabe um bom pó de pirlimpimpim
+G7M          E7(9+)          A7
+Possa deletar a dor de quem
+                  D7(9)              G7M   E7(9+)   A7   D7(9)
+Deixou de lado o tamborim
+G7M          E7(9+)           A7
+Apesar do seu computador
+                     D7(9)             G7M   E7(9+)   A7   D7(9)
+Ter samba bom, samba ruim
+G7M               E7(9+)             A7
+Se aperto o botão, meu coração
+              Ab7                    G7M      G6     G7M   G6      B7(9+)
+Há de dizer que é samba sim
+
+Em              Cm7M
+Máquina de Ritmo
+      C#m7(5-)                         Gº
+Processo de algoritmos padrões
+Gº                                F#º
+Múltiplos binários e ternários,
+                                     Em7    G7     C7M     B7(9+)
+quarternários sem paixões
+E7M(9)         C#7(9+)
+Colcheias, semi-colcheias,
+
+Fusas, semi-fusas, sensações
+E7M(9)              C#7(9+)        F#7
+Nos salões das noites cariocas
+           B7(9)         C#m7(5-)/E        B7(9+)
+Novas tecno-ilusões
+
+Em              Cm7M
+Máquina de Ritmo
+            C#m7(5-)     D#6(4)          D6     E7(9+)    A7    D7(9)
+Que os pós-eternos hão de silenciar
+G7M             E7(9+)          A7
+Novos anjos do inferno vão
+                     D7(9)                  G7M   E7(9+)   A7   D7(9)
+Por qualquer coisa em seu lugar
+G7M                  E7(9+)             A7
+Quem sabe irão lhe trocar por um
+                  D7(9)             G7M
+Tal surdo mudo do museu
+E7(9+)                A7         D7(9)
+        E Bandos da lua virão se encontrar
+G7M            E7(9+)     A7              Ab7               G7M   E7(9+)   A7   D7(9)
+Numa praia toda lua cheia pra lembrar você e eu
+
+G7M           E7(9+)         A7
+Moreno, Domenico, Cassim
+                  D7(9)             G7M
+Assim meus filhos, filhos seus
+E7(9+)                A7         D7(9)
+        E Bandos da lua virão se encontrar
+G7M            E7(9+)     A7              D7(9)
+Numa praia toda lua cheia pra lembrar
+G7M      E7(9+)
+Só pra lembrar,
+A7                   D7(9)
+        Só pra cantar,
+G7M    E7(9+)
+Só pra tocar,
+A7                         Ab7
+        Só pra lembrar
+                G        C#7
+Você e eu.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab7 = 4 6 4 5 4 4
+B7(9) = X 2 1 2 2 X
+B7(9+) = X 2 1 2 3 X
+C#7 = X 4 3 4 2 X
+C#7(9+) = X 4 3 4 5 X
+C#m7(5-) = X 4 5 4 5 X
+C#m7(5-)/E = X 7 5 6 5 7
+C7M = X 3 2 0 0 X
+Cm7M = X 3 5 4 4 3
+D#6(4) = 11 10 8 8 9 8
+D6 = X 5 4 2 0 X
+D7(9) = X 5 4 5 5 X
+E7(9+) = X 7 6 7 8 X
+E7M(9) = X 7 6 8 7 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(13) = 2 X 2 3 4 X
+F#º = 2 X 1 2 1 X
+F7(13) = 1 X 1 2 3 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gº = 3 X 2 3 2 X

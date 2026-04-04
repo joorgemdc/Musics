@@ -1,0 +1,60 @@
+João Gilberto - Diga
+
+Intro: vocalização + G, F7, D7(9)
+
+Gm7   Gm6                  F     F#°
+Diga se você me quer ou não
+Gm7          Gm6        Eº
+Diga se comigo é feliz
+D#º
+Todo mundo sabe
+           Em7(b5)             E°
+O que existe entre nós dois
+Am7 Am(#5) Gm7  Gm6  F7(13)   Am7  Am6
+Diga tudo agora e não depois.
+Gm7   Gm6                  F     F#°
+Diga se você me quer ou não
+Gm          Gm6        E6
+Diga se comigo é feliz
+D#o
+Todo mundo sabe
+           Em7(b5)             E°
+O que existe entre nós dois
+Am7 Am(#5) Gm7  Gm6  F7(13)
+Diga tudo agora e não depois.
+
+        F#m7M    Gm
+Nosso amor não é cinema
+       Am6     Gm
+Desses de 1100
+G7
+Nosso amor não é comédia
+            Gm6          F7M
+Pra dar risos pra ninguém
+           F#m7M    Gm
+Quanta gente me pergunta
+           Am6       Gm
+Se ao seu lado vivo bem
+G7
+Eu não minto, digo tudo
+                                 Gm6   Am6
+Sem você não sou ninguém
+
+----------------- Acordes -----------------
+Am(#5) = 5 8 7 5 6 5
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+D#º = X X 1 2 1 2
+E6 = X X 2 4 2 4
+Em7(b5) = X X 2 3 3 3
+E° = X X 2 3 2 3
+Eº = X X 2 3 2 3
+F = 1 3 3 2 1 1
+F#m7M = X X 4 6 6 5
+F#° = 2 X 1 2 1 X
+F7(13) = 1 X 1 2 3 X
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

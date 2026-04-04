@@ -1,0 +1,134 @@
+Ivan Lins - Lembra de Mim
+
+[Intro] E9  E4(9)  E9  E4(9)  
+
+E7M
+    Lembra de mim
+     G#7(13-)          C#m7(9)
+Dos beijos que escrevi         nos muros a giz
+    B11         A7M
+Os mais bonitos     continuam por lá
+Bbm7(5-)      Eb7(9-)
+         Documentando
+        G#m7(9)      C#7(9)  C#7(9-)
+Que alguém foi feliz
+
+[Segunda Parte]
+
+F#m7(9)               Em7(9)
+        Lembra de mim
+
+              C#m7(5-) D#m7(5-)       G#7(9-/13-)
+Nós dois nas ruas  provocando os casais
+Amando mais
+           C#4(7M/9)  C#4(7/9)
+Do que o amor    é capaz
+F#7(13)              F#7(13-) B4(7/9)
+        Perto daqui, ah!              tempos atrás
+B7(9-)
+
+Tempos atrás
+
+Primeira Parte:
+E7M
+    Lembra de mim
+         G#7(13-)  C#m7(9)
+A gente sempre se casava ao luar
+        B11       A7M                 Bbm7(5-)
+Depois jogava os nossos corpos no mar
+
+         Eb7(9-)  G#m7(9)
+Tão naufragados e         exaustos de amar
+
+C#7(13)  C#7(13-)
+
+(Segunda Parte com variação na letra)
+ F#m7(9)      Em7(9)
+Lembra de mim
+              Em7(9)/C#   D#m7(5-)     G#4(7/13)
+Se existe um pouco do prazer em sofrer
+              G#7(13-)
+Querer te ver
+           C#m(7M)     C#4(7/9)
+Talvez eu fosse     capaz
+F#7(13)             F#7(13-) B7(4/9)
+        Perto daqui ou               tarde demais
+
+B7(9-)   E7M(#5)   E7M
+        Lembra de mim
+
+E9  E4(9) (2x)
+
+G7M  G4 G7M G4 D4(7/9)
+
+ G7M
+Lembra de mim
+         B7(13-)     E4(7/9)
+A gente sempre se casava ao luar
+        D         C7M              C#m7(5-)
+Depois jogava nossos corpos no mar
+         F#7(9-)
+Tão naufragados
+Bm7(9)             E7(13)  E7(13-)
+E exaustos de amar
+ Am7(9)       Gm7(9)
+Lembra de mim
+              Gm7(9)/E    F#m7(5-)     B7(13)
+Se existe um pouco do prazer em sofrer
+           B7(13-)        E4(7M/9)   E4(7/9)
+Querer te ver, talvez eu fosse capaz
+A7(13)          A7(13-)  D7(4/9)       D7(9-)
+        Perto  daqui ou tarde   demais
+ G7M(5+)     G7M
+Lembra  de  mim
+G7M  G4
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(13-) = X 0 X 0 2 1
+A7M = X 0 2 1 2 0
+Am7(9) = X X 7 5 8 7
+B11 = X 2 4 4 5 2
+B4(7/9) = 7 X 7 6 5 X
+B7(13) = X 2 X 2 4 4
+B7(13-) = X 2 X 2 4 3
+B7(4/9) = X 2 2 2 2 2
+B7(9-) = X 2 1 2 1 X
+Bbm7(5-) = X 1 2 1 2 X
+Bm7(9) = X 2 0 2 2 X
+C#4(7/9) = X 4 4 4 4 4
+C#7(13) = X 4 X 4 6 6
+C#7(13-) = X 4 X 4 6 5
+C#7(9) = X 4 3 4 4 X
+C#7(9-) = X 4 3 4 3 X
+C#m(7M) = X 4 6 5 5 4
+C#m7(5-) = X 4 5 4 5 X
+C#m7(9) = X 4 2 4 4 X
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D#m7(5-) = X X 1 2 2 2
+D4(7/9) = X 5 5 5 5 5
+D7(4/9) = X 5 5 5 5 5
+D7(9-) = X 5 4 5 4 X
+E4(7/9) = X X 2 2 3 2
+E4(9) = 0 0 2 2 0 2
+E7(13) = 0 X 0 1 2 0
+E7(13-) = 0 X 0 1 1 0
+E7M = X X 2 4 4 4
+E7M(#5) = 0 X 1 1 1 X
+E9 = 0 2 4 1 0 0
+Eb7(9-) = X 6 5 6 5 X
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F#7(13-) = 2 X 2 3 3 2
+F#7(9-) = X X 4 3 5 3
+F#m7(5-) = 2 X 2 2 1 X
+F#m7(9) = X X 4 2 5 4
+G#4(7/13) = 4 6 4 6 6 X
+G#7(13-) = 4 X 4 5 5 4
+G#7(9-/13-) = 4 X 4 5 5 5
+G#m7(9) = X X 6 4 7 6
+G4 = 3 5 5 5 3 3
+G7M = 3 X 4 4 3 X
+G7M(5+) = 3 X 4 4 4 X
+Gm7(9) = X X 5 3 6 5

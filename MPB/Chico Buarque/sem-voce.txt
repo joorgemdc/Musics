@@ -1,0 +1,60 @@
+Chico Buarque - Sem Você
+
+         D7M/F# Gm6
+Sem você
+         D7M/F# Fº
+Sem amor
+        Em7(9)         Cm7M(6) B7(b13)
+É tudo sofrimento
+         Em7(9) B7(b13)
+Pois você
+ A7(4)(9)(13) A7(9)(13)
+É o amor
+          D7M(6)                 Bm7(9)
+Que eu sempre procurei em vão
+
+                      C#7(b9)               F#m7          B7(b9)
+Você é o que resiste ao desespero e à solidão
+Em7(9)                             G/A  A/G
+Nada existe e o tempo é triste
+F#m7(b5) B7
+Sem você
+Em7(9)      Gm6         D7M/F#
+Meu amor, meu amor
+
+                                   Fº
+Nunca te ausentes de mim
+                Em7(b5)
+Para que eu viva em paz
+                          B7(b9)        B7(#9)
+Para que eu não sofra mais
+        Em7(9)                 A7(4)(9)(13)    G#m7(b5) Gm6
+Tanta mágoa assim, num mundo sem você
+
+Fim: D/F# Fm6 Em7 Eb7M(6) D7M(6)
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A7(4)(9)(13) = X 0 0 0 0 2
+A7(9)(13) = 5 X 5 6 7 7
+B7 = X 2 1 2 0 2
+B7(#9) = X 2 1 2 3 X
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bm7(9) = X 2 0 2 2 X
+C#7(b9) = X 4 3 4 3 X
+Cm7M(6) = X 3 1 2 0 3
+D/F# = 2 X 0 2 3 2
+D7M(6) = X 5 4 4 2 2
+D7M/F# = 2 X 0 2 2 2
+Eb7M(6) = X 6 5 5 3 3
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+Fº = X X 3 4 3 4
+G#m7(b5) = 4 X 4 4 3 X
+G/A = 5 X 5 4 3 X
+Gm6 = 3 X 2 3 3 X

@@ -1,0 +1,113 @@
+Lenine - Nem O Sol, Nem A Lua, Nem Eu
+
+Capo Casa 2
+
+[Intro] Em7(9) G7M(11+) Am7(13) C4+(9)        
+        Em7(9) G7M(11+) Am7(13) C4+(9)
+
+  Em7(9)    G7M(11+)   Am7(13)  C4+(9)  
+E|----------------------------------------|
+B|-3----------2--------1--------3---------|
+G|---0-----------0-------0---------0------|
+D|-------4---------4---------4-------4----|
+A|---------------------0---0---3--3-------|
+E|-0---0----3--3--------------------------|
+
+  Em7(9)    G7M(11+)   Am7(13)  C4+(9)  
+E|----------------------------------------|
+B|-3----------2--------1--------3---------|
+G|---0-----------0-----0--------0---------|
+D|-------4---------4---4--------4---------|
+A|---------------------0--------3---------|
+E|-0---0----3--3--------------------------|
+
+[Primeira Parte]
+
+ Em7(9)        G7M(11+)  Am7(13)  C4+(9)    
+Hoje eu encontrei a     lua
+Em7(9)      G7M(11+)  Am7(13)  C4+(9)   
+Antes dela me encon_trar
+ Em7(9)    G7M(11+)  Am7(13)  C4+(9)   
+Me lancei pelas es_trelas
+Em7(9)     G7M(11+)  Am7(13) C4+(9)   
+E brilhei no seu lu_gar
+      Am7(13) Am7/G    F#m7(5-)  B7(9-)
+Derramei     minha sauda       de
+     Em7(9) D11      F/G G7/5- 
+E a cidade se acendeu
+ C7M(9)       Bm7            Em7(9)  Em/G
+Por      descuido ou por maldade
+     C7M(9) Am7/11            
+Você não   apareceu
+
+( Em7(9) G7M(11+) Am7(13) C4+(9) )        
+( Em7(9) G7M(11+) Am7(13) C4+(9) )
+
+[Segunda Parte]
+
+ Em7(9)      G7M(11+)  Am7(13)  C4+(9)   
+Hoje eu acordei    o  dia 
+Em7(9)  G7M(11+)    Am7(13)  C4+(9)  
+Antes  dele te acordar
+Em7(9)  G7M(11+)   Am7(13)  C4+(9)  
+Fui a  luz da estrela-guia
+Em7(9)       G7M(11+)    Am7(13)  C4+(9) 
+      Pra poder te iluminar
+ Am7(13)  Am7/G           F#m7(5-)  B7(9-)
+Derramei        minha sauda________de
+       Em7(9)  D11    F/G  G7(5-)
+E a cidade  escureceu
+ C7M(9)  Bm7          Em7(9) D11
+Desa____bei na tempestade
+        C7M(9)  B7(9-)  E7M(9) A7(4/9) 
+Por um bei_____jo             seu
+
+[Refrão]
+
+E7M(9)       A#º       A7M       G#7(11+)
+      Nem a lua, nem o Sol, nem Eu
+C7M(9) G6     F#m7/5-  B7/9- E7M(9) A/B 
+      Quem podia     imaginar 
+E7M(9)        A# º           A7M     G#7(11+)
+      Que o amor fosse um delirio seu
+   C7M(9) G6                F#m7(5-)  B7(9-)
+E o meu     fosse acreditar
+
+Em7(9)     G7M(11+)    Am7(13) C4+(9)    
+Hoje o Sol não quis o dia 
+Em7(9)     G7M(11+)    Am7(13) C4+(9)        
+Nem a noite o luar
+
+[Final] Em7(9)  G7M(11+)  Am7(13)  C4+(9)
+        Em7(9)  G7M(11+)  Am7(13)  C4+(9)
+        Em7(9)  G7M(11+)  Am7(13)  C4+(9)
+        Em7(9)  G7M(11+)  Am7(13)  C4+(9)
+        Em7(9)  G7M(11+)  Am7(13)  C4+(9)
+        Em7(9)  G7M(11+)  Am7(13)  C4+(9)
+
+----------------- Acordes -----------------
+Capotraste na 2ª casa
+A#º*  = X 1 2 0 2 0 - (*Cº na forma de A#º)
+A/B*  = X 2 2 2 2 X - (*B/C# na forma de A/B)
+A7(4/9)*  = 5 X 5 4 3 X - (*B7(4/9) na forma de A7(4/9))
+A7M*  = X 0 2 1 2 0 - (*B7M na forma de A7M)
+Am7(13)*  = X 0 X 0 1 2 - (*Bm7(13) na forma de Am7(13))
+Am7/11*  = 5 X 5 5 3 X - (*Bm7/11 na forma de Am7/11)
+Am7/G*  = 3 0 2 0 1 0 - (*Bm7/A na forma de Am7/G)
+B7(9-)*  = X 2 1 2 1 X - (*C#7(9-) na forma de B7(9-))
+B7/9-*  = X 2 1 2 1 X - (*C#7/9- na forma de B7/9-)
+Bm7*  = X 2 4 2 3 2 - (*C#m7 na forma de Bm7)
+C4+(9)*  = X 3 4 0 3 X - (*D4+(9) na forma de C4+(9))
+C7M(9)*  = X 3 2 4 3 X - (*D7M(9) na forma de C7M(9))
+D11*  = X 5 4 0 3 5 - (*E11 na forma de D11)
+E7M(9)*  = X 7 6 8 7 X - (*F#7M(9) na forma de E7M(9))
+Em/G*  = 3 X 2 4 5 X - (*F#m/A na forma de Em/G)
+Em7(9)*  = X 7 5 7 7 X - (*F#m7(9) na forma de Em7(9))
+F#m7(5-)*  = 2 X 2 2 1 X - (*G#m7(5-) na forma de F#m7(5-))
+F#m7/5-*  = 2 X 2 2 1 X - (*G#m7/5- na forma de F#m7/5-)
+F/G*  = 3 X 3 2 1 X - (*G/A na forma de F/G)
+G#7(11+)*  = 3 X 3 4 2 X - (*A#7(11+) na forma de G#7(11+))
+G6*  = 3 X 2 4 3 X - (*A6 na forma de G6)
+G7(5-)*  = 3 X 3 4 2 X - (*A7(5-) na forma de G7(5-))
+G7/5-*  = 3 X 3 4 2 X - (*A7/5- na forma de G7/5-)
+G7M(11+)*  = 3 X 4 4 2 X - (*A7M(11+) na forma de G7M(11+))

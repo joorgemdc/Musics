@@ -1,0 +1,42 @@
+Toquinho - Meu pranto rolou
+
+Toquinho / Vinícius de Moraes
+
+[Intro:] F#m7(b5) Fm6 Em7 D#º Dm7 G7 Gm7 C7/G
+         D/F# F7M Em7 D#º Dm7 G7 D/F#
+
+     F7M     Em7 A7/C#
+Meu pranto rolou
+           D/F# F7M     C7M Am7
+Mais do que água na cachoeira
+         D7(9)           G7
+Depois que ela me abandonou
+
+Dm7                 A7                Dm7 G7 C7M
+Na minha vida tranqüila e a vida eu levava
+              Dm7                   Em7 A7/C#
+E nessa felicidade a verdade eu não via
+D7(9)                           F7M A7/G D/F#
+Ela vivia dizendo não vou te deixar
+            D7(9)                G7
+Ela queria fazer o meu pranto rolar
+                 D/F#
+E o meu pranto rolou
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+A7/G = 3 X 2 2 2 X
+Am7 = X 0 2 0 1 0
+C7/G = 3 X 2 3 1 X
+C7M = X 3 2 0 0 X
+D#º = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

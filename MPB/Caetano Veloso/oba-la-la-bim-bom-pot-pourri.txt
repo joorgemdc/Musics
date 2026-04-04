@@ -1,0 +1,101 @@
+Caetano Veloso - Oba - Lá - Lá / Bim Bom (Pot-Pourri)
+
+Tom: C
+(intro) C6/9
+
+
+Dm7    Bm7/b5 E7/b9
+E amor,
+ Am7           F#dim   D#dim
+o hó-bá-lá-lá,
+
+Dm7         G7
+hó-bá-lá-lá
+
+uma canção,
+
+Dm7        Bm7/b5  E7/b9
+Quem ouvir
+  Am7         F#dim  D#dim
+o hó-bá-lá-lá,
+
+terá feliz
+        Gm7/11  Gb7/b5
+ o coração
+
+
+         Fm7      Bb7/9
+O amor encontrará
+        Eb7M/9       C#m6 C7
+ouvindo esta canção
+         Fm7        Bb7
+ alguém compreenderá
+         Em7   A7/b5  A7
+ seu coração
+
+      Dm7  Bm7/b5 E7/b9
+Vem ouvir,
+   Am7          F#dim  D#dim
+ o hó-bá-lá-lá,
+
+hó-bá-lá-lá
+        C6/9
+esta canção.
+
+Dm7 G7  Dm7     G7
+Bim bom bim bim bom
+Dm7 G7  Dm7     G7  C6/9
+Bim bom bim bim bom bim bom
+Dm7 G7  Dm7     G7
+Bim bom bim bim bom bom
+Dm7 G7 Dm7      G7  Bm7     E7/b9
+Bim bom bim bim bom bim bim
+
+Am7            Bm7   E7/b9  Am7
+É só isso o meu baião
+               Bm7   E7/b9 Am7
+E nao tem mais nada não
+          A7         Dm7    G7
+O meu coração pediu assim, só
+
+Dm7 G7  Dm7     G7
+Bim bom bim bim bom
+Dm7 G7  Dm7     G7  C6/9
+Bim bom bim bim bom bim bom
+Dm7 G7  Dm7     G7
+Bim bom bim bim bom bom
+Dm7 G7 Dm7      G7  Bm7     E7/b9  Am7
+Bim bom bim bim bom bim bim
+
+            Bm7   E7/b9  Am7
+É só isso o meu baião
+               Bm7   E7/b9 Am7
+E nao tem mais nada não
+          A7         Dm7
+O meu coração pediu assim,
+       Fm7/9                  C7/6/G  C6/9   C7/6/G
+Só bim, bom, bim, bom, bim, bim
+
+----------------- Acordes -----------------
+A#m6 = 6 X 5 6 6 X
+A7 = X 0 2 0 2 0
+A7/b5 = X 0 1 0 2 X
+Am7 = X 0 2 0 1 0
+Bb7 = X 1 3 1 3 1
+Bb7/9 = X 1 0 1 1 X
+Bm7 = X 2 4 2 3 2
+Bm7/b5 = X 2 3 2 3 X
+C#m6 = X 4 X 3 5 4
+C6/9 = X 3 2 2 3 3
+C7 = X 3 2 3 1 X
+D#dim = X X 1 2 1 2
+Dm7 = X 5 7 5 6 5
+E7/b9 = X X 2 1 3 1
+Eb7M/9 = X 6 5 7 6 X
+Em7 = 0 2 2 0 3 0
+F#dim = 2 X 1 2 1 X
+Fm7 = 1 X 1 1 1 X
+Fm7/9 = X X 3 1 4 3
+G7 = 3 5 3 4 3 3
+Gb7/b5 = 2 X 2 3 1 X
+Gm7/11 = 3 X 3 3 1 X

@@ -1,0 +1,195 @@
+Paulinho Moska - A Idade do Céu
+
+Intro:
+
+Dedilhado Parte 1 - 3x:
+  H.A.    .    .            .   .   .
+E|---------------------------------------------------
+B|-------------12-------------------7----------------
+G|--------12--------------------7--------------------
+D|---12---------------------7------------------------
+A|---------------------------------------------------
+E|8---------------------3----------------------------
+
+Dedilhado Parte 2:
+  H.A.    .    .            .   .   .
+E|------------------------------------3/5--3---------
+B|-------------12-------------------7-3/5--3--3\1\0--
+G|--------12--------------------7-------------4\2\0--
+D|---12---------------------7------------------------
+A|---------------------------------------------------
+E|8---------------------3----------------------------
+
+( C7M(13)/G  A7(9)  G5(6/9)  D5(9) )
+
+Frase:
+
+E|3/5-3----------------------------------------------
+B|3/5-3--3\1p0---------------------------------------
+G|-------4\2p0---------------------------------------
+D|---------------------------------------------------
+A|---------------------------------------------------
+E|---------------------------------------------------
+
+Primeira Parte:
+
+ C7M(13)/G
+Não somos mais
+         A7(9)
+Que uma gota de luz
+        G5(6/9)
+Uma estrela que cai
+       D5(9)
+Uma fagulha tão só
+     (frase)
+Na idade do céu
+
+ C7M(13)/G
+Não somos o
+          A7(9)
+O que queríamos ser
+           G5(6/9)
+Somos um breve pulsar
+         D5(9)
+Em um silêncio antigo
+Com a idade do céu
+
+Refrão:
+
+ C7M(13)/G
+Calma
+              A7(9)/C#
+Tudo está em calma
+             G5(6/9)
+Deixe que o beijo dure
+             D#º       F#º
+Deixe que o tempo cure
+            C7M(13)/G
+Deixe que a alma
+         D6(9)/A
+Tenha a mesma idade
+Que a idade do céu
+
+Passagem 2x: C7M(13)/G  A7(9)/C#
+
+Primeira Parte com variação na letra:
+
+ C7M(13)/G
+Não somos mais
+           A7(9)
+Que um punhado de mar
+      G5(6/9)
+Uma piada de Deus
+       D5(9)
+Um capricho do sol
+    (frase)
+No jardim do céu
+C7M(13)/G
+          Não damos pé
+       A7(9)
+Entre tanto tic tac
+       G5(6/9)
+Entre tanto Big Bang
+           D5(9)
+Somos um grão de sal
+No mar do céu
+
+Refrão:
+
+ C7M(13)/G
+Calma
+              A7(9)/C#
+Tudo está em calma
+             G5(6/9)
+Deixe que o beijo dure
+             D#º       F#º
+Deixe que o tempo cure
+            C7M(13)/G
+Deixe que a alma
+         D6(9)/A
+Tenha a mesma idade
+Que a idade do céu
+   D6(9)/A
+A mesma idade
+Que a idade do céu
+
+Passagem 2 - 3x:
+
+( A7  D9(11)/A  G6/A D9(11)/A )
+( C9  C9(11+)  C5(9)  C5(6/9) )
+( G5(6/9)  D5(9) )
+
+Refrão com variação:
+
+ C7M(13)/G
+Calma
+              A7(9)/C#
+Tudo está em calma
+             D6(9)/A
+Deixe que o beijo dure
+             D#º       F#º
+Deixe que o tempo cure
+            C7M(13)/G
+Deixe que a alma
+         D6(9)/A
+Tenha a mesma idade
+Que a idade do céu
+A mesma idade
+Que a idade do céu
+
+Repetições 2: Refrão 1: Primeira Parte 1
+
+  C7M(13)/G  A7(9)/C#     D6(9)/A
+E|-----------------------------------------
+B|------------0--0--0--0-------------------
+G|2--2--2--2--2--2--2--2--0--0--0--0-------
+D|2--2--2--2--5--5--5--5--4--4--4--4-------
+A|3--3--3--3--4--4--4--4--5--5--5--5-------
+E|3--3--3--3--------------5--5--5--5-------
+
+Repetições 2: Refrão 1: Primeira Parte 2 de 2
+  D#º          C7M(13)/G   D6(9)/A
+E|-------------------------0-----0---------
+B|5--5--5--5---------------3-----3---------
+G|6--6--6--6---2--2--2--2--0-----0---------
+D|5--5--5--5---2--2--2--2--4-----4---------
+A|6--6--6--6---3--3--3--3--5-----5---------
+E|-------------3--3--3--3--5-----5---------
+
+Refrão com variação:
+
+ Am7  C
+Calma
+              A7(9)/C#
+Tudo está em calma
+             G5(6/9)
+Deixe que o beijo dure
+             D#º       F#º
+Deixe que o tempo cure
+            C7M(13)/G
+Deixe que a alma
+         D6(9)/A
+Tenha a mesma idade
+Que a idade do céu
+A mesma idade
+Que a idade do céu
+
+( C7M(13)/G  A7(9) ) (4x)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(9) = X 0 5 6 0 0
+A7(9)/C# = X 4 5 2 0 0
+Am7 = X 0 2 0 1 0
+C = X 3 2 0 1 0
+C5(9) = X 3 X 0 3 3
+C7M(13)/G = 3 3 2 2 0 0
+C9 = X 3 X 0 3 0
+C9(11+) = X 3 X 0 3 2
+D#º = X 6 7 5 7 X
+D5(9) = 0 0 0 2 3 0
+D6(9)/A = 5 5 4 4 0 0
+D9(11)/A = X 0 4 0 3 0
+F#º = X 9 10 8 10 X
+G5(6/9) = 3 X 0 2 3 0
+G6/A = X 0 5 0 5 0

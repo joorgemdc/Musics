@@ -1,0 +1,68 @@
+Fagner - Lua do Leblon
+
+Intro: F/G  G7(b9)
+
+         C   Dm7         C/E    G/B
+Enquanto cai a lua do Leblon,
+     G/A     A7/9     Dm7       A7/5+
+Uma mulher tocando violão
+         Dm7       Dm/C     G/B
+Enquanto o sol flutua no japão,
+          F/G           G7(b9)       C       F/G
+Ouço as estrelas mais difíceis de se ver
+        C   F/G        C     C9     C
+Você também podia aparecer,
+      Gm7          C7/9        F7+
+Eu já pedí até aos deuses do verão
+           D/F#
+Pra que  o céu ficasse azul,
+           Em7          G/A        A7
+Pra que o planeta fosse um
+        Dm7          F/G   C   C7+   C
+Do outro lado do seu coração
+
+
+F/G      F/A        Bb    G/B
+Há fotografias de Hiroshima,
+    C          Dm7          C/E      C9      C
+Nos olhos das meninas do sertão,
+F#m7/5-               B7(b9)
+Pássaros perdidos na neblina
+    Bb  A7          Dm7/5-     G7/5+
+E o medo de se apaixonar
+           C           F/G      C/E     C9     C
+Mas há  um pássaro que vence um avião
+           Gm7        C7/9             F7+
+Por quem Picasso explodiu seu coração
+        D/F#
+Pra que o céu ficasse azul
+        Em7           G/A        A7
+Pra que o planeta fosse um
+          Dm7        F/G     C
+E a Humanidade encontrasse a mãe
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/5+ = X 0 X 0 2 1
+A7/9 = 5 X 5 4 2 X
+B7(b9) = X 2 1 2 1 X
+Bb = X 1 3 3 3 1
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+C7/9 = X 3 2 3 3 X
+C9 = X 3 5 5 3 3
+D/F# = 2 X 0 2 3 2
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7/5- = X X 0 1 1 1
+Em7 = 0 2 2 0 3 0
+F#m7/5- = 2 X 2 2 1 X
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+F7+ = 1 X 2 2 1 X
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G7(b9) = 3 X 3 1 0 X
+G7/5+ = 3 X 3 4 4 3
+Gm7 = 3 X 3 3 3 X

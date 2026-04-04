@@ -1,0 +1,115 @@
+Gilberto Gil - Quanta
+
+Intro:
+:D7sus: % :Cmaj7: % :Bb9(#11):Bb:D:D C Bb::Amaj7: Am7 C Bb :Amaj7: Am7 C Bb::
+
+Amaj7
+Quanta do latim
+
+Plural de quantum
+
+              G/A
+Quando quase não há
+               F#/A
+Quantidade que se medir
+F/A                 E/A
+Qualidade que se expressar
+Amaj7
+Fragmento infinitésimo
+              G/A
+Quase que apenas mental
+                  F#/A
+Quantum granulado no mel
+F/A               E/A
+Quantum ondulado no sal
+
+Amaj7           G7(#11)
+Mel de urânio, sal de rádio
+F#m7            B7       G/A
+Qualquer coisa quase ideal
+
+Cântico dos cânticos
+          F/A G/A F/A G/A
+Quântico dos quânticos
+          F/A G/A F/A E/A  D/A E/A D/A C/A  Bb/A C/A Bb/A
+
+Intermezzo:
+: Amaj7 : Am7 C Bb : Amaj7 : Am7 C Bb : Amaj7 : Am7 C Bb :
+
+Amaj7
+Canto de louvor
+
+De amor ao vento
+           G/A
+Vento arte do ar
+                   F#/A
+Balançando o corpo da flor
+F/A                 E/A
+Levando o veleiro pro mar
+Amaj7
+Vento de calor
+
+De pensamento em chamas
+      G/A
+Inspiração
+                F#/A
+Arte de criar o saber
+F/A                   E/A
+Arte, descoberta, invenção
+Amaj7       G7(#11)    F#m7
+Teoria em grego quer dizer
+          B7        G/A
+O ser em contemplação
+
+Cântico dos cânticos
+          F/A G/A F/A G/A
+Quântico dos quânticos
+          F/A G/A F/A E/A  D/A E/A D/A C/A  Bb/A C/A Bb/A
+
+Intermezzo:
+: Amaj7 : Am7 C Bb : Amaj7 : Am7 C Bb :
+
+F#m7                  F/G    G
+Sei que a arte é irmã da ciência
+Am7                       D7sus  D
+Ambas filhas de um Deus fugaz
+Fmaj7
+Que faz num momento
+C        G        Am7 : D7 : Am7 : D7 : Am7 : D7 : Am7 : D7 :
+E no mesmo momento desfaz
+Amaj7
+Esse vago Deus por trás do mundo
+               G/A
+Por detrás do detrás
+
+Cântico dos cânticos
+          F/A G/A F/A G/A
+Quântico dos quânticos
+          F/A G/A F/A E/A  D/A E/A D/A C/A  Bb/A C/A Bb/A
+
+Coda: : Amaj7 : Am7 C Bb : Amaj7 : Am7 C Bb : Amaj7 : Am7 C Bb : Amaj7 : Am7 : Bb/E :
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Amaj7 = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb/A = X 0 3 3 3 X
+Bb/E = 0 X 3 3 3 1
+Bb9(#11) = X 1 2 3 1 1
+C = X 3 2 0 1 0
+C/A = X 0 2 0 1 0
+Cmaj7 = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D7 = X X 0 2 1 2
+D7sus = X X 0 2 1 2
+E/A = X 0 2 1 0 0
+F#/A = X 0 4 3 2 X
+F#m7 = 2 X 2 2 2 X
+F/A = 5 X 3 5 6 X
+F/G = 3 X 3 2 1 X
+Fmaj7 = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/A = 5 X 5 4 3 X
+G7(#11) = 3 X 3 4 2 X

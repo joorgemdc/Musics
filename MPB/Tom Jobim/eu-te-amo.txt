@@ -1,0 +1,82 @@
+Tom Jobim - Eu Te Amo
+
+D7+
+
+D7M           C#4/7   C#7     C7M
+Ah, se já perdemos a noção da hora
+    B4/7       B7         A#7M
+Se juntos já jogamos tudo fora
+    A5+/7           G#6  G6/7 F#7M
+Me conta agora como hei de partir
+            A/G     D7M                  Bm7
+Se, ao te conhecer, dei pra sonhar, fiz tantos desvarios
+    C#7                     F#m7
+Rompi com o mundo, queimei meus navios
+    B5+/7                Em7
+Me diz pra onde é que inda posso ir
+  G7M               Gm7             F#m7
+Se nós, nas travessuras das noites eternas
+    Fº                      D#7M
+Já confundimos tanto as nossas pernas
+     Am4/7           G/A
+Diz com que pernas eu devo seguir
+D7M             Bm7             G#m7
+Se entornaste a nossa sorte pelo chão
+
+        C#º             Em7
+Se na bagunça do teu coração
+        G/A                C#m4/7  F#5+/7 F#7
+Meu sangue errou de veia e se perdeu
+G7M      Gm7                   F#7M
+Como, se na desordem do armário embutido
+      E7M             D#7M
+Meu paletó enlaça o teu vestido
+       C7/9            C#7M
+E o meu sapato inda pisa no teu
+D7M           Bm7           E7/9/11+
+Como, se nos amamos feito dois pagãos
+      B5+/7                 Em7
+Teus seios inda estão nas minhas mãos
+     G/A                     F#5+/7
+Me explica com que cara eu vou sair
+G7M            F#7M            F7M
+Não, acho que estás te fazendo de tonta
+          E7M             D#7M
+Te dei meus olhos pra conta
+       D7M             C#7M
+Agora conta como hei de partir
+
+----------------- Acordes -----------------
+A#7M = X 1 3 2 3 1
+A/G = 3 X 2 2 2 X
+A5+/7 = X 0 X 0 2 1
+Am4/7 = 5 X 5 5 3 X
+B4/7 = X 2 4 2 5 2
+B5+/7 = X 2 X 2 4 3
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#4/7 = X 4 6 4 7 4
+C#7 = X 4 3 4 2 X
+C#7M = X 4 6 5 6 4
+C#m4/7 = X 4 4 4 5 4
+C#º = X 4 5 3 5 3
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D#7M = X X 1 3 3 3
+D7+ = X X 0 2 2 2
+D7M = X X 0 2 2 2
+E7/9/11+ = X X 2 3 3 2
+E7M = X X 2 4 4 4
+Em7 = 0 2 2 0 3 0
+F#5+/7 = 2 X 2 3 3 2
+F#7 = 2 4 2 3 2 2
+F#7M = 2 X 3 3 2 X
+F#m7 = 2 X 2 2 2 X
+F7M = 1 X 2 2 1 X
+Fº = X X 3 4 3 4
+G#6 = 4 X 3 5 4 X
+G#m7 = 4 X 4 4 4 X
+G/A = 5 X 5 4 3 X
+G6/7 = 3 X 3 4 5 X
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

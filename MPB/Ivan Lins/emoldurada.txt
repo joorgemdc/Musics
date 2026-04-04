@@ -1,0 +1,50 @@
+Ivan Lins - Emoldurada
+
+( Ivan Lins / Vítor Martins )
+
+
+[Intro:] G7M C7(13) F#m7 B7 Em7 A7 D7(4) D7
+         G#m7(b5) Gm6 F#m7 B7 E7(9) A7 D A4
+
+    D    Gm6   D  D7(4)
+Eu vi na passarela
+      D7     G7M   F#7(4) F#7 Bm7 Bm6
+Refletida na luz dos o...lhos dela
+               Em7  B7(b13)  Em7
+E na tela do olhar da minha amada
+B7(b13)  Em7    A7(4) A7    D  D4
+Emol...durada passava a Portela
+
+   G7M        G#º  D/A        G#m7(b5)
+Cantei pra nós, chorei por ela
+                 G7M      F#7(4) F#7
+Com Monarco e Paulinho da Vio...la
+F#m7(b5)      B7    Em7
+Eu sempre chorei por outra escola
+E7(9)                   Em7         A7
+Amei a Portela por ela ali naquela hora
+
+----------------- Acordes -----------------
+A4 = X 0 2 2 3 0
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+B7 = X 2 1 2 0 2
+B7(b13) = X 2 X 2 4 3
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C7(13) = X 3 X 3 5 5
+D = X X 0 2 3 2
+D/A = X 0 X 2 3 2
+D4 = X X 0 2 3 3
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+G#m7(b5) = 4 X 4 4 3 X
+G#º = 4 X 3 4 3 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

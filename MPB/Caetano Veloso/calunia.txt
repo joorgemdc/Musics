@@ -1,0 +1,60 @@
+Caetano Veloso - Calúnia
+
+ Cmaj7      D#dim7    Dm7
+Quieste ofuscar minha fama
+                     G7
+E até jogar - me na lama
+Dm7(11)       G7        Cmaj7 Gm7 F#maj7
+Só porque eu vivo a brilhar
+Fmaj7
+Sim ,
+Bb7               Cmaj7
+Mostraste ser invejoso
+  A7             D7
+Viraste até mentiroso
+G7            Cmaj7(9)
+Só para caluniar
+
+Cmaj7              Em7
+Deixa a calúnia de lado
+      A7        D7(9)
+Se de fato és poeta
+Dm7                Dm7
+Deixe a calúnia de lado
+
+          G7       Cmaj7
+Que ela a mim não afeta
+       Am7
+Se me ofendes ,
+     Fmaj7     Bm7
+tu serás o ofendido
+                      Bm7
+Pois quem com ferro ferir
+    E7          Am7    Dm7 G7
+Com ferro será ferido
+
+Cmaj7      D#dim7    Dm7
+Quieste ofuscar minha fama
+                     G7
+E até jogar - me na lama
+Dm7(11)       G7        Cmaj7
+Só porque eu vivo a brilhar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bb7 = X 1 3 1 3 1
+Bm7 = X 2 4 2 3 2
+Cmaj7 = X 3 2 0 0 X
+Cmaj7(9) = X 3 2 4 3 X
+D#dim7 = X X 1 2 1 2
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dm7(11) = X 5 5 5 6 5
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F#maj7 = 2 X 3 3 2 X
+Fmaj7 = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

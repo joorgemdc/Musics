@@ -1,0 +1,94 @@
+Ivan Lins - A Quem Me Faz Feliz
+
+Ivan Lins / Abel Silva
+
+[Intro:] A9 Dm9/F A9 Dm9/F A9 Dm9/F A9 Dm9/F A9
+
+            Dm9/F Fº A9
+Quando me perguntam
+            Em7(9) A7(13) D7M
+Se eu estou amando
+  G7(9)(#11)       F#m7/C# F#7(4) F#7(13) Bm7(9)
+Logo vem o coração e diz:
+        G#m7(11) C#7(b9) F#m7M(9) F#m7(9)   B7(9)(13) E7(9)(11)
+"Amo as estre......las,              amo certos olhos
+      E7(b9)         A9 Dm9/F A9
+Amo a quem me faz feliz"
+
+Se algum amigo
+Me acha distraído
+Logo vem o meu sorriso e diz:
+"Amo as estrelas, amo certos olhos
+      E7(b9)         A9 G7(9)(11) G7(9)
+Amo a quem me faz feliz"
+
+ C7M  C6     G7(9)(11) G7(b9)
+Existe alguém
+   C7M C6 G7(9)(11) G7(b9)
+E exis...tirá
+        A9   F#m7(11)
+Que me faz queimar
+Bm7(11)   E7(9)(11)     A9 F#m7(11) G7(9)(11) G7(b9)
+Ou    pa...decer   de frio
+ C7M  C6 G7(9)(11) G7(b9)
+E esse alguém
+      C7M C6 G7(9)(11) G7(b9)
+Sabe que    chegou
+     A9 F#m7(11) Bm7(11) E7(9)(11) C#7(13) C#7(b13) F#7(9)(11) F#7(b9)
+E calou a dor do   meu            peito    vazio
+B7(13) B7(b13) E7(9)(11) E7(b9) A9
+Triste é ser      só
+
+Sigo meu caminho
+Mas não vou sozinho
+Trago esse meu coração que diz:
+"Amo as estrelas, amo certos olhos
+E7(b9)           A7(9)(11)      A7(13) F#m7M
+Amo a quem me faz         feliz"
+          C#7/F  F#m7/C#       C7(9)(11) C7(9)(13) Bm7
+"Amo as estrelas,       amo certos olhos
+      E7(b9)   A7(9)(11) A7(13) F#m7M
+Amo a quem me faz feliz"
+          C#7/F  F#m7/C#       C7(9)(11) C7(9)(13) Bm7
+"Amo as estrelas,       amo certos olhos
+      E7(b9)         A9 Dm9/F A9 Dm9/F A9 Dm9/F A9
+Amo a quem me faz feliz"
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(9)(11) = 5 X 5 4 3 X
+A9 = X 0 2 2 0 0
+B7(13) = X 2 X 2 4 4
+B7(9)(13) = 7 X 7 6 4 4
+B7(b13) = X 2 X 2 4 3
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+Bm7(9) = X 2 0 2 2 X
+C#7(13) = X 4 X 4 6 6
+C#7(b13) = X 4 X 4 6 5
+C#7(b9) = X 4 3 4 3 X
+C#7/F = X X 3 4 2 4
+C6 = 8 X 7 9 8 X
+C7(9)(11) = X 3 3 3 3 3
+C7(9)(13) = X 3 2 P3 3 5
+C7M = X 3 2 0 0 X
+D7M = X X 0 2 2 2
+Dm9/F = 1 0 0 2 1 0
+E7(9)(11) = X X 2 2 3 2
+E7(b9) = X X 2 1 3 1
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F#7(4) = 2 4 2 4 2 X
+F#7(9)(11) = 2 X 2 1 0 X
+F#7(b9) = X X 4 3 5 3
+F#m7(11) = 2 X 2 2 0 X
+F#m7(9) = X X 4 2 5 4
+F#m7/C# = X 4 2 2 2 2
+F#m7M = X X 4 6 6 5
+F#m7M(9) = 2 0 3 1 X X
+Fº = X X 3 4 3 4
+G#m7(11) = 4 X 4 4 2 X
+G7(9) = 3 X 3 2 0 X
+G7(9)(#11) = 3 2 3 2 2 X
+G7(9)(11) = 3 X 3 2 1 X
+G7(b9) = 3 X 3 1 0 X

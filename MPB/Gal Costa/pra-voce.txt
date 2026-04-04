@@ -1,0 +1,67 @@
+Gal Costa - Pra você
+
+[Intro] C7M  F7M
+
+C7M                         Fm6
+    Pra você eu guardei
+Dm7(b5)              G7(sus4)  G7(b9)
+    Um amor infinito
+C7M                     Gm7 C7(b9)
+    Pra você procurei
+       F7M           Bm7(b5)  Bb7(#11)
+O lugar mais bonito
+Am7                        G#º(b13)
+    Pra você eu sonhei
+C7/G                       F#m7(b5)
+    O meu sonho de paz
+F7M                        Em7 Eb7(9/#11) Dm7
+    Pra você me guardei  de--------------mais
+G#7(#11)
+Demais
+
+C7M                      Fm6
+    Se você não voltar
+
+Dm7(b5)              G7(sus4)  G7(b9)
+   O que faço da vida?
+C7M                     Gm7 C7(b9)
+   Não sei mais procurar
+       F7M           Bm7(b5)  Bb7(#11)
+ A alegria perdida
+Am7                            G#º(b13)
+    Eu não sei bem porque
+C7/G                        F#m7(b5)
+    Fui gostar tanto assim
+F7M                          Dm7
+    Ah, se eu fosse você
+G7                        Em7(b5)
+    Eu voltava pra mim
+A7(b13)
+    Voltava sim
+Dm7                          G7   G7(b9)
+    Ah, se eu fosse você
+                        C7M
+Eu voltava pra mim
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Bb7(#11) = X 1 2 1 3 X
+Bm7(b5) = X 2 3 2 3 X
+C7(b9) = X 3 2 3 2 X
+C7/G = 3 X 2 3 1 X
+C7M = X 3 2 0 0 X
+Dm7 = X 5 7 5 6 5
+Dm7(b5) = X X 0 1 1 1
+Eb7(9/#11) = X X 1 2 2 1
+Em7 = 0 2 2 0 3 0
+Em7(b5) = X X 2 3 3 3
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G#7(#11) = 4 X 4 5 3 X
+G#º(b13) = 4 X 3 4 5 X
+G7 = 3 5 3 4 3 3
+G7(b9) = 3 X 3 1 0 X
+G7(sus4) = 3 5 3 5 3 X
+Gm7 = 3 X 3 3 3 X

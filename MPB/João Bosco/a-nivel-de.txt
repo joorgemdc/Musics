@@ -1,0 +1,133 @@
+João Bosco - A Nível de...
+
+Algumas considerações:
+Coloquei entre parenteses partes em que João Bosco faz passagens
+rápidas e geralmente correspondem a 1 compasso apenas (G6 G) e
+(Em7/G Em/G), são apenas detalhes da música.
+
+Em (Em7/A - Em7 - Em/D D/E) 2 compassos, ele faz um movimento
+descendente 'Em7/A' x|0|x|12|12|10, 'Em7' na setima casa, 'Em'
+formato de 'D' com baixo em ré na quinta casa e 'D' com baixo em 'E'
+sexta corda)
+
+Não encontrei uma simbologia para C# meio diminuto com 13 bemol (A)
+na quarta casa.
+
+E em seguida ele faz  C7+ formato de dó mesmo e bemoliza a 5a e 4a
+corda para B5+ e depois rapidinho uma troca Bm5+ para Am7.
+
+Musica bem feita e com bastante detalhes do violão de João Bosco,
+todas as correções à minha cifra são muito bem vindas.
+[]s Lucas
+
+
+De: João Bosco e Aldir Blanc
+
+Intro:
+       C7+ G7+ (G6 G) Em/G (Em7/G Em/G) D9/F#
+       (E79- E7) Em/A (Em7/A - Em7 - Em/D D/E)
+       C#5b79+13b(*) C7+ B5+ Bm5+ Am7 Bm7  C7+
+       C7+12  C7+  C9  G7+   (G6 G)    Em/G
+       (Em7/G Em/G) D9/F#  (E79- E7) Em/A
+       (Em7/A - Em7 - Em/D D/E)  C#5b79+13b(*) C7+
+       C7+ B5+ Bm5+ Am7 Bm7     C7+
+       C7+ B5+ Bm5+ A79/C#
+       C7+ B5+ Bm5+ Am7 Bm7
+
+C7+           G7+   (G6 G)    Em/G
+Vanderley e Odilon são muito unidos
+(Em7/G Em/G) D9/F#  (E79- E7) Em/A
+e vão pro Maracanã   todo domingo
+(Em7/A - Em7 - Em/D D/E)  C#5b79+13b(*)     C7+
+criticando o casamento          e o papo mostra
+          B5+         Bm5+ Am7      Bm7
+que o casamento anda uma    bosta...
+C7+           G7+   (G6 G)    Em/G
+Yolanda e Adelina são muito unidas
+(Em7/G Em/G) D9/F#  (E79- E7) Em/A
+e se fazem companhia todo domingo
+(Em7/A - Em7 - Em/D D/E)
+que os maridos vão pro jogo
+C#5b79+13b(*)  C7+               B5+  Bm5+ Am7      Bm7
+Yolanda       aposta  que assim a nível de proposta
+C7+ B5+       Bm5+ Am7   Bm7
+o casamento anda uma bosta
+Cm6                       Bm7
+Estruturou-se um troca-troca
+     Em      Em7+       Em7      Em6      D7sus4/13
+e os quatro: hum-hum... oquêi... tá bom... é...
+C#79+     C7+        B5+       Bm5+  Am7
+Só que Odilon, não pegando bem a   coisa
+    Bm7         C7+        B5+     Bm5+ Am7 Bm7
+agarrou o Vanderlei e a Yolanda ó na Adelina
+
+C7+12  C7+  C9  G7+   (G6 G)    Em/G
+Vanderley e Odilon    bem mais unidos
+(Em7/G Em/G) D9/F#  (E79- E7) Em/A
+empataram capital e estão montando
+(Em7/A - Em7 - Em/D D/E)  C#5b79+13b(*)     C7+
+restaurante    natural     cuja          proposta é
+      B5+    Bm5+   Am7      Bm7
+cada um como o que gosta.
+C7+12  C7+  C9  G7+   (G6 G)    Em/G
+Yolanda e Adelina    bem mais unidas
+(Em7/G Em/G) D9/F#
+acham viver um barato
+(E79- E7) Em/A   (Em7/A - Em7 - Em/D D/E)
+  e pra  provar   tão fazendo artesanato
+C#5b79+13b(*)  C7+              B5+    Bm5+   Am7      Bm7  C7+
+  e pela      amostra Yolanda aposta na resposta
+      B5+    Bm5+   Am7    Bm7  C7+
+e Adelina não discorda
+               B5+    Bm5+   Am7   Bm7 Cm6
+que pinta e borda com o que gosta
+                     Bm
+É positiva essa proposta
+Em         Em7+       Em7      Em6      D7sus4/13
+de quatro: hum-hum... oquêi... tá bom... é...
+C#79+     C7+       B5+    Bm5+   Am7   Bm7
+Só que Odilon  ensopapa o Vanderley com ciúme
+    C7+       B5+    Bm5+   Am7   Bm7
+e Adelina dá na cara  de   Ioiô
+
+C7+12  C7+  C9  G7+   (G6 G)    Em/G
+Vanderley e Odilon    uou uou hum hum..
+(Em7/G Em/G) D9/F#  (E79- E7) Em/A
+Yolanda e Adelina   uou uou hum hum..
+(Em7/A - Em7 - Em/D D/E)  C#5b79+13b(*)     C7+
+cada um faz o que gosta   uou uou        hum hum...
+    B5+    Bm5+   Am7    Bm7  C7+
+e o relaciona----mento   hum hum..
+C7+12  C7+  C9    G7+
+continua a mesma bosta!
+
+
+
+----------------- Acordes -----------------
+A79/C# = X 4 5 2 0 0
+Am7 = X 0 2 0 1 0
+B5+ = X 2 1 0 0 X
+Bm = X 2 4 4 3 2
+Bm5+ = X 2 0 0 0 3
+Bm7 = X 2 4 2 3 2
+C#79+ = X 4 3 4 5 X
+C7+ = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Cm6 = X 3 X 2 4 3
+D/E = X X 2 2 3 2
+D7sus4/13 = X 5 7 5 8 7
+D9/F# = 2 X 0 2 3 0
+E7 = 0 2 2 1 3 0
+E79- = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em/A = X 0 2 0 0 X
+Em/D = X X 0 4 5 3
+Em/G = 3 X 2 4 5 X
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+Em7+ = X X 2 4 4 3
+Em7/A = X 0 0 0 0 0
+Em7/G = 3 X 2 4 3 X
+G = 3 2 0 0 0 3
+G6 = 3 X 2 4 3 X
+G7+ = 3 X 4 4 3 X

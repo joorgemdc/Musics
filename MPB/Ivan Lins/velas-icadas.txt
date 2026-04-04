@@ -1,0 +1,85 @@
+Ivan Lins - Velas Içadas
+
+Ivan Lins / Vítor Martins
+
+[Intro:] Eb7(4)(9) Ab7M Eb7(4)(9) Ab7M
+         Eb7(4)(9) Cm7 Fm7(9) Bbm7(9) Eb7(13) Ab7M
+         Fm7(9) F7(b9)
+
+Bbm7(9)       Eb7(4)(9)  Eb/Db   Cm7  F7(4) F7(b9)(b13)
+Seu coração é um barco de velas içadas
+Bbm7(9)         Eb7(4)(9)    Eb/Db   A7M(#11) Ab7(4)(9)
+Longe dos mares do tempo, das loucas marés
+C#m7(9)(11)   F#7(4)(9)         B7M(9) F7(4) F7(9)(b13)
+Seu coração é um barco de velas içadas
+Bbm7(9)                 Eb7(9)(13) Eb7(b9)  Ab7M Ab6
+Sem nevoeiros, tormentas,          sequer um revés
+
+Seu coração é um barco jamais navegado
+Nunca mostrou-se por dentro, abrindo os porões
+Seu coração é um barco que vive ancorado
+Nunca arriscou-se ao vento, às grandes paixões
+
+Gm7(b5) C7(b9) Fm7M(9) Fm7/Eb
+Nunca soltou as amarras
+Dm7(b5) G7(b9)(b13) C7M Am7(9)
+Nunca     ficou à deriva
+Bm7(11) E7(b9)    Am7M(9) Am7(9) D7(4)(9) D7(9)
+Nunca sofreu um naufrágio
+G7(4)(9)        G7(b5)  C7M(9) A7(9)(11) A7(9)(#11)
+Nunca cruzou com piratas e aventureiros
+D7(4)(9) D7(9)         G7(4)(9) G7(b9) C7M F/G
+Nunca cumpriu o destino        das embarcações
+
+Solo: C F/G C F/G Ebm7(9)(11) F#m7(9)(11) B7(4)(9)
+      Fm7(9) Bb7(9) Eb7(4)(9) Eb7(9) Ab7M
+
+Fim: C F/G C F/G
+     Bbm7(9) Eb7(4)(9) Eb/Db Cm7
+
+----------------- Acordes -----------------
+A7(9)(#11) = 5 4 5 4 4 X
+A7(9)(11) = 5 X 5 4 3 X
+A7M(#11) = 5 X 6 6 4 X
+Ab6 = 4 X 3 5 4 X
+Ab7(4)(9) = 4 X 4 3 2 X
+Ab7M = 4 X 5 5 4 X
+Am7(9) = X X 7 5 8 7
+Am7M(9) = 5 3 6 4 X X
+B7(4)(9) = X 2 2 2 2 2
+B7M(9) = X 2 1 3 2 X
+Bb7(9) = X 1 0 1 1 X
+Bbm7(9) = 6 4 6 5 X X
+Bm7(11) = 7 X 7 7 5 X
+C = X 3 2 0 1 0
+C#m7(9)(11) = X 4 2 4 4 2
+C7(b9) = X 3 2 3 2 X
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+Cm7 = X 3 5 3 4 3
+D7(4)(9) = X 5 5 5 5 5
+D7(9) = X 5 4 5 5 X
+Dm7(b5) = X X 0 1 1 1
+E7(b9) = X X 2 1 3 1
+Eb/Db = X 4 5 3 4 X
+Eb7(13) = X 6 X 6 8 8
+Eb7(4)(9) = X X 1 1 2 1
+Eb7(9) = X 6 5 6 6 X
+Eb7(9)(13) = X 6 5 P6 6 8
+Eb7(b9) = X 6 5 6 5 X
+Ebm7(9)(11) = X 6 4 6 6 4
+F#7(4)(9) = 2 X 2 1 0 X
+F#m7(9)(11) = 2 0 2 1 0 X
+F/G = 3 X 3 2 1 X
+F7(4) = 1 3 1 3 1 X
+F7(9)(b13) = 1 X 1 0 2 X
+F7(b9) = X X 3 2 4 2
+F7(b9)(b13) = 1 X 1 2 2 2
+Fm7(9) = X X 3 1 4 3
+Fm7/Eb = X X 1 1 4 1
+Fm7M(9) = X 8 6 9 8 X
+G7(4)(9) = 3 X 3 2 1 X
+G7(b5) = 3 X 3 4 2 X
+G7(b9) = 3 X 3 1 0 X
+G7(b9)(b13) = 3 X 3 4 4 4
+Gm7(b5) = 3 X 3 3 2 X

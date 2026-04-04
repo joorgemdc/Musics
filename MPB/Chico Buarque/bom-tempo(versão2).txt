@@ -1,0 +1,79 @@
+Chico Buarque - Bom Tempo
+
+[Intro:] D6(9)
+
+       B7(b9)     C#m7(b5)       F#7(b13)     Bm7(9)
+Um marinheiro me contou que a boa brisa lhe soprou
+E7(9)        Em7(9) Eb7(9) D7M(9)
+Que vem aí bom tem...po
+      B7(b9)      C#m7(b5)       F#7(b13)      Bm7(9)
+O pescador me confirmou que o passarinho lhe cantou
+E7(9)          Am7  D7(9) G7M
+Que vem aí bom tem...po
+
+          G7    F#7M          F#7    F#m7(b5) B7(b9)
+Dou duro toda semana senão pergunte à Joana
+                   E7(9) Em7(9)
+Que não me deixa mentir
+          Gm6      D6(9)        B7(b9)    E7(9)
+Mas, finalmente é domingo naturalmente, me vingo
+              A7(b9)  D6(9)
+Eu vou me espalhar por aí
+
+     A7(13)                       D6(9)
+No compasso do samba disfarço o cansaço
+
+                 A7(13)
+Joana debaixo do braço
+                D6(9)
+Carregadinha de amor, vou que vou
+       A7(13)                    D6(9)
+Pela estrada que dá numa praia dourada
+                       A7(13)
+Que dá num tal de fazer nada
+                  D6(9)
+Como a natureza mandou, vou
+
+Satisfeito, a alegria batendo no peito
+O radinho contando direito
+A vitória do meu tricolor, vou que vou
+Lá no alto sol quente me leva num salto
+Pro lado contrário do asfalto
+Pro lado contrário da dor
+
+              C#m7(b5)    C7(9)
+Ando cansado da lida preocupada,
+ C#m7(b5)   Em/B    Bbº       Gº F#m7(b5) B7(b9) Em7
+Corrida, surrada, batida dos dias  meus
+        Gm6   D6(9)          Bm7  Em7(9)
+Mas uma vez na vida eu vou viver a vida
+       A7(b13) D6(9)
+Que eu pedi a   Deus
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bbº = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#m7(b5) = X 4 5 4 5 X
+C7(9) = X 3 2 3 3 X
+D6(9) = X 5 4 2 0 0
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+E7(9) = X X 2 1 3 2
+Eb7(9) = X 6 5 6 6 X
+Em/B = X 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7M = 2 X 3 3 2 X
+F#m7(b5) = 2 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gº = 3 X 2 3 2 X

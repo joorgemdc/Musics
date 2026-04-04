@@ -1,0 +1,80 @@
+Fafá de Belém - Desalento
+
+Chico Buarque / Vinícius de Moraes
+
+[Intro:] Dm7 Eb6
+
+Dm7  Eb6   Dm7 D7(b13)      Gm7M
+Sim, vai e diz        diz assim
+   Gm7    Gm6   Gm(b6)  A/G           D7/F#
+Que eu chorei que eu morri de arrependimento
+           D7  Em7(b5)   A7(b13)    Dm7 Eb6
+Que o meu desalento já não tem mais fim
+      Dm7 D7(b13) Gm7M Gm7
+Vai e diz   diz assim
+     Gm6 Gm(b6)   A/G            D7/F#
+Como sou   in...feliz no meu descaminho
+           D7 Em7(b5)       A7(b13)   D6 Bm7 Em7 A7(9)
+Diz que estou sozinho e sem saber de mim
+
+D7M    A/C#  Bm7 Bm7/A F#m7(b5) Am/C
+Diz que eu esti...ve por pouco
+    B7(b9)        Em7M(9) Em7(9) Em7(9)/D C#m7(b5) F#7(b9)
+Diz a ela que estou louco  pra      per....doar
+
+Bm7M(9) Bm/F#  F#m7(b5)
+Que seja lá como for, por amor,
+     Am6/C    B7(b9) Em7(b5) A7(b13)
+Por favor é pra ela voltar     sim
+
+ Dm A7(b13)/C# Dm/C D7(b13)    Bb
+Sim, vai e      diz   diz assim
+                  Gm               Gm7M           Gm7 Gm6 Gm(b6)
+Que eu rodei, que eu bebi, que eu caí, que eu não sei
+                     A/G                     D7/F#
+Que eu só sei que cansei, enfim dos meus desencontros
+           Em7(b5)        A7(b13)
+Corre e diz a ela que eu entrego os pontos
+
+Fim: Dm A7(b9)/C# F/C Bm7(b5) Bb7M A7(b13) G#º
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A/G = 3 X 2 2 2 X
+A7(9) = 5 X 5 4 2 X
+A7(b13) = X 0 X 0 2 1
+A7(b13)/C# = X 4 5 2 6 X
+Am/C = X 3 2 2 5 X
+Am6/C = X 3 4 2 5 2
+B7(b9) = X 2 1 2 1 X
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+Bm/F# = X X 4 4 3 2
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+Bm7/A = 5 2 4 2 3 2
+Bm7M(9) = X 2 0 3 2 X
+C#m7(b5) = X 4 5 4 5 X
+D6 = X 5 4 2 0 X
+D7 = X X 0 2 1 2
+D7(b13) = X 5 X 5 7 6
+D7/F# = X X 4 5 3 5
+D7M = X X 0 2 2 2
+Dm = X X 0 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb6 = X X 1 3 1 3
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7(9)/D = 10 9 9 P12 12 12
+Em7(b5) = X X 2 3 3 3
+Em7M(9) = 0 X X 0 4 2
+F#7(b9) = X X 4 3 5 3
+F#m7(b5) = 2 X 2 2 1 X
+F/C = X 3 3 2 1 1
+G#º = 4 X 3 4 3 X
+Gm = 3 5 5 3 3 3
+Gm(b6) = 3 6 5 3 4 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7M = 3 5 4 3 3 3

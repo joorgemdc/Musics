@@ -1,0 +1,110 @@
+Djavan - Maçã
+
+de: Djavan
+Intro: D6(9) / / / / / / / / / / / / / / / / / / / / /
+/ / / / / / / / / / C7(9)
+
+D6/9                               C7(9)
+     Subi ladei--ra nas carrei--ra
+D6/9                              G7(#11)
+     Te a--mei des--filadeiro abai-------xo
+F#m7           F°           Em
+     Encalacrei no lodo, na lama
+         A7(4/9)       D7M(9)        D6(9)     G7 / Gm7 / C7(9)
+Na areia movedi--ça da carí---cia hu------mana
+
+D6/9                                  C7(9)
+     O chão brilha--va a ca--sa ri--a
+D6/9                          G7(#11)
+     Clare|--ava o dia e eu nos teus    bra--ços
+F#m7(11)          F°               Em
+     E viajei   fui bater na Espanha
+           A7(4/9)               F#m7               F°
+ Com o cheiro      que você tem       me embriaguei
+
+            Em            F#7(b13)          G7M
+Destruí Casablanca e me revoltei   contra a Ni--carágua
+     A/G                     F#m7(b5)   / F#m7(11) / F#m7 / B7(b9) /
+Após     me a--tolar lá no I---------rã
+
+G7M                    A/G                    F#m7 / F#m7(11) /
+    Teu beijo é No--va York  o que quer dizer maçã
+
+B7(b9) / B7(#9) B7(9) B7(b9) B7 G7M           F#7(b13)
+                                Como é bom te         querer
+Bm7           E7(9)
+   Acordei ta------va  fri--o
+
+    G7M             C7(9)              D7M(9)   Ab7(#11)
+Dei     a vol--ta e       voltei pro Ri-------o
+   G7M              C7(9)              D6(9)   Am7 D7(9)
+Dei     a vol--ta e       voltei pro Ri------o
+
+    G7M        C7(9)             D6(9)  Ab7(#11)
+Dei meia-volta e    voltei pro Ri-----o
+   G7M             C7(9)              D6(9)
+Dei    a vol--ta e       voltei pro Ri--------o
+
+
+ D6(9)/A      D6/A       C7(9)     G7(#11)     F#m7        F°         Em
+  ||||||     ||||||     ||||||     ||||||     ||||||     1||2||     ||||||
+  ||||||     ||||||     ||1|||     ||||1|     1|234|     ||||||     |23|||
+  ||||||     ||||||     |2|34|     2|3|||     ||||||     ||||||     ||||||
+  ||12||     ||12||     ||||||     |||4||     ||||||     ||||||     ||||||
+  3|||4|     34||||     ||||||     ||||||     ||||||     ||||||     ||||||
+  O ooo      Oooo        Oooo      O ooo      O ooo      O ooo      O ooo
+
+
+  A7(4/9)    D7M(9)      D6(9)       G7        Gm7      F#7(b13)     G7M
+  ||||||  4ª ||1|||     ||||||     ||||||     ||||||     ||||||     ||||||
+  ||||||     |2||3|     ||||||     ||||||     ||||||     1|2|||     ||||||
+  ||||1|     |||4||     ||||||     1|2|||     1|234|     |||34|     1|||2|
+  |||2||     ||||||     ||12||     |||3||     ||||||     ||||||     ||34||
+  ||3|||     ||||||     |3||4|     ||||||     ||||||     ||||||     ||||||
+   Oooo       Oooo       Oooo      O oo       O ooo      O ooo      O ooo
+
+
+        A/G      F#m7(b5)   F#m7(11)    B7(b9)     B7(#9)      B7(9)
+       ||||||     ||||1|     ||||||     ||1|2|     ||1|||     ||1|||
+       ||<---     2|34||     2|34||     |3|4||     |2|3||     |2|34|
+       2|||||     ||||||     ||||||     ||||||     ||||4|     ||||||
+       ||||||     ||||||     ||||||     ||||||     ||||||     ||||||
+       ||||||     ||||||     ||||||     ||||||     ||||||     ||||||
+
+
+
+         B7        Bm7        E7(9)    Ab7(#11)     Am7        D7(9)
+       ||1|||     ||||||     |||1||     ||||||     ||||||     ||||||
+       |2|3||     |<----     ||2||3     ||||||     ||||||     ||||||
+       ||||||     ||||2|     ||||4|     ||||1|     ||||||     ||||||
+       ||||||     ||3|||     ||||||     2|3|||     ||||||     ||1|||
+       ||||||     ||||||     ||||||     |||4||     1|234|     |2|34|
+
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A7(4/9) = 5 X 5 4 3 X
+Ab7(#11) = 4 X 4 5 3 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(#9) = X 2 1 2 3 X
+B7(9) = X 2 1 2 2 X
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C7(9) = X 3 2 3 3 X
+D6(9) = X 5 4 2 0 0
+D6/9 = X 5 4 2 0 0
+D6/A = X 0 4 4 3 X
+D7(9) = X 5 4 5 5 X
+D7M(9) = X 5 4 6 5 X
+E7(9) = X X 2 1 3 2
+Em = 0 2 2 0 0 0
+F#7(b13) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(b5) = 2 X 2 2 1 X
+F° = X X 3 4 3 4
+G7 = 3 5 3 4 3 3
+G7(#11) = 3 X 3 4 2 X
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

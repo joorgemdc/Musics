@@ -1,0 +1,90 @@
+Zélia Duncan - Um Jeito Assim
+
+E   E/D   E/C#   E/B
+
+A9+       D/A
+Já começo a noite
+A7(#9)     D/A   Dm/A
+Com um jeito assim
+A9+     B7    E7  A   C#m7(b5)
+Anoitece dentro de mim
+D        G7(13)  G#º
+Todo céu é triste
+A      C#7/G#  F#m7
+Não vai mudar
+  B7(9)     B/D#     E7  D/F# Em7(b5)/G E7/G
+Será que não existe lugar?
+A9+       D/A
+Pra viver sozinho
+
+ A7(#9)    D/A   Dm/A
+Melhor nem esperar
+A9+      B7   E7   A   C#7/G#
+Como areia solta no mar...
+  F#m7   C#7(#9)
+Será que você
+     F#m7       C#7(#9)
+Desconfia ou vai desconfiar?
+F#m7  C#7(#9) C7(9) B7(9)
+Dúvida louca no ar...
+    E         C#7
+Não sei se desespero
+        F#m7         B7(9)
+Porque quero e sempre espero
+
+D#m7(b5)   G#7(b13)
+Seus beijos tontos
+  C#7 D7 D#7 E7
+Molhados demais...
+A9+        D/A
+Quanto mais duvido
+  
+A7(#9)      D/A    Dm/A
+Mais vejo que sei
+A9+          B7    E7   A   C#m7(b5)
+Que jamais , então, saberei!
+   D                D#º
+Por que você não volta
+
+         A   G#  G   F#
+Ou vai de volta de vez, hein?
+    B7(9)      E7         A
+Não vê que eu preciso de alguém
+ Bb7(13)  A7(13)  
+Ou ninguém?
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7(#9) = X X 7 6 8 8
+A7(13) = X 0 X 0 2 2
+A9+ = 5 X 2 5 2 3
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+Bb7(13) = 6 X 6 7 8 X
+C#7 = X 4 3 4 2 X
+C#7(#9) = X 4 3 4 5 X
+C#7/G# = 4 X 3 4 2 X
+C#m7(b5) = X 4 5 4 5 X
+C7(9) = X 3 2 3 3 X
+D = X X 0 2 3 2
+D#7 = X 6 5 6 4 X
+D#m7(b5) = X X 1 2 2 2
+D#º = X X 1 2 1 2
+D/A = X 0 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm/A = X 0 X 2 3 1
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/C# = X 4 2 1 0 0
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+Em7(b5)/G = 3 5 5 3 5 3
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#7(b13) = 4 X 4 5 5 4
+G#º = 4 X 3 4 3 X
+G7(13) = 3 X 3 4 5 X

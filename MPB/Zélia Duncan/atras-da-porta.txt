@@ -1,0 +1,95 @@
+Zélia Duncan - Atrás da porta
+
+(De: Francis Hime & Chico Buarque)
+
+Intr.: Fm6/C / / / Cm7(9) / / / Fm6/C / / / Cm7(9) / / / Fm6/C / / /
+
+Fm7            Fm/Eb          Dm7(b5)          G7(b5) G7      Ab7M(#11)
+Quando olhaste bem  nos olhos meus    E o teu olhar   era de adeus
+         Ab7(#11)      G7/4(9)            G7(b9)
+Juro que não     acreditei     Eu te estranhei
+           C7/4(9)   C7/4(b9)        C7(b9)       Fm(7M) Fm/Eb
+Me debrucei        so________bre teu corpo  E duvidei
+D7/4        Ab7M(#11)  Ab7(#11)       G7/4(9)
+E   me arrastei       E        te arranhei
+        G7/4(b9)        G/F    Ab(add9)/Eb
+E me agarrei    nos teus   cabe___________los
+         Ab7M/Eb Fm/Eb       Dm7(b5/9)
+Nos teus pelos         Teu pijama
+Dm7(b5)         G7/4(b9)      G7(b9)     Fm6/C
+       Nos teus pés      Ao pé      da ca_____ma
+C7M      F7M             Bm7(b5/9)   Bm7(b5)     E7(b9)            Am(add9)  Am7
+   Sem carinho, sem cober_________ta        No tapete  atrás da por________ta
+     D7(9)     Fm6/Ab  G7(b9)  C7/4(9)   C7/4(b9)     C7(b9)        Fm(7M) Fm/Eb
+Reclamei  baixi________nho     Dei    pra        maldizer   o nosso lar
+D7/4          Ab7M(#11) Ab7(#11)     G7/4(9)
+Pra sujar teu nome,             te humilhar
+          G7/4(b9)      G/F     Ab(add9)/Eb
+E me entregar     a qualquer pre___________ço
+      Ab7M/Eb Fm/Eb      Dm7(b5/9)  Dm7(b5)
+Te adorando        pelo aves________so
+       G7/4(b9)         G/F      Eb7M(#5)  Eb6/Bb
+Pra mostrar    que 'inda   sou tu__________a
+Dm7(b5)          G7/4(b9)         G/F      Eb7M(#5)  Eb7(9) Eb7(b9)
+       Só pra provar     que 'inda   sou tu__________a
+Ab7M          G7/4(b9)         G7(b9)      Cm(7M/9)  Cm7(9)
+    Só pra provar     que 'inda      sou tu__________a
+
+ACORDES:
+
+Fm6/C     - X3X131     Ab(add9)/Eb - XX1314
+Cm7(9)    - X3133X     Ab7M/Eb     - XX1113
+Fm7       - 1X111X     Dm7(b5/9)   - XX0110
+Fm/Eb     - XX1111     C7M         - X32000
+Dm7(b5)   - XX0111     F7M         - 1X221X
+G7(b5)    - 3X342X     Bm7(b5/9)   - X2322X
+G7        - 3X343X     Bm7(b5)     - X2323X
+Ab7M(#11) - 4X553X     E7(b9)      - 07676X
+Ab7(#11)  - 4X453X     Am(add9)    - X07500
+G7/4(9)   - 3X321X     Am7         - 5X555X
+G7(b9)    - 3X310X     D7(9)       - X5455X
+C7/4(9)   - X3333X     Fm6/Ab      - 4X353X
+C7/4(b9)  - X3332X     Eb7M(#5)    - X6543X
+C7(b9)    - X3232X     Eb6/Bb      - 6X554X
+Fm(7M)    - 1XX110     Eb7(9)      - X6566X
+D7/4      - X5553X     Eb7(b9)     - X6565X
+G7/4(b9)  - 3X311X     Ab7M        - 4X554X
+G/F       - 1X000X     Cm(7M/9)    - X3143X
+
+----------------- Acordes -----------------
+Ab(add9)/Eb = X 6 X 8 9 6
+Ab7(#11) = 4 X 4 5 3 X
+Ab7M = 4 X 5 5 4 X
+Ab7M(#11) = 4 X 5 5 3 X
+Ab7M/Eb = X X 1 1 1 3
+Am(add9) = X 0 2 4 1 0
+Am7 = X 0 2 0 1 0
+Bm7(b5) = X 2 3 2 3 X
+Bm7(b5/9) = P7 8 11 7 X X
+C7(b9) = X 3 2 3 2 X
+C7/4(9) = X 3 3 3 3 3
+C7/4(b9) = X 3 3 3 2 X
+C7M = X 3 2 0 0 X
+Cm(7M/9) = X 3 1 4 3 X
+Cm7(9) = X 3 1 3 3 X
+D7(9) = X 5 4 5 5 X
+D7/4 = X X 0 2 1 3
+Dm7(b5) = X X 0 1 1 1
+Dm7(b5/9) = X X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+Eb6/Bb = X X 8 8 8 8
+Eb7(9) = X 6 5 6 6 X
+Eb7(b9) = X 6 5 6 5 X
+Eb7M(#5) = X 6 5 4 3 3
+F7M = 1 X 2 2 1 X
+Fm(7M) = X X 3 5 5 4
+Fm/Eb = X 6 X 5 6 4
+Fm6/Ab = 4 5 3 5 3 X
+Fm6/C = X 3 3 1 3 X
+Fm7 = 1 X 1 1 1 X
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3
+G7(b5) = 3 X 3 4 2 X
+G7(b9) = 3 X 3 1 0 X
+G7/4(9) = 3 X 3 2 1 X
+G7/4(b9) = 3 X 3 1 1 X

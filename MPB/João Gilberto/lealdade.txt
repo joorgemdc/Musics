@@ -1,0 +1,85 @@
+João Gilberto - Lealdade
+
+(intro) Bmaj7 F#7(b13) Bmaj7 F#7(b13)
+
+Bmaj7  Ddim7
+Serei ,
+       C#m7         G#7(13)
+Serei leal contigo
+       C#m7                F#7  C#m7
+Quando eu cansar dos teus bei - jos ,
+Cmaj7  Bmaj7    B6
+Te     digo
+  F#m7           B7     Emaj7
+E tu também liberdade terás
+G#m7           C#7
+Pra quando quiseres bater a porta
+    C#m7         F#7
+Sem olhar para trás
+
+Serei ,
+Serei leal contigo
+Quando eu cansar dos teus beijos ,
+Te digo
+
+E tu também liberdade terás
+Pra quando quiseres bater a porta
+    C#m7       F#7 G#7
+Sem olhar para trás
+
+               C#m7                      C#m7
+Quando os teu labios cansarem dos meus braços
+F#7      Bmaj7                 B6
+Se teu ouvido cansar da minha voz
+            G#m7      C#7          A#dim7   D#7
+Quando teus olhos cansarem dos meus olhos
+          G#m7      C#7
+Não é preciso haver
+          C#m7      F#7(b9)
+falsidade entre nós
+
+Serei ,
+Serei leal contigo
+Quando eu cansar dos teus beijos ,
+Te digo
+E tu também liberdade terás
+Pra quando quiseres bater a porta
+Sem olhar para trás
+
+Se o teu corpo cansar dos meus braços
+Se teu ouvido cansar da minha voz
+Quando teus olhos cansarem dos meus olhos
+Não é preciso haver falsidade entre nós
+Bmaj7  Ddim7
+Serei ,
+       C#m7         G#7(13)
+Serei leal contigo
+       C#m7                F#7  C#m7
+Quando eu cansar dos teus bei - jos ,
+Cmaj7  Bmaj7    B6
+Te     digo
+  F#m7           B7     Emaj7
+E tu também liberdade terás
+G#m7           C#7
+Pra quando quiseres bater a porta
+    C#m7         F#7 C#m7 Cmaj7 Bmaj7
+Sem olhar para trás
+
+----------------- Acordes -----------------
+A#dim7 = X 1 2 0 2 0
+B6 = X 2 4 1 4 X
+B7 = X 2 1 2 0 2
+Bmaj7 = X 2 4 3 4 2
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+Cmaj7 = X 3 2 0 0 X
+D#7 = X 6 5 6 4 X
+Ddim7 = X X 0 1 0 1
+Emaj7 = X X 2 4 4 4
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7(b9) = X X 4 3 5 3
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#7(13) = 4 X 4 5 6 X
+G#m7 = 4 X 4 4 4 X

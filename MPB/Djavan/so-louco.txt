@@ -1,0 +1,52 @@
+Djavan - Só Louco
+
+[Intro] A7M  D7(9)
+
+   A7M  D7(9)  A7M              C#m7  C°(b13)  Cm6
+Só louco         amou como eu amei
+   Bm7  G°  Bm7       Bm/A       G#m7(b5)  C#7 15
+Só louco      quis o bem que eu quis
+G7(9/#11)  F#m7                 B7(9)  Bm7
+              Ah insensato coração      porque
+     F#7(b13)  Bm7  E7(b9/13)  C#m7
+Me fizeste   sofrer              porque de amor
+          Gm6  F#7     B7(9/#11)  B7(9)   E7(4/9)
+Para entender    é preciso     amar  porque
+
+   A7M  D7(9)  A7M              C#m7  C°(b13)  Cm6
+Só louco         amou como eu amei
+   Bm7  G°  Bm7      Bm/A       G#m7(b5)  C#7(b9)  G7(#11)
+Só louco     quis o bem que eu quis
+
+F#m7                 B7(9)  Bm7           F#7(b13)  Bm7
+    Ah insensato coração     porque me fizeste   sofrer
+E7(b9/13)  C#m7                         Gm6  F#7(#11)
+              Porque de amor para entender
+
+     B7(9/#11)  B7(9)   E7(4/9)   A7M  D7(9/#11)  A7M
+É preciso     amar  porque    só louco
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+B7(9) = X 2 1 2 2 X
+B7(9/#11) = X 2 1 2 2 1
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(b9) = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+Cm6 = X 3 X 2 4 3
+C°(b13) = X 3 X 2 4 4
+D7(9) = X 5 4 5 5 X
+D7(9/#11) = X X 0 1 1 0
+E7(4/9) = X X 2 2 3 2
+E7(b9/13) = 12 X X P10 14 10
+F#7 = 2 4 2 3 2 2
+F#7(#11) = 2 X 2 3 1 X
+F#7(b13) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+G#m7(b5) = 4 X 4 4 3 X
+G7(#11) = 3 X 3 4 2 X
+G7(9/#11) = 3 2 3 2 2 X
+Gm6 = 3 X 2 3 3 X
+G° = 3 X 2 3 2 X

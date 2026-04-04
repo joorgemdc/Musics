@@ -1,0 +1,95 @@
+João Bosco - Caminhos Cruzados
+
+(intro) A7+ A7/9/11 A7/9 A9/13 E7M(9)
+        F#msus4 F#msus4/7M F#m7 F#m6
+        F#m7(9)  D#dim  F#m6 Fdim(b13) E7(b13) A7+
+        G6  A7/9/11  A7(9) Esus2(13)
+        E7M(9)  F#msus4 F#msus4/7M F#m7  F#m6
+        F#m7(9)  E7(b9)(13)  F#m6 Fdim(b13)  A7(b13)/E
+
+A7+ A7/9/11      A7/9      A9/13             D6(9)/A
+  Quando um coração que está cansado de sofrer
+A7+    A7/9/11    A7/9         A9/13       F9 F(b5)  F7+(b5) F6
+ Encontra um coração também cansado de sofrer
+A7+         G#7(b13)  Em6/G  F#7(b13)        F#m6            Fdim(b13)  E7(b13) A7+
+É tempo de se pensar,     que o amor pode de repente chegar
+
+A7+    A7/9/11  A7/9    A9/13              D6(9)/A
+Quando existe alguém que tem saudade de alguém
+A7+    A7/9/11 A7/9 A9/13   G#m7 C#7(b9) C#7
+E esse outro alguém não entendeu
+D7+    G#7(b13)    C#7M(9)     F#7 F#7(b13)
+Deixa esse novo amor chegar
+F#m6         Gm6          F#m6           Fdim(b13)  E7(b13) A7+
+Mesmo que depois seja imprescindível chorar
+A7+       A7/9/11  A7/9       A9/13      D6(9)/A
+Que tolo fui eu que em vão tentei raciocinar
+A7+     A7/9/11      G#7/4            Dm6
+Nas coisas do amor que ninguém pode explicar
+ D7M(9)    G#7/13     G7(b5)   F#7(b13)
+Vem nos dois, vamos tentar
+F#m6             Fdim(b13)  E7(b9)(13)   A7+
+só um novo amor pode a saudade apagar , hmmm mmm
+
+(vocalização)
+A7+  Fm(#5)/C#  A7+ Fm(#5)/C# A7+ A7/9/11 A7/9 A9/13
+D6(9)/A  A7+ A7/9/11 A7/9 G#m7 C#7(b9) C#7
+
+D7+  G#7(b13)    C#7M(9)   F#7(b13)
+Deixa esse novo amor chegar
+F#m6       Gm6         F#m6             Fdim(b13)  E7(b13) A7+
+Mesmo que depois seja imprescindível chorar
+A7+       A7/9/11  A7/9       A9/13      D6(9)/A
+Que tolo fui eu que em vão tentei raciocinar
+
+A7+     A7/9/11      G#7/4            Dm6
+Nas coisas do amor que ninguém pode explicar
+ D7M(9)    G#7(b13)     Em/G   F#7(b13)
+Vem nos dois, vamos tentar
+F#m6             Fdim(b13)  E7(b9)(13)  A7+
+so um novo amor pode a saudade apagar , hmmm mmm
+
+A7+  Fm(#5)/C#  A7+ Fm(#5)/C#   A7+
+yeah yeah, lulaa uuu...)
+
+Fm(#5)/C# - x41111
+
+
+----------------- Acordes -----------------
+A7(9) = 5 X 5 4 2 X
+A7+ = X 0 2 1 2 0
+A7/9 = 5 X 5 4 2 X
+A7/9/11 = 5 X 5 4 3 X
+A9/13 = 5 4 4 4 X X
+C#7 = X 4 3 4 2 X
+C#7(b9) = X 4 3 4 3 X
+C#7M(9) = X 4 3 5 4 X
+D#dim = X X 1 2 1 2
+D7+ = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+Dm6 = X 5 X 4 6 5
+E7(b13) = 0 X 0 1 1 0
+E7(b9)(13) = 12 X X P10 14 10
+E7M(9) = X 7 6 8 7 X
+Em/G = 3 X 2 4 5 X
+Em6/G = 3 4 2 4 2 X
+Esus2(13) = X 7 6 6 7 7
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+F#msus4 = 2 2 4 2 2 2
+F#msus4/7M = 2 2 3 2 2 2
+F(b5) = 1 2 3 2 1 1
+F6 = 1 X 0 2 1 X
+F7+(b5) = 1 X X 2 0 0
+F9 = 1 3 5 2 1 1
+Fdim(b13) = 1 X 0 1 2 X
+G#7(b13) = 4 X 4 5 5 4
+G#7/13 = 4 X 4 5 6 X
+G#7/4 = 4 6 4 6 4 X
+G#m7 = 4 X 4 4 4 X
+G6 = 3 X 2 4 3 X
+G7(b5) = 3 X 3 4 2 X
+Gm6 = 3 X 2 3 3 X

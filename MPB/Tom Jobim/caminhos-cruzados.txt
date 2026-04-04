@@ -1,0 +1,59 @@
+Tom Jobim - Caminhos Cruzados
+
+A7+              A7              D6(9)     Dm6(9)
+   Quando um coração que está cansado de sofrer
+A7+                A7            D6(9)     Dm6(9)
+   Encontra um coração também cansado de sofrer
+A7+        G#7(5+)   Em6/G    F#7      G6       F#7(5+)      F#m6          E6/A   E5+/A
+   É tempo de se  pensar,       Que o amor         pode de repente chegar
+
+A7+                A7              D6(9)     Dm6(9)
+   Quando existe alguém que tem saudade de alguém
+A7+                A7           G#m7          Db7(9-)
+   E esse outro alguém não entender
+D7+           G#7(13)      Db7M(9) F#7(5+)      F#m6    Gm6              F#m6          E6/A   E5+/A
+   Deixe esse novo amor chegar,     Mesmo que depois       seja imprescindível chorar
+
+A7+             A7               D6(9)      Dm6(9)
+   Que tolo fui eu que em vão tentei raciocinar
+A7+               A7              D#m7(5-)       Dm6
+   Nas coisas do amor que ninguém pode      explicar
+D6(9)       D#°          Em6/G      F#7      F#m6     E6(9-)
+   Vem nós dois vamos tentar,    Só um novo amor
+             A7+             D7/9             A7+
+   Pode a saudade apagar
+
+
+
+Tablatura da Passagem:
+
+    E6/A                      E5+/A
+E|--------0------|---------0-----------
+B|-----2-----2---|-------1-------------
+G|----2----------|------2--------------
+D|---0-----------|-----0---------------
+A|-0-------------|-0-------------------
+E|---------------|---------------------
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+D#m7(5-) = X X 1 2 2 2
+D#° = X X 1 2 1 2
+D6(9) = X 5 4 2 0 0
+D7+ = X X 0 2 2 2
+D7/9 = X 5 4 5 5 X
+Db7(9-) = X 4 3 4 3 X
+Db7M(9) = X 4 3 5 4 X
+Dm6 = X 5 X 4 6 5
+Dm6(9) = X 5 3 4 5 X
+E6(9-) = 0 X 3 1 2 0
+Em6/G = 3 4 2 4 2 X
+F#7 = 2 4 2 3 2 2
+F#7(5+) = 2 X 2 3 3 2
+F#m6 = 2 X 1 2 2 X
+G#7(13) = 4 X 4 5 6 X
+G#7(5+) = 4 X 4 5 5 4
+G#m7 = 4 X 4 4 4 X
+G6 = 3 X 2 4 3 X
+Gm6 = 3 X 2 3 3 X

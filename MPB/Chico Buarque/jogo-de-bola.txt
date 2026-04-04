@@ -1,0 +1,102 @@
+Chico Buarque - Jogo de Bola
+
+[Intro] F7M  F7(9)  Bb7M  Bbm6
+
+        Fm7/Eb    Dm7(b5)
+Há que levar um drible
+C#7M          Fm6/C            Bm7   Bm6
+Por entre as pernas sem perder a linha
+Bb6      D7(9)/A
+No jogo de bola
+          F7M            A7/E      Dm7
+Há que aturar uma embaixadinha, deveras
+      F7/C           Bb6         G7/B
+Como quem tira o chapéu para a mulher
+Dm7/C         C#°
+Que lhe deu o fora
+         Fm7/Eb    Dm7(b5)
+Há que puxar um samba
+C#7M     Fm6/C       Bm7   Bm6  Bb6    D7(9)/A
+Sacar o samba lá do labirinto  da tua cachola
+         F7M    A7/E
+E dançar o miudinho
+        Dm7           F7/C
+Feliz como um pinto no lixo
+
+      Bb6            G7/B
+Mesmo quando o bicho pega
+            Dm7/C         C#°
+Mesmo quando já passou da hora
+D7M          C#°               D7M   D7(9)
+Salve o futebol, salve a filosofia
+G7M                           Gm6
+De botequim, salve o jogar bonito
+              F#m7        B7(b9)
+Não ganhar no grito a simpatia
+        Am6/C
+Quase amor
+            B7(+5)      E7(9) E7(9)/B  Em7(9)
+Da guria que antes do apito              final
+               A7(13)
+Vai sem aviso embora
+D7M         D7M(+5)       D7M   D7    G7M
+Vivas a galera, vivas às marias      chuteira
+         F#m6     B7(9)    Em7
+Cujos corações incandescias
+     B7(b9)                   C7M
+Outrora, quando em priscas eras
+      C#m7(b5)
+Um Puskás eras
+F7M/C      F7/C     Bb7M         Bbm6
+A fera das feras da esfera, mas agora
+            Fm7/Eb    Dm7(b5)
+Há que aplaudir o toque
+C#7M    Fm6/C            Bm7   Bm6
+O tique-taque, o pique, o breque, o lance
+Bb6           D7(9)/A
+De craque do centroavante
+  F7M           A7/E         Dm7
+E ver rolar a pelota nos pés de um moleque
+ F7/C           Bb6          G7/B
+É ver o próprio tempo num relance
+Dm7/C           C#°
+E sorrir por dentro
+
+[Final]F7M  F7(9)  Bb7M  Bbm6
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7/E = 0 X 2 2 2 3
+B7(+5) = X 2 X 2 4 3
+B7(9) = X 2 1 2 2 X
+B7(b9) = X 2 1 2 1 X
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+Bbm6 = 6 X 5 6 6 X
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C#7M = X 4 6 5 6 4
+C#m7(b5) = X 4 5 4 5 X
+C#° = X 4 5 3 5 3
+C6 = 8 X 7 9 8 X
+C7M = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+Dm7(b5) = X X 0 1 1 1
+Dm7/C = X 3 0 2 1 1
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F7(9) = X X 3 2 4 3
+F7/C = X 3 3 2 4 X
+F7M = 1 X 2 2 1 X
+F7M/C = X 3 3 2 5 X
+Fm6/C = X 3 3 1 3 X
+Fm7/Eb = X X 1 1 4 1
+G7/B = X 2 3 0 3 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

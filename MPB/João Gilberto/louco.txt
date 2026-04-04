@@ -1,0 +1,77 @@
+João Gilberto - Louco
+
+ [Intro]  C7M  A9
+
+E|---------0-----------------------------|
+B|-0-0-0---0-----2-----------------------|
+G|---------------0-----------------------|
+D|-2-2-2---------------------------------|
+A|-3-3-3---0---0-0-0---------------------|
+E|---------------------------------------|
+
+[Primeira Parte]
+
+ D6/F#  D7M/F#                   Dm7M/F
+Louco,         pelas ruas ele andava
+                Em7  A7  G/A
+E o coitado chora___va
+         A7(9-)              D7M  F#m7(5-)
+Transformou-se até num vagabundo
+   F#m7(11)      E7(9)
+Para ele a vida não valia nada
+Fº              F#m7     F#m6
+  Para ele a mulher amada
+
+Em7  A7(9-)      D6
+Era         seu mundo
+
+ D6/F#  D7M/F#                   Dm7M/F
+Louco,         pelas ruas ele andava
+                Em7  A7  G/A
+E o coitado chora___va
+         A7(9-)              D7M  F#m7(5-)
+Transformou-se até num vagabundo
+   F#m7(11)      E7(9)
+Para ele a vida não valia nada
+Fº              F#m7     F#m6
+  Para ele a mulher amada
+Em7  A7(9-)      D6
+Era         seu mundo
+
+[Segunda Parte]
+
+Fº    Em7            A6(9)     D7M(9)  Fº
+  Conselhos  eu lhe dei para ele esquecer
+        Em7    A6(9)  F#m7  F#m6
+Aquele falso amor
+     Em7      A7(13-)        F#m7      F#m6
+Ele se convenceu   que ela nunca mereceu
+         E6  E7(13-)  E7
+Nem reparou
+      E7(9)          A6(9)
+Sua grande dor  que louco
+
+----------------- Acordes -----------------
+A6(9) = 5 4 4 4 X X
+A7 = X 0 2 0 2 0
+A7(13-) = X 0 X 0 2 1
+A7(9-) = 5 X 5 3 2 X
+A9 = X 0 2 2 0 0
+C7M = X 3 2 0 0 X
+D6 = X 5 4 2 0 X
+D6/F# = 2 X 0 2 0 X
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+D7M/F# = 2 X 0 2 2 2
+Dm7M/F = 1 4 X 2 3 1
+E6 = X X 2 4 2 4
+E7 = 0 X 0 0 1 0
+E7(13-) = 0 X 0 1 1 0
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(5-) = 2 X 2 2 1 X
+Fº = X X 3 4 3 4
+G/A = 5 X 5 4 3 X

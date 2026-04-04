@@ -1,0 +1,57 @@
+Milton Nascimento - Um Gosto de Sol
+
+Intro: D
+C          G
+Alguém que vi de passagem
+Gm                 Fm
+Numa cidade estrangeira
+C                        G#
+Lembrou os sonhos que eu tinha
+Am                  Ab(#5)
+e esqueci sobre a mesa
+C                    D7  Dm(b5)
+Como uma pera se esquece
+Dm(b5)            C7(4)
+Dormindo numa fruteira
+C                 D7
+Como adormece o rio
+Dm(b5)                  C6
+Sonhando na carne da pera
+C                 Dm(b5)
+O sol na sombra se esquece Am
+Am             C7(4)
+Dormindo numa caldeira
+
+C               G
+Gm                Fm
+Numa cidade estrangeira
+C                     G#
+Lembrou o riso que eu tinha
+Am                   Ab(#5)
+e esqueci entre os dentes
+C                    D7
+Como uma pera se esquece
+Dm(b5)                C7(4)
+Sonhando numa fruteira
+
+(Dm Dm/C Dm/C Dm/B Ab Gm/F Gm/E Gm/D)
+
+----------------- Acordes -----------------
+Ab = 4 3 1 1 1 4
+Ab(#5) = 4 7 6 5 4 X
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C7(4) = X 3 3 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+Dm(b5) = X X 0 1 3 1
+Dm/B = X 2 X 2 3 1
+Dm/C = X 3 X 2 3 1
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+Gm = 3 5 5 3 3 3
+Gm/E = 0 5 5 3 3 3
+Gm/F = X X 3 3 3 3

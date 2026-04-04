@@ -1,0 +1,55 @@
+João Gilberto - Desde Que o Samba É Samba
+
+Int.: A7+ E5+/7
+
+   A7+     E7    A7+ A7/9
+A tristeza é senhora
+ D7+                 G7/9     C#7/13 F#7/9
+Desde que o samba é samba é assim
+    Bm7                  E7     F#m7
+A lágrima clara sobre a pele escura
+   B7/9                     E7
+À noite a chuva que cai lá fora
+   A7+  E7  A7+  A7/9
+Solidão apavora
+ D7+              G7/9     C#7/13 F#7/9
+Tudo demorando em ser tão ruim
+      Bm7           E7/13      F#m7          B7/9
+Mas alguma coisa acontece no quando agora em mim
+  Bm7                 E7       A7+  E7
+Cantando eu mando a tristeza embora
+   Bm7             C#7
+O samba ainda vai nascer
+   F#m7            G#7
+O samba ainda não chegou
+
+   C#m7           F#7/9
+O samba não vai morrer
+        F#m7            B7/9
+Veja, o dia ainda não raiou
+   Bm7             C#7
+O samba é pai do prazer
+   F#m7            G#7/9-
+O samba é filho da dor
+   C#m7           F#7     B7/13 B5+/6 Bm7
+O grande poder transformador
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+A7/9 = 5 X 5 4 2 X
+B5+/6 = X 2 X 1 4 3
+B7/13 = X 2 X 2 4 4
+B7/9 = X 2 1 2 2 X
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7/13 = X 4 X 4 6 6
+C#m7 = X 4 6 4 5 4
+D7+ = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+E7/13 = 0 X 0 1 2 0
+F#7 = 2 4 2 3 2 2
+F#7/9 = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#7/9- = 4 X 4 2 1 X
+G7/9 = 3 X 3 2 0 X

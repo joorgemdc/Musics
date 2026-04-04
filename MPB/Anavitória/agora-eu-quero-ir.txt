@@ -1,0 +1,136 @@
+﻿Anavitória - Agora Eu Quero Ir
+
+Capo Casa 3
+
+[Intro] C  G4(6)/B  Em7(13)  F7M
+        C/G  G4(6)/B  Em7(13)  F7M
+
+   C          G4(6)/B    Em7(13)  F7M
+E|----------------------------------------x-|
+B|--------------------1-----------1-------x-|
+G|-0----0-----0---0----------0----2---0---0-|
+D|------------------------------------------|
+A|-3--x---3---2-x---2------x---2--3-x---0---|
+E|----x---------x--------0-x--------x-------|
+
+[Primeira Parte]
+
+C/G                    G4(6)/B
+Encontrei descanso em você
+       Em7(13)     F7M
+Me arquitetei, me desmontei
+C/G                   G4(6)/B
+Enxerguei verdade em você
+      Em7(13)    F7M
+Me encaixei, verdade eu dei
+
+ C/G                    G4(6)/B
+Fui inteira e só pra você
+    Em7(13)      F7M
+Eu confiei, nem despertei
+   C/G                    G4(6)/B
+Silenciei meus olhos por você
+   Em7(13)     F7M      Fm
+Me atirei, precipitei agora
+
+[Refrão]
+
+           C/G     G4(6)/B
+Agora eu quero ir
+               F7M
+Pra me reconhecer de volta
+         C/G       G4(6)/B
+Pra me reapreender
+                   F7M
+E me apreender de novo
+           Am         Em
+Quero não desmanchar
+                   F7M
+Com teu sorriso bobo
+          Fm
+Quero me refazer
+
+Longe de você
+
+( C/G  G4(6)/B  Em7(13)  F7M )
+
+[Repete a Primeira Parte]
+
+ C/G                     G4(6)/B
+Fiz de mim descanso pra você
+    Em7(13)      F7M
+Te decorei, te precisei
+ C/G                  G4(6)/B
+Tanto que esqueci de me querer
+    Em7(13)    F7M             Fm
+Testemunhei o fim do que era agora
+
+[Refrão]
+
+           C/G     G4(6)/B
+Agora eu quero ir
+               F7M
+Pra me reconhecer de volta
+         C/G       G4(6)/B
+Pra me reapreender
+                   F7M
+E me apreender de novo
+           Am         Em
+Quero não desmanchar
+                   F7M
+Com teu sorriso bobo
+          Fm     G11(13)
+Quero me refazer
+
+[Segunda Parte]
+
+Dm              D9    Dm
+Eu que sempre quis acreditar
+     Am                        G11(13)
+Que sempre acreditei que tudo volta
+ F7M
+Nem me perguntei como voltar
+          Fm
+Nem por quê
+
+[Refrão Final]
+
+           C/G     G4(6)/B    F7M
+Agora eu quero ir,      quero ir
+
+           C/G     G4(6)/B
+Agora eu quero ir
+               F7M
+Pra me reconhecer de volta
+         C/G       G4(6)/B
+Pra me reapreender
+                   F7M
+E me apreender de novo
+           Am         Em
+Quero não desmanchar
+                   F7M
+Com teu sorriso bobo
+           Am         Em
+Quero não desmanchar
+                   F7M
+Com teu sorriso bobo
+           Am        G11(13)  F7M
+Quero não desmanchar
+          Fm
+Quero me refazer
+
+Longe de você
+
+----------------- Acordes -----------------
+Capotraste na 3ª casa
+Am*  = X 0 2 2 1 0 - (*Cm na forma de Am)
+C*  = X 3 2 0 1 0 - (*D# na forma de C)
+C/G*  = 3 3 2 X 1 X - (*D#/A# na forma de C/G)
+D9*  = X X 0 2 3 0 - (*F9 na forma de D9)
+Dm*  = X X 0 2 3 1 - (*Fm na forma de Dm)
+Em*  = 0 2 2 0 0 0 - (*Gm na forma de Em)
+Em7(13)*  = 0 2 0 0 1 0 - (*Gm7(13) na forma de Em7(13))
+F7M*  = 1 3 3 2 1 0 - (*G#7M na forma de F7M)
+Fm*  = 1 3 3 1 1 1 - (*G#m na forma de Fm)
+G11(13)*  = 3 0 0 0 1 0 - (*A#11(13) na forma de G11(13))
+G4(6)/B*  = X 2 0 0 1 0 - (*A#4(6)/D na forma de G4(6)/B)

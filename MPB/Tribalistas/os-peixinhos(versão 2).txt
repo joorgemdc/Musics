@@ -1,0 +1,175 @@
+﻿Tribalistas - Os Peixinhos
+
+Afinação Um Tom Abaixo
+
+[Intro]  F Fm C C7 F Fm
+
+   F7M                      C    C7     F7M
+D|-0----------0------------0--0---------0-----------|
+A|-1-0-1-0-1--1-0-1-0-1----1--1--1--1---1-0-1-0-1---|
+F|-2--------2-2--------2---0-0---3--3---2--------2--| 
+C|-3----------3------------------2-2----3-----------|
+G|-------------------------3-----3------------------|
+D|--------------------------------------------------|
+
+[Primeira Parte]
+
+    C          G/B   Am           Dm            G
+D|-0---0-0-0---3----0----0-0-0-0----1--1-1-1-1---3--3-3-3-3-3-3|
+A|-1---1-1-1---3----1----1-1-1-1----3--3-3-3-3---3--3-3-3-3-3-3|
+F|-0--0-0-0----0----2---2-2-2--2----2-2-2-2-2----0-0-0-0-0-0-0-|
+C|----------------------------------0--------------------------|
+G|-3-----------2----0----------0-----------------3-------------|
+D|-------------------------------------------------------------|
+
+C             G/B
+Os peixinhos são
+
+  Am
+Flores sem o chão
+ Dm
+Nadam, boiam, fazem bolhas
+G
+E bolinhas de sabão
+ C           G/B
+Como lindos são
+ Am
+Coloridos tão
+Dm
+Espirrando gotas
+      G
+Como notas na canção
+
+[Segunda Parte]
+
+   Am              D                G
+D|-0---0---0---0----2---2---2---2----------------------|
+A|-1---1---1---1----3---3---3---3----------------------|
+F|-2-2-2-2-2-2-2----2-2-2-2-2-2-2----------------------|
+C|------------------0---0---0---0----------------------|
+G|-0---0---0---0---------------------------------------|
+D|-----------------------------------------------------|
+
+Am                           D
+Nas vitrines máscaras de aquários
+Dos mergulhadores
+ Am                           D
+Furtam do arco-íris tantas cores
+Am
+Ultravioleta, infravermelho
+      D
+Degradée e fúcsia
+ Am                       G
+Todas as modulações do espectro
+
+C             G/B
+Os peixinhos são
+  Am
+Flores sem o chão
+ Dm
+Nadam, boiam, fazem bolhas
+G
+E bolinhas de sabão
+ C           G/B
+Como lindos são
+ Am
+Coloridos tão
+Dm
+Espirrando gotas
+      G
+Como notas na canção
+
+ Am                      D
+Nas escamas brilha espelhada
+Toda a luz do sol
+ Am                             D
+Verde, azul, vermelho, ouro e prata
+ Am
+Segue junto com o seu cardume
+  D
+Pra enganar o anzol
+Am                   G
+Aquarela colorindo a água
+
+( C G/B Am Dm G )
+( C G/B Am Dm G )
+
+Am                           D
+Nas vitrines máscaras de aquários
+Dos mergulhadores
+ Am                           D
+Furtam do arco-íris tantas cores
+Am
+Ultravioleta, infravermelho
+      D
+Degradée e fúcsia
+ Am                       G
+Todas as modulações do espectro
+
+C             G/B
+Os peixinhos são
+  Am
+Flores sem o chão
+ Dm
+Nadam, boiam, fazem bolhas
+G
+E bolinhas de sabão
+ C           G/B
+Como lindos são
+ Am
+Coloridos tão
+Dm
+Espirrando gotas
+      G
+Como notas na canção
+
+Am                      D
+Nas escamas brilha espelhada
+Toda a luz do sol
+ Am                             D
+Verde, azul, vermelho, ouro e prata
+ Am
+Segue junto com o seu cardume
+  D
+Pra enganar o anzol
+Am                   G
+Aquarela colorindo a água
+
+[Terceira Parte]
+
+   C
+D|-0---0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0---|
+A|-1---1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1---|
+F|-0--0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0----|
+C|---------------------------------------------|
+G|-3-------------------------------------------|
+D|---------------------------------------------|
+
+   F7M                        C
+D|-0--0-0-0-0-0-0-0-0-0--0------0-|
+A|-1--1-1-1-1-1-1-1-1-1--1-----1--|
+F|-2-2-2-2-2-2-2-2-2-2---2----0---| 
+C|-3---------------------3--------|
+G|---------------------------3----|
+D|--------------------------------|
+
+C
+Os peixinhos são
+C
+Os peixinhos são
+F            Fm
+Os peixinhos são
+
+( C )
+
+----------------- Acordes -----------------
+Am*  = X 0 2 2 1 0 - (*Gm na forma de Am)
+C*  = X 3 2 0 1 0 - (*A# na forma de C)
+C7*  = X 3 2 3 1 X - (*A#7 na forma de C7)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+Dm*  = X X 0 2 3 1 - (*Cm na forma de Dm)
+F*  = 1 3 3 2 1 1 - (*D# na forma de F)
+F7M*  = 1 X 2 2 1 X - (*D#7M na forma de F7M)
+Fm*  = 1 3 3 1 1 1 - (*D#m na forma de Fm)
+G*  = 3 2 0 0 0 3 - (*F na forma de G)
+G/B*  = X 2 0 0 3 3 - (*F/A na forma de G/B)

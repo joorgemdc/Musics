@@ -1,0 +1,96 @@
+Belchior - A Palo Seco
+
+[Intro] G  Bm7  C  D7
+
+E|-7h9-9-9-7-9-7-9/11-9-9-8-7---|
+B|------------------------------|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+E|------------------7/9-7-------|
+B|-8-8/9-9-9-8-9-8--------------|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+E|-7h9-9-9-7-9-7-9/11-9-9-9-8-7-|
+B|------------------------------|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+
+E|-9/13-13-13-12-13-12-13/16-15-|
+B|------------------------------|
+G|------------------------------|
+D|------------------------------|
+A|------------------------------|
+E|------------------------------|
+
+ G                  Bm7
+Se você vier me perguntar por onde andei
+    C              G/B   D
+No tempo em que você sonhava
+ G                    Bm7
+De olhos abertos lhe direi
+  C                   D7
+Amigo eu me desesperava
+ Em               A         Am
+Sei que assim falando pensas
+               D            D/C  G  G/B
+Que esse desespero é moda em    76
+
+    C      G/B          A
+Mas ando mesmo descontente
+ Am         D                   G     G/B
+Desesperadamente eu grito em português
+    C      G/B       A7
+Mas ando mesmo descontente
+Am           D                      G   C9  G
+Desesperadamente eu grito em português
+
+G         Bm7                C  G/B
+Tenho 25 anos de sonho e de sangue
+        D
+E  de América do Sul
+     G              Bm7
+Por força deste destino
+               C
+Um tango argentino
+            D
+Me vai bem melhor que um blues
+ Em              A7
+Sei que assim falando pensas
+              D             D/C  G  G/B
+Que esse desespero é moda em    76
+
+       C          G/B         A              Am
+E eu quero é que esse canto torto feito faca
+ D                  G  G/B
+Corte a carne de vocês
+       C          G/B         A              Am
+E eu quero é que esse canto torto feito faca
+ D                  G  C9
+Corte a carne de vocês
+
+( C/D  D  Em/D  D )
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C/D = X X 0 0 1 0
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D7 = X X 0 2 1 2
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

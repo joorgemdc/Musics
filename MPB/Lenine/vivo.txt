@@ -1,0 +1,76 @@
+Lenine - Vivo
+
+Intro: A7+/E  A9(6)  C#m6/E  A9 (2x)
+
+A7+/E          Am/D#        C#m7  A9
+Precário, provisório, perecível;
+A7+/E          Am/D#        C#m7  C#m7(13)
+Falível, transitório, transitivo;
+F#m7       G#m7       C#m7
+Efêmero, fugaz e passageiro
+            A9                      (Intro)
+Eis aqui um vivo, eis aqui um vivo!
+
+A7+/E          Am/D#        C#m7  A9
+Impuro, imperfeito, impermanente;
+A7+/E          Am/D#        C#m7  C#m7(13)
+Incerto, incompleto, inconstante;
+F#m7       G#m7       C#m7
+Instável, variável, defectivo
+            A9
+Eis aqui um vivo, eis aqui...
+
+Badd11/E    Cº
+      E apesar...
+    C#m7          C#m7(13)
+Do tráfico, do tráfego equívoco;
+    A9/C#              C#m7(13)
+Do tóxico, do trânsito nocivo;
+   F#m7                     A/E
+Da droga, do indigesto digestivo;
+   Am/D#                        G#7/5+
+Do câncer vil, do servo e do servil;
+   C#m7          C#m7(13)
+Da mente o mal do Ente coletivo;
+   F#m7                     A/E
+Do sangue o mal do soro positivo;
+   Am/D#               G#7
+E apesar dessas e outras...
+   C#m7          E5/B
+O vivo afirma firme afirmativo
+       A9           Am/D#           A7+/E  A9(6)
+O que mais vale a pena é estar vivo!
+
+        C#m6/E  A9
+É estar vivo
+A7+/E  A9(6)
+Vivo
+        C#m6/E  A9
+É estar vivo
+
+A7+/E          Am/D#        C#m7  A9
+Não feito, não perfeito, não completo;
+A7+/E          Am/D#        C#m7  C#m7(13)
+Não satisfeito nunca, não contente;
+F#m7       G#m7       C#m7
+Não acabado, não definitivo
+            A9                    INTRO (2X)
+Eis aqui um vivo, eis-me aqui.
+
+
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A7+/E = X X 2 2 2 4
+A9 = X 0 2 2 0 0
+A9(6) = 5 4 4 4 X X
+A9/C# = X 4 2 2 0 X
+C#m6/E = X X 2 3 2 4
+C#m7 = X 4 6 4 5 4
+C#m7(13) = X 4 X 4 5 6
+Cº = X 3 4 2 4 2
+E5/B = 7 X 9 9 0 0
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#7/5+ = 4 X 4 5 5 4
+G#m7 = 4 X 4 4 4 X

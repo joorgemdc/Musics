@@ -1,0 +1,134 @@
+Chico Buarque - Renata Maria
+
+( Ivan Lins / Chico Buarque )
+
+
+[Intro:] E7M(#11) E7M(9)
+
+E7M               E6            Am7M(9)/E       Am6(9)/E
+Ela, era ela, era ela no centro da tela daquela manhã
+Ebm7(b5)          Ab7(13)(b9) Ab7(b13)(b9)  Dbm7M Dbm7 F#7(9)
+Tudo o que não era    ela se       des...vaneceu
+B7(9)(11) B7(9)(#11)      B7     B7(b9)  E7M(#11) E7M(9)
+Cristo,    montanhas, florestas, acácias, ipês
+ E7M                  E6             Am7M(9)/E          Am6(9)/E
+Pranchas coladas na crista das ondas, as ondas suspensas no ar
+Ebm7(b5)         Ab7(13)(b9) Ab7(b13)(b9) Dbm7M Dbm7 F#7(9)
+Pássaros cristali...zados no    branco do céu
+B7(9)(11) B7(9)(#11)    B7     B7(b9)  E7M(#11) E7M(9)
+E eu,      atolado na areia, perdia meus pés
+
+Bbm7(11)   Eb7(b9) Abm7M             Abm6
+Músicas imaginei,   mas o assombro gelou
+Bm9     Bm9(#5)   Bm6(9)        E7/B A7M(9)/E Am7M(9) Am6(9)
+Na minha boca as palavras que eu ia falar
+
+E/B              Fº/B
+Nem uma brisa soprou
+B7(9)(11) B7(9)(#11)   B7 B7(b9) F7M(#11)
+Enquanto     Renata Maria saía do   mar
+
+A7M               A6           Dm7M(9)/A         Dm6(9)/A
+Dia após dia na praia com olhos vazados de já não a ver
+Abm7(b5)         Db7(13)(b9) Db7(b13)(b9) F#m7M   F#m7 B7(9)
+Quieto como um pescador      a juntar      seus anzóis
+E7(9)(11) Em7(11)     E7     E7(b9)   A7M(#11) A7M(9)
+Ou como     algum salva-vidas no banco dos réus
+A7M               A6           Dm7M(9)/A         Dm6(9)/A
+Noite na praia deserta, deserta, deserta daquela mulher
+Abm7(b5)      Db7(13)(b9) Db7(b13)(b9) F#m7M F#m7 B7(9)
+Praia repleta de rastros     em mil direções
+E7(9)(11) Em7(11)    E7      E7(b9) A7M(#11) A7M(9)
+Penso que     todos os passos perdidos são meus
+
+Ebm7(11)   Ab7(b9)    Dbm7M             Dbm6
+Eu já sabia, meu Deus, tão fulgurante visão
+Em9      Em9(#5)  Em6(9)    A7/E D7M(9)/A Dm7M(9) Dm6(9)
+Não se produz duas vezes no mesmo lugar
+A/E               Bbº/E
+Mas que danado fui eu
+E7(9)(11) Em7(11)  E7 E7(b9) A7M(#11) A7M(9)
+Enquanto    Renata Maria saía do   mar
+
+
+ACORDES:
+========
+
+Em9(#5)= 022012
+Em6(9)= 022022
+D7M(9)/A= 5x465x
+Am7M(9)/E= x7x597
+Am6(9)/E= x7x577
+Dm7M(9)/A= 5x365x
+Dm6(9)/A= 5x345x
+Em7(11)= x7778x
+Ab7(13)(b9)= 4x426x
+Ab7(b13)(b9)= 4x425x
+B7(9)(#11)= 7x766x
+E7M(#11)= 076896
+Bm9(#5)= xx9789
+Bm6(9)= xx9799
+Fº/B= 789797
+F7M(#11)= 1x2200
+A7M(#11)= 5x664x
+Bbº/E= 012010
+Db7(13)(b9)= x43436
+Db7(b13)(b9)= x43435
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A6 = 5 X 4 6 5 X
+A7/E = 0 X 2 2 2 3
+A7M = X 0 2 1 2 0
+A7M(#11) = 5 X 6 6 4 X
+A7M(9) = X 0 2 1 0 0
+A7M(9)/E = 12 11 9 9 10 9
+Ab7(13)(b9) = 4 6 4 P5 6 5
+Ab7(b13)(b9) = 4 X 4 5 5 5
+Ab7(b9) = 4 X 4 2 1 X
+Abm6 = 4 X 3 4 4 X
+Abm7(b5) = 4 X 4 4 3 X
+Abm7M = X X 6 8 8 7
+Am6(9) = X 0 4 5 0 0
+Am7M(9) = 5 3 6 4 X X
+Am7M(9)/E = X 7 X 5 9 7
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+B7(9)(#11) = X 2 1 2 2 1
+B7(9)(11) = X 2 2 2 2 2
+B7(b9) = X 2 1 2 1 X
+Bbm7(11) = 6 X 6 6 4 X
+Bbº/E = X 7 5 6 5 X
+Bm6(9) = X 2 0 1 2 X
+Bm9 = X 2 4 6 3 2
+Bm9(#5) = 7 X 7 6 3 3
+D7M(9)/A = 5 4 2 2 3 2
+Db7(13)(b9) = 9 11 9 P10 11 10
+Db7(b13)(b9) = X 4 3 4 3 5
+Dbm6 = X 4 X 3 5 4
+Dbm7 = X 4 6 4 5 4
+Dbm7M = X 4 6 5 5 4
+Dm6(9) = X 5 3 4 5 X
+Dm7M(9) = X 5 3 6 5 X
+Dm7M(9)/A = 5 X 3 6 5 X
+E/B = X 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+E7(9)(11) = X X 2 2 3 2
+E7(b9) = X X 2 1 3 1
+E7/B = X 2 2 1 3 X
+E7M = X X 2 4 4 4
+E7M(#11) = 0 1 1 1 X X
+E7M(9) = X 7 6 8 7 X
+Eb7(b9) = X 6 5 6 5 X
+Ebm7(11) = X 6 6 6 7 6
+Ebm7(b5) = X X 1 2 2 2
+Em6(9) = X X 2 0 2 2
+Em7(11) = X 7 X 7 8 5
+Em9 = 0 2 4 0 0 0
+Em9(#5) = 8 X 0 11 8 8
+F#7(9) = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X
+F#m7M = X X 4 6 6 5
+F7M(#11) = 1 X X 2 0 0
+Fº/B = X 2 0 1 0 X

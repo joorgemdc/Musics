@@ -1,0 +1,89 @@
+Djavan - Vida Real
+
+[Intro]  C7M(9)
+
+
+F#m7(b5)
+         Quem sabe assim
+B7(b9)               Em7(b5)
+       Você vai aprender     que amar
+A7(#5)                   Dm7(b5)           G7(4/9)
+       Não é brincar de amor      e sofrer
+    G7(b9)          C7M(#5)    Gm7(11)  C7(#9/#11)
+Faz parte    do querer
+
+F#m7(b5)
+         Mais uma vez
+B7(b9)               Em7(b5)
+       Você só quis amar      à você
+A7(#5)               Dm7(b5)        G7(4/9)
+       E agora compreende    porque
+ G7(b9)        C7M(#5)       C7M(9)
+Amar      é perigoso   demais
+
+
+
+         D7M
+A vida ensina
+B7(b9)              C#m7          F#7(b9)
+       Que não se aprende a viver
+        Bm7   E7(9)        Am7     D7(9)
+Senão vivendo      entre o não e o sim
+      G7M               F#m7(b5)
+Agora chora e a quem querias
+       B7(b9)       E7M
+Não te ama   e foi embora
+
+Gm7(11)     C7(#9/#11)   F#m7(b5)
+Seca   tuas lágrimas   e olha     prá mim
+B7(b9)                       Em7(b5)
+       Me diz o que é que eu posso   dizer
+A7(#5)                     Dm7(b5)
+       Se é noite em nossa vida    real
+G7(4/9)   G7(b9)         C7M(#5)      C7M(9)
+        O sonho    que não teve    final
+
+( D7M  Bm7  G7M  Em7(9)  A7(4/9) ) 2x
+
+
+F#m7(b5)
+         Quem sabe assim
+B7(b9)               Em7(b5)
+       Você vai aprender     que amar
+A7(#5)                   Dm7(b5)           G7(4/9)
+       Não é brincar de amor      e sofrer
+     G7(b9)       C7M(#5)    Gm7(11)  C7(#9/#11)
+Faz parte    do querer
+
+F#m7(b5)
+         Mais uma vez
+B7(b9)               Em7(b5)
+       Você só quis amar      à você
+A7(#5)               Dm7(b5)        G7(4/9)
+       E agora compreende    porque
+  G7(b9)       C7M(#5)       C7M(9)
+Amar      é perigoso   demais
+
+----------------- Acordes -----------------
+A7(#5) = X 0 X 0 2 1
+A7(4/9) = 5 X 5 4 3 X
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C7(#9/#11) = X 3 2 3 4 2
+C7M(#5) = X 3 2 1 0 0
+C7M(9) = X 3 2 4 3 X
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+Dm7(b5) = X X 0 1 1 1
+E7(9) = X X 2 1 3 2
+E7M = X X 2 4 4 4
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+F#7(b9) = X X 4 3 5 3
+F#m7(b5) = 2 X 2 2 1 X
+G7(4/9) = 3 X 3 2 1 X
+G7(b9) = 3 X 3 1 0 X
+G7M = 3 X 4 4 3 X
+Gm7(11) = 3 X 3 3 1 X

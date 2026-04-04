@@ -1,0 +1,67 @@
+Roberto Carlos - Aquele Beijo Que Te Dei
+
+Intr.:
+(2x)  E  C#m  A  B7
+
+            E             C#m          A              B7
+e ||---------------4----------------------------------------|
+B ||-----0-5---5-7---7-5-4-----------------------5---4---0--|
+G ||----------------------6---6---6-4----------6---6---6----|
+D ||----------------------------------7--7-7-7--------------|
+A ||--------------------------------------------------------|
+D ||--------------------------------------------------------|
+
+     E              C#m
+Aquele beijo que te dei
+A                        B7
+Nunca, nunca mais esquecerei
+  E                C#m
+A noite linda de luar
+A                      B7
+Lua testemunha tão vulgar
+
+  :-
+  :Bm          E7
+  :Lembro de você
+  :       A
+  :E fico triste
+  : Am                      E
+  :Até me dá vontade de chorar
+  :De lembrar que o amor
+2x:          B7
+  :Não mais existe
+  :Não mais existe
+  :Mas eu sempre
+  :           E
+  :Hei de te amar
+  :-
+
+C#m   A         B7
+  Ou, ou aquele beijo
+E              C#m
+  Nunca mais esquecerei
+A                B7
+  O beijo que te dei
+
+Solo:
+E                    C#m
+   60 62 64 62 64 52 54
+A                    B7    E
+   50 50 54 42 44 42 52 64 60
+                 B7
+   60 64 64 62 60 52 52 54 54 52
+                E
+   52 54 52 64 60
+Lembro de você...
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+Bm = X 2 4 4 3 2
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+G = 3 2 0 0 0 3

@@ -1,0 +1,47 @@
+João Gilberto - Besame Mucho
+
+
+Am7            F7M/A A7 Dm7/A     A7         Dm7       E7/-9  Am7/9
+Besame, Besame mucho,   Como si fuera esta noche, La ultima vez
+Em7/5+    A7/13b       Dm/F Bb7 Am7        Gm6         B7/F#               Dm6/F E7/+5
+Besame,      Besame Mucho,     Que tengo miedo      perderte, Perderte despues ...
+Am7            F7M/A A7/9- Dm7/A     A7         Dm7       E7/-9  Am7
+Besame, Besame mucho,   Como si fuera esta noche, La ultima vez
+ Em7/5+    A7/13b       Dm/F Bb7 Am7        Gm6          B7/F#              Dm6/F E7/+5
+Be|-----------------same mucho   Que tengo miedo      perderte, Perderte despues ...
+Dm7/A     E7/-9      Am7                       Dm7/A       E7/-9      Am7
+Quiero Sentirte muy cerca, Mirarme en tus ojos,      Verte junto a mi
+Dm7/A      G#dim     C7/4/G   C7/G   B7/F#                  Fdim E7/+5
+Piensa que tal vez mañana, Yo estare lejos, Muy lejos de ti ...
+Am7            F7M/A Bbm6 Dm7/A   A7         Dm7       E7/-9  Cmaj7/G
+Besame, Besame mucho,     Como si fuera esta noche, La ultima vez
+Em9    A7/+5        Dm/F  Fm6 Am7        Gm6         F#dim     Fdim       Am7/9
+Besame,      Besame Mucho,    Que tengo miedo      perderte, Perderte   despues ...
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/+5 = X 0 X 0 2 1
+A7/13b = X 0 X 0 2 1
+A7/9- = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+Am7/9 = X X 7 5 8 7
+B7/F# = X X 4 4 4 5
+Bb7 = X 1 3 1 3 1
+Bbm6 = 6 X 5 6 6 X
+C7/4/G = 3 3 5 3 6 3
+C7/G = 3 X 2 3 1 X
+Cmaj7/G = 3 X 2 4 1 X
+Dm/F = X X 3 2 3 1
+Dm6/F = 1 X 0 2 0 X
+Dm7 = X 5 7 5 6 5
+Dm7/A = X 0 0 2 1 1
+E7/+5 = 0 X 0 1 1 0
+E7/-9 = X X 2 1 3 1
+Em7/5+ = X X 2 5 3 3
+Em9 = 0 2 4 0 0 0
+F#dim = 2 X 1 2 1 X
+F7M/A = 5 X 3 5 5 X
+Fdim = X X 3 4 3 4
+Fm6 = 1 X 0 1 1 X
+G#dim = 4 X 3 4 3 X
+Gm6 = 3 X 2 3 3 X

@@ -1,0 +1,71 @@
+Ed Motta - Que Bom Voltar
+
+de: Ed Motta
+
+Intro.: B7M / / A7(4/9) / / D7M(9) / / F#7(4) / F#7 /
+        B7M / / A7(4/9) / / D7M(9) / / F#7(4) / F#7 /
+
+
+B7M            B6  A#m7(11)         D#7(b9)       G#m7
+    Que bom voltar          de novo encontrar, beijar  você
+  G#m7/F#      F7(b5)               E7M  A7(13) / /
+Rever     você risos  e abraços sem fim
+
+B7M        B6  A#m7(11)          D#7(b9)       G#m7
+    Dia de sol          te ver é como   um rio no   verão
+  G#m7/F#   F7(b5)              E7M  A7(13) / /
+É carnaval  festa  eterno reveillon
+
+D7M(9)  G7M               F#7(4) / / /
+        Você me faz tão feliz
+
+
+B7M          B6   A#m7(11)          D#7(b9)        G#m7
+    É bom chegar           e ver as nossas  coisas no  lugar
+  G#m7/F#         F7(b5)               E7M  A7(13) / /
+Este      lugar estava   esperando por nós
+
+D7M(9)  G7M               F#7(4) / / / B7M
+        Você me faz tão feliz
+
+           A7(4/9)            D7M(9)            F#7(4)   F#7     B7M
+Que bom voltar,    que bom te ver    que bom chegar   ao nosso lugar
+           A7(4/9)            D7M(9)            F#7(4)   F#7     B7M
+Que bom voltar,    que bom te ver    que bom chegar   ao nosso lugar
+
+
+
+    B7M      A7(4/9)    D7M(9)     F#7(4)       F#7        B6      A#m7(11)
+
+  ||||||     ||||||  4ª ||1|||     ||||||     ||||||  6ª ||1|||  4ª ||||1|
+  |1||||     ||||||     |2||3|    <------    <------     2|||3|     ||||||
+  |||2||     ||||1|     |||4||     ||||||     |||2||     |||4||     2|34||
+  ||3|4|     |||2||     ||||||     |3|4||     |3||||     ||||||     ||||||
+  ||||||     3|4|||     ||||||     ||||||     ||||||     ||||||     ||||||
+   Oooo      O ooo       Oooo      O ooo      O ooo      O ooo      O ooo
+
+
+  D#7(b9)     G#m7      G#m7/F#    F7(b5)       E7M      A7(13)       G7M
+
+  ||1|2|     ||||||     ||||||     1|2|||  7ª |1||||  5ª 1|2|||     ||||||
+  |3|4||     ||||||     ||||||     |||3||     |||2||     |||3||     ||||||
+  ||||||     ||||||     ||||||     ||||||     ||3|4|     ||||4|     1|||2|
+  ||||||     1|234|     ||<---     ||||||     ||||||     ||||||     ||34||
+  ||||||     ||||||     ||||||     ||||||     ||||||     ||||||     ||||||
+   Oooo      O ooo        Oooo     O ooo       Oooo      O ooo      O ooo
+
+----------------- Acordes -----------------
+A#m7(11) = 6 X 6 6 4 X
+A7(13) = X 0 X 0 2 2
+A7(4/9) = 5 X 5 4 3 X
+B6 = X 2 4 1 4 X
+B7M = X 2 4 3 4 2
+D#7(b9) = X 6 5 6 5 X
+D7M(9) = X 5 4 6 5 X
+E7M = X X 2 4 4 4
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F7(b5) = 1 X 1 2 0 X
+G#m7 = 4 X 4 4 4 X
+G#m7/F# = X X 4 4 7 4
+G7M = 3 X 4 4 3 X

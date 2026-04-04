@@ -1,0 +1,90 @@
+Chico Buarque - O Meu Guri
+
+[Intro]  F#m  F#m(7M)  F#m7  F#m6  F#m(b6)  F#m6
+         F#m7  F#m(7M)  F#7/4(b9)  A#º(b13)
+
+  B7                          B/A                 G#m7(b5)                Gm6
+Quando, seu moço, nasceu meu rebento não era o momen________to dele rebentar
+D6/F#                                                     Am6/C        B7
+     Já foi nascendo com cara de fome e eu não tinha nem nome pra lhe dar
+ Em(7M)                      Em7         Em6                     Em(b6)
+Como  fui levando, não sei lhe explicar fui assim levando ele a me    levar
+E/D                               A7/C#             Am6/C  D7/9
+E  na sua meninice ele um dia me disse que chegava lá
+     G7M  G6    F#7/4  F#7    D7M  Gm6         E7/G#
+Olha aí      Olha aí       Olha aí,  ai o meu guri,  olha aí
+     Em7  A7         D6          F#7
+Olha aí,    é o meu guri E ele chega
+
+  B7                    B/A                         G#m7(b5)                   Gm6
+Chega suado e veloz do batente e traz sempre um presen________te pra me encabular
+D6/F#                                            Am6/C          B7
+     Tanta corrente de ouro, seu moço, que haja pescoço pra enfiar
+ Em(7M)                        Em7          Em6                      Em(b6)
+Me    trouxe uma bolsa já com tudo dentro chave, caderneta, terço e patuá
+
+E/D                                       A7/4                   A7
+Um lenço e uma penca de documentos pra finalmente eu me identificar, olha aí
+     D7M  Gm6       E7/G#
+Olha aí,  ai o meu guri,  olha aí
+     Em7 A7          D6      F#7
+Olha aí,    é o meu guri E ele chega
+
+  B7                       B/A                    G#m7(b5)                    Gm6
+Chega no morro com o carregamento pulseira, cimento,     relógio, pneu, gravador
+D6/F#                                               Am6/C           B7
+     Rezo até ele chegar cá no alto Essa onda de assaltos tá um horror
+Em(7M)                  Em7        Em6                      Em(b6)
+Eu    consolo ele, ele me consola boto ele no colo pra ele me    ninar
+ E/D                                    A7/4              A7
+De repente acordo, olho pro lado e o danado já foi trabalhar, olha aí
+     D7M  Gm6       E7/G#
+Olha aí,  ai o meu guri,  olha aí
+     Em7  A7         D6          F#7
+Olha aí,    é o meu guri E ele chega
+
+  B7                        B/A                  G#m7(b5)                  Gm6
+Chega estampado, manchete, retrato com venda nos olhos,  legenda e as iniciais
+D6/F#                                                Am6/C    B7
+     Eu não entendo essa gente, seu moço, fazendo alvoroço demais
+Em(7M)                     Em7         Em6                   Em(b6)
+O     guri no mato, acho que tá rindo, acho que tá lindo de papo    pro ar
+ E/D                                        A7/C#             Am6/C  D7/9
+Desde o começo, eu não disse seu moço, ele disse que chegava lá
+     G7M G6     F#7/4  F#7    D7M  Gm6         E7/G#
+Olha aí      olha aí       Olha aí,  ai o meu guri,  olha aí
+     Em7  A7            D6    A7      D7M   Gm6       E7/G#
+Olha aí,    é o meu guri      Olha aí,   ai o meu guri,  olha aí
+      Em7  A7           D6  A7
+Olha aí,     é o meu guri
+
+----------------- Acordes -----------------
+A#º(b13) = X 1 X 0 2 2
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+A7/C# = X 4 5 2 5 X
+Am6/C = X 3 4 2 5 2
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+D6 = X 5 4 2 0 X
+D6/F# = 2 X 0 2 0 X
+D7/9 = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+E/D = X 5 X 4 5 4
+E7/G# = 4 X 2 4 3 X
+Em(7M) = X X 2 4 4 3
+Em(b6) = X X 2 0 1 0
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7/4 = 2 4 2 4 2 X
+F#7/4(b9) = 2 X 2 0 0 X
+F#m = 2 4 4 2 2 2
+F#m(7M) = X X 4 6 6 5
+F#m(b6) = 2 5 4 2 3 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+G#m7(b5) = 4 X 4 4 3 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

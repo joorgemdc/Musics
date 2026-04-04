@@ -1,0 +1,56 @@
+João Bosco - Rancho da Goiaba
+
+[Intro:] Em Am B7 Em B7 Em E7 Am B7 Em Em7M Em/D C#m7(9)(b5) F#7 B7 Em
+
+Em
+Os bóias-frias quando tomam
+         Am
+Umas "birita" espantando a tristeza
+                        B7                          Em B7
+Sonham com um bife a cavalo, batata frita e a sobremesa
+Em            Bm7(b5)  E7     Am
+É goiabada cascão com muito queijo
+   B7       Em Em7M       Em7            F#7
+Depois café, cigarro e um beijo de uma mulata
+    B7      Em
+Chamada Leonor ou Dagmar
+
+  E6
+Amar, o rádio de pilha, o fogão, jacaré
+               C#7      F#m7
+A marmita, o Domingo, o bar
+                                 B7
+Onde tantos iguais se reúnem contando mentiras
+               Em/G  F#m7(11)
+Prá poder suportar ai
+             Em             Em7M          Em/D  C#m7(9)(b5)
+São pais-de-santo, paus-de-araras, são passistas
+          C             B7           E
+São flagelados, são pingentes, balconistas
+   C#7                   F#m7
+Palhaços, marcianos, canibais, lírios, pirados
+   Am7              D7(9)
+Dançando, dormindo de olhos abertos
+    E             C#7  C      B7         E
+Na sombra da alegoria dos faraós embalsamados
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#m7(9)(b5) = P9 10 13 9 X X
+D7(9) = X 5 4 5 5 X
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em/G = 3 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+Em7M = X X 2 4 4 3
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X

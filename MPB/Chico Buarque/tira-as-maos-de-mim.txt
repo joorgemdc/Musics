@@ -1,0 +1,111 @@
+Chico Buarque - Tira As Mãos de Mim
+
+( Chico Buarque / Ruy Guerra )
+
+
+[Intro:] Bº G#º Dº C#º Bº G#º
+         Bº G#º Cº Bº Aº Gº Gm7(b5) C7(b9)(b13) C7(b9)
+
+       Fm7(9) C/E    Cm/Eb D7(b9)
+Ele era mil, tu és nenhum
+            Gm7(9)           G/B
+Na guerra és vil, na cama és mocho
+                Cm7 C#º             Bb/D Eb7M(9)
+Tira as mãos de mim, põe as mãos em mim
+            Em7(b5)(9)              Am7(b5)
+E vê se o fogo dele, guardado em mim
+               Ab7(b5)
+Te incendeia um pouco
+
+Gm7(9)    D/F#        Dm/F
+Éramos nós, estreitos nós
+E7(b9)  Am7(9)       A/C#
+Enquanto tu és laço frouxo
+
+                Dm7 D#º             C/E F7M(9)
+Tira as mãos de mim, põe as mãos em mim
+            F#m7(b5)(9)         Bm7(b5)
+E vê se a febre dele, guardada em mim
+             Bb7(b5)
+Te contagia um pouco
+
+Solo: Am7(9) E/G# Em/G D/F# Cm Cm7M Cm7 Cm6
+      Bbm7(11) G7(b13) Gm7(b5) C7(b9)(b13) C7(b9)
+
+     Fm7(9) C/E      Cm/Eb
+Éramos nós, estreitos nós
+D7(b9)  Gm7(9)       G/B
+Enquanto tu és laço frouxo
+                Cm7 C#º             Bb/D Eb7M(9)
+Tira as mãos de mim, põe as mãos em mim
+             Em7(b5)(9)         Am7(b5)
+E vê se a febre dele, guardada em mim
+              D6(b9) Eb7/Bb D7(b5)/G# Gm7(9)
+Te contagia um pouco
+
+ACORDES:
+
+Fm7(9)    - XX3143      D/F#       - 2X023X
+C/E       - XX2013      Dm/F       - 1X023X
+Cm/Eb     - XX1013      E7(b9)     - 0X2131
+D7(b9)    - X5454X      Am7(9)     - X05500
+Gm7       - 3X333X      A/C#       - X4225X
+G/B       - X2003X      Dm7(9)     - X5355X
+Cm7(9)    - X3133X      D#º        - XX1212
+C#º       - X4535X      F7M(9)     - XX3253
+Bb/D      - X5336X      F#m7(b5/9) - XX4554
+Eb7M(9)   - X6576X      Bm7(b5)    - X2X231
+Em7(b5/9) - X7877X      E7(b9/13)  - 0X0121
+Am7(b5)   - 5X554X      B7(#11)    - 7X786X
+Ab7(#11)  - 4X453X      Bb7(#11)   - 6X675X
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+Ab7(#11) = 4 X 4 5 3 X
+Ab7(b5) = 4 X 4 5 3 X
+Am7(9) = X X 7 5 8 7
+Am7(b5) = 5 X 5 5 4 X
+Aº = 5 X 4 5 4 X
+B7(#11) = X 2 3 2 4 X
+Bb/D = X 5 X 3 6 6
+Bb7(#11) = X 1 2 1 3 X
+Bb7(b5) = X 1 2 1 3 X
+Bbm7(11) = 6 X 6 6 4 X
+Bm7(b5) = X 2 3 2 3 X
+Bº = X 2 3 1 3 1
+C#º = X 4 5 3 5 3
+C/E = 0 3 2 0 1 0
+C7(b9) = X 3 2 3 2 X
+C7(b9)(b13) = X 3 2 3 2 4
+Cm = X 3 5 5 4 3
+Cm/Eb = X X 1 0 1 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+Cm7(9) = X 3 1 3 3 X
+Cm7M = X 3 5 4 4 3
+Cº = X 3 4 2 4 2
+D#º = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+D6(b9) = X 5 7 4 4 X
+D7(b9) = X 5 4 5 4 X
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Dº = X X 0 1 0 1
+E/G# = 4 X 2 4 5 X
+E7(b9) = X X 2 1 3 1
+E7(b9/13) = 12 X X P10 14 10
+Eb7/Bb = 6 X 5 6 4 X
+Eb7M(9) = X 6 5 7 6 X
+Em/G = 3 X 2 4 5 X
+Em7(b5/9) = 0 1 4 0 X X
+F#m7(b5/9) = P2 3 6 2 X X
+F7M(9) = X 8 7 9 8 X
+Fm7(9) = X X 3 1 4 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G7(b13) = 3 X 3 4 4 3
+Gm7 = 3 X 3 3 3 X
+Gm7(9) = X X 5 3 6 5
+Gm7(b5) = 3 X 3 3 2 X
+Gº = 3 X 2 3 2 X

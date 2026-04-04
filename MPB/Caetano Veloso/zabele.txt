@@ -1,0 +1,84 @@
+Caetano Veloso - Zabelê
+
+G4(7/9)   C6(9)
+minha sabiá
+G4(7/9) C6(9)
+minha zabelê
+ G4(7/9)                               C6(9)
+toda meia-noite eu sonho com você
+ G4(7/9)                       C6(9)
+se você duvida, eu vou sonhar pra você ver
+
+G4(7/9)   C6(9)
+minha sabiá
+G4(7/9)                    Em7
+vem me dizer, por favor
+A7(13-)                 D7/9
+o quanto que eu devo amar
+Dm7/(9)        G7(13)          C6(9)
+pra nunca morrer de amor
+
+G4(7/9)   C6(9)
+minha sabiá
+G4(7/9)                    Em7
+vem me dizer, por favor
+
+A7(13-)                 D7/9
+o quanto que eu devo amar
+Dm7/(9)        G7(13)          C7+      F#m7     G4(7/9)
+pra nunca morrer de amor
+
+G4(7/9)      Gm7
+minha zabelê
+C7(9)      C7(9-)             F7M               E7(13-)
+vem correndo me dizer
+                        Am7
+por que eu sonho toda noite
+D7/9             Dm7/(9)   G7(9)    Gm7
+e sonho só com você
+
+C7(9)                Dm7
+se você não me acredita
+A7(13-) Dm7 Gm7   C7(9)   F7M
+vem pra cá, vou lhe mostrar
+E7(13-)                           Am7(9)
+que riso largo é o meu sonho
+                     F#m7    B7(13)       E7(9-)
+quando eu sonho com você
+
+Am7(9)
+mas anda logo
+             G7         C7(9)
+vem que a noite já não tarda a chegar
+Bm7               E7(13-)               A7
+vem correndo pro meu sonho escutar
+Dm7      G7                   C7M
+que eu sonho falando alto
+A7          Dm7(9)      G7    C6(9)
+com você no meu sonhar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13-) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B7(13) = X 2 X 2 4 4
+Bm7 = X 2 4 2 3 2
+C6(9) = X 3 2 2 3 3
+C7(9) = X 3 2 3 3 X
+C7(9-) = X 3 2 3 2 X
+C7+ = X 3 2 0 0 X
+C7M = X 3 2 0 0 X
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+E7(13-) = 0 X 0 1 1 0
+E7(9-) = X X 2 1 3 1
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F7M = 1 X 2 2 1 X
+G4(7/9) = 3 X 3 2 1 X
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7(9) = 3 X 3 2 0 X
+Gm7 = 3 X 3 3 3 X

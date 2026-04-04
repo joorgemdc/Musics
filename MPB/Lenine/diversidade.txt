@@ -1,0 +1,73 @@
+Lenine - Diversidade
+
+Introdução: E  C#9  B9  A9  D2  A2
+
+E         F#m7           G#m7             A9
+Foi pra diferenciar  Que deus criou a diferença
+E             F#m7     G#m7             A9
+Que irá nos aproximar Intuir o que ele pensa
+E              F#m7      G#m7           A9
+Se cada ser é só um E cada um com sua crença
+E                    F#m7      G#m7          A9
+Tudo é raro, nada é comum Diversidade é a sentença
+
+A9            A5+         A9
+Que seria do adeus Sem o retorno
+A9          A5+            E        F#/E
+Que seria do nu  Sem o adorno
+A            C#m                    A
+Que seria do sim Sem o talvez e o não
+A             C#m               E
+Que seria de mim Sem a compreensão
+
+ E                                 F#°
+Que a vida é repleta E o olhar do poeta
+C#m               C#m7M
+Percebe na sua presença
+           C#m7              F#m7        E/G#          E      (2X)        (F#/E  E)
+O toque de deus     A vela no breu     A chama da diferença
+
+( E  C#m  B9  A9  D2  A2 )
+
+E             F#m7         G#m7        A9
+A humanidade caminha  Atropelando os sinais
+E                F#m7       G#m7              A9
+A história vai repetindo Os erros que o homem tras
+E             F#m7         G#m7        A9
+O mundo segue girando Carente de amor e paz
+E                F#m7         G#m7        A9
+Se cada cabeça é um mundo Cada um é muito mais
+
+A9            A5+         A9
+Que seria do caos   Sem a paz
+A9            A5+                 E        F#/E
+Que seria da dor  Sem o que lhe apraz
+A            C#m                    A
+Que seria do não  Sem o talvez e o sim
+A             C#m                    E
+Que seria de mim...  O que seria de nós
+                     
+  E                       F#°
+Que a vida é repleta E o olhar do poeta
+C#m               C#m7M
+Percebe na sua presença
+          C#m7               F#m7        E/G#           E      (2X)        (F#/E  E)
+O toque de deus     A vela no breu     A chama da diferença
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A2 = X 0 2 2 0 0
+A5+ = X 0 3 2 2 0
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+C#9 = X 4 6 6 4 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C#m7M = X 4 6 5 5 4
+D2 = X X 0 2 3 0
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+F#/E = X X 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#° = 2 X 1 2 1 X
+G#m7 = 4 X 4 4 4 X

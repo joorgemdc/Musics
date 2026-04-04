@@ -1,0 +1,54 @@
+Ivan Lins - Abre Alas
+
+Ivan Lins / Vítor Martins
+
+[Intro:] A/B E6
+
+Bm7           D/E      F#m7(9)                    Bm7
+Abre alas pra minha folia, já está chegando a hora
+              D/E         F#m7(9)                    Bm7
+Abre alas pra minha bandeira, já está chegando a hora
+              D/E      F#m7(9)                    Bm7
+Abre alas pra minha folia, já está chegando a hora
+              D/E         F#m7(9)                    D7M
+Abre alas pra minha bandeira, já está chegando a hora
+
+              E/D                   C#m7               F#m7(9)
+Apare os teus sonhos que a vida tem dono e ela vem te cobrar
+        Bm7(9)   D/E     A7M A7M(b13) F#9/Bb D#m7(9)(11) D7M
+A vida não era assim, não era assim
+            E/D             C#m7             F#m7(9)
+Não corra o risco de ficar alegre pra nunca chorar
+          Bm7(9)  D/E E/D Bm7(9)/C#
+A gente não era assim, não era assim
+
+Encoste essa porta que a nossa conversa não pode vazar
+A vida não era assim, não era assim
+Bandeira arriada, folia guardada pra não se usar
+A festa não era assim, não era assim
+
+Fim: A/B E6 A/B E6 A/B F#m7(9)(11)
+
+
+Acordes:
+========
+A7M(b13)=5x666x
+F#9/Bb=6x4674
+D#m7(9)(11)=x64664
+Bm7(9)/C#=9x7779
+F#m7(9)(11)=x97997
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7M = X 0 2 1 2 0
+A7M(b13) = X 0 X 1 2 1
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#m7 = X 4 6 4 5 4
+D#m7(9)(11) = X 6 4 6 6 4
+D/E = X X 2 2 3 2
+D7M = X X 0 2 2 2
+E/D = X 5 X 4 5 4
+E6 = X X 2 4 2 4
+F#9/Bb = 6 X X 6 7 4
+F#m7(9) = X X 4 2 5 4

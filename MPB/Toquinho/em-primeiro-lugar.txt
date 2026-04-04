@@ -1,0 +1,34 @@
+Toquinho - Em Primeiro Lugar
+
+(intro) Cmaj9 Cm6 Bm7 Bbdim Am7 D7(9/13)
+
+              Gmaj7(6)
+Em primeiro lugar
+G#dim Am7
+Eu quero a graça de deus
+             D7(9)   D7(b9)
+Em segundo lugar
+       Gmaj7             G6
+Quero saúde, que deus me ajude
+G/B        Bbdim(b13)    Am7
+Em terceiro, eu quero dinheiro
+   D7(9)      D7(b9)       G6
+Em quarto lugar  quero a mulher
+Bbdim  Am7    D7(9/13)       Gmaj7(6)
+E o resto, seja o que deus quiser
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bbdim = X 1 2 0 2 0
+Bbdim(b13) = X 1 X 0 2 2
+Bm7 = X 2 4 2 3 2
+Cm6 = X 3 X 2 4 3
+Cmaj9 = X 3 2 4 3 X
+D7(9) = X 5 4 5 5 X
+D7(9/13) = X 5 4 5 0 0
+D7(b9) = X 5 4 5 4 X
+G#dim = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G6 = 3 X 2 4 3 X
+Gmaj7 = 3 X 4 4 3 X
+Gmaj7(6) = 3 X 4 4 5 X

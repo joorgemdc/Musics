@@ -1,0 +1,101 @@
+Jorge Vercillo - Olhos de nunca mais
+
+[Intro] G7M  A7(13)  Bm7
+ G7M  A7(13)  A/B
+
+|--9/10-9------------------------------|---9/10-9------------------------|
+|----------10-7--5-7-7--5-7-7----------|------------10-7--5-7-7--5-7-5---|
+|--------------------------------------|---------------------------------|
+|--------------------------------------|---------------------------------|
+|-----------------------------------0-1|---------------------------------|
+|------------------------------0-1-----|---------------------------------|
+
+   Bm        Bm/A# Em7 Em7/D
+Alguém me sorriu assim
+    C#7/9    F#7/5+   Bm
+E o tempo deixou pra trás
+  Bm         Bm/A#  Em7 Em7/D
+Passou tão perto de mim
+  C#7/9      F#7/5+  Bm
+Visão que não se   desfaz
+
+  A/B             B7/9-
+Alguém me sorriu assim
+
+    Em7      Em7/D C#m7/5- F#7/5+
+Com olhos de nunca mais
+    Bm      Bm/A#  Em7 Em7/D
+Mas vive dentro de mim
+   C#7/9    F#7/5+  Bm
+E dentro de si  me traz
+
+D7M
+Foi um minuto somente
+    A/C#                Am/C
+Um oculto presente pra mim
+Em7/9
+Foi a primeira metade
+Em7/D    C#7/9    F#7/5+
+De eternidade sem fim
+
+   A/B           B7/9-
+Os anos passaram-se
+   Em7     Em7/D  C#7/9+ F#7/5+
+A vida me leva e traz
+   Bm       Bm/A#  Em7 Em7/D
+E ainda não esque..ci
+     C#7/9    F#7/5+ Bm
+Seus olhos de nunca  mais
+
+( G7M A7(13) Bm7 G7M A7(13) A/B )
+
+D7M
+Foi um minuto somente
+    A/C#                Am/C
+Um oculto presente pra mim
+Em7
+Foi a primeira metade
+Em7/D    C#7/9    F#7/5+
+De eternidade sem fim
+
+   Bm        Bm/A# Em7 Em7/D
+Alguém me sorriu assim
+    C#7/9    F#7/5+   Bm
+E o tempo deixou pra trás
+  Bm         Bm/A#  Em7 Em7/D
+Passou tão perto de mim
+  C#7/9      F#7/5+  Bm
+Visão que não se   desfaz
+
+   A/B           B7/9-
+Os anos passaram-se
+   Em7     Em7/D  C#7/9+ F#7/5+
+A vida me leva e traz
+   Bm       Bm/A#  Em7 Em7/D
+E ainda não esque..ci
+     C#7/9    F#7/5+ G7+ G/A Bm A Bm
+Seus olhos de nunca  mais
+
+[Final] G7+ A7(13) Bm7 G7M A7(13) A/B
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A7(13) = X 0 X 0 2 2
+Am/C = X 3 2 2 5 X
+B7/9- = X 2 1 2 1 X
+Bm = X 2 4 4 3 2
+Bm/A# = X X 8 7 7 7
+Bm7 = X 2 4 2 3 2
+C#7/9 = X 4 3 4 4 X
+C#7/9+ = X 4 3 4 5 X
+C#m7/5- = X 4 5 4 5 X
+D7M = X X 0 2 2 2
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+Em7/D = X X 0 0 3 0
+F#7/5+ = 2 X 2 3 3 2
+G/A = 5 X 5 4 3 X
+G7+ = 3 X 4 4 3 X
+G7M = 3 X 4 4 3 X

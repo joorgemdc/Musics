@@ -1,0 +1,39 @@
+Tom Jobim - Discussão
+
+Intro: C6/9 Db6/9 C6/9 Db6/9
+
+ C7M      Ebº         Dm7        Ebº
+ Se você pretende sustentar a opinião
+        Em7              E7(#5)          F7M            Fm6
+ E discutir por discutir       só prá ganhar a discussão
+            Em7             Ebº              Gm7        A7(b13)
+ Eu lhe asseguro, pode crer,      Que quando fala o coração
+          D7(9)                      Dm7                Ab6
+ Às vezes é melhor perder do que ganhar, você vai ver
+         Em7           Ebº             Dm7             Ebº
+ Já percebi a confusão,      Você quer ver prevalescer
+        Em7              E7(#5)          F7M             Fm6
+ A opinião sobre a razão,      Não pode ser, não pode ser
+            Em7               Ebº             Gm7        A7(b13)
+ Prá que trocar o sim por não,      Se o resultado é solidão
+           D7(9)       G              C6/9
+ Em vez de amor, uma saudade, vai    dizer quem tem razão
+ Db6/9 C6/9 Gm6 Fmaj7 Fm6 ...
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Ab6 = 4 X 3 5 4 X
+C6/9 = X 3 2 2 3 3
+C7M = X 3 2 0 0 X
+D7(9) = X 5 4 5 5 X
+Db6/9 = X 4 3 3 4 4
+Dm7 = X 5 7 5 6 5
+E7(#5) = 0 X 0 1 1 0
+Ebº = X X 1 2 1 2
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+Fmaj7 = 1 X 2 2 1 X
+G = 3 2 0 0 0 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

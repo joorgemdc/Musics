@@ -1,0 +1,32 @@
+Ivan Lins - Chama Acesa
+
+Bm7(4)        Am  D5+
+Você está parado na estrada
+G#m7(4)       C#7
+Contemplando toda a redondeza
+F#m7      Am7     F#m7
+Atrás a cidade assustada
+     Am7   G#m7    C#7   F#  Bm
+Na frente a cruel fortaleza
+                Am   D5+
+Por baixo essa terra marcada
+G#m7(4)    C#7            F#m
+Do lado direito essa tristeza
+             Am          G7M
+Do outro, me dói, não há nada
+       Am7   G#m7   C#7  F#  G7M
+Mas em cima essa chama acesa
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bm = X 2 4 4 3 2
+Bm7(4) = 7 X 7 7 5 X
+C#7 = X 4 3 4 2 X
+D5+ = X 5 4 3 3 X
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#m7 = 4 X 4 4 4 X
+G#m7(4) = 4 X 4 4 2 X
+G7M = 3 X 4 4 3 X

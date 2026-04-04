@@ -1,0 +1,66 @@
+Tom Jobim - Sei Lá (A Vida Tem Sempre Razão)
+
+C9/6          Am7          D9/7
+   Tem dias que eu fico pensando na vida
+      Dm7/4   G7    C9/6
+E sinceramente não vejo saída
+      Am7      D9/7     G7+
+Como é por exemplo que dá pra entender
+ Em7     Am7      D9/7   Dm7/4
+A gente mal nasce e começa a morrer
+ G7      C9/6   Am7     D9/7
+Depois da chegada vem sempre a partida
+        Dm7/4   G7   Gm7  C9/7
+Porque não há nada sem separação
+  F#m7/b5 Fm6
+Sei lá,
+  Em7 A7
+Sei lá
+  D9/7      G13/7   Gm7   C9/7
+A vida é uma grande ilusão
+  F#m7/b5 Fm6
+Sei lá,
+  Em7 A7
+Sei lá
+
+ D9/7    G13/7  C9/6
+A vida tem sempre razão.
+       Am7          D9/7
+A gente nem sabe que males se apronta
+     Dm7/4     G7       C9/6
+Fazendo de conta, fingindo esquecer
+      Am7   D9/7      G7+
+Que nada renasce antes que se acabe
+  Em7       Am7        D9/7 Dm7/4
+E o sol que desponta tem que adormecer
+ G7    C9/6   Am7       D9/7
+De nada adianta ficar-se de fora
+      Dm7/4     G7     Gm7    C9/7
+A hora do sim é o descuido do não
+  F#m7/b5 Fm6
+Sei lá,
+  Em7 A7
+Sei lá
+ D9/7       G13/7   Gm7   C9/7
+Só sei que é preciso paixão
+  F#m7/b5 Fm6
+Sei lá,
+  Em7 A7
+Sei lá
+ D9/7    G13/7  C9/6
+A vida tem sempre razão.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C9/6 = X 3 2 2 3 3
+C9/7 = X 3 2 3 3 X
+D9/7 = X 5 4 5 5 X
+Dm7/4 = X 5 5 5 6 5
+Em7 = 0 2 2 0 3 0
+F#m7/b5 = 2 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G13/7 = 3 X 3 4 5 X
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,66 @@
+Marina Lima - Mesmo Se o Vento Levou
+
+[Intro]  F#m11  F#m6
+
+A7+
+Gostei
+             G#m7  C#7(9-)
+Demais de te amar
+F#7+  F#6
+Chorei
+          F#m11  F#m6
+Ao rio, ao mar
+    B7M  B6(9)    Bbm7       Eb7(9-)
+Não foi     dessa vez que acertei
+             G#m7       C#7(9-)
+Cheguei mais perto talvez
+            F#7(4/9)  F#6(9-)
+Ao menos eu tentei
+        B7M  B6(9)         A#m7
+Mas nós dois,   eu vou lembrar
+D#m7/9
+Vou sim
+            G#m7
+Mesmo se o vento levou
+
+C#7/9               F#m11  F#m6  (F#m11  F#m6)
+Isso vai ficar em mim
+
+(F#m11  F#m6)
+Noites... Como brilhavam
+(F#m11  F#m6)                F#7
+E os beijos... Nem quero contar
+B7M  B6(9)     A#m7     Eb7(9-)
+Forte,   forte até de pirar
+        G#m7
+Eu tive até que perder
+C#7(9-)             F#7(4/9)  F#6(9-)
+Prá poder depois guardar
+        B7M  B6(9)       A#m7
+Mas nós dois, eu vou lembrar
+  D#m7/9
+Vou sim
+                  G#m7
+Mesmo se o vento levou
+C#7/9            G7+  F#7+
+Isso vai ficar em mim
+
+----------------- Acordes -----------------
+A#m7 = X 1 3 1 2 1
+A7+ = X 0 2 1 2 0
+B6(9) = X 2 1 1 2 2
+B7M = X 2 4 3 4 2
+Bbm7 = X 1 3 1 2 1
+C#7(9-) = X 4 3 4 3 X
+C#7/9 = X 4 3 4 4 X
+D#m7/9 = X 6 4 6 6 X
+Eb7(9-) = X 6 5 6 5 X
+F#6 = 2 X 1 3 2 X
+F#6(9-) = 2 X 1 0 2 X
+F#7 = 2 4 2 3 2 2
+F#7(4/9) = 2 X 2 1 0 X
+F#7+ = 2 X 3 3 2 X
+F#m11 = 2 2 4 2 2 2
+F#m6 = 2 X 1 2 2 X
+G#m7 = 4 X 4 4 4 X
+G7+ = 3 X 4 4 3 X

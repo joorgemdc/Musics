@@ -1,0 +1,91 @@
+Novos Baianos - Eu Também Quero Beijar
+
+Intro: 4x C7 C7M C6 C7M C6 C7M C6 Bb6 Bb7M Bb6
+
+           A Intro deve ser feita com a forma dos seguintes acordes
+
+Forma do acorde de C7      Forma do acorde de C7M     Forma do acorde de C6
+
+    5ª                         5ª                         5ª
+E|-----|-----|-----|-----| E|-----|-----|-----|-----| E|-----|-----|-----|-----|
+A|-----|-----|-----|-----| A|-----|-----|-----|-----| A|-----|-----|-----|-----|
+D|-----|-----|-----|-----| D|-----|-----|-----|-----| D|-----|-----|-----|-----|
+G|--O--|-----|-----|-----| G|--O--|-----|-----|-----| G|--O--|-----|-----|-----|
+B|--O--|-----|-----|-----| B|--O--|-----|-----|-----| B|--O--|-----|-----|-----|
+E|-----|-----|-----|--O--| E|-----|-----|--O--|-----| E|--O--|-----|-----|-----|
+
+Forma do acorde de Bb7M    Forma do acorde de Bb6
+
+    3ª                         3ª
+E|-----|-----|-----|-----| E|-----|-----|-----|-----|
+A|-----|-----|-----|-----| A|-----|-----|-----|-----|
+D|-----|-----|-----|-----| D|-----|-----|-----|-----|
+G|--O--|-----|-----|-----| G|--O--|-----|-----|-----|
+B|--O--|-----|-----|-----| B|--O--|-----|-----|-----|
+E|-----|-----|--O--|-----| E|--O--|-----|-----|-----|
+
+
+A flor do desejo
+          Dm7
+e do maracujá
+     G7            C
+Eu também quero beijar
+Haja fogo, haja guerra,
+               Dm7
+haja guerra que há
+      G7            C
+Eu também quero beijar
+Do farol da Barra
+             Dm7
+ao Jardim de Alá
+      G7            C
+Eu também quero beijar
+Da pele morena
+          Dm7
+daquela acolá
+      G7            C  G7
+Eu também quero beijar
+ C       Dm7
+Beijo a flor
+                   G7
+Mas a flor que eu desejo
+                 C   F#5-/7
+eu não posso beijar
+F7M  Em7
+Ai amor
+               A7
+Haja fogo, haja guerra,
+               Dm7
+haja guerra que há
+      G7
+Teu cheiro
+ C       Dm7
+É o marinheiro
+              G7
+do barco fantasma
+             C   F#5-/7
+que vai me levar
+ F7M  Em7
+Mundo inteiro
+                  A7
+Haja fogo, haja guerra,
+              Dm7
+haja guerra que há
+    G7
+Festejo...
+
+(intro)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+C = X 3 2 0 1 0
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+F#5-/7 = 2 X 2 3 1 X
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3

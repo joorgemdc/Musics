@@ -1,0 +1,73 @@
+Zeca Baleiro - Você Só Pensa em Grana
+
+Intr.(Am9 Dm6/A Am9 Dm6 Am9 Dm6 Em/B G#dim Am9)
+
+                           Dm6           Am9
+você só pensa em grana meu amor
+                       Dm6
+você só quer saber
+                 Cadd9         G/B
+quanto custou a minha roupa
+Fadd9               E7/G#
+custou a minha roupa
+Am9                Dm6                      Am9
+você só quer saber quando que eu vou
+                           Dm6
+trocar meu carro novo
+             Cadd9        G/B
+por um  novo carro novo
+       Fadd9        E7/G#       Am9
+um novo carro novo meu amor
+Em7(b5)        A7/5+                  Dmaj7/9
+você rasga os poemas que eu te dou
+       Gsus4      G/B                Cadd9    C5+
+mas nunca vi você rasgar dinheiro
+
+Bb6                                  Am9
+você vai me jurar  eterno amor
+    Cdim                 Bm7(b5)         Am9
+se eu comprar um dia o mundo inteiro
+            Em7(b5)      A7/5+       Dmaj7/9
+quando eu nasci um anjo só baixou
+       Gsus4       G/B              Cadd9    C5+
+falou que eu seria um executivo
+    Bb6                                      A7/4 A7
+e desde então eu vivo com meu banjo
+A7/C#                                  D7/9
+executando os rocks do meu livro
+G7                                                C7/9
+pisando em falso com meus panos quentes
+    Bb6                                  Am9
+enquanto você ri no seu conforto
+    Bm7(b5)      Fm6                     Cm7
+enquanto você me fala entre dentes
+    Cdim             Bm7(5b)    Am9
+poeta bom meu bem poeta morto
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/4 = X 0 2 0 3 0
+A7/5+ = X 0 X 0 2 1
+A7/C# = X 4 5 2 5 X
+Am9 = X 0 2 4 1 0
+Bb6 = X 1 3 0 3 X
+Bm7(5b) = X 2 3 2 3 X
+Bm7(b5) = X 2 3 2 3 X
+C5+ = X 3 2 1 1 X
+C7/9 = X 3 2 3 3 X
+Cadd9 = X 3 5 5 3 3
+Cdim = X 3 4 2 4 2
+Cm7 = X 3 5 3 4 3
+D7/9 = X 5 4 5 5 X
+Dm6 = X 5 X 4 6 5
+Dm6/A = X X 7 7 6 7
+Dmaj7/9 = X 5 4 6 5 X
+E7/G# = 4 X 2 4 3 X
+Em/B = X 2 2 0 0 0
+Em7(b5) = X X 2 3 3 3
+Fadd9 = 1 3 5 2 1 1
+Fm6 = 1 X 0 1 1 X
+G#dim = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gsus4 = 3 5 5 5 3 3

@@ -1,0 +1,77 @@
+Chico Buarque - Estação Derradeira
+
+(De: Chico Buarque)
+
+G(add9)        G(#5/add9)          G6/9       G7(9)
+Rio    de ladei__________ras Civilização encru_____zilhada
+  G6/9        G(#5/add9)               G(add9) Cm6(9)/G
+Cada  ribancei__________ra é uma nação
+G6/9*         G7(9/b13)             G7(9/13)               G7(9/b13)
+À    sua manei_________ra com ladrão        Lavadeiras, hon_________ra, tradição
+C6(9)/G              G(add9/#11)          G(add9)   Cm6(9)/G
+       Fronteiras, mu___________nição pesa_______da
+G(add9)         G7(9/b13)          C7M/G           E7(b13)/G#
+São    Sebastião         crivado Nublai minha visão
+           Am7(11)             D/C           Bm7(b5)   Bb7(#11)
+Na noite da       grande foguei___ra desvaira_______da
+F6/A                   E7/G#    Am7                   D/C
+    Quero ver a Manguei_____ra     Derradeira estação
+Em                C#m7(b5)    Em          C#m7(b5) C7M Cm6/9
+  Quero ouvir sua ba______tuca__da, ai, ai
+
+G(add9)       G(#5/add9)            G6/9        G7(9)           G6/9
+Rio    do lado          sem beira Cidadãos intei_____ramente lou____cos
+
+         G(#5/add9)             G(add9) Cm6(9)/G
+Com carra__________das de razão
+G6/9*         G7(9/b13)            G7(9/13)                 G7(9/b13)
+À    sua manei_________ra de calção        Com bandeiras sem         explicação
+C6(9)/G            G(add9/#11)           G(add9)   Cm6(9)/G
+       Carreiras de           paixão dana_______da
+G(add9)         G7(9/b13)          C7M/G           E7(b13)/G#
+São    Sebastião         crivado Nublai minha visão
+           Am7(11)             D/C           Bm7(b5)   Bb7(#11)
+Na noite da       grande foguei___ra desvaira_______da
+F6/A                   E7/G#    Am7                   D/C
+    Quero ver a Manguei_____ra     Derradeira estação
+Em                C#m7(b5)    C7M              C7(9)
+  Quero ouvir sua ba______tuca___da, ai, ai, ai
+F6/A                   E7/G#   Am7                    D/C
+    Quero ver a Manguei_____ra     Derradeira estação
+Em                C#m7(b5)    Em          C#m7(b5) C7M C#m7(b5) C7M Cm6/9 G(add9)
+  Quero ouvir sua ba______tuca__da, ai, ai
+
+ACORDES:
+
+G(add9)     - 3X020X     Am7(11)  - X0553X
+G(#5/add9)  - 3X120X     D/C      - X3423X
+G6/9        - 3X220X     Bm7(b5)  - X2323X
+G7(9)       - 3X320X     Bb7(#11) - X1213X
+Cm6(9)/G    - 3X123X     F6/A     - X0353X
+G6/9*       - 3X225X     E7/G#    - 4X243X
+G7(9/b13)   - 3X324X     Am7      - X0201X
+G7(9/13)    - 3X3200     Em       - 0X545X
+C6(9)/G     - 3X223X     C#m7(b5) - X4545X
+G(add9/#11) - 3X022X     C7M      - X3545X
+C7M/G       - 3X241X     Cm6/9    - X3123X
+E7(b13)/G#  - 4X241X     C7(9)    - X3233X
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Bb7(#11) = X 1 2 1 3 X
+Bm7(b5) = X 2 3 2 3 X
+C#m7(b5) = X 4 5 4 5 X
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+C7M/G = 3 X 2 4 1 X
+Cm6/9 = X 3 1 2 3 X
+D/C = X 3 X 2 3 2
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+F6/A = 5 3 3 5 3 X
+G(add9) = 3 X 0 2 0 X
+G6/9 = X X 5 4 5 5
+G7(9) = 3 X 3 2 0 X
+G7(9/13) = 3 X 3 2 0 0
+G7(9/b13) = 3 X 3 2 4 X

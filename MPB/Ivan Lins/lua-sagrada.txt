@@ -1,0 +1,92 @@
+Ivan Lins - Lua Sagrada
+
+Ivan Lins / Paulo César Pinheiro
+
+[Intro:] C9 G7(9)(11) C9 G7(9)(11)
+
+         C9            F7M
+Lua brilhante, aro de prata
+         Dm7       G7(9)(11)         C9
+Solta no céu, parece anel de aristocrata
+                      F7M
+Lua sagrada, deusa secreta
+         Dm7        G7(9)(11)        C9
+Move a maré, rege a mulher, guia o poeta
+
+ G9             F/G
+Lua, dama da estrada
+Em7(9)(11) Bm7(9)(11)
+Nua na   madrugada
+   F7M              Dm7(9) G7(9)(11)
+E cheia de ânsia e desejo
+             C9     Fm/Ab G7(9)   Gm7 G7 G7(13)
+Querendo um beijo do Sol,      do Sol
+
+         C9            F7M
+Lua brilhante, aro de prata
+         Dm7       G7(9)(11)         C9
+Solta no céu, parece anel de aristocrata
+                      F7M
+Lua sagrada, deusa secreta
+         Dm7        G7(9)(11)        C9
+Move a maré, rege a mulher, guia o poeta
+
+ G9             F/G
+Lua, dama da estrada
+Em7(9)(11) Bm7(9)(11)
+Nua na   madrugada
+   F7M              Dm7(9) G7(9)(11)
+E cheia de ânsia e desejo
+             C9     Fm/Ab G7(9)   Gm7 Ab7 Ab7(13) Ab7
+Querendo um beijo do Sol,      do Sol
+
+        Db9            Gb7M
+Lua brilhante, aro de prata
+         Ebm7      Ab7(9)(11)       Db9
+Solta no céu, parece anel de aristocrata
+                      Gb7M
+Lua sagrada, deusa secreta
+         Ebm7      Ab7(9)(11)       Db9
+Move a maré, rege a mulher, guia o poeta
+
+Ab9            Gb/Ab
+Lua, dama da estrada
+Fm7(9)(11) Cm7(9)(11)
+Nua na   madrugada
+   Gb7M            Ebm7(9) Ab7(9)(11)
+E cheia de ânsia e desejo
+            Db9     Gbm/A Ab7(9)  Abm7 Ab7 Ab7(13) Ab7
+Querendo um beijo do Sol,      do Sol
+
+Fim: C#9 F#7M
+
+----------------- Acordes -----------------
+Ab7 = 4 6 4 5 4 4
+Ab7(13) = 4 X 4 5 6 X
+Ab7(9) = 4 X 4 3 1 X
+Ab7(9)(11) = 4 X 4 3 2 X
+Ab7(9)(11) = 4 X 4 3 2 X
+Ab9 = 4 6 8 5 4 4
+Abm7 = 4 X 4 4 4 X
+Bm7(9)(11) = X 2 0 2 2 0
+C9 = X 3 5 5 3 3
+Cm7(9)(11) = X 3 1 3 3 1
+Db9 = X 4 6 6 4 4
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Ebm7 = X X 1 3 2 2
+Ebm7(9) = X 6 4 6 6 X
+Em7(9)(11) = X 7 5 7 7 5
+F/G = 3 X 3 2 1 X
+F7M = 1 X 2 2 1 X
+Fm/Ab = 4 3 3 1 X X
+Fm7(9)(11) = X 8 6 8 8 6
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7(9) = 3 X 3 2 0 X
+G7(9)(11) = 3 X 3 2 1 X
+G9 = 3 X 0 2 0 X
+Gb/Ab = 4 X 4 3 2 X
+Gb7M = 2 X 3 3 2 X
+Gbm/A = X 0 4 2 2 2
+Gm7 = 3 X 3 3 3 X

@@ -1,0 +1,83 @@
+Alceu Valença - Pétalas
+
+INTRO: G7M G13 G G x4
+
+(intro)
+
+E|--10-7-------8--5------7-2------3------|
+B|--12-8-------10-7------8-3------3------|
+G|--------0-0--------0-0------0-0----0-0-|
+D|---------------------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+E|---10-7------8--5------2-7------7------|
+B|---12-8------10-7------3-8------8------|
+G|--------0-0-------0-0-------0-0---0-0--|
+D|---------------------------------------|
+A|---------------------------------------|
+E|---------------------------------------|
+
+ESTROFE 1:
+        G7M        G13              G
+As borboletas voam sobre o meu jardim
+
+          G7M           G13            G
+São cores vivas, pousam sobre as "onze horas"
+          G7M        G13        Em7(9)   G7M
+Nas rosas claras, violetas e jasmins
+
+ESTROFE 2:
+         G7M            G13     G
+Um beija-flor traindo a rosa amarela
+         G7M       G13      G
+Beijou a bela margarida infiel
+          G7M            G13        Em7(9)
+Papoula e dália estão cravadas de ciúmes
+                        C           G7M(13)
+E o beija-flor beijando flores a granel
+
+REFRÃO:
+G7M(13)
+Pétalas, asas amareladas
+
+Pétalas, espinho seco, folha, flor, lagarta
+Em7(9)
+Pétalas
+                                     C
+As flores voam e voltam na outra estação
+                        D           G
+Só serei flor quando tu flores no verão
+
+( G7M  G13  G )
+
+Solo: G7M x4 Em7(9) x2 C D G7M
+
+( G7M  G13  G )
+
+(estrofe 2)
+
+REFRÃO 2:
+G7M(13)
+Pétalas, asas amareladas
+
+Pétalas, espinho seco, folha, flor, lagarta
+Em7(9)
+Pétalas
+                                     C
+As flores voam e voltam na outra estação
+                        D           G
+Só serei flor quando tu flores no verão
+         C              D           G
+Só serei flor quando tu flores no verão
+
+
+
+----------------- Acordes -----------------
+C = X 3 2 0 1 0
+D = X X 0 2 3 2
+Em7(9) = X 7 5 7 7 X
+G = 3 2 0 0 0 3
+G13 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+G7M(13) = 3 X 4 4 5 X

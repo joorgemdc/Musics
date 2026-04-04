@@ -1,0 +1,66 @@
+Marisa Monte - Esta Melodia
+
+Autor:
+    Bubú da Portela/ Jamelão
+    1959
+
+INTR.: F7(#5)
+
+ Bb7+   Cm7            Bb/D
+ Quando vem rompendo o dia
+F7       Bb7+    G7/B           Cm7  G7(#5)
+ Eu me levanto começo logo a cantar
+ Cm   Cm/B     Cm/Bb Cm/A F7            Bb7+
+ Esta doce melodia        Que me faz lembar
+Cm7 Bb/D  Dbº7   Cm7         Cm/Bb
+ Daquelas lindas noites de luar
+    F/A        F7   Bb7+            Bb/A
+ Eu tinha um alguém sempre a me esperar
+Fm/Ab     G7/B           Cm     Cm/Bb |
+ Desde do dia em que ela foi embora   |
+    F7/A           F7       Bb7+      |         
+ Eu guardo esta canção na memória     |(2x)
+
+
+   | Bb   | Bb  | Cm | Cm/Bb |
+   | F7/A | F7  | Bb | Bb    |
+   | Fm   | Bb7 | Eb | Eb    |
+   | F7/A | F7  | Bb | G7/B  |
+
+    Cm          G7/B      Cm
+ Eu tinha a esperança que dia
+        F7                     Bb
+ Ela voltasse para minha companhia
+ Fm7  Bb7          Eb
+ Deus deu resiguinação
+ C7      C/Bb     F7/A  F7
+ Ao meu pobre coração
+             Bb   G7/B   Cm7
+ Não suporto mais tua ausência
+          F7/A F7  Bb
+ Já pei a Deus paciência
+
+----------------- Acordes -----------------
+Bb = X 1 3 3 3 1
+Bb/A = X 0 3 3 3 X
+Bb/D = X 5 X 3 6 6
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+C/Bb = X 1 2 0 1 X
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+Cm/A = X 0 5 5 4 3
+Cm/B = X X 9 8 8 8
+Cm/Bb = X 1 1 0 1 X
+Cm7 = X 3 5 3 4 3
+Dbº7 = X 4 5 3 5 3
+Eb = X 6 5 3 4 3
+F/A = 5 X 3 5 6 X
+F7 = 1 3 1 2 1 1
+F7(#5) = 1 X 1 2 2 1
+F7/A = 5 X 3 5 4 X
+Fm = 1 3 3 1 1 1
+Fm/Ab = 4 3 3 1 X X
+Fm7 = 1 X 1 1 1 X
+G7(#5) = 3 X 3 4 4 3
+G7/B = X 2 3 0 3 X

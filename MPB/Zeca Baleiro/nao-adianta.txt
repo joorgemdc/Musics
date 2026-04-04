@@ -1,0 +1,101 @@
+Zeca Baleiro - Não Adianta
+
+Introdução: D A/C# G D E E/D A/C# A
+
+D           A/C#
+Não adianta,
+            G                D/F#
+Não adianta nada ver a banda,
+                     E                 E/D
+Tocando “A Banda" em frente da varanda,
+              A/C#
+Não adianta o mar,
+  A             D
+E nem a sua dor.
+
+            A/C#
+Não adianta,
+              G                  D/F#
+Não adianta o bonde, a esperança,
+                E                 E/D
+E nem voltar um dia a ser criança,
+           A
+O sonho acabou,
+
+    G    D/F#   Em  D
+E o que adiantou?
+
+2ª Parte:
+D
+Não tenho pressa,
+
+Mas tenho um preço,
+  C#m7/5-            F#7/5+
+E todos tem um preço,
+
+E tenho um canto,
+   Bm            Bm/A E/G#
+Um velho endereço,
+                A
+O resto é com vocês,
+                    D
+O resto não tem vez.
+
+O que importa,
+                  C#m7/5-              F#7
+É que já não me importa, o que importa,
+                Bm           Bm/A  E/G#
+É que ninguém bateu em minha porta,
+                 A
+É que ninguém morreu,
+   G       D/F#    Em   D
+ninguém morreu por mim.
+
+D              A/C#
+Não quero nada,
+                G                  D/F#
+Não deixo nada, que não tenho nada,
+                  E                      E/D
+Só tenho o que me falta e o que me basta,
+                A/C#
+No mais é ficar só,
+   A              D
+Eu quero ficar só.
+
+            A/C#
+Não adianta,
+             G               D/F#
+Não adianta, que não adianta,
+               E                 A7
+Não é preciso, que não é preciso,
+                 D   F#
+Então pra que chorar?
+                 Bm   A
+Então pra que chorar?
+                     D                 F#
+Quem está no fogo, está pra se queimar,
+                 Bm  A    D (esse ré é feito só na repetição, para finalizar)
+Então pra que chorar?
+
+Solo: D A/C# G D/F# E E/D A/C# A
+      D A/C# G D/F# E E/D A/C# G D/F# Em D
+
+- repete a 2ª parte inteira.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+C#m7/5- = X 4 5 4 5 X
+D = X X 0 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/D = X 5 X 4 5 4
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#7/5+ = 2 X 2 3 3 2
+G = 3 2 0 0 0 3

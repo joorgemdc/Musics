@@ -1,0 +1,77 @@
+Nana Caymmi - Neste Mesmo Lugar
+
+G
+
+  D4/7/9  Aº  E9            Am
+Aqui,        neste mesmo lugar,
+       G9      C9         G9
+Neste mesmo lugar de nós dois,
+   C#m7            F#7/4  F#7
+Jamais poderia pensar
+           Bm7     D       Dm/F  E7
+Que eu voltasse sozinho depois.
+   Am    Am/G                B7    B7/F# 
+O mesmo garçom se a-(fá#)proxima, 
+
+Parece que nada mudou,
+   A7/9         Em9       A7/9
+Porém qualquer coisa não rima
+       D4/7/9  D7           D7/4   D7
+Com o tempo    feliz que passou.
+ Am7          D7/9-
+Por ironia cruel
+    G9      C9       G9
+Alguém começou a cantar
+
+    C#m7             F#7
+Um samba-canção de Noel,
+     Bm7                Dm7
+Que viu nosso amor começar.
+    C7M    F#º     Aº         F#º  D#º
+Só falta agora  a porta se abrir
+  A#º     C9     Am7       D7/9
+E ela ao lado de outro chegar
+       C9     G7/F         E7
+E por mim passar sem me olhar.
+    C7M    F#º     Aº         F#º  D#º
+Só falta agora  a porta se abrir
+  A#º     C9     Am7       D7/9
+E ela ao lado de outro chegar
+       C9     G9
+E por mim passar.
+
+
+Obs.: O (fá#) é nota de ligação entre os
+acordes Am/G e B7
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A7/9 = 5 X 5 4 2 X
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+Am7 = X 0 2 0 1 0
+Aº = 5 X 4 5 4 X
+B7 = X 2 1 2 0 2
+B7/F# = X X 4 4 4 5
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D4/7/9 = X 5 5 5 5 5
+D7 = X X 0 2 1 2
+D7/4 = X X 0 2 1 3
+D7/9 = X 5 4 5 5 X
+D7/9- = X 5 4 5 4 X
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E9 = 0 2 4 1 0 0
+Em9 = 0 2 4 0 0 0
+F#7 = 2 4 2 3 2 2
+F#7/4 = 2 4 2 4 2 X
+F#º = 2 X 1 2 1 X
+G = 3 2 0 0 0 3
+G7/F = 1 X X 0 0 3
+G9 = 3 X 0 2 0 X

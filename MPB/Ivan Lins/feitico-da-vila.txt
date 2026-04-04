@@ -1,0 +1,79 @@
+Ivan Lins - Feitiço da Vila
+
+[ Noel Rosa / Vadico ]
+
+
+[Intro:] C7M F#7(b5) Bm7(9) E7(b9) Am7(9) D7(b9) G7M G7(9) G7(b9)
+         C7M F#7(b5) Bm7(9) E7(13) E7(b13) A7(9) D7(9)(11) G7M D7(9-/11)
+
+ G7M G7M(b13) G7M(13) F#m7(b5) B7(b9) B7(b13)   Em7(11) C7M
+Quem   nas...ce lá na   Vila,       nem sequer vacila
+        F#m7(b5) B7(9)(11) B7(b9) C7M
+Ao abraçar o sam...ba
+  F#7(b13)        G7M      G/F E7(9)(11)
+Que faz dançar os galhos do arvoredo
+ E7(b9) A7(9)(11) A7(9) D7(9)(11) D7(9-/11)     G7M D7(9-/11)
+E faz a    lua             nascer           mais cedo
+
+Lá em Vila Isabel quem é bacharel
+Não tem medo de bamba
+São Paulo dá café, Minas dá leite
+  E7(b9) A7(9)(11) A7(9) D7(9)(11) D7(9-/11)      G7M Bm7
+E a Vila                Isabel               dá samba
+
+E7(b9) Am7 E7(b9)       Am7       Am6
+A Vila tem   um feitiço sem farofa
+Am7        Cm6       D7(b9)            G7M F#m7(b5) F7(b5) Em7(9)
+Sem vela e sem vintém      que nos faz bem
+         F#m7(b5) B7(b13)  Em7(9) Em7(9)/D C#m7(b5) F#7(b13)   Bm7
+Tendo nome de      prin...cesa      transformou        o    samba
+    A7(9)(11) A7(9) D7(9)    D7(9)(11) D7(9)(#11) D7
+Num feitiço        decente que prende a gente
+
+O sol na Vila é triste
+Samba não assiste porque a gente implora:
+Sol, pelo amor de Deus não venha agora
+Que as morenas vão logo embora
+
+Eu sei tudo o que faço, sei por onde passo
+Paixão não me aniquila
+Mas tenho que dizer: "Modéstia à parte,
+Meus senhores, eu sou da Vila!"
+
+----------------- Acordes -----------------
+A7(9) = 5 X 5 4 2 X
+A7(9)(11) = 5 X 5 4 3 X
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B7(9)(11) = X 2 2 2 2 2
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#m7(b5) = X 4 5 4 5 X
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+D7(9)(#11) = X X 0 1 1 0
+D7(9)(11) = X 5 5 5 5 5
+D7(9-/11) = 10 9 10 8 8 X
+D7(b9) = X 5 4 5 4 X
+E7(13) = 0 X 0 1 2 0
+E7(9)(11) = X X 2 2 3 2
+E7(b13) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+Em7(11) = X 7 X 7 8 5
+Em7(9) = X 7 5 7 7 X
+Em7(9)/D = 10 9 9 P12 12 12
+F#7(b13) = 2 X 2 3 3 2
+F#7(b5) = 2 X 2 3 1 X
+F#m7(b5) = 2 X 2 2 1 X
+F7(b5) = 1 X 1 2 0 X
+G/F = 1 X X 0 0 3
+G7(9) = 3 X 3 2 0 X
+G7(b9) = 3 X 3 1 0 X
+G7M = 3 X 4 4 3 X
+G7M(13) = 3 X 4 4 5 X
+G7M(b13) = 3 X 4 4 4 X

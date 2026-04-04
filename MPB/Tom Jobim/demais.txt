@@ -1,0 +1,77 @@
+Tom Jobim - Demais
+
+      G7M               C7(9/#11)
+Todos acham que eu falo demais
+         Am7(9)       F7(9/#11)
+E que eu ando bebendo demais
+         Bm7    Em7
+Que essa vida agitada
+     Am7      D7(9)
+Não serve pra nada
+B7(13) B7(b13) E7/4(9)
+Andar  por      aí
+E7(b9) A7(13) A7(b13) D7(9)
+Bar em bar     bar em bar
+
+      G7M                C7(9/#11)
+Dizem até que ando rindo demais
+         Am7(9)         F7(9/#11)
+E que eu conto anedotas demais
+            Bm7      Em7
+Que eu não largo o cigarro
+    Am7         D7(9)
+E dirijo o meu carro
+
+B7(13) B7(b13) E7/4(9) E7(b9) A7(13) A7(b13) D7/4(9/13)
+Corren-do,     chegan--do, no mes----mo      lugar
+
+        Eb7M                Cm7
+Ninguém sabe é que isso acontece porque
+       Eb7M                 Cm7
+Vou passar toda a vida esquecendo você
+      Bm7                    Em7   F#7(b13)
+E a razão por que vivo esses dias banais
+     Bm7       Bb7         Eb7M    Ab7(#11)
+É porque ando triste, ando triste demais
+
+         G7M              C7(9/#11)
+E é por isso que eu falo demais
+       Am7(9)           F7(9/#11)
+É por isso que eu bebo demais
+     Bm7         Em7       Am7
+E a razão porque vivo essa vida
+  D7(9)  B7(13) B7(b13) E7/4(9) E7(b9)
+Agitada demais
+   Am7                 D7(9)
+É porque meu amor por você é imenso
+Bm7             E7/4(9)   E7(b9)
+O meu amor por você é tão grande
+   A7(13)                D7/4(9)
+É porque o meu amor por você
+  D7(b9)   G6
+É enorme demais
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Ab7(#11) = 4 X 4 5 3 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B7(13) = X 2 X 2 4 4
+B7(b13) = X 2 X 2 4 3
+Bb7 = X 1 3 1 3 1
+Bm7 = X 2 4 2 3 2
+C7(9/#11) = X 3 2 3 3 2
+Cm7 = X 3 5 3 4 3
+D7(9) = X 5 4 5 5 X
+D7(b9) = X 5 4 5 4 X
+D7/4(9) = X 5 5 5 5 5
+D7/4(9/13) = X 5 5 5 5 7
+E7(b9) = X X 2 1 3 1
+E7/4(9) = X X 2 2 3 2
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+F#7(b13) = 2 X 2 3 3 2
+F7(9/#11) = 1 0 1 0 0 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

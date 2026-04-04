@@ -1,0 +1,54 @@
+Caetano Veloso - Chuvas de Verão
+
+
+Intro: C#m C#m7/B A7 G#7 C#m
+
+     C#m        C#m7       A7  G#7
+Podemos ser amigos simplesmen...te
+A7         G#7       C#m  A7  G#7
+Coisas do amor nunca mais
+   C#m       C#m/B       G#m
+Amores do passado, do presente
+    D#7                    G#7
+Repetem velhos temas tão banais
+    C#m           C#m/B       A7
+Ressentimentos passam como o vento
+       G#7
+São coisas de momento
+   G#m          C#7
+São chuvas de verão
+                               F#m
+Trazer uma aflição dentro do peito.
+   B7/9           E
+É dar vida a um defeito
+
+       D#m5-/7  G#7  C#m
+Que se extingue com a razão
+    B7
+Estranha no meu peito
+     E
+Estranha na minha alma
+   B7
+Agora eu tenho calma
+     D#m5-/7  G#7
+Não te desejo mais
+   C#m         C#m/B        A7
+Podemos ser amigos simplesmente
+   G#7                      C#m
+Amigos, simplesmente, nada mais
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+B7/9 = X 2 1 2 2 X
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+C#m7/B = 7 4 6 4 5 4
+D#7 = X 6 5 6 4 X
+D#m5-/7 = X X 1 2 2 2
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4

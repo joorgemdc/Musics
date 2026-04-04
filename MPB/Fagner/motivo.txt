@@ -1,0 +1,47 @@
+Fagner - Motivo
+
+[Intro] E  E7  A  F#m  F#m7  B7  G#  C#m ( Am E ) Am
+
+    E     E7                   A
+Eu canto, porque o instante existe
+F#m       F#m7           B7
+E a minha vida está completa
+     Cº               C#m  Am      E
+Não sou alegre nem sou triste, sou poeta
+     Am                  E     Am     E
+Não sou alegre nem sou triste, sou poeta
+   Bm7     E7        A
+Irmão das coisas fugidias
+         G#            C#m
+Não sinto gozo nem tormento
+     Am             E      F# B7
+Atravesso noites e dias no vento
+       Cº         C#m
+Se desmorono ou se edifico
+          F#           B7
+Se permaneço ou me desfaço
+Cº      C#m    F# B7
+Não sei se fico ou passo
+
+          Cº               C#m
+Eu sei que canto e a canção é tudo
+              F#             B7
+Tem sangue eterno a asa ritmada
+G#                     A          Am     E
+E um dia eu sei que estarei mudo, mais nada
+Am              E    Am      E
+Amanhã estarei mudo, mais nada
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#m = X 4 6 6 5 4
+Cº = X 3 4 2 4 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F# = 2 4 4 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4

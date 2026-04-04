@@ -1,0 +1,75 @@
+Chico Buarque - Sou Eu
+
+(intro) ( D9 G6(#11) )
+
+    D7M                   F#7(b9) G7M(#11) E7/G#
+Na minha mão o coração      balança
+                      D6/A Bbº    Bm7 B7 B7/D#
+Quando ela se lança no salão
+   Em7                   A7(9)
+Pra esse ela bamboleia
+          Em7                 A7(9)
+Pra aquele ela roda a saia
+      Em7                    A7(9)        Eb7M D7M
+Com outro ela se desfaz da sandália
+
+   D7M                                F#7(b9)  G7M(#11) E7/G#
+Porém depois que essa mulher      espalha
+                    D6/A Bbº   Bm7 B7 B7/D#
+Seu fogo de palha no salão
+        Em7                          A7(9)
+Pra quem que ela arrasta a asa
+          Em7                    A7(9)
+Quem vai lhe apagar a brasa
+
+        Em7                      A7(9)    C#7(#9) F#7
+Quem é que carrega a moça pra casa
+
+B7(4) B7 E7(#9)
+Sou eu
+      A7(4)           A7      B7(4) B7 E7(#9)
+Só quem sabe dela sou eu
+        A7(4)       A7       B7(4) B7 E7(#9)
+Quem dá o baralho sou eu
+           A7(4)         A7          B7(4) B7 E7(#9) A7
+Quem manda no samba sou eu
+
+O coração na minha mão suspira
+Quando ela se atira no salão
+Pra esse ela pisca um olho
+Pra aquele ela roda a saia
+Com outro ela quase cai na gandaia
+
+Porém depois que essa mulher espalha
+Seu fogo de palha no salão
+Pra quem que ela arrasta a asa
+Quem vai lhe apagar a brasa
+Quem é que carrega a moça pra casa
+
+Sou eu
+Só quem sabe dela sou eu
+Quem dá o baralho sou eu
+Quem dança com ela sou eu
+Quem leva este samba sou eu...
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+A7(9) = 5 X 5 4 2 X
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+B7/D# = X X 1 2 0 2
+Bbº = X 1 2 0 2 0
+Bm7 = X 2 4 2 3 2
+C#7(#9) = X 4 3 4 5 X
+D6/A = X 0 4 4 3 X
+D7M = X X 0 2 2 2
+D9 = X X 0 2 3 0
+E7(#9) = X 7 6 7 8 X
+E7/G# = 4 X 2 4 3 X
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(b9) = X X 4 3 5 3
+G6(#11) = X X 5 6 5 3
+G7M(#11) = 3 X 4 4 2 X

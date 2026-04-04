@@ -1,0 +1,68 @@
+Djavan - Fera
+
+G7M          Gº
+Você é coisa demais
+Am7              G7M
+Que mau eu não saber lidar
+                 Gº
+Com tudo isso de uma vez
+Am7                G7M
+Eu sei, mas eu vou dar tudo
+                 Gº     Am7   F7M  E7
+Vou enfrentar um mundo assustador
+Am7                         Cm6
+Pra conquistar o coração da fera
+       D7(b9)      G7M  C7(9)
+Que me fere com amor
+Am7M Am7  Am6   Am7
+Cai o sol no mar
+        Am   Am7M   Am7   Am6       G7M
+É um milagre eu não me afogar com a tarde
+         Gº
+Sou quem arde cego de paixão
+Am7M   Am7  Am6   Am7
+Abra a porta então
+
+            Am  Am7M    Am7   Am6      G7M
+Deixe eu pensar que por ser assim sou amado
+      Gº
+Perdido ou desejado,
+                         Am7
+Estar contigo me faz tão bem
+   D7(b9)
+É amor, bem
+     C#º        G/B         G7M/Bb
+E eu nem sei se você vai me amar
+Am7         D7(b9)
+Ninguém, só você, meu bem
+     C#º           G/B    A7(5+)
+Pode fazer meu coração sofrer.
+Am7
+Bem
+   D7(b9)
+É amor, bem
+     C#º        G/B         G7M/Bb
+E eu nem sei se você vai me amar
+Am7         D7(b9)
+Ninguém, só você, meu bem
+     C#º          G/B    A7(5+)
+Pode fazer meu coração sofrer.
+
+( Am7 D7(b9) C#º G/B B6 Am7 D7(b9) C#º G/B G7M/Bb ) 3X
+
+----------------- Acordes -----------------
+A7(5+) = X 0 X 0 2 1
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Am7M = X 0 2 1 1 0
+B6 = X 2 4 1 4 X
+C#º = X 4 5 3 5 3
+C7(9) = X 3 2 3 3 X
+Cm6 = X 3 X 2 4 3
+D7(b9) = X 5 4 5 4 X
+E7 = 0 2 2 1 3 0
+F7M = 1 X 2 2 1 X
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+Gº = 3 X 2 3 2 X

@@ -1,0 +1,47 @@
+Chico Buarque - O Malandro 2
+
+(De: Kurt Weill & Bertolt Brecht/ versão livre de Chico Buarque)
+
+Intr.: C#6/9 / / / D#m7(9) / A#7(b13) / G#7/4(9) / G#7(#5) /
+       C#6/9 / / / A#m7 / Eº / D#m7(9) / Dº / G#7/4(9) / G#7(#5) /
+       C#6/9 / G#7(13) / C#6/9 / / / D#m7(9) / A#7(b13) / G#7/4(9) / G#7(#5) /
+       C#6/9 / / / A#m7 / Eº / D#m7(9) / Dº / G#7/4(9) / G#7(#5) / C#6/9 /
+
+G#7(13)    C#6/9        D#m7(9)  A#7(b13)         G#7/4(9)          C#6/9 G#7(#5)
+       O malandro Tá na gre____ta         Na sarje________ta Do país
+          A#m7   Eº         D#m7(9)   Dº         G#7/4(9)             C#6/9
+E quem pas____sa    Acha gra_______ça   Da desgra________ça Do infeliz
+G#7(13)    C#6/9          D#m7(9)  A#7(b13)       G#7/4(9)           C#6/9 G#7(#5)
+       O malandro Tá de co_______ma         Hemato________ma No nariz
+        A#m7   Eº        D#m7(9)   Dº       G#7/4(9)           C#6/9
+E rasgan____do    Sua ban_______da   Uma fun________da Cicatriz
+G#7(13)      C#6/9             D#m7(9)  A#7(b13)            G#7/4(9)          C#6/9 G#7(#5)
+       O seu rosto Tem mais mos_______ca         Que a biros________ca Do Mané
+       A#m7    Eº            D#m7(9)   Dº         G#7/4(9)              C#6/9
+O malan____dro    É um presun_______to   De pé jun________to E com chulé
+G#7(13)     C#6/9            D#m7(9)  A#7(b13)          G#7/4(9)            C#6/9 G#7(#5)
+       O coitado Foi encontra_______do         Mais fura________do Que Jesus
+
+          A#m7    Eº     D#m7(9)    Dº        G#7/4(9)             C#6/9
+E do estra____nho    Abdô_______men   Desse ho________mem Jorra pus
+G#7(13)      C#6/9         D#m7(9)  A#7(b13)           G#7/4(9)           C#6/9 G#7(#5)
+       O seu peito Putrefei_______to         Tá com jei________to De pirão
+         A#m7    Eº         D#m7(9)    Dº            G#7/4(9)                 C#6/9
+O seu san____gue    Forma la_______gos   E os seus ca________cos Estão no chão
+G#7(13)    C#6/9           D#m7(9)  A#7(b13)         G#7/4(9)             C#6/9 G#7(#5)
+       O cadáver Do indigen_______te         É eviden________te Que morreu
+          A#m7   Eº          D#m7(9)   Dº        G#7/4(9)            C#6/9 G#7(#5)
+E no entan____to    Ele se mo_______ve   Como pro________va O Galileu
+          A#m7   Eº          D#m7(9)   Dº        G#7/4(9)            C#6/9
+E no entan____to    Ele se mo_______ve   Como pro________va O Galileu...
+
+----------------- Acordes -----------------
+A#7(b13) = X 1 X 1 3 2
+A#m7 = X 1 3 1 2 1
+C#6/9 = X 4 3 3 4 4
+D#m7(9) = X 6 4 6 6 X
+Dº = X X 0 1 0 1
+Eº = X X 2 3 2 3
+G#7(#5) = 4 X 4 5 5 4
+G#7(13) = 4 X 4 5 6 X
+G#7/4(9) = 4 X 4 3 2 X

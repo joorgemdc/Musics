@@ -1,0 +1,148 @@
+Nana Caymmi - Velho Piano
+
+Intro 2x: Am7(9)  Am7(#5)  Am6  Am7(#5)
+
+Am7(9)  E7      Am7(9)
+Ah! O amor muda tanto
+E7            Am7(9)
+Parece que o encanto
+E7           Am7(9) F#7Alt
+O cotidiano desfaz
+Bm7            F#7Alt     G7M
+Feito um verso jogado num canto
+F#m7(11)    Em7(9)(11)
+De um velho piano
+F#m7(11)     G7M  Gº
+Que não toca mais
+Am7(9)  E7      Am7(9)
+E ele estende seu manto
+E7            Am7(9)
+Feito um soberano
+E7            Am7(9)
+E vem como um santo
+F#7Alt    Bm7
+Mas parte profano
+
+E7        Am7(9)
+Parece um cigano
+D7(b9)    G7M(#5) G7 G6 G(#5)
+Não volta jamais
+C#7sus4(9)        F#7sus4
+Ah! O amor causa espanto
+F#7(#11)   B7M(9)     C#m7(9)
+O amor é o engano que traz
+D#m7(11)      G#m7
+Desengano por trás
+C7sus4(9)
+E no entanto
+         F7sus4
+Todo ser humano
+F7(#11)     Bb7M  Eb7(9)
+Por ele faz plano demais
+Abm7    Eb7(b9)
+Erra demais
+Am7(9)  E7      Am7(9)
+Ai, é o amor, barco tonto
+E7      Am7(9)
+Num vasto oceano
+E7           Am7(9) F#7(13)
+De riso e de pranto
+F#7(b13)     Bm7
+De gozo e de dano
+F#m7(11)  G7M
+E como é mundano
+F#m7(11)    Em7(9)(11)
+Não pára no cais
+F#m7(11)      G7M
+E quando quer paz
+A7sus4(9) D7M(9)
+É tarde demais
+
+( A7sus4(9)  D7M(9)  C#m7(b5)  F#7Alt  Bm7 )
+( Bm7M  Bm7  E7  G7M  F#m7(11)  Em7(9)(11)  Em/D )
+
+Eb7sus4(9)       Ab7sus4
+Ah! O amor causa espanto
+Ab7(#11)  Db7M(9)    Ebm7(9)
+O amor é o engano que traz
+Fm7(11)       Bbm7
+Desengano por trás
+Dm7(9)
+E no entanto
+         G7sus4(9)
+Todo ser humano
+G7(#11)     C7M(9)      F7(13)
+Por ele faz plano demais
+Bbm7  F7Alt
+Erra demais
+
+Bm7(9)  F#7Alt      Bm7(9)
+Ai, é o amor, barco tonto
+F#7Alt    Bm7(9)
+Num vasto oceano
+F#7Alt    Bm7(9)
+De riso e de pranto
+G#7Alt       C#m7(9)
+De gozo e de dano
+G#m7(11)  A7M
+E como é mundano
+G#m7(11)    F#m7(11)
+Não pára no cais
+G#m7(11)      A7M
+E quando quer paz
+B7sus4(9) E7M(9)
+É tarde demais
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+A7sus4(9) = 5 X 5 4 3 X
+Ab7(#11) = 4 X 4 5 3 X
+Ab7sus4 = 4 6 4 6 4 X
+Abm7 = 4 X 4 4 4 X
+Am6 = 5 X 4 5 5 X
+Am7(#5) = X 0 3 0 1 0
+Am7(9) = X X 7 5 8 7
+B7M(9) = X 2 1 3 2 X
+B7sus4(9) = X 2 2 2 2 2
+Bb7M = X 1 3 2 3 1
+Bbm7 = X 1 3 1 2 1
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+Bm7M = X 2 4 3 3 2
+C#7sus4(9) = X 4 4 4 4 4
+C#m7(9) = X 4 2 4 4 X
+C#m7(b5) = X 4 5 4 5 X
+C7M(9) = X 3 2 4 3 X
+C7sus4(9) = X 3 3 3 3 3
+D#m7(11) = X 6 6 6 7 6
+D7(b9) = X 5 4 5 4 X
+D7M(9) = X 5 4 6 5 X
+Db7M(9) = X 4 3 5 4 X
+Dm7(9) = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7M(9) = X 7 6 8 7 X
+Eb7(9) = X 6 5 6 6 X
+Eb7(b9) = X 6 5 6 5 X
+Eb7sus4(9) = X X 1 1 2 1
+Ebm7(9) = X 6 4 6 6 X
+Em/D = X X 0 4 5 3
+Em7(9)(11) = X 7 5 7 7 5
+F#7(#11) = 2 X 2 3 1 X
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#7sus4 = 2 4 2 4 2 X
+F#m7(11) = 2 X 2 2 0 X
+F7(#11) = 1 X 1 2 0 X
+F7(13) = 1 X 1 2 3 X
+F7sus4 = 1 3 1 3 1 X
+Fm7(11) = X 8 X 8 9 6
+G#m7 = 4 X 4 4 4 X
+G#m7(11) = 4 X 4 4 2 X
+G(#5) = 3 X 1 0 0 X
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7(#11) = 3 X 3 4 2 X
+G7M = 3 X 4 4 3 X
+G7M(#5) = 3 X 4 4 4 X
+G7sus4(9) = 3 X 3 2 1 X
+Gº = 3 X 2 3 2 X

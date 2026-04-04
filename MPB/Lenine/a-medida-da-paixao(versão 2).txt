@@ -1,0 +1,73 @@
+Lenine - A Medida da Paixão
+
+Em7            A7/5+           F#m7 
+É como se a gente não soubesse  
+             B7/9-        Em 
+Pra que lado foi a vida  
+           A7               D7+ 
+Por que tanta solidão  
+Em7         A7/5+          Bm7 
+E não é a dor que me entristece  
+                    Em 
+É não ter uma saída  
+         A7                    D7+ 
+Nem medida na paixão  
+ 
+
+Em7         A7/5+        Bm7 
+Foi, o amor se foi perdido  
+                 Em 
+Foi tão distraído  
+      F#7/5+          C#m7 
+Que nem me avisou  
+Em7        A7/5+         Bm7 
+Foi, o amor se foi calado  
+              Em 
+Tão desesperado  
+      F#7           Bm7M F# 
+Que me machucou  
+ 
+
+Em7            A7/5+           F#m7 
+É como se a gente pressentisse  
+            B7/9-              Em 
+Tudo que o amor não disse  
+         A7             D7+ 
+Diz agora essa aflição  
+Em7        A7/5+        Bm7 
+E ficou o cheiro pelo ar  
+                    Em 
+Ficou o medo de ficar  
+         A7                 D7+ 
+Vazio demais meu coração  
+ 
+
+Em7        A7/5+        Bm7 
+Foi, o amor se foi perdido  
+ 
+
+              Em 
+Foi tão distraído  
+      F#7/5+            C#m7 
+Que nem me avisou  
+Em7       A7/5+         Bm7 
+Foi, o amor se foi calado  
+                  Em 
+Tão desesperado  
+       F#7            Bm7M F# 
+Que me maltratou
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/5+ = X 0 X 0 2 1
+B7/9- = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+Bm7M = X 2 4 3 3 2
+C#m7 = X 4 6 4 5 4
+D7+ = X X 0 2 2 2
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+F#7/5+ = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X

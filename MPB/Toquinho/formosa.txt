@@ -1,0 +1,41 @@
+Toquinho - Formosa
+
+G        G7        C7M  C6
+Formosa não faz assim
+Bm7(b5)    E7(b9)    Am7 Am7/G  F#m7(b5) B7(b9)
+Carinho não é ruim
+           Em7     B7(b9)    D7/9     D#º
+Mulher que nega não sabe não
+    Em7           B7            Em7        (1ª - D7/9 / 2ª G7)
+Tem uma coisa de menos no seu coração.
+
+   C7M                    C#º            G7M
+A gente nasce, a gente cresce, a gente quer amar
+G7     C7M              C#º           G7M    G7
+Mulher que nega, nega o que não é para negar
+      C7M             C#º           Bm7           E7/9
+A gente pega, a gente entrega, a gente quer morrer
+Am7               D7/9              G7M
+Ninguém tem nada de bom sem sofrer
+Am7               D7/9              G7M
+Ninguém tem nada de bom sem sofrer
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C#º = X 4 5 3 5 3
+C6 = 8 X 7 9 8 X
+C7M = X 3 2 0 0 X
+D#º = X X 1 2 1 2
+D7/9 = X 5 4 5 5 X
+E7(b9) = X X 2 1 3 1
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X

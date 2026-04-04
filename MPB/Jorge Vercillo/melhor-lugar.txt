@@ -1,0 +1,79 @@
+Jorge Vercillo - Melhor Lugar
+
+[Intro]  F#m7  A/B  B/A  G#m7  C#m7(9)
+
+ F#m7                  A/B
+Se fosse por mim eu ficava
+     B/A     G#m7         C#m7(9)
+Mas vê como tudo lá fora mudou
+   F#m7                  A/B
+O tempo passou feito um louco
+     B/A         G#m7            C#7(b13)  C#7
+Quebrando as vidraças e a gente ficou
+
+F#m7(11)  A/B
+Aqui
+     Cº              C#m7
+Sem ter nem pra onde ir
+              F#7(9)
+Por medo ou preguiça
+F#m7(11)           A/B
+Aqui, ilhados pos nós
+    Cº      C#m7              F#7(9)
+Sequer rastreados por nenhum radar
+
+   A7M        A/B   B7(9)    E7M(9)  C#7
+Aqui parecia ser o melhor lugar
+
+  F#m7                     A/B
+Quem disse que a gente precisa
+    B/A      G#m7                C#m7(9)
+Perder um ao outro pra se encontrar
+ F#m7                     A/B
+Se nada nos prende ao passado
+    B/A    G#m7             C#7/b13  C#7
+Não é o futuro que vai separar
+
+F#m7(11)  A/B
+Enfim
+         C°           C#m7
+Encosta seu barco em mim
+                 F#7(9)
+Que o sol já se pôs
+F#m7(11)           A/B  C°
+A sós, o mundo termina
+             C#m7               F#7(9)
+Na fina fronteira dos nosso lençóis
+    A7M                 A/B    B7(9)          E7M(9)  C#7
+Em nós, espalham-se os laços, desfazem-se os nós
+
+ F#m7(11)                A/B      C°
+Sonhamos paisagens, compramos passagem
+C#m7(9)  C#m7M(9)   C#7(13)  C#7(b13)
+E nunca voamos pra lá
+F#m7(11)  A/B
+Enfim
+    Cº               C#m7       F#7(9)
+Passeia tua boca em mim até me calar
+   A7M        A/B    B7(9)    E7M(9)  C#7
+Aqui ainda parece o melhor lugar
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7M = X 0 2 1 2 0
+B/A = X 0 4 4 4 X
+B7(9) = X 2 1 2 2 X
+C#7 = X 4 3 4 2 X
+C#7(13) = X 4 X 4 6 6
+C#7(b13) = X 4 X 4 6 5
+C#7/b13 = X 4 X 4 6 5
+C#m7 = X 4 6 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C#m7M(9) = X 4 2 5 4 X
+C° = X 3 4 2 4 2
+Cº = X 3 4 2 4 2
+E7M(9) = X 7 6 8 7 X
+F#7(9) = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+G#m7 = 4 X 4 4 4 X

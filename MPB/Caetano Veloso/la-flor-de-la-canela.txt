@@ -1,0 +1,104 @@
+Caetano Veloso - La Flor de La Canela
+
+[Intro] D7  Gm6  Gm6
+        D7  Gm6  G7
+        Cm7  Gm6  Gm6
+        D7  Gm6  Gm6
+
+Gm6            D7      Gm7   Gm6
+Déjame que te cuente limeño
+Gm6            G7      Cm7
+Déjame que te diga la gloria
+      F7                   Bb7M
+Del ensueño que evoca la memoria
+           D7                    Gm7   F7  Eb7  D7
+Del viejo puente del río y la alameda
+
+            D7     Gm7
+Déjame que cuente limeño
+Cm7             G7           Cm6   Cm7
+Ahora que aún perdura el recuerdo
+F7                F7         Bb7M
+Ahora que aún se mece en un sueño
+           D7                 Gm7      Gm6
+El viejo puente el río y la alameda
+
+
+                Cm7   F7           Bb7M       Bb6
+Jazmines en el pelo y rosas en la cara,   airosa
+ C#7(b5)  Cm7           F7                 Bb7M  Cm7  Dm7
+Cami - naba la flor,    la flor de la canela
+       C#7(b5)   Cm7      F7        Dm7
+Derramaba     lisura y a su paso dejaba
+  G7         Cm7         F7         Bb7M  Cm7  Dm7
+Aromas de mistura que en el pecho llevaba
+
+C#7                 Cm7   F7             Bb7M
+Del puente a la alameda menudo pie la lleva
+             Dm7     C#7(b5)     Cm7      F7
+Por la    vereda que se estre - mece al ritmo
+        Bb7M  Cm7  Dm7    C#7(b5)    Cm7    F7
+De su cadera            recogía la risa de la brisa
+    Dm7       G7       Cm7
+Del río y al viento la lanzaba
+     F7             Bb7M
+Del puente a la alameda
+
+ D7            Am7(b5)  D7   Gm7
+Déjame que te cuen  -  te limeño
+     Gm6          D7        Am7(b5)    D7   Gm7
+Ay! Deja que te diga moreno         mi pensamiento
+   D7           Am7(b5)  D7       Gm         Gm6
+A ver si así despier - tas del sueño, del sueño
+         D7            Am7     D7   Gm7      Gm7  F7  Eb7
+Que entretiene, moreno,    tus sentimientos
+
+D7            Gm6             D7          Gm6
+Aspira de la lisura que da la Flor de Canela
+    Eb7M     D7        Am7(b5)    D7    Gm7   Gm6
+Adornada con jazmines matizando     su hermosu - ra
+Am7(b5)  D7           Gm7         D7          Gm6
+Alfombra de nuevo el puente, y engalana la alameda
+       Eb7M       D7     Am7(b5)    D7        Gm6
+Que el río acompasará tu paso         por la vereda
+
+             F7
+Y recuerda que
+
+                Cm7   F7           Bb7M       Bb6
+Jazmines en el pelo y rosas en la cara,   airosa
+ C#7(b5)  Cm7           F7                 Bb7M  Cm7  Dm7
+Cami - naba la flor,    la flor de la canela
+       C#7(b5)   Cm7      F7        Dm7
+Derramaba     lisura y a su paso dejaba
+  G7         Cm7         F7         Bb7M  Cm7  Dm7
+Aromas de mistura que en el pecho llevaba
+
+C#7(b5)                 Cm7   F7             Bb7M
+Del puente a la alameda menudo pie la lleva
+             Dm7     C#7(b5)     Cm7      F7
+Por la    vereda que se estre - mece al ritmo
+        Bb7M  Cm7  Dm7    C#7(b5)    Cm7    F7
+De su cadera            recogía la risa de la brisa
+    Dm7       G7       Cm7
+Del río y al viento la lanzaba
+     F7             Bb7M
+Del puente a la alameda
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7(b5) = 5 X 5 5 4 X
+Bb6 = X 1 3 0 3 X
+Bbmaj7 = X 1 3 2 3 1
+C#dim7 = X 4 5 3 5 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+Dm7 = X 5 7 5 6 5
+Eb7 = X 6 5 6 4 X
+Ebmaj7 = X X 1 3 3 3
+F7 = 1 3 1 2 1 1
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

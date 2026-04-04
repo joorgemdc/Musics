@@ -1,0 +1,107 @@
+Chico Buarque - João e Maria
+
+[Intro]
+
+E|-----0------------------0---------------------|
+B|-----1--------------0---0---------------------|
+G|---4---4-------------2-----0------------------|
+D|-----------------3----------------------------|
+A|-0-------0--------------------0---------------|
+E|-----------3-2-1---------3--------------------|
+
+  Am9             Dm            Bº                C
+Agora eu era o herói e o meu cavalo só falava inglês
+   Am             Dm     G7                  C
+A noiva do cowboy era você além das outras três
+                  B7        B7/D#         Em
+Eu enfrentava os batalhões, os alemães e seus canhões
+                C               F7                E
+Guardava o meu bodoque e ensaiava o rock para as matinês
+
+E|----------------------------------|
+B|----------------------------------|
+G|----------------------------------|
+D|--3-2-0---------------------------|
+A|--------3-2-0---------------------|
+E|----------------------------------|
+
+
+  Am            Dm         Bº             C
+Agora eu era o rei, era o bedel e era também juiz
+Am            Dm                G7       A7(4)/Bb  A7
+E pela minha lei a gente era obrigado a ser feliz
+G7/B   A7/C#  Dm         G7                 C
+E     vo...cê era a princesa que eu fiz coroar
+       A#7/F             Bb7M             E7       Am9
+E era tão linda de se admirar que andava nua pelo meu país
+
+E|--------0 ----0-----------------------|
+B|--------1-----1-----------------------|
+G|----4------4--------------------------|
+D|-----------------2--------------------|
+A|-0------------------0-----------------|
+E|--------------------------------------|
+
+ Am9           E/G#
+Não, não fuja não
+            A7/G                   Bb7M/F
+Finja que agora eu era o seu brinquedo
+G/B            C       Bb             E7
+Eu era o seu pião, o seu bicho preferido
+ Am        E7/B           A/C#                Dm
+Sim, me dê a mão, a gente agora já não tinha medo
+ Bº       C         Am7    G4   D7/F#  F7M  E7       Am
+No tempo da maldade acho que a gente  nem  tinha nascido
+
+E|-------------------------------------|
+B|-------1-----1-----1----1----1----0--|
+G|-------0-----0-----0----2----2----1--|
+D|-------2-----2-----0----0----2----2--|
+A|-1-2-3----0--------------------------|
+E|----------------3-----2----1----0----|
+
+Am           Dm               Bº                 C
+Agora era fatal que o faz-de-conta terminasse assim
+  Am              Dm          G7                A7(4)/Bb  A7
+Pra lá desse quintal era uma noite que não tem mais fim
+ G7/B  A7/C#  Dm          G7              C
+Pois  vo.....cê sumiu no mundo sem me avisar
+           F7M                 Bb7M              E7             Am9
+E agora eu era um louco a perguntar o que é que a vida vai fazer de mim
+
+E|----------0----------0-----------0-----12--|
+B|--------0---0------0---0-------0---0---10--|
+G|------0-----------0----------5---------9---|
+D|----2-----------2----------7-----------10--|
+A|--0---------------------8--------------0---|
+E|--------------3------------------0---------|
+
+----------------- Acordes -----------------
+A#7/F = X X 3 3 3 4
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+A7/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb7M = X 1 3 2 3 1
+Bb7M/F = X X 3 3 3 5
+Bº = X 2 3 1 3 1
+C = X 3 2 0 1 0
+D7/F# = X X 4 5 3 5
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+Em = 0 2 2 0 0 0
+F7 = 1 3 1 2 1 1
+F7M = 1 X 2 2 1 X
+G/B = X 2 0 0 3 3
+G4 = 3 5 5 5 3 3
+G7 = 3 5 3 4 3 3
+G7/B = X 2 3 0 3 X

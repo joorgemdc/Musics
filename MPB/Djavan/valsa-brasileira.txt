@@ -1,0 +1,144 @@
+Djavan - Valsa Brasileira
+
+[Intro]  Gm7(9)/D  C#°(13)  C4(7)  F7M(9)  Bb7M  Gm7  A7(5+)
+       A7  Dm7(9)
+
+Vivia a te buscar
+                   C#°
+Porque pensando em ti
+                Dm7/9
+Corria contra o tempo
+D7/9b  D7/9# D7  Gm7(9)/D
+Eu descartava os dias
+               Ebm6
+Em que não te vi
+            Gm7(9)/D
+Como de um filme
+                 C#°(13)
+A ação que não valeu
+                  Cm7    Cm6 B7M
+Rodava as horas pra trás
+               Bb7M
+Roubava um pouquinho
+Dm7                E7/13
+E ajeitava o meu caminho
+
+         E7           A7
+Pra encostar no teu
+            Dm7/9
+Subia na montanha
+                 C#°
+Não como anda um corpo
+            Dm7/9
+Mas um sentimento
+
+D7/9b  D7/9# D7  Gm7(9)/D
+Eu surpreendia o sol
+               Ebm6
+Antes do sol raiar
+           Gm7(9)/D
+Saltava as noites
+           C#7(13)
+Sem me refazer
+           Cm7         B7M
+E pela porta de trás
+          Bb7M
+Da casa vazia
+Bm7(5-/11)
+Eu ingressaria
+F7M(6)/C
+E te veria
+C#°            Dm7(11) G7(13)
+Confusa por me ver
+           F/A
+Chegando assim
+         Gm7         C7/9 G#m6  C#7/9 Gm7 C7/9 G#m6  C#7/9  Gm7 C7/9 F7M(9) G#m6 Gm7 C7/9 G#m6  C#7/9 ->
+Mil dias antes de te conhecer
+
+( Gm7  C7/9  B°  Cm6  A7(5+)/C#  A7 )
+
+A7           Dm7/9
+Vivia a te buscar
+                   C#°
+Porque pensando em ti
+                Dm7/9
+Corria contra o tempo
+D7/9b  D7/9# D7  Gm7(9)/D
+Eu descartava os dias
+               Ebm6
+Em que não te vi
+            Gm7(9)/D
+Como de um filme
+                 C#°(13)
+A ação que não valeu
+                  Cm7    Cm6 B7M
+Rodava as horas pra trás
+               Bb7M
+Roubava um pouquinho
+Dm7                E7/13
+E ajeitava o meu caminho
+         E7           A7
+Pra encostar no teu
+            Dm7/9
+Subia na montanha
+                 C#°
+Não como anda um corpo
+            Dm7/9
+Mas um sentimento
+
+D7/9b  D7/9# D7  Gm7/D
+Eu surpreendia o sol
+               Ebm6
+Antes do sol raiar
+           Gm7(9)/D
+Saltava as noites
+           C#7(13)
+Sem me refazer
+           Cm7         B7M
+E pela porta de trás
+          Bb7M
+Da casa vazia
+Bm7(5-/11)
+Eu ingressaria
+F7M(6)/C
+E te veria
+C#°            Dm7(11) G7/13
+Confusa por me ver
+           F/A
+Chegando assim
+               Gm7 C7/9 C4(7) Gm7(9)/D C#°(13) C4(7) F7M(9) Bb7M Gm7  A7(5+) A7
+Mil dias antes de te conhecer
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(5+) = X 0 X 0 2 1
+A7(5+)/C# = X 4 5 2 6 X
+B7M = X 2 4 3 4 2
+Bb7M = X 1 3 2 3 1
+B° = X 2 3 1 3 1
+C#7(13) = X 4 X 4 6 6
+C#7/9 = X 4 3 4 4 X
+C#° = X 4 5 3 5 3
+C#°(13) = X 4 5 3 5 3
+C4(7) = X 3 3 3 1 X
+C7/9 = X 3 2 3 3 X
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+D7/9# = X 5 4 5 6 X
+D7/9b = X 5 4 5 4 X
+Dm7 = X 5 7 5 6 5
+Dm7(11) = X 5 5 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Dm7/9 = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7/13 = 0 X 0 1 2 0
+Ebm6 = X X 1 3 1 2
+F/A = 5 X 3 5 6 X
+F7M(6)/C = 8 8 X 9 P10 10
+F7M(9) = X 8 7 9 8 X
+G#m6 = 4 X 3 4 4 X
+G7(13) = 3 X 3 4 5 X
+G7/13 = 3 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X
+Gm7/D = X 5 3 3 3 3

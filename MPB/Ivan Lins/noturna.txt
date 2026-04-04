@@ -1,0 +1,93 @@
+Ivan Lins - Noturna
+
+( Ivan Lins / Vítor Martins )
+
+
+[Intro: E7M C#m7 C#m7/B Bbm7(b5) A7M Bbm7(b5)
+        E7M C#m7 Dm7 G7 C#m7 C7(b5) B7 B7(13)
+
+        E7M     G#7(b9)(b13)
+Vindo de uma luz
+         C#m7      C(#5)
+Alguém tocou em mim
+Bm7                  E7(9)
+Fez o que eu bem quis
+    Bbm7(b5)(9)   Am7M
+Tomou conta de mim
+ E/G#          G7(9)(11)
+Cheia de emoção
+  G7(13)          F#m7(9) Em7(9) D#m7(b5)
+Cantou com a minha própria voz
+G#7(b9) G#7(b13) C#m7M(9) C#m7(9) F#7(13)(11) F#7(13)
+E fez es...sa canção pra nós
+  B7(9)(11) E7(9)(11)
+E partiu
+
+Uma canção de amor
+Que há muito não se faz
+Uma canção, amor
+Pra quem amou demais
+Teve o poder
+Teve a loucura e lucidez
+Certeza de que dessa vez
+Nos uniu
+
+Solo: E7M G#7(b9)(b13) A7M(9) C#7(b13)
+      F#m7(9) Fº F#7(9)(11) F#7 B7(9)(11) B7(b9)
+
+      E7M(#11)
+Vindo de uma luz...
+
+
+Acordes:
+=======
+
+B7(9)(11)=7x765x
+G#7(b9)(b13)=4x4555
+C(#5)=8x1099x
+Bbm7(b5)(9)=6x655x
+G7(9)(11)=3x321x
+C#m7M(9)=x4254x
+F#7(13)(11)=222442
+E7(9)(11)=x7777x
+F#7(9)(11)=202100
+E7M(#11)=076896
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+Am7M = X 0 2 1 1 0
+B7 = X 2 1 2 0 2
+B7(13) = X 2 X 2 4 4
+B7(9)(11) = X 2 2 2 2 2
+B7(b9) = X 2 1 2 1 X
+Bbm7(b5) = X 1 2 1 2 X
+Bbm7(b5)(9) = P6 7 10 6 X X
+Bm7 = X 2 4 2 3 2
+C#7(b13) = X 4 X 4 6 5
+C#m7 = X 4 6 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C#m7/B = 7 4 6 4 5 4
+C#m7M(9) = X 4 2 5 4 X
+C(#5) = X 3 2 1 1 X
+C7(b5) = X 3 4 3 5 X
+D#m7(b5) = X X 1 2 2 2
+Dm7 = X 5 7 5 6 5
+E/G# = 4 X 2 4 5 X
+E7(9) = X X 2 1 3 2
+E7(9)(11) = X X 2 2 3 2
+E7M = X X 2 4 4 4
+E7M(#11) = 0 1 1 1 X X
+Em7(9) = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7(13) = 2 X 2 3 4 X
+F#7(13)(11) = 2 2 2 4 4 2
+F#7(9)(11) = 2 X 2 1 0 X
+F#m7(9) = X X 4 2 5 4
+Fº = X X 3 4 3 4
+G#7(b13) = 4 X 4 5 5 4
+G#7(b9) = 4 X 4 2 1 X
+G#7(b9)(b13) = 4 X 4 5 5 5
+G7 = 3 5 3 4 3 3
+G7(13) = 3 X 3 4 5 X
+G7(9)(11) = 3 X 3 2 1 X

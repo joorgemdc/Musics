@@ -1,0 +1,55 @@
+João Bosco - Memória
+
+(versao Joao Bosco e Vinicius)
+
+Intro: F# - F#7 - Bm - Bm/A - G - A - D - A7
+
+   D                 F#             Bm           Bm/A
+A minha memória é a represa e você tal qual uma tela
+   G                  A               D(9-4)
+Sou a chama da vela que quase se apaga com o sopro do ar
+    F#                        F#7             Bm          Bm/A
+Se volto ao passado e reviro os guardados um tanto seguro
+         G                      A                D       A7
+Por saber de verdade que nesse presente você não está
+   D                      F#        Bm                Bm/A
+Apago as luzes as luzes e deixo a porta da frente encostada
+           G              A              D(9-4)
+É que as vezes me perco no tempo pensando que posso te esquecer
+   F#              F#7            Bm               Bm/A
+E cada manhã é um futuro incerto que não a traz de volta
+       G                  A                D        A7
+A bater nessa porta que nunca fechou pra você
+
+Refrão=   D       F#         Bm         Bm/A
+        Vem, nem que seja em sonho vem
+            G                      A                     D(9-4)
+        Eu te quero de qualquer jeito   eu te quero como for
+              F#            F#7              Bm     Bm/A
+        Pois enquanto eu estiver sonhando       estará comigo 
+                      G                  A                D        A7
+        Entre os sonhos os sonhos mais lindo é viver esse amor
+
+- Repete refrão
+   D                       F#        Bm                Bm/A
+Apago as luzes as luzes e deixo a porta da frente encostada
+           G              A              D(9-4)
+É que as vezes me perco no tempo pensando que posso te esquecer
+   F#              F#7            Bm               Bm/A
+E cada manhã é um futuro incerto que não a traz de volta
+       G                 A               D        A7
+A bater nessa porta que nunca fechou pra você
+- Repete refrão 2x
+D(9-4)          G                    A            D(9-4)                
+        Entre os sonhos os sonhos mais lindo é viver esse amor
+Matuto 
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm/A = X 0 4 4 3 X
+D = X X 0 2 3 2
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3

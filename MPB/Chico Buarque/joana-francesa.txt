@@ -1,0 +1,87 @@
+Chico Buarque - Joana Francesa
+
+(De: Chico Buarque)
+
+Em7(b5)             A7   Em7(b5)                  A7
+Tu     ris, tu mens trop Tu     pleures, tu meurs trop
+Bb6         F6/A          Fm6/Ab           G7   F6/A G7/B
+Tu as le tropique Dans le sang   et sur la peau
+Cm7  Dm7    Eb7M             Abm6 G7(b13)  C7(9)       F7(13)
+Geme de  loucu____ra e de torpor           Já   é madruga____da
+Bb7M                 F7(b9/13)
+    Acorda, acorda, acorda,   acorda, acorda
+
+Em7(b5)         A7  Em7(b5)          A7
+Ma_____ta-me de rir Fa_____la-me de amor
+Bb6          F6/A          Fm6/Ab            G7  F6/A G7/B
+Songes et mensonges Sei de lon___ge e sei de cor
+Cm7  Dm7    Eb7M        Abm6 G7(b13)  C7(9)       F7(13)
+Geme de  prazer  e de pavor           Já   é madruga____da
+Bb7M                 Eº
+    Acorda, acorda, acorda, acorda, acorda
+
+Gb7M            F7(b13)          Bbm7     Bbm(add9)/Ab
+Vem  molhar meu co_____lo Vou te consolar
+
+Gb7M        F7(b13)          Bbm7          Bbm(add9)/Ab
+Vem, mulato mo_____le Dançar dans mes bras
+Gb7M         F7(b13)        Ebm/Ab           Ab/Gb               Fm7(b5)   Fº
+Vem, moleque me     dizer Onde    é que está      Ton soleil, ta brai___se
+
+Em7(b5)          A7    Em7(b5)           A7
+Quem   me enfeitiçou O mar,   marée, bateau
+Bb6         F6/A         Fm6/Ab       G7  F6/A G7/B
+Tu as le parfum  De la cachaça e de suor
+Cm7  Dm7    Eb7M         Abm6 G7(b13)  C7(9)       F7(13)
+Geme de  preguiça e de calor           Já   é madruga____da
+Bb7M                 F7(b9/13)                Bb7M  F7(b9/13)
+    Acorda, acorda, acorda,   acorda, acord'accord
+Bb7M                        F7(b9/13)                        Bb7M           F7(b9/13)
+    D'accord, d'accord, d'accord,    d'accord, d'accord, d'accord, d'accord
+Bb7M                 Bbº
+    Acorda, acorda, acorda, acorda, acord'accord
+
+
+ACORDES:
+
+Em7(b5) - 0X2333     F7(13)       - 1X123X
+A7      - X02020     Bb7M         - X13231
+Bb6     - X1303X     F7(b9/13)    - 1X1232
+F6/A    - X0353X     Eº           - 0X2323
+Fm6/Ab  - 4X353X     Gb7M         - 2X332X
+G7      - 3X343X     F7(b13)      - 1X122X
+G7/B    - X2303X     Bbm7         - X13121
+Cm7     - X3534X     Bbm(add9)/Ab - 4X352X
+Dm7     - X5756X     Ebm/Ab       - 4X434X
+Eb7M    - X6878X     Ab/Gb        - 2X111X
+Abm6    - 4X344X     Fm7(b5)      - 1X110X
+G7(b13) - 3X344X     Fº           - 1X010X
+C7(9)   - X3233X     Bbº          - X12020
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab/Gb = 2 X 1 1 1 X
+Abm6 = 4 X 3 4 4 X
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+Bbm(add9)/Ab = X X 6 6 6 8
+Bbm7 = X 1 3 1 2 1
+Bbº = X 1 2 0 2 0
+C7(9) = X 3 2 3 3 X
+Cm7 = X 3 5 3 4 3
+Dm7 = X 5 7 5 6 5
+Eb7M = X X 1 3 3 3
+Ebm/Ab = 4 X X 3 4 2
+Em7(b5) = X X 2 3 3 3
+Eº = X X 2 3 2 3
+F6/A = 5 3 3 5 3 X
+F7(13) = 1 X 1 2 3 X
+F7(b13) = 1 X 1 2 2 1
+F7(b9/13) = 13 X X P11 15 11
+Fm6/Ab = 4 5 3 5 3 X
+Fm7(b5) = X X 3 4 4 4
+Fº = X X 3 4 3 4
+G7 = 3 5 3 4 3 3
+G7(b13) = 3 X 3 4 4 3
+G7/B = X 2 3 0 3 X
+Gb7M = 2 X 3 3 2 X

@@ -1,0 +1,64 @@
+Chico Buarque - Lola
+
+(De: Chico Buarque)
+
+  F6/A   Bb6 G7/B            C7             A7/C#
+Sabi___a          Gosto de você chegar assim
+           Dm7               F/Eb                 Bb7M/F  Bbm6
+Arrancando páginas dentro de mim Desde o primeiro dia
+  F6/A   Bb6 G7/B             C7            A7/C#               Dm7
+Sabi___a          Me apagando filmes geniais      Rebobinando o século
+                 F/Eb              Bb7M/F  E7(b13)
+Meus velhos carnavais Minha melancolia
+  F/C  Am/C       Cm6         D/C              Gm7  Ebm6/Gb
+Sabia       Que você ia trazer   seus instrumentos
+      Bbm7/F          Bbm6/Db   F/C              Am/C       D7(13)  D7(b13)
+E invadir   minha cabeça           Onde um dia tocava uma orquestra
+Gm7                  Bbm6/Db  Bbm6
+    Pra companhia dançar
+  F6/A   Bb6 G7/B              C7              A7/C#
+Sabi___a          Que ia acontecer você, um dia
+               Dm7            F/Eb                 Bb7M/F  Bbm6
+E claro que já não me valeria nada Tudo o que eu sabia
+   F6/A   Bb6
+Um di___a
+
+
+F6/A / Bb6 / / / / / F6/A / Bbm6 / / / / / / / / / F
+
+ACORDES:
+
+F6/A    - X0353X
+Bb6     - X1303X     Am/C    - X3225X
+G7/B    - X2303X     Cm6     - X3524X
+C7      - X35353     D/C     - X3423X
+A7/C#   - X4525X     Gm7     - 3X333X
+Dm7     - XX0211     Ebm6/Gb - 2X131X
+F/Eb    - XX1211     Bbm7/F  - XX3324
+Bb7M/F  - XX3335     Bbm6/Db - X4536X
+Bbm6    - X1X021     D7(13)  - X5X577
+E7(b13) - 0X0110     D7(b13) - X5X576
+F/C     - X33211     F       - 133211
+
+----------------- Acordes -----------------
+A7/C# = X 4 5 2 5 X
+Am/C = X 3 2 2 5 X
+Bb6 = X 1 3 0 3 X
+Bb7M/F = X X 3 3 3 5
+Bbm6 = 6 X 5 6 6 X
+Bbm6/Db = X 4 5 3 6 3
+Bbm7/F = X X 3 3 2 4
+C7 = X 3 2 3 1 X
+Cm6 = X 3 X 2 4 3
+D/C = X 3 X 2 3 2
+D7(13) = X 5 X 5 7 7
+D7(b13) = X 5 X 5 7 6
+Dm7 = X 5 7 5 6 5
+E7(b13) = 0 X 0 1 1 0
+Ebm6/Gb = 2 3 1 3 1 X
+F = 1 3 3 2 1 1
+F/C = X 3 3 2 1 1
+F/Eb = X X 1 2 1 1
+F6/A = 5 3 3 5 3 X
+G7/B = X 2 3 0 3 X
+Gm7 = 3 X 3 3 3 X

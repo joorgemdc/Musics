@@ -1,0 +1,91 @@
+Ivan Lins - Doce Presença
+
+( Ivan Lins / Vítor Martins )
+
+
+[Intro:] Ebm7(9) Ab7(4)/Eb Ab7(9)(13) Ab7/C Fm7/C Bbm7/F Fm7/C Bbm7/F
+         Ebm7(9)
+
+Ab7(4)/Eb Ab7(9)(13) Ab7/C Fm7/C Bbm7/F Fm7/C Bbm7/F Ebm7(9)
+Sei que mudamos desde o dia que nos vimos
+Ab7(4)/Eb Ab7(9)(13) Ab7/C Fm7/C Bbm7/F Cm7(11) F7(b9)
+Li nos teus olhos que escondiam meu destino
+Bbm7M Bbm7 Eb7(9)(11) Eb7(9)(#11) Bbm7M Bbm7 Eb7(9)(11) Eb7(9)
+Luz tão intensa, a mais doce presença
+      Gb7M  Gb6 Ab7(4)/Eb Ab7(9)(13) Db7M Bb7(b13)
+No universo desse meu olhar
+
+Nós descobrimos nossos sonhos esquecidos
+E aí ficamos cada vez mais parecidos
+Mais convencidos, quanto tempo perdido
+      Gb7M  Gb6 Ab7(4)/Eb Ab7(9)(13) Db7M Gb7(9)(11)
+No universo desse meu olhar
+
+B7(4)       B7    E7(9)(11)     E7(9)
+Como te perder ou tentar te esquecer
+     A7M        A6 Db7(4)   Db7    Gbm7M Gbm7(9)
+Inda mais que agora sei que somos iguais
+Dbm7(b5) Ab7(13)         Db7M       Fm7
+E, se duvidares, tens as minhas digitais
+Fm7(b5)                Bb7(4) Bb7(b13)
+Como esse amor pode ter fim?
+
+Já tens meu corpo, minha alma, meus desejos
+Se olhar pra ti, estou olhando pra mim mesmo
+Fim da procura, tenho fé na loucura
+         Gb7M    Gb6  Ab7(4)/Eb Ab7(9)(13) Db7M Db7(9)(11) Db7(9)
+De acreditar que sempre estais em mim
+         Gb7M    Gb6  Ab7(4)/Eb Ab7(9)(13) Db7M
+De acreditar que sempre estais em mim
+
+
+ACORDES:
+========
+
+Ab7/C=x3454x
+Fm7/C=x31111
+Bbm7/F=113121
+Eb7(9)(11)=x6666x
+Eb7(9)(#11)=x6766x
+Gb7(9)(11)=202100
+E7(9)(11)=x7777x
+Db7(9)(11)=x4444x
+Ab7(4)/Eb=x64644
+Ab7(9)(13)=4x4311
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+Ab7(13) = 4 X 4 5 6 X
+Ab7(4)/Eb = X 6 X 8 7 9
+Ab7(9)(13) = 4 X 4 3 1 1
+Ab7/C = X 3 4 1 4 X
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+Bb7(4) = X 1 3 1 4 1
+Bb7(b13) = X 1 X 1 3 2
+Bbm7 = X 1 3 1 2 1
+Bbm7/F = X X 3 3 2 4
+Bbm7M = X 1 3 2 2 1
+Cm7(11) = X 3 3 3 4 3
+Db7 = X 4 3 4 2 X
+Db7(4) = X 4 6 4 7 4
+Db7(9) = X 4 3 4 4 X
+Db7(9)(11) = X 4 4 4 4 4
+Db7M = X 4 6 5 6 4
+Dbm7(b5) = X 4 5 4 5 X
+E7(9) = X X 2 1 3 2
+E7(9)(11) = X X 2 2 3 2
+Eb7(9) = X 6 5 6 6 X
+Eb7(9)(#11) = X X 1 2 2 1
+Eb7(9)(11) = X X 1 1 2 1
+Ebm7(9) = X 6 4 6 6 X
+F7(b9) = X X 3 2 4 2
+Fm7 = 1 X 1 1 1 X
+Fm7(b5) = X X 3 4 4 4
+Fm7/C = X 3 1 1 1 1
+Gb6 = 2 X 1 3 2 X
+Gb7(9)(11) = 2 X 2 1 0 X
+Gb7M = 2 X 3 3 2 X
+Gbm7(9) = X X 4 2 5 4
+Gbm7M = X X 4 6 6 5

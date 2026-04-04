@@ -1,0 +1,50 @@
+Jorge Vercillo - Fora da lei
+
+[Intro:] F#7M E/F#
+
+F#7M   E/F# F#7M       E/F# F#7M
+Cidade nua      noite neón
+        C#m7 F#7(b13)  B7M     D/E F#7M
+Gata de ru......a faz onon ao luar
+        E/F# F#7M         E/F# F#7M
+Saio da cama     pulo a janela
+            C#m7 F#7(b13) B7M D/E
+Ninguém como e.....la ao luar
+
+Em7(9) A7(13)      A7 D7M(9) B7(b13)
+Mia          arranha o céu
+Em7(9) A7(13)     A7  D7M(9) G#m7(b5) C#7(b9) F#7M
+Mia          em lua de mel ao léu
+
+              E/F# C7(9)    B7M
+Dois gatos pingados fora da lei
+       D/E        F#7M
+Ela é rainha eu o rei
+            E/F# C7(9)    B7M      D/E
+Farra no telhado  fora da lei tudo bem
+
+
+Sobe e desce muros forada lei
+Ela sai por onde entrei
+Gritos e sussurros fora da lei
+
+Cidade nua faz serenata
+Beijo na boca vira lata de lixo
+Amor de bicho paixão maluca
+Cama de gato Kama-sutra ao luar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+B7(b13) = X 2 X 2 4 3
+B7M = X 2 4 3 4 2
+C#7(b9) = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+C7(9) = X 3 2 3 3 X
+D/E = X X 2 2 3 2
+D7M(9) = X 5 4 6 5 X
+E/F# = X X 4 4 5 4
+Em7(9) = X 7 5 7 7 X
+F#7(b13) = 2 X 2 3 3 2
+F#7M = 2 X 3 3 2 X
+G#m7(b5) = 4 X 4 4 3 X

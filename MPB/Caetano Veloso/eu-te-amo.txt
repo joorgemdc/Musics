@@ -1,0 +1,61 @@
+Caetano Veloso - Eu Te Amo
+
+   A7(13)   D7M  B7
+Eu nunca te disse
+     E7(9) A7
+Mas agora  saiba
+D7(9)  G7
+Nunca acaba
+C7(9)   F7M    E7M(9)
+Nunca o nosso amor
+             Bm7  E7(9)
+Da cor do azeviche
+         A7M  D7(9)
+Da jabuticaba
+     G#7(13) C#7(b9) F#7(13) B7(b9) Em7(9)
+E da cor     da      luz     do     sol
+
+      A7(13) Em7(9)
+Eu te amo
+                    A7(13)
+Vou dizer que eu te amo
+Em7(9)   A7(13)
+Sim,  eu te amo
+
+      D7M
+Minha flor
+
+A7            D7M
+  Eu nunca te disse
+Am7    D7(9)     G7M
+   Não tem  onde caiba
+      Gm6
+Eu te amo
+D/F#       B7(b9)
+Sim, eu te amo
+E7(9)         A7              D6(9)
+    Serei pra sempre o teu cantor
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7M = X 0 2 1 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C#7(b9) = X 4 3 4 3 X
+C7(9) = X 3 2 3 3 X
+D/F# = 2 X 0 2 3 2
+D6(9) = X 5 4 2 0 0
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+E7(9) = X X 2 1 3 2
+E7M(9) = X 7 6 8 7 X
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F7M = 1 X 2 2 1 X
+G#7(13) = 4 X 4 5 6 X
+G7 = 3 5 3 4 3 3
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

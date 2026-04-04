@@ -1,0 +1,95 @@
+Chico Buarque - Cecília
+
+A7M(9)             Bm6               Gm6/Bb           A7(4/9)       A7(b9)
+Quantos artistas Entoam baladas pras suas  amadas Com grandes orquestras
+D7M(9)/A      D6/A    G7(#11)           G#º        F#7        F#m6     E7(b9/13)
+Como     os inve|---jo Como    os admiro Eu, que te vejo E nem quase respi-------ro
+A7M              Am6               G7M(9)                Em7      A7(4/9)  A7(b9/13)
+Quantos poetas Românticos, prosas Exaltam suas musas Com todas as le|-------tras
+
+Eu     te murmuro Eu      te suspiro Eu, que soletro Teu nome     no escuro
+
+     F#m7     C#7/F         F#m/E                 D#m7(b5)
+Me escutas, Cecí----lia? Mas eu    te chamava em silên-----cio
+   Em/D      C#º     Bm7(9/11)            Dm6                    A7M/C#
+Na tu---a presença Palavras    são brutas    Pode ser que, entreabertos
+               F#m6/C#    Cº         G7(#11)/B   G7(#11)   F#7(4/9)
+Meus lábios de leve    Tremessem por ti
+    F#7*     F#m6         F#m7    B7(9)    Bm7(9)              Bm7(9)/E      E7(13)
+Mas nem as sutis  melodias      Merecem, Cecília, teu nome Espalhar     por aí
+E7(b13)  A7M(9)/E        Fº              F#m6                Dm6/F
+Como     tantos   poetas Tantos cantores Tantas Cecílias Com mil   refletores
+A6/E         E7(#5/9)     C#m7(b5/9)      G6  F#7
+Eu,  que não digo,    mas ardo       de dese|--jo
+
+   B7(9)              Bm7     E7(9)    A6    E7(b9/13)   A   C#7(b9)
+Te olho  Te guardo Te sigo Te vejo  dormir
+
+     F#m7     C#7/F         F#m/E                 D#m7(b5)
+Me escutas, Cecí----lia? Mas eu    te chamava em silên-----cio
+   Em/D      C#º     Bm7(9/11)            Dm6                    A7M/C#
+Na tu---a presença Palavras    são brutas    Pode ser que, entreabertos
+               F#m6/C#    Cº         G7(#11)/B   G7(#11)   F#7(4/9)
+Meus lábios de leve    Tremessem por ti
+    F#7*     F#m6         F#m7    B7(9)    Bm7(9)              Bm7(9)/E      E7(13)
+Mas nem as sutis  melodias      Merecem, Cecília, teu nome Espalhar     por aí
+E7(b13)  A7M(9)/E        Fº              F#m6                Dm6/F
+Como     tantos   poetas Tantos cantores Tantas Cecílias Com mil   refletores
+A6/E         E7(#5/9)     C#m7(b5/9)      G6  F#7
+Eu,  que não digo,    mas ardo       de dese|--jo
+   B7(9)              Bm7     E7     G7(#11)/B       Em6/B   A#º
+Te olho  Te guardo Te sigo Te vejo
+   B7                Bm7     E7(9)     A6(9)
+Te olho Te guardo Te sigo Te vejo   dormir
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A6 = 5 X 4 6 5 X
+A6(9) = 5 4 4 4 X X
+A6/E = X X 2 2 2 2
+A7(4/9) = 5 X 5 4 3 X
+A7(b9) = 5 X 5 3 2 X
+A7(b9/13) = 5 X X P3 7 3
+A7M = X 0 2 1 2 0
+A7M(9) = X 0 2 1 0 0
+A7M(9)/E = 12 11 9 9 10 9
+A7M/C# = X 4 X 2 5 4
+Am6 = 5 X 4 5 5 X
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+Bm7(9/11) = X 2 0 2 2 0
+C#7(b9) = X 4 3 4 3 X
+C#m7(b5/9) = P9 10 13 9 X X
+D#m7(b5) = X X 1 2 2 2
+D6/A = X 0 4 4 3 X
+D7M(9)/A = 5 4 2 2 3 2
+D7M/F# = 2 X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+Dm6/F = 1 X 0 2 0 X
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7(#5/9) = 0 X 0 1 1 2
+E7(13) = 0 X 0 1 2 0
+E7(9) = X X 2 1 3 2
+E7(b13) = 0 X 0 1 1 0
+E7(b9/13) = 12 X X P10 14 10
+Em/D = X X 0 4 5 3
+Em6/B = X 2 2 0 2 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(4/9) = 2 X 2 1 0 X
+F#m/E = X X 2 2 2 2
+F#m6 = 2 X 1 2 2 X
+F#m6/C# = X 4 4 2 4 X
+F#m7 = 2 X 2 2 2 X
+G#7(#11) = 4 X 4 5 3 X
+G/F = 1 X X 0 0 3
+G6 = 3 X 2 4 3 X
+G7(#11) = 3 X 3 4 2 X
+G7M(9) = 3 2 4 2 X X
+Gm6/Bb = X 1 2 0 3 0

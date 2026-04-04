@@ -1,0 +1,98 @@
+Caetano Veloso - Lábios Que Beijei
+
+(intro) F#m7 D#m7(b5) C#m6  Amaj7 D#7(b5) G#7 C#m6 F#m7 B7
+
+ Emaj7         A#dim7
+Lábios que beijei
+E6              C#7
+Mãos que eu afaguei
+      F#m7     B7   E6
+Numa noite de luar assim
+  E6               Gdim7
+O mar na solidão bramia
+D#m7(b5)               G#7
+E o vento a soluçar pedia
+      C#m7    F#7        F#m7   B7
+Que fosses sincera para mim
+ Emaj7     A#dim7
+Nada tu ouviste
+E6        C#7
+E logo partiste
+          F#m7     B7    Bm7  E7(b9)
+Para os braços de outro amor
+Amaj7        A#dim7
+Eu fiquei chorando
+
+Emaj7/B         C#7
+Minha mágoa cantando
+        F#m7       B7    Emaj7 D#m7 G#7
+Sou a estátua perenal da dor
+
+  C#m7             C#m6          F#m7
+Passo os dias soluçando com meu pinho
+  F#m7           F#m6    G#7
+Carpindo a minha dor, sozinho
+           G#7(b9)        C#m6 G#7
+Sem esperanças de vê-la jamais
+C#m7             A#dim7  D#7     G#m7
+Deus, tem compaixão    deste infeliz
+                A#m7(b5)
+Por que sofrer assim?
+     D#7                A7  G#7
+Compadecei-vos dos meus ais
+
+C#m7            C#m6      F#m7
+Tua imagem permanece imaculada
+    F#m7           G#7
+Em minha retina cansada
+F#m7              Fdim7  C#7(b9)
+De chorar por teu amor
+ F#m7        Gdim7
+Lábios que beijei
+ C#m6
+Mãos que eu afaguei
+  D#m7(b5)    G#7          C#m7 B7
+Volta, dá lenitivo à minha dor
+
+(instrumental como a estrofe primeira)
+
+            C#m6      F#m7
+Tua imagem permanece imaculada
+    F#m7           G#7
+Em minha retina cansada
+F#m7              Fdim7  C#7(b9)
+De chorar por teu amor
+ F#m7        Gdim7
+Lábios que beijei
+ C#m6
+Mãos que eu afaguei
+  D#m7(b5)    G#7          C#m7
+Volta, dá lenitivo à minha dor
+
+----------------- Acordes -----------------
+A#dim7 = X 1 2 0 2 0
+A#m7(b5) = X 1 2 1 2 X
+A7 = X 0 2 0 2 0
+Amaj7 = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(b9) = X 4 3 4 3 X
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+D#7 = X 6 5 6 4 X
+D#7(b5) = X X 1 2 2 3
+D#m7 = X X 1 3 2 2
+D#m7(b5) = X X 1 2 2 2
+E6 = X X 2 4 2 4
+E7(b9) = X X 2 1 3 1
+Emaj7 = X X 2 4 4 4
+Emaj7/B = X 2 2 1 4 X
+F#7 = 2 4 2 3 2 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+Fdim7 = X X 3 4 3 4
+G#7 = 4 6 4 5 4 4
+G#7(b9) = 4 X 4 2 1 X
+G#m7 = 4 X 4 4 4 X
+Gdim7 = 3 X 2 3 2 X

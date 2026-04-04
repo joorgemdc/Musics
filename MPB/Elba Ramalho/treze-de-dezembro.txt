@@ -1,0 +1,80 @@
+Elba Ramalho - Treze de Dezembro
+
+[Intro] F  D7  Gm  C7  F
+        F  Eb  D7  D/C  G/B  C7  F  Gm  C  D7  Gm  E7  A7  Bb6  C  F  Bb  Eb  G#  D7  Gm  G#dim  F/A  Dm  G7  C  F
+        F  Gm  C7  F6  F  G7  C  F  G7  C7  Cm7  F7/9  Bb6  Bdim  Am7  D7  Gm  C7  F  G
+
+C            Bb          A7       A7/G
+Bem que esta noite eu vi gente chegando
+      D/F#      G7
+Eu vi sapo saltitando
+      C                  Dm          G7
+E ao longe ouvi o ronco alegre do trovão
+A7              Dm
+   Alguma coisa forte pra valer
+B7                 E7
+   Tava para acontecer na região
+F6        G       C
+Quando o galo cantou
+       F     Bb    Eb    A7
+Que o dia raiou eu imaginei
+               F        F#dim       C/G       Am
+É que hoje é treze de dezembro e a treze de dezembro
+       D/F#    G  C
+Nasceu no----sso rei
+
+
+         C
+O nosso rei do baião
+        Dm
+A maior voz do sertão
+          G                 C
+Filho do sonho de D. Sebastião
+                    C
+Como fruto do matrimônio
+             D7
+Do cometa Januário
+                  G
+Com a estrela Santana
+             C
+Ao nascer da era do Aquário
+      C                D7
+No cenário rico das terras de Exu
+        G              Gm  C7
+O mensageiro nu dos orixás
+         F6        F#dim
+É desse treze de dezembro
+   Em7         Am7            D7            G7     C
+Que eu me lembrarei e sei que não me esquecerei jamais
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/G = 3 X 2 2 2 X
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bb = X 1 3 3 3 1
+Bb6 = X 1 3 0 3 X
+Bdim = X 2 3 1 3 1
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Eb = X 6 5 3 4 3
+Em7 = 0 2 2 0 3 0
+F = 1 3 3 2 1 1
+F#dim = 2 X 1 2 1 X
+F/A = 5 X 3 5 6 X
+F6 = 1 X 0 2 1 X
+F7/9 = X X 3 2 4 3
+G = 3 2 0 0 0 3
+G# = 4 3 1 1 1 4
+G#dim = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

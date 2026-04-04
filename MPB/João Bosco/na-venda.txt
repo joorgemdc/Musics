@@ -1,0 +1,63 @@
+João Bosco - Na Venda
+
+João Bosco / Aldir Blanc
+
+[Intro:] D7(b9)/A
+
+           G6         F#m7(11)   B7 Em7(9)
+Eu fui na venda comprar pinga e pimentão
+              A7(b9)    D7(13)          B7(b13)
+Pra fazer um xarope noventa que matasse a fome
+               E7(9)       B7(b5)   E7(9)
+E limpasse o pulmão mas o caxeiro-cachorro!
+             Gm6                  F#7(13) F#7(b13)   B7
+Tomou meu dinheiro, mandou que eu ficasse calado, maneiro,
+          E7(9)              A7(13)
+Botou toda culpa na Dona Inflação
+             C7(#9) B7(#9)
+-Essa não, seu Leitão!
+     E7(9) A7(13)             D7
+-Essa não, -Essa não, seu Leitão!
+
+Dei-lhe uma descompostura, criei embaraço,
+  G7(b5) F#m7(b5) F7(b5)  E7(9)
+Os home arriaro a porta de aço
+      A7(13)        Am7(9) D7(13)
+E arrepiaro mais que porquispim...
+G6                   G#m7(b5) C#7(b9)
+Tinha uma abertura nos fundo da venda,
+   F#m7              B7(b9)                   E7(9)
+Corri como um cão, passaro um jornal nos meus treco
+            A7(13)           C7(#9)  B7(#9)
+E o Leitão jogou o pacote por cima de mim
+     E7(9)      A7(13)    D7(9)
+-Essa não, quase foi o meu fim!
+
+Fim: E7(9) A7(13) D7(9) B7(b13)
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b9) = 5 X 5 3 2 X
+Am7(9) = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+B7(#9) = X 2 1 2 3 X
+B7(b13) = X 2 X 2 4 3
+B7(b5) = X 2 3 2 4 X
+B7(b9) = X 2 1 2 1 X
+C#7(b9) = X 4 3 4 3 X
+C7(#9) = X 3 2 3 4 X
+D7 = X X 0 2 1 2
+D7(13) = X 5 X 5 7 7
+D7(9) = X 5 4 5 5 X
+E7(9) = X X 2 1 3 2
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+F#m7(11) = 2 X 2 2 0 X
+F#m7(b5) = 2 X 2 2 1 X
+F7(b5) = 1 X 1 2 0 X
+G#m7(b5) = 4 X 4 4 3 X
+G6 = 3 X 2 4 3 X
+G7(b5) = 3 X 3 4 2 X
+Gm6 = 3 X 2 3 3 X

@@ -1,0 +1,50 @@
+﻿Adriana Calcanhotto - Naquela Estação
+
+Afinação Um Tom Abaixo
+
+[Intro]  Eadd9  A7M  A6  Eadd9  A7M  D7(9)
+         Eadd9  A7M  A6  Eadd9  A7M  D7(9)
+
+
+ Eadd9  A7M  A6    Eadd9   A7M  D7(9)  Eadd9
+Você           entrou no trem        e eu    na     estação
+ G#m7        Gº    F#m7  F#m(7M)    F#m7     B7(4/9)  B7(b9)
+Vendo um céu    fugir           também  não dava     mais
+ Eadd9      C#m7     F#7(9/#11)  F#7(4/9)   B7(4/9)    B7(b9)
+Para  tentar    lhe conven------cer      a não     partir
+
+  Eadd9   A7M    A6  Eadd9  A7M  D7(9)  Eadd9        Bm/D
+E agora  tu-----do  bem         você   partiu  para ver
+        A7M  A6  A7M  A6       D7(9)       G#m7
+Outras paisa----gens  e o meu coração   embora finja fazer
+ G°(b13)        F#m7              B7(4/9)  B7(b9)        Eadd9
+Mil     viagens     fica batendo parado          naquela estação
+Bm4/D  A7M      A6      D7(9)        G#m7        Gº(b13)    F#m7
+           E o meu coração   embora finja fazer mil     viagens
+              B7(4/9)  B7(b9)     Eadd9    A7M  A6  Eadd9
+Fica batendo parado           naquela estação
+
+
+A7M D7(9)  Eadd9  A7M  A6  Eadd9  A7M  D7(9)  Eadd9    D
+                                                Você
+
+----------------- Acordes -----------------
+A6*  = 5 X 4 6 5 X - (*G6 na forma de A6)
+A7M*  = X 0 2 1 2 0 - (*G7M na forma de A7M)
+B7(4/9)*  = X 2 2 2 2 2 - (*A7(4/9) na forma de B7(4/9))
+B7(b9)*  = X 2 1 2 1 X - (*A7(b9) na forma de B7(b9))
+Bm/D*  = X 5 X 4 7 7 - (*Am/C na forma de Bm/D)
+Bm4/D*  = 10 9 9 9 10 9 - (*Am4/C na forma de Bm4/D)
+C#m7*  = X 4 6 4 5 4 - (*Bm7 na forma de C#m7)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+D7(9)*  = X 5 4 5 5 X - (*C7(9) na forma de D7(9))
+E*  = 0 2 2 1 0 0 - (*D na forma de E)
+Eadd9*  = 0 2 4 1 0 0 - (*Dadd9 na forma de Eadd9)
+F#7(4/9)*  = 2 X 2 1 0 X - (*E7(4/9) na forma de F#7(4/9))
+F#7(9/#11)*  = 2 1 2 1 1 X - (*E7(9/#11) na forma de F#7(9/#11))
+F#m(7M)*  = X X 4 6 6 5 - (*Em(7M) na forma de F#m(7M))
+F#m7*  = 2 X 2 2 2 X - (*Em7 na forma de F#m7)
+G#m7*  = 4 X 4 4 4 X - (*F#m7 na forma de G#m7)
+G°(b13)*  = 3 X 2 3 4 X - (*F°(b13) na forma de G°(b13))
+Gº*  = 3 X 2 3 2 X - (*Fº na forma de Gº)
+Gº(b13)*  = 3 X 2 3 4 X - (*Fº(b13) na forma de Gº(b13))

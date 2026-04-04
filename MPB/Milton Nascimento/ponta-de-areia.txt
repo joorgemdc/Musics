@@ -1,0 +1,35 @@
+Milton Nascimento - Ponta de Areia
+
+[Intro] A7+  C#m7  D  A/C#  A  Bm7  F#m7  D/E  A
+
+ A               E11/A     D   A/C#
+Ponta de areia ponto final
+ A         Bm7     F#m7  D/E   A
+Da Bahia-Minas estrada natural
+A                   E11/A    D   A/C#
+Que ligava Minas ao porto ao mar
+ A          Bm7     F#m7    D/E   A
+Caminho de ferro mandaram arrancar
+A                     E11/A   D  A/C#
+Velho maquinista com seu boné
+ A               Bm7      F#m7   D/E   A
+Lembra o povo alegre que vinha cortejar
+ A                E11/A    D  A/C#
+Maria fumaça não canta mais
+ A           Bm7    F#m7  D/E     A
+Para moças flores janelas e quintais
+A                  E11/A    D  A/C#
+Na praça vazia um grito um ai
+ A          Bm7   F#m7  D/E      A
+Casas esquecidas viúvas nos portais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A7+ = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+E11/A = X 0 2 2 0 0
+F#m7 = 2 X 2 2 2 X

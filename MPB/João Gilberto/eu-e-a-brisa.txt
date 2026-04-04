@@ -1,0 +1,70 @@
+João Gilberto - Eu e a Brisa
+
+C6/9          Fm6/C               C6/9
+Ah ,se a juventude que essa brisa canta
+         Gm7        C7(b9)  F7M           Am7
+Ficasse aqui comigo mais um pouco, Eu poderia
+    D7(#5) G7M
+esquecer a  dor
+           G7/4/9        Em7  Am7
+De ser tão só Pra ser um sonho,
+        Fm7             A#7/9    C7M
+E aí então quem sabe alguém chegasse,
+            Gm7            C7(b9)   Bm7  A#7/9
+Buscando um sonho em forma de     desejo
+      D7/4          D7 Bm7   Em7    C#7(#9)
+Felicidade então pra nós seria!
+C7M          F#m7          B7(b9) Em7  Em/D
+Depois que a tarde nos trouxesse a lua,
+             Dm7 F#7/9      Bm7    Bm/A
+Se o amor chegasse eu não resistiria,
+         G#7(#9) G7(9/#11) F#m7       G7/4(9) G7(b5)
+E a madrugada   acalentaria  a nossa paz
+Em7             Fm7          A#7(b9)   D#7M   C#7M
+Fica, Oh! brisa, fica pois talvez quem sabe,
+
+        C7/4(9)   C7/9   F7M   A#7/9
+O inesperado faça uma surpresa
+          Am7            D7(b5) G7M
+E traga alguém que queira te escutar
+          G7/4(9)        C7M   Dm7
+E junto a mim   Queira ficar...
+             Em7 F7/9  E7M
+(Bem junto a mim queira ficar...)
+
+----------------- Acordes -----------------
+A#7(b9) = 6 X 6 4 3 X
+A#7/9 = X 1 0 1 1 X
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bm/A = X 0 4 4 3 X
+Bm7 = X 2 4 2 3 2
+C#7(#9) = X 4 3 4 5 X
+C#7M = X 4 6 5 6 4
+C6/9 = X 3 2 2 3 3
+C7(b9) = X 3 2 3 2 X
+C7/4(9) = X 3 3 3 3 3
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D#7M = X X 1 3 3 3
+D7 = X X 0 2 1 2
+D7(#5) = X 5 X 5 7 6
+D7(b5) = X 5 X 5 7 4
+D7/4 = X X 0 2 1 3
+Dm7 = X 5 7 5 6 5
+E7M = X X 2 4 4 4
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F#7/9 = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X
+F7/9 = X X 3 2 4 3
+F7M = 1 X 2 2 1 X
+Fm6/C = X 3 3 1 3 X
+Fm7 = 1 X 1 1 1 X
+G#7(#9) = X X 6 5 7 7
+G7(9/#11) = 3 2 3 2 2 X
+G7(b5) = 3 X 3 4 2 X
+G7/4(9) = 3 X 3 2 1 X
+G7/4/9 = 3 X 3 2 1 X
+G7M = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

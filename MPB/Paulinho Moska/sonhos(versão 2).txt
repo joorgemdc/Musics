@@ -1,0 +1,115 @@
+Paulinho Moska - Sonhos
+
+INTRO:
+
+e||------------------------------------------------------5------------|
+B||--------------5--7----5--7----5h-7h-5-----5--7----5---6----5h-7h-5-|
+G||--------------5--7----5--7----5h-7h-5-----5--7----5---7----5h-7h-5-|
+D||--7-----5--7----5--5----5-----------5--7----5---8------------|
+A||----------0---------------------------0----------------------------|
+E||-------------------------------------------------------------------|
+
+e||--------------------------------------------5--||
+B||-----5--7----5--7----5h-7h-5-----5--7----5--6--||
+G||-----5--7----5--7----5h-7h-5-----5--7----5--7--||
+D||-----5--7----5--5----5-----------5--7----5--8--||
+A||-0---------------------------0-----------------||
+E||-----------------------------------------------||
+
+Obs.:
+1 - Ouçam a música pra pegar o rítmo...
+2 - Os acordes marcados com asterisco (E7 e Am7) tem duas posições nessa música,
+    no final estão anotados como devem ser tocados cada acorde.
+
+
+
+Am7
+Tudo era apenas uma brincadeira
+        E7*
+E foi crescendo, crescendo, me absorvendo
+      A7              
+De repente eu me vi assim
+Dm   A/D   D7/b9   D7
+Completamente seu
+E7
+Vi a minha força amarrada no seu passo
+      Am   Am(7M)  Am7*   Am6
+Sem você não há caminho eu nem me acho
+   F7
+Eu vi um grande amor gritar dentro de mim
+         E7
+Como eu sonhei um dia
+
+
+
+Am7
+Quando o meu mundo era mais mundo
+        E7*
+E todo mundo admitia
+Uma mudança muito estranha
+        A7
+Mais pureza, carinho, calma e alegria
+   Dm   A/D   D7/b9   D7
+No meu jeito de me dar
+E7
+Quando a canção se fez mais clara e mais sentida
+      Am   Am(7M)  Am7*   Am6
+Quando poesia realmente que escolhi em minha vida
+        F7
+Você veio me falar dessa paixão inesperada
+E7
+Por outra pessoa
+
+
+Am7
+Mas não tem revolta, não
+        E7*
+Só quero que você se encontre
+Saudade até que é bom
+A7
+Melhor que caminhar vazio
+                    Dm   A/D   D7/b9   D7
+A esperança é um dom que eu tenho em mim, eu tenho sim,
+E7
+Não tem desespero não
+      Am   Am(7M)  Am7*   Am6
+Você me ensinou milhões de coisas
+F7
+Tenho um sonho em minhas mão
+E7
+Amanhã será um novo dia
+Am7
+Certamente eu vou ser mais feliz.
+
+
+ACORDES:
+
+Am7     5x555x
+E7*     x7675x
+A7      575655
+Dm      x5776x
+A/D     x5765x
+D7/b9   x5454x
+D7      x5453x
+E7      022130
+Am      x0221x
+Am(7M)  x0211x
+Am7*    x0201x
+Am6     x0421x
+F7      131211
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/D = X X 0 6 5 5
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am(7M) = X 0 2 1 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/b9 = X 5 4 5 4 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F7 = 1 3 1 2 1 1

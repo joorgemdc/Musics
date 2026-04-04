@@ -1,0 +1,95 @@
+Chico Buarque - Paratodos
+
+(De: Chico Buarque)
+
+Intr.: D7M(6/9)/A / A7(9) / D7M(6/9)/A / A7(9) /
+       D7M(6/9)/A / A7(9) / D7M(6/9)/A / A7(9) /
+
+D7M(6/9)                    A7/C#                       Am6/C
+        O meu pai era paulis_____ta  Meu avô, pernambuca_____no
+      B7(b9)       Eb7M/Bb          Gm6/Bb      D7M(9)/A
+O meu bisavô, minei_______ro  Meu tataravô, baia________no
+      D7(9)/A      E7/G#          A7(b9/13)        D7M(6/9)/A  A7/4(9)
+Meu maestro  sobera_____no  Foi Antônio    Brasilei__________ro
+
+D7M(6/9)/A / A7/4(9) /
+
+D7M(6/9)                    A7/C#                        Am6/C
+        Foi Antônio Brasilei_____ro  Quem soprou esta toa_____da
+    B7(b9)          Eb7M/Bb            Gm6/Bb           D7M(9)/A
+Que cobri de redondi_______lhas  Pra seguir  minha jorna________da
+        D7(9)/A      E7/G#            Gm6       A/G    D7(9)/F#
+E com a vista  enevoa_____da  Ver o inferno e ma___ravi________lhas
+
+
+D7(9/13)                    A7/C#                     Am6/C
+        Nessas tortuosas tri_____lhas  A viola me redi_____me
+        B7(b9)         Eb7M/Bb           Gm6/Bb             D7M(9)/A
+Creia, ilustre cavalhei_______ro  Contra fel,  moléstia, cri________me
+    D7(9)/A    E7/G#        Gm6       A/G      D7(9)/F#
+Use Dorival Caymmi    Vá de Jackson do   Pandei________ro
+
+D7(9/13)                     A7/C#                         Am6/C
+        Vi cidades, vi dinhei_____ro  Bandoleiros, vi hospí_____cios
+      B7(b9)       Eb7M/Bb        Gm6/Bb        D7M(9)/A
+Moças feito passari_______nho  Avoando  de edifí________cios
+      D7(9)/A            E7/G#           Gm6      A/G     D7(9)/F#
+Fume Ari,     cheire Viní_____cius  Beba Nelson Ca___vaqui________nho
+
+G7(9) / / / / / / / D7(9)/F# / / / / / / /
+
+D7(9/13)                      A7/C#                           Am6/C
+        Para um coração mesqui_____nho  Contra a solidão agres_____te
+        B7(b9)          Eb7M/Bb         Gm6/Bb           D7M(9)/A
+Luiz Gonzaga  é tiro cer_______to  Pixinguinha é incontes________te
+     D7(9)/A              E7/G#        A7(b9/13)             D7M(6/9)/A  A7/4(9)
+Tome Noel,   Cartola, Ores_____tes  Caetano     e João Gilber____________to
+
+D7M(6/9)/A / A7/4(9) /
+
+D7M(6/9)                       A7/C#                            Am6/C
+        Viva Erasmo, Ben, Rober_____to  Gil e Hermeto, palmas pa_____ra
+      B7(b9)            Eb7M/Bb           Gm6/Bb          D7M(9)/A
+Todos os    instrumentis_______tas  Salve Edu,  Bituca, Na________ra
+       D7(9)/A          E7/G#       Gm6  A/G      D7(9)/F#
+Gal, Bethânia, Rita, Cla_____ra  Evoé,   jovens à vis_____ta
+
+D7(9/13)
+        O meu pai era paulista  Meu avô, pernanbucano
+                   Gm6/D                      D7(9/13)
+O meu bisavô, minei_____ro  Meu tataravô, baia________no
+                          E/D                            D7(9/13)
+Vou na estrada há muitos a___nos  Sou um artista brasilei________ro
+
+ACORDES:
+
+D7M(6/9)/A - X04600     E7/G#     - 4X2430
+A7(9)      - X05600     A7(b9/13) - X05322
+D7M(6/9)   - X54600     A7/4(9)   - X05430
+A7/C#      - X4525X     Gm6       - 3X233X
+Am6/C      - X3425X     A/G       - 3X222X
+B7(b9)     - 7X754X     D7(9)/F#  - 2X0210
+Eb7M/Bb    - 6X574X     D7(9/13)  - X54500
+Gm6/Bb     - 6X575X     G7(9)     - 3X320X
+D7M(9)/A   - X04630     Gm6/D     - X5535X
+D7(9)/A    - X04530     E/D       - X5645X
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A7(9) = 5 X 5 4 2 X
+A7(b9/13) = 5 X X P3 7 3
+A7/4(9) = 5 X 5 4 3 X
+A7/C# = X 4 5 2 5 X
+Am6/C = X 3 4 2 5 2
+B7(b9) = X 2 1 2 1 X
+D7(9)/F# = 5 7 5 9 5 6
+D7(9/13) = X 5 4 5 0 0
+D7M(6/9) = X 5 4 6 0 0
+D7M(9)/A = 5 4 2 2 3 2
+E/D = X 5 X 4 5 4
+E7/G# = 4 X 2 4 3 X
+Eb7M/Bb = 6 6 5 3 3 3
+G7(9) = 3 X 3 2 0 X
+Gm6 = 3 X 2 3 3 X
+Gm6/Bb = X 1 2 0 3 0
+Gm6/D = X 5 5 3 5 X

@@ -1,0 +1,57 @@
+Caetano Veloso - La Golondrina
+
+(intro) E E7 A7 F#m7   E  B7   E
+
+         E
+A donde irá
+            F#m7  E B7
+veloz y fatiga  -   da
+          E   A#dim7
+la golondrina
+               B7
+que de aquí se va
+              E       E7
+por si en el viento
+                AM7  F#m7
+se hallara extravia    da
+         E
+buscando abrigo
+           B7   E
+y no lo encontrara.
+
+            B7
+Junto a mi lecho
+
+                 E
+le pondré yo su nido
+          B7
+en donde pueda
+       B7     E
+la estación pasar
+             E7
+también yo estoy
+               A  F#m7
+en la región perdido
+          E
+OH Cielo Santo!
+        B7     E
+y sin poder volar.
+
+(instrumental)
+       E     E7
+Voy recordando
+              A F#m7
+tierna golondrina
+      EM7
+recordare
+             B7  E
+mi patria y llorare.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A#dim7 = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X

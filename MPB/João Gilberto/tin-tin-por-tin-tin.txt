@@ -1,0 +1,64 @@
+João Gilberto - Tin Tin Por Tin Tin
+
+Intro:  B6/9/F#    C#7/9/G#    C7/9/G    B6/9/F#    Em7/9
+        B7M       C#7/9/G#    C7/9/G    B6/9/F#
+
+         B7M      C#7/9/G#
+    Você tem que dar, tem que dar
+
+   F#7         B6/9/F#
+    O que prometeu meu bem
+
+     B7M           C#7/9/G#       F#7           B6/9/F#
+    Mande o meu anel que de volta eu te mando o seu também
+
+   F#7/b13               F#m7         B7/9/F#  E7+   E7+/9
+    Mande a carta em que eu dizia o amor não tem fim
+
+  C#7/9/G#                     F#7        F#dim       F#7  F#7/b13
+    Que eu te mando outra explicando tin tin por tin tin
+
+  B6/9/F# B7M     C#7/9/G#  F#7/13   B6/9/F#
+    Você tem que devolver o que era meu bem meu
+
+
+   F#7/b13      B7/9/F#         B7/b13   B7    E7+  B7/b13
+    Mande o meu retrato e ponha outro em seu lugar
+
+        E7+      Em7/11   Em7/9
+    Morreu um rei
+
+            B6/9/F#         G#7/13  G#7/b13
+    Salve o rei que vai chegar
+
+        C#7/9/G#         C7/9/G       B6/9/F#      B7+
+    Não sei sofrer, não sei chorar Eu sei me conformar
+
+
+( B6/9/F#    C#7/9/G#    C7/9/G    B6/9/F#    Em7/9 )
+
+Final: B7+    C#7/9/G#    C7/9/G    B6/9/F#
+
+     B6/9/F#    C#7/9/G#       C6/9/G    B6/9/F#            F13      B6/9/F#
+     Não sei sofrer, não sei chorar Eu sei me conformar e vou...
+
+
+
+
+----------------- Acordes -----------------
+B7 = X 2 1 2 0 2
+B7+ = X 2 4 3 4 2
+B7/b13 = X 2 X 2 4 3
+B7M = X 2 4 3 4 2
+E7+ = X X 2 4 4 4
+E7+/9 = X 7 6 8 7 X
+Em7/11 = X 7 X 7 8 5
+Em7/9 = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7/13 = 2 X 2 3 4 X
+F#7/b13 = 2 X 2 3 3 2
+F#dim = 2 X 1 2 1 X
+F#m7 = 2 X 2 2 2 X
+F13 = 1 X 0 2 1 X
+G#7/13 = 4 X 4 5 6 X
+G#7/b13 = 4 X 4 5 5 4

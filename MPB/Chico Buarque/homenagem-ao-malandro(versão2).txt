@@ -1,0 +1,47 @@
+Chico Buarque - Homenagem Ao Malandro
+
+D7M     Am/F#          B7/b9 D/E
+Eu fui fazer um samba em homenagem
+             Em7         A7             D7M        D6
+À nata da malandragem, que conheço de outros carnavais
+      Am/F#     B7/b9  D/E
+Eu fui à Lapa e perdi a viagem,
+                 Em7        A7        D7M
+Que aquela tal malandragem não existe mais
+ F#m6                    E7                      Em7           A7
+Agora já não é normal, o que dá de malandro regular profissional
+   D7M                           F#m6
+Malandro com o aparato de malandro oficial,
+  E7                    A7
+Malandro candidato a malandro federal,
+   D6                    Am6      D7/9
+Malandro com retrato na coluna social
+   G7M                                 E7/9
+Malandro com contrato, com gravata e capital,
+    Em7/9        A7
+Que nunca se dá mal
+      Am/F#          B7/b9          D/E
+Mas o malandro para valer, não espalha,
+
+                Em7   A7          D7M              D6
+Aposentou a navalha, tem mulher e filho e tralha e tal
+          Am/F#                  B7/b9 D/E
+Dizem as más línguas que ele até trabalha,
+     E7              Em7       A7       D7M
+Mora lá longe e chacoalha num trem da Central
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am/F# = 2 X 2 2 1 0
+Am6 = 5 X 4 5 5 X
+B7/b9 = X 2 1 2 1 X
+D/E = X X 2 2 3 2
+D6 = X 5 4 2 0 X
+D7/9 = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#m6 = 2 X 1 2 2 X
+G7M = 3 X 4 4 3 X

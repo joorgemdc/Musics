@@ -1,0 +1,72 @@
+﻿Milton Nascimento - Cadê
+
+     E   D   A   C
+E|---7—--5---5---3---| 
+B|---9—--7---5---5---|
+G|---9—--7---6---5---|  
+D|-------------------|
+A|-------------------|
+E|-------------------|
+
+Verso:
+E     D      A       C
+Meu príncipe encantado.
+Meu príncipe Cansado.
+
+Refrão:
+Am7                      Bm7
+Cadê tuas botas de sete léguas?
+C#7/4(9)         D7/4(9)
+E a tilim de Peter Pan.
+
+Am7                      Bm7
+E tua esperança Branca de Neve
+C#7/4(9)     D7/4(9)
+Cadê, quem Levou?
+D7/4(9) C7M
+Quem  Levou?
+
+Verso:
+E     D      A       C
+Meu Príncipe esperado.
+Meu Príncipe suado.
+
+Refrão:
+Am7                      Bm7
+Que é do Beijo da Bela Adormecida?
+C#7/4(9)         D7/4(9)
+E a espada de Condão.
+Am7                      Bm7
+E o Pais Maravilhoso de Alice?
+C#7/4(9)     D7/4(9)
+Cadê, quem Levou?
+D7/4(9) C7M
+Quem Levou?
+
+Verso:
+E     D      A       C
+Meu príncipe assustado.
+Meu príncipe queimado.
+
+Refrão:
+Am7                      Bm7
+Corta a noite escura desta floresta.
+C#7/4(9)         D7/4(9)
+Mata o fogo do Dragão.
+Am7                      Bm7
+Trás da lenda os jogos de nossa festa.
+C#7/4(9)     D7/4(9)
+Pra eu poder brincar
+D7/4(9) C7M
+ E  Sorrir.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7/4(9) = X 4 4 4 4 4
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D7/4(9) = X 5 5 5 5 5
+E = 0 2 2 1 0 0

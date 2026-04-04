@@ -1,0 +1,285 @@
+Vanessa da Mata - Boa Sorte/Good Luck
+
+Intro 2x: C#m7  E  B  F#
+
+Dedilhado Intro e Primeira Parte:
+
+Parte 1
+
+   C#m7               E
+E|-------4----------------------------------|
+B|-----5-----5-----5------5-----------------|
+G|---4---------4--------------4-------------|
+D|--------------------5/6-------6-----------|
+A|-4-------4-----4--------------------------|
+E|--------------------0-----0-----0---------|
+
+Parte 2
+
+   B              F#
+E|------------------2-----------------------|
+B|-4-4-----4------------2-------------------|
+G|-4-----4-----4--3-------3-----------------|
+D|----------------4-------------------------|
+A|-2---2-----2------------------------------|
+E|----------------2---2-----2---------------|
+
+
+Primeira Parte:
+
+        C#m7
+É só isso
+                 E
+Não tem mais jeito
+        B         F#
+Acabou,   boa sorte
+
+                   C#m7
+Não tenho o que dizer
+             E
+São só palavras
+               B
+E o que eu sinto
+         F#
+Não mudará
+
+Refrão:
+
+                    C#m7
+Tudo o que quer me dar
+     E
+É demais
+     B
+É pesado
+        F#
+Não há paz
+
+                    C#m7
+Tudo o que quer de mim
+    E
+Irreais
+        B
+Expectativas
+     F#
+Desleais
+
+Segunda Parte:
+
+       C#m7
+That's it
+            B
+There's no way
+       F#
+It's over, good luck
+
+              C#m7
+I've nothing left to say
+           B
+It's only words
+            F#
+And what l feel
+
+Won't change
+
+Refrão:
+
+                    C#m7
+Tudo o que quer me dar
+
+(Everything you want to give me)
+     E
+É demais
+
+(It's too much)
+     B
+É pesado
+
+(It's heavy)
+        F#
+Não há paz
+
+
+(There is no peace)
+                    C#m7
+Tudo o que quer de mim
+
+(All you want from me)
+    E
+Irreais
+
+(Isn't real)
+        B
+Expectativas
+
+(Expectations)
+     F#
+Desleais
+
+Base Solo 4x: C#m7  B  F#
+
+Solo:
+
+Parte 1
+
+E|------------------------------------------------------|
+B|-10/12-12-12\9-9--7/9/10-9\7--5/7---------------------|
+G|----------------------------------6-6~--6\4-4-8/9-8~--|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Parte 2
+
+E|------------------------------------------------------|
+B|------------------------------------------------------|
+G|-6-8-9-9-9/11-8~--8/9\4-4/6~--6/8-4-4/6~--------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Parte 3
+
+E|------------------------------------------------------|
+B|-11/12-12~--9-12-7/9-5-5/7\5~--4p2h4/5~---------------|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Parte 4
+
+E|------------------------------------------------------|
+B|------5/7-7b8r7p5-------------------------------------|
+G|-4-6~-------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Parte 5
+
+E|------------------------------------------------------|
+B|-4/5\4-2h4p2p0-2h4/5/7-7/9-7/9--9b10r9b10r9~----------|
+G|------------------------------------------------------|
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+Terceira Parte:
+
+            C#m7
+Mesmo se segure
+              A
+Quero que se cure
+          F#
+Dessa pessoa
+
+Que o aconselha
+
+            C#m7
+Há um desencontro
+               A
+Veja por esse ponto
+              F#
+Há tantas pessoas especiais
+
+    C#m7                      A
+Now even if you hold yourself
+        F#
+I want you, to get cured
+
+From this person
+
+       C#m7     A
+Who advises you
+                  F#
+There is a disconnection
+
+                           C#m7
+See through this point of view
+           A
+There are so many special
+
+ F#
+People in the world
+          C#m7
+So many special
+
+               A
+People in the world
+        F#
+In the world
+         (pausa)
+All you want
+
+All you want
+
+Refrão:
+
+                    C#m7
+Tudo o que quer me dar
+
+(Everything you want to give me)
+     E
+É demais
+
+(It's too much)
+     B
+É pesado
+
+(It's heavy)
+        F#
+Não há paz
+
+(There is no peace)
+
+                    C#m7
+Tudo o que quer de mim
+
+(All you want from me)
+    E
+Irreais
+
+(Isn't real)
+        B
+Expectativas
+
+(Expectations)
+     F#
+Desleais
+
+Final:
+           C#m7
+Now we're falling, falling
+ B
+Falling, falling
+          F#
+Into the night, into the night
+
+           C#m7
+Now we're falling, falling
+ B
+Falling, falling
+          F#
+Into the night
+
+Bom encontro é de dois
+
+           C#m7
+Now we're falling, falling
+ B
+Falling, falling
+          F#
+Into the night, into the night
+           C#m7
+Now we're falling, falling
+ B
+Falling, falling
+          F#
+Into the night
+
+----------------- Acordes -----------------
+A = 5 7 7 6 5 5
+B = X 2 4 4 4 2
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2

@@ -1,0 +1,85 @@
+Ivan Lins - Samba do Avião
+
+( Tom Jobim )
+
+
+[Intro:] Em7(9) F#7(13) F#7(b13) B7(9)(11) E7(9)
+         Em7(9) A7(b9)
+
+D7M/F#   Fº   Em7 Fº F#m7 F#7(b13)   G7M  C7(9)
+Mi...nha alma canta, vejo o Rio de Janei...ro,
+  F#m7 Gº   F#m7 G7(13)  F#7(#9) B7(13) B7(b13)
+Estou mor...ren...do de sauda.....de
+E7(13) E7(b13)    E7
+Rio, teu mar, praias sem fim,
+Em7(9)      Em7M(9)    A7(b9) D7M/F#
+Rio, você foi feito pra mim
+
+  Fº   G#º     G6 G/A A/G   F#m7   Bm7 E7(9) Am7 D7(9) G7M  Gm6
+Cris...to Redentor, braços abertos sobre a  Gua...na...ba...ra
+Em7(9)       Gm7   C7(9) F#m7          F7M F7 E7(#9)
+Este samba é só porque,  Rio, eu gosto de vo...cê,
+Em7(9)   Gm7   C7(9) F#m7    B7(b13) Em7   A7(13)
+A morena vai sambar, seu corpo to...do balançar
+F#m7   B7/A  Em7(b5)  B7(b5)
+Rio de sol, de céu, de mar,
+Em7(9)              F#m7              F#7M  G7M G#º
+Dentro de mais um minuto estaremos no Ga...leão
+
+  Fº        Em7 Fº       F#m7 F#7(b13)       G7M  Gm6 C7(9)
+Cristo Redentor, braços abertos sobre a Guanaba...ra
+Em7(9)       Gm7   C7(9) F#m7          F7M F7 E7(#9)
+Este samba é só porque,  Rio, eu gosto de vo...cê,
+Em7(9)   Gm7   C7(9) F#m7    B7(b13) Em7(9)
+A morena vai sambar, seu corpo to...do balançar
+F#m7    B7/A    Em7(b5) B7(b5)
+Aperte o cinto, vamos chegar,
+Em7(9)                 F#m7              F#7M  G7M G#º D/A
+Água brilhando, olha a pista chegando, e vamos nós,
+F#7/Bb Bm7 E7(9)
+Pousar...
+
+Fim: D/A F#7/Bb Bm7 E7(9)
+     Em7(9) F#7(13) F#7(b13) B7(9)(11) E7(9)
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A7(13) = X 0 X 0 2 2
+A7(b9) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B7(13) = X 2 X 2 4 4
+B7(9)(11) = X 2 2 2 2 2
+B7(b13) = X 2 X 2 4 3
+B7(b5) = X 2 3 2 4 X
+B7/A = X 0 4 4 4 X
+Bm7 = X 2 4 2 3 2
+C7(9) = X 3 2 3 3 X
+D/A = X 0 X 2 3 2
+D7(9) = X 5 4 5 5 X
+D7M/F# = 2 X 0 2 2 2
+E7 = 0 2 2 1 3 0
+E7(#9) = X 7 6 7 8 X
+E7(13) = 0 X 0 1 2 0
+E7(9) = X X 2 1 3 2
+E7(b13) = 0 X 0 1 1 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7(b5) = X X 2 3 3 3
+Em7M(9) = 0 X X 0 4 2
+F#7(#9) = X X 4 3 5 5
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#7/Bb = 6 X 4 6 5 X
+F#7M = 2 X 3 3 2 X
+F#m7 = 2 X 2 2 2 X
+F7 = 1 3 1 2 1 1
+F7M = 1 X 2 2 1 X
+Fº = X X 3 4 3 4
+G#º = 4 X 3 4 3 X
+G/A = 5 X 5 4 3 X
+G6 = 3 X 2 4 3 X
+G7(13) = 3 X 3 4 5 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gº = 3 X 2 3 2 X

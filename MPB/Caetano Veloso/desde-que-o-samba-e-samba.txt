@@ -1,0 +1,86 @@
+Caetano Veloso - Desde Que o Samba É Samba
+
+[Intro] A7(9)
+
+     D6(9)   A7       D6(9) Am6 D7(b9)
+A tristeza   é      senhora
+G7M         C7(9)           F#7(13) F#7(b13) F#7m B7(b9)
+Desde que o samba é samba é assim
+  E7(9)         A7              Bm7 Bm7/A
+A lágrima clara sobre  a pele escura
+  E7(9)                       A7 A7(b13)
+A noite e a chuva que cai lá fora
+
+    D6(9)  A7     D6(9) Am6 D7(b9)
+Solidão    apavora
+G7M         C7(9)    F#7(13)   F#7(b13) F#7m B7(b9)
+Tudo demorando em ser   tão ruim
+    E7(9)            A7       Bm7              E7(9)
+Mas alguma coisa acontece   no quando agora em mim
+   Em7(9)                A7       D6(9) A7
+Cantando  eu mando a tristeza   embora
+
+      D6(9)   A7      D6(9) Am6 D7(b9)
+A tristeza   é      senhora
+
+G7M         C7(9)   F#7(13) F#7(b13) F#7m B7(b9)
+Desde que o samba é samba é assim
+   E7(9)        A7            Bm7  Bm7/A
+A lágrima clara sobre  a pele escura
+ E7(9)               A7  A7(b13)
+A noite e a chuva que cai lá fora
+
+  D6(9)   A7     D6(9) D7(b9)
+Solidão    apa-----vora
+G7M               C7(9)       F#7(13) F#7(b13) F#7m B7(b9)
+Tudo demorando em ser   tão ruim
+     E7(9)       A7            Bm7
+Mas alguma coisa acontece   no quando agora em mim
+   Em7(9)                 A7      D6(9) D#º
+Cantando  eu mando a tristeza   embora
+
+  Em7(9)               F#7       Bm7                G#m(11) C#7/G
+O samba  ainda vai nascer      o samba ainda não chegou
+ F#m7        B7      Bm7            E7(9)
+O samba não vai morrer veja o dia ainda não raiou
+
+ Em7(9)          F#7   Bm7               G#m(11)    C#7/G
+O samba  é o pai do prazer      o samba é o filho da dor
+  F#m7          B7(9)  E7(9) Asus
+O grande poder transforma---dor
+
+         D6(9)
+A     tristeza
+
+ Em7(9)          A7    D6(9)  B7
+Cantando  eu mando a tristeza  embora
+ Em7(9)          A7     D6(9)  B7
+Cantando  eu mando a tristeza  embora
+ Em7(9)          A7     D6(9)  B7
+Cantando  eu mando a tristeza  embora
+ Em7(9)          A7     D6(9)
+Cantando  eu mando a tristeza  embora
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(9) = 5 X 5 4 2 X
+A7(b13) = X 0 X 0 2 1
+Am6 = 5 X 4 5 5 X
+Asus = X 0 2 2 2 0
+B7 = X 2 1 2 0 2
+B7(9) = X 2 1 2 2 X
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C7(9) = X 3 2 3 3 X
+D#º = X X 1 2 1 2
+D6(9) = X 5 4 2 0 0
+D7(b9) = X 5 4 5 4 X
+E7(9) = X X 2 1 3 2
+Em7(9) = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#m7 = 2 X 2 2 2 X
+G#m(11) = 4 X 1 4 2 X
+G7M = 3 X 4 4 3 X

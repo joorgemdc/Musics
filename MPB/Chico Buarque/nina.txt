@@ -1,0 +1,78 @@
+Chico Buarque - Nina
+
+A9                         Fº Am7    Fº       C
+Nina diz que tem a pele cor de neve
+                   G/B               E7/G# C7/G
+E dois olhos negros como o breu
+F6                            A7
+Nina diz que, embora nova
+Fm6/Ab             G7             Dm7M Bbm6/Db C#º
+Por amores já chorou que nem viúva
+         F7M/C F6/C    E7 A9
+Mas acabou, esqueceu
+
+                    Fº       Am7        Fº     C
+Nina adora viajar, mas não se atreve
+                   G/B               E7/G# C7/G
+Num país distante como o meu
+F6                             A7
+Nina diz que fez meu mapa
+Fm6/Ab             D7/F#   F6 E7(b13)
+E no céu o meu destino rapta
+  Am9 Am9(#5)
+O seu
+
+
+Dm6                 G7(9)                    G7/B C7M
+Nina diz que se quiser eu posso ver na tela
+C#7(b5)               G7/D                   D#º Em7
+A cidade, o bairro, a chaminé da casa dela
+F6                        G7(9)
+Posso imaginar por dentro a casa
+                    C7M                          D#º
+A roupa que ela usa, as mechas, a tiara
+                           Dm6/F              E7
+Posso até adivinhar a cara que ela faz
+                 F#m7(b5) G7(b9)
+Quando me escreve
+
+Nina anseia por me conhecer em breve
+Me levar para a noite de Moscou
+Sempre que esta valsa toca
+Fecho os olhos, bebo alguma vodca
+    A9
+E vou
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A9 = X 0 2 2 0 0
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+Am9(#5) = 5 X 5 4 1 1
+Bbm6/Db = X 4 5 3 6 3
+C = X 3 2 0 1 0
+C#7(b5) = X 4 5 4 6 X
+C#º = X 4 5 3 5 3
+C7/G = 3 X 2 3 1 X
+C7M = X 3 2 0 0 X
+D#º = X X 1 2 1 2
+D7/F# = X X 4 5 3 5
+Dm6 = X 5 X 4 6 5
+Dm6/F = 1 X 0 2 0 X
+Dm7M = X X 0 2 2 1
+E7 = 0 2 2 1 3 0
+E7(b13) = 0 X 0 1 1 0
+E7/G# = 4 X 2 4 3 X
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+F6 = 1 X 0 2 1 X
+F6/C = X 3 3 2 3 X
+F7M/C = X 3 3 2 5 X
+Fm6/Ab = 4 5 3 5 3 X
+Fº = X X 3 4 3 4
+G/B = X 2 0 0 3 3
+G7 = 3 5 3 4 3 3
+G7(9) = 3 X 3 2 0 X
+G7(b9) = 3 X 3 1 0 X
+G7/B = X 2 3 0 3 X
+G7/D = X X 0 0 0 1

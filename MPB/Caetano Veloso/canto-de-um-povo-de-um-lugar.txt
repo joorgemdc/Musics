@@ -1,0 +1,51 @@
+Caetano Veloso - Canto de Um Povo de Um Lugar
+
+(versão 1)
+
+      G      D9/F#    Em
+ Todo dia o sol se levanta
+   Em/D    C               D/C     G C/G G
+ e a gente canta ao sol de todo dia
+         G       D9/F#  Em
+ Finda a tarde a terra cora
+   Em/D     C           D/C        G C/G G
+ e a gente chora porque finda a tarde
+          G       D9/F#  Em
+ quando a noite a lua mansa
+   Em/D     C           D/C        G C/G G
+ e a gente dança venerando a noite.
+
+
+(versão 2)
+
+      C    G/B    Am
+Todo dia o sol levanta
+  Em       F
+E a gente canta
+
+          G    C
+O sol de todo dia
+                G/B   Am
+Fim da tarde a terra cora
+  Em        F
+E a gente chora
+        G          C
+Porque finda a tarde
+         G/B   Am
+Quando a noite a lua amansa
+  Em       F
+E a gente dança
+     G          C
+Venerando a noite
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C = X 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+D/C = X 3 X 2 3 2
+D9/F# = 2 X 0 2 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

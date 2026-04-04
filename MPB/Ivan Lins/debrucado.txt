@@ -1,0 +1,110 @@
+Ivan Lins - debrucado
+
+[Intro:] 
+
+Em7 B7(b13)/D# Em7/D A7/C# C7M D/C F#m7(b5) B7(b9)
+
+Em7            B7(b13)/D# Em7/D
+Debruçado na janela
+                               A7/C#
+Vejo o tempo ir passando
+C7M                         D/C
+Como corre aquela bola
+F#m7(b5)        B7(b13) B7
+Que ora rola na ladeira
+
+Mas caí sobre o telhado
+De uma casa bem mais velha
+E quebrando velha telha
+Vim pisar no meu presente
+
+E7(4)(9)          E7(b9)
+Debruçado na janela
+Am7  E/G#          C/G F#m7(b5)
+Inda abraço no olhar
+F7M                              F#m7(b5)
+Toda sombra enquanto o sol
+B7(4)(9)                 B7(b9)
+Não me faz redespertar
+
+E7M     B/D#           C#m7 Bm7 E7(9)
+Do meu sonho onde forte
+A7M(9)       F#m7 F#m/E    D7(4)(9) D7(9)
+No meu forte                tenho a vida
+             G7M B7(b13) Em7(9)
+De um garoto que    se agita
+ G/F             G7(4)(9) G7(9) C7M(9)     E7(b13) Am7(9)
+Brinca e grita                     no meu peito
+                                  D7(4)(9) D6(b9)
+Sem pensar sequer no tempo
+Gm Gm7M Gm7        Gm6
+Ou parar e olhar em volta
+Eb7M     Dm7        Cm7   Cm7/Bb
+Só escuta a chuva grossa
+ Am7(11)            D7 D6(b9)
+Olhos fitos na janela
+A7M/C#          Am6/C   B7
+Sem ter que se debruçar
+
+Solo: E7(4)(9) E6(b9) F#7M  G7M(9) Ab7M Bb7(9)(13)
+          Dm7(9)(11) D7(9)(#11) A7M/C# D7(4)(9) D7(b9) F#m7 F#m7M B7(4)(9)
+
+Fim: E7M Am6 E7M
+
+----------------- Acordes -----------------
+A7/C# = X 4 5 2 5 X
+A7M(9) = X 0 2 1 0 0
+A7M/C# = X 4 X 2 5 4
+Ab7M = 4 X 5 5 4 X
+Am6/C = X 3 4 2 5 2
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Am7(9) = X X 7 5 8 7
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7(4)(9) = X 2 2 2 2 2
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+Bb7(9)(13) = X 1 0 1 1 3
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C/G = 3 3 2 X 1 X
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+Cm7 = X 3 5 3 4 3
+Cm7/Bb = 6 3 5 3 4 3
+D/C = X 3 X 2 3 2
+D6(b9) = X 5 7 4 4 X
+D7 = X X 0 2 1 2
+D7(4)(9) = X 5 5 5 5 5
+D7(9) = X 5 4 5 5 X
+D7(9)(#11) = X X 0 1 1 0
+D7(b9) = X 5 4 5 4 X
+Dm7 = X 5 7 5 6 5
+Dm7(9)(11) = X 5 3 5 5 3
+E/G# = 4 X 2 4 5 X
+E6(b9) = 0 2 3 1 2 0
+E7(4)(9) = X X 2 2 3 2
+E7(9) = X X 2 1 3 2
+E7(b13) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+E7M = X X 2 4 4 4
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+Em7/D = X X 0 0 3 0
+F#7M = 2 X 3 3 2 X
+F#m/E = X X 2 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F#m7M = X X 4 6 6 5
+F7M = 1 X 2 2 1 X
+G/F = 1 X X 0 0 3
+G7(4)(9) = 3 X 3 2 1 X
+G7(9) = 3 X 3 2 0 X
+G7M = 3 X 4 4 3 X
+G7M(9) = 3 2 4 2 X X
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7M = 3 5 4 3 3 3

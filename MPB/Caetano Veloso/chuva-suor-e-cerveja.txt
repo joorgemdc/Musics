@@ -1,0 +1,103 @@
+Caetano Veloso - Chuva, Suor e Cerveja
+
+E|-7-5---------------5-4-3--------7-6-5----7-5----------------5-4-3--3/7--2-5-3------------|
+B|-----8-7-5--------7------------5------------8-7-5---------7-------------------5-3-3-----3|
+G|----------6--4-6-7-------4-6-7-------------------6--4-6-7-----------------------------2--|
+D|----------------------------------------------------------------------------------------4|
+A|-----------------------------------------------------------------------------------------|
+E|-----------------------------------------------------------------------------------------|
+
+D6(9)         A7(5+)             D6(9)
+Não se perca de mim
+                          A7(5+)         D9(13)
+Não se esqueça de mim
+           Bdim         Em7
+Não desapareça
+              B7              Em7
+A chuva tá caindo
+                               B7               Em7
+E quando a chuva começa
+                                      A7(9)           D9         A7(5+)
+Eu acabo de perder a cabeça
+D9(13)     A7(5+)              D9(13)
+Não saia do meu lado
+
+                                     A7(5+)          Am7
+Segure o meu pierrô molhado
+                              D7               G           G#dim
+E vamos embolar ladeira abaixo
+D/A             Bm7            Em7                  A7                      Am6    D7
+Acho que a chuva ajuda a gente a se ver
+ G              G#dim    D/A        Bm7
+Venha, veja, deixa beijar
+Em7          A7(9)                     Dmaj7
+Seja o que Deus quiser
+
+                   A/C#              D/C
+Não se perca de mim
+                          B7                Bb5+
+Não se esqueça de mim
+           D6/A         Em/G      B7
+Não desapareça
+ Em7      B7             Em7
+A chuva tá caindo
+                                B7              Em7
+E quando a chuva começa
+                                       A7(9)         Dadd9     A7(5+)
+Eu acabo de perder a cabeça
+D9(13)      A7(5+)              D9(13)
+Não saia do meu lado
+                                   A7(5+)           Am7
+Segure o meu pierrô molhado
+                              D7               G           G#dim
+E vamos embolar ladeira abaixo
+D/A             Bm7              Em7                A7                      Am6    D7
+Acho que a chuva ajuda a gente a se ver
+ G               G#dim   D/A        Bm7
+Venha, veja, deixa beijar
+Em7           A7(9)                       D
+Seja o que Deus quiser
+
+                                 Fdim
+A gente se embala
+
+se embora
+                             Em7
+se embola
+                           A7(9)                  D
+só pára na porta da igreja
+                          Fdim
+A gente se olha
+
+              se beija
+                             Em7
+              se molha
+                             A7(9)             D
+de chuva, suor e cerveja
+
+----------------- Acordes -----------------
+A/C#*  = X 4 X 2 5 5 - (*G/B na forma de A/C#)
+A7*  = X 0 2 0 2 0 - (*G7 na forma de A7)
+A7(5+)*  = X 0 X 0 2 1 - (*G7(5+) na forma de A7(5+))
+A7(9)*  = 5 X 5 4 2 X - (*G7(9) na forma de A7(9))
+Am6*  = 5 X 4 5 5 X - (*Gm6 na forma de Am6)
+Am7*  = X 0 2 0 1 0 - (*Gm7 na forma de Am7)
+B7*  = X 2 1 2 0 2 - (*A7 na forma de B7)
+Bb5+*  = X 1 4 3 3 X - (*Ab5+ na forma de Bb5+)
+Bdim*  = X 2 3 1 3 1 - (*Adim na forma de Bdim)
+Bm7*  = X 2 4 2 3 2 - (*Am7 na forma de Bm7)
+D*  = X X 0 2 3 2 - (*C na forma de D)
+D/A*  = X 0 X 2 3 2 - (*C/G na forma de D/A)
+D/C*  = X 3 X 2 3 2 - (*C/A# na forma de D/C)
+D6(9)*  = X 5 4 2 0 0 - (*C6(9) na forma de D6(9))
+D6/A*  = X 0 4 4 3 X - (*C6/G na forma de D6/A)
+D7*  = X X 0 2 1 2 - (*C7 na forma de D7)
+D9*  = X X 0 2 3 0 - (*C9 na forma de D9)
+D9(13)*  = X 5 4 2 0 0 - (*C9(13) na forma de D9(13))
+Dadd9*  = X X 0 2 3 0 - (*Cadd9 na forma de Dadd9)
+Dmaj7*  = X X 0 2 2 2 - (*Cmaj7 na forma de Dmaj7)
+Em/G*  = 3 X 2 4 5 X - (*Dm/F na forma de Em/G)
+Em7*  = 0 2 2 0 3 0 - (*Dm7 na forma de Em7)
+Fdim*  = X X 3 4 3 4 - (*D#dim na forma de Fdim)
+G*  = 3 2 0 0 0 3 - (*F na forma de G)
+G#dim*  = 4 X 3 4 3 X - (*F#dim na forma de G#dim)

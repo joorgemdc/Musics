@@ -1,0 +1,107 @@
+Djavan - Joaninha
+
+Em7  Am6
+Tudo passa
+   D7(4/9)         B/E
+Enquanto a hora espera
+C/G
+   Quando ave noturna pia
+B/A
+   Todos piam, eu espio,
+         Bb(#11)/F
+Noite fria,   na luz guia
+
+Do luar, que lugar...
+Bb(#11)/E
+        Que lugar, que lugar
+Em7      Am6
+Quando é hora
+   D7(4/9)       B/E
+O amor se vai embora
+C/G
+   Sem saber como seria
+B/A
+   Mais um dia se recria
+
+        Bb(#11)/F
+Na paixão, outro chão,
+
+Outra vez, toda vez,
+Bb(#11)/E
+        Toda vez, toda vez...
+
+Cm7          Ab7
+   A vereda é azulada
+     Ab/Db       G7(#5)
+E sofrida a solidão
+Cm7
+   Que sem chão
+Ab7          Ab/Db G7(#5)
+Faz morada no descaminho
+
+C7M                 B7(#5)
+Bem quando a luz do cacto
+Gm6              A7(#5)
+Reflete ao sol altivo
+    Dm7(9)      Bm7(b5)
+A chuva rompe o pacto
+    E7(b9)  F7M    F#°
+Inundando a tarde quente
+Dm7(9)         Fm6        C/G
+E o prazer que sente a joaninha
+       G#°        Amadd9   Amadd9/G# Amadd9/G
+Quando anda pela flor
+Amadd9/F#  Dm7(9)       Am7     Cm6  E7  Am
+             Ganha um quê de sacrifício e dor
+
+C7M            E4
+Volto a contemplar
+A4(b9)         F7M
+        O firmamento
+C7M            E4
+Bruma que o cobria
+A4(b9)         F7M
+          Esvaneceu
+C7M        E4
+Cheia de pesar
+A4(b9)           F7M
+       Estrela espia
+C7M       E4
+A luz do luar
+A4(b9)            F7M
+       Que a escondeu!...
+
+----------------- Acordes -----------------
+A4(b9) = X 0 2 3 3 0
+A7(#5) = X 0 X 0 2 1
+Ab/Db = X 4 6 5 4 4
+Ab7 = 4 6 4 5 4 4
+Am = X 0 2 2 1 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+Amadd9 = X 0 2 4 1 0
+Amadd9/F# = 2 X X 4 X X
+Amadd9/G = 3 0 2 4 1 0
+Amadd9/G# = 4 2 P5 5 5 5
+B/A = X 0 4 4 4 X
+B/E = X 7 9 8 7 7
+B7(#5) = X 2 X 2 4 3
+Bb(#11)/E = X X X 2 3 X
+Bb(#11)/F = 1 X X 3 3 0
+Bm7(b5) = X 2 3 2 3 X
+C/G = 3 3 2 X 1 X
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+D7(4/9) = X 5 5 5 5 5
+Dm7(9) = X 5 3 5 5 X
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+E7(b9) = X X 2 1 3 1
+Em7 = 0 2 2 0 3 0
+F#° = 2 X 1 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G#° = 4 X 3 4 3 X
+G7(#5) = 3 X 3 4 4 3
+Gm6 = 3 X 2 3 3 X

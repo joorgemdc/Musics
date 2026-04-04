@@ -1,0 +1,73 @@
+Ed Motta - Entre e Ouça
+
+Intro: B/C#  Bb/C  A/D  Eb7M/9  Bb/C (4x)
+       A9 F7M/9 Em5+ B/C#  D6(9)  Bb/C  D6(9)  Bb/C (4x)
+
+D7+/9                                                  Bb/C
+         Quase tudo sempre, quando muito, tende a esgotar
+D7+/9                                         Bb/C
+         Quando muito pouco, tudo pode se acabar
+A7+/9                       C#m7          D7+/9
+         Esse tempo que eu levei desse um novo dia, eu sei
+A7+/9                  C#m7      D7/+9
+         Que não fosse nem       muito, pouco ou demais
+                A7+/9        C#m7         D7+/9
+         Se eu nada soubesse (yeah) a hora ou o lugar
+A7M               C#m7                    D7M(9)
+         Onde eu vou te encontrar? Agora vou pra lá
+
+B/C#, Bb/C, A/D, Eb7M/9, Bb/C  D7+/9, Bb/C   2x
+
+           Bm7        G7+     C#7(#9)       F#m7/9     Bm7
+me leva ou não só não pare    perto ou      além       woah
+                         G7+       C#7(#9)   F#m7/9        B5+/7
+não diga pra mim que não sabe    o quanto aguardei esse instante
+  Em7/9       G/A
+e outros bem mais
+
+( D7+/9  Bb/C  D7+/9  Bb/C )
+
+( G/A  G#/A#  G/A  G#/A#  A/B  Bb/C  G/A  F/G ) (2x)
+
+F7+/9                      G/A                Bb/C C
+         Agora entre e ouça enquanto eu não voltar
+F7+/9                              G/A         Bb/C    F7M        Em7
+         Se acaso lhe trouxer algo tão normal, sei que são
+               Am7
+Os outros não foram em vão
+
+( F/G  G/A  Ab/Bb  Bb/C )
+
+( F7+/9  G/A  F/G )
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A/D = X X 0 6 5 5
+A7+/9 = X 0 2 1 0 0
+A7M = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+Ab/Bb = X 1 1 1 1 X
+Am7 = X 0 2 0 1 0
+B/C# = X 6 X 4 7 7
+B5+/7 = X 2 X 2 4 3
+Bb/C = X 3 X 3 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7(#9) = X 4 3 4 5 X
+C#m7 = X 4 6 4 5 4
+D6(9) = X 5 4 2 0 0
+D7+/9 = X 5 4 6 5 X
+D7/+9 = X 5 4 5 6 X
+D7M(9) = X 5 4 6 5 X
+Eb7M/9 = X 6 5 7 6 X
+Em5+ = X X 2 0 1 0
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#m7/9 = X X 4 2 5 4
+F/G = 3 X 3 2 1 X
+F7+/9 = X 8 7 9 8 X
+F7M = 1 X 2 2 1 X
+F7M/9 = X 8 7 9 8 X
+G#/A# = X 1 1 1 1 X
+G/A = 5 X 5 4 3 X
+G7+ = 3 X 4 4 3 X

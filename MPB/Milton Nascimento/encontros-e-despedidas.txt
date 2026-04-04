@@ -1,0 +1,62 @@
+Milton Nascimento - Encontros e Despedidas
+
+
+F#m         Bm7                E
+    Mande notícias do mundo de lá
+         A7+  D7+
+Diz quem fica
+            G#m7/5-          C#7
+Me dê um abraço venha me apertar
+       F#m
+Tô chegando
+          Bm7              E             A7+
+Coisa que gosto é poder partir sem ter planos
+D7+        G#m7/5-          C#7          F#m
+    Melhor ainda é poder voltar quando quero
+         Bm7
+Todos os dias é um vai-e-vem
+             C#m7
+A vida se repete na estação
+               Dm7
+Tem gente que chega pra ficar
+              Cm7            Bm7
+Tem gente que vai pra nunca mais
+
+Tem gente que vem e quer voltar
+              C#m
+Tem gente que vai querer ficar
+              Dm7
+Tem gente que veio só olhar
+               Cm7        Bm7
+Tem gente a sorrir e a chorar
+    F#m                 Bm7
+E assim chegar e partir
+            E              G#/A   D7+
+São só dois lados da mesma viagem
+            G#m7/5-
+O trem que chega
+           C#7       F#m
+É o mesmo trem da partida
+       Bm7              E        A7+  D7+
+A hora do encontro é também despedida
+       G#m7/5-         C#7
+A plataforma dessa estação
+    F#m              A7
+É a vida desse meu lugar
+    D7+              G#m7/5- C#7 F#m
+É a vida desse meu lugar, é  a   vida
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+Cm7 = X 3 5 3 4 3
+D7+ = X X 0 2 2 2
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+G#/A = X X 7 8 9 8
+G#m7/5- = 4 X 4 4 3 X

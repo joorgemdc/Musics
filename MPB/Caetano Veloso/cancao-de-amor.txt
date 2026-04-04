@@ -1,0 +1,61 @@
+Caetano Veloso - Canção de Amor
+
+A7M                     Aº
+Saudade, torrente de paixão
+           C#m7/5-  F#7
+Emoção diferente
+                       Bm7/9
+Que aniquila a vida da gente
+    Dº/E                       A7M  A#7/5-
+Uma dor que eu não sei de onde vem
+   A7M                    Aº
+Deixaste o meu coração vazio
+              C#m7/5-
+Deixaste a saudade
+         F#7              Bm7/9
+Ao desprezares aquela amizade
+       Dº/E                 C#m  Em7 A7/9 A7
+Que nasceu ao chamar-te meu bem
+D7+                Dm6
+  Nas cinzas do meu sonho
+C#m7               C#m6
+  Um hino então componho
+  Bm7            E7
+Sofrendo a desilusão
+
+         C#m7/5-  F#7
+Que me invade
+Bm7         Dm6      F#m6 E7/9
+ Canção de amor, saudade
+
+   A7M
+saudade
+
+
+Aº        5x454x
+C#m7/5-   x4545x
+Bm7/9     x2022x
+Dº/E      0xx101
+Dm6       x5x465
+F#m6      2x122x
+A#7/5-    5x564x
+
+----------------- Acordes -----------------
+A#7/5- = X 1 2 1 3 X
+A7 = X 0 2 0 2 0
+A7/9 = 5 X 5 4 2 X
+A7M = X 0 2 1 2 0
+Aº = 5 X 4 5 4 X
+Bm7 = X 2 4 2 3 2
+Bm7/9 = X 2 0 2 2 X
+C#m = X 4 6 6 5 4
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+C#m7/5- = X 4 5 4 5 X
+D7+ = X X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m6 = 2 X 1 2 2 X

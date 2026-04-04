@@ -1,0 +1,89 @@
+Maria Gadú - A Valsa
+
+Intro: Am9 Ab° (2x)
+     ( G7 C7M Bm7/5- E7M(5+) ) (2x)
+
+Primeira Parte:
+Am9                      C9
+Tua alegoria já não abre alas
+          Bm7/5-                E7M(5+)
+Pra toda poesia que insiste em bater
+               Am9               C7M
+Nos tambores surdos da porta que cerras
+           Bm7/5-             E7M(5+)
+Pra chorar sozinha por tanto querer
+Am9                         C9
+Teu amadorismo impõe tal carência
+             Bm7/5-             E7M(5+)
+Não sou da cadência, não sou de valor
+Am9                     C7M
+Você é rara, no mundo
+      Bm7/5-                    E7M(5+)
+Só dance essa valsinha se preciso for
+
+
+Modulação: Am9 Ab° (2x) Cm D7 Eb7ˆD7
+
+Segunda Parte:
+Gm9                       Bb9
+Tua alegoria já não abre alas
+            Am7/5-               D7(13b)
+Pra toda poesia que insiste em bater
+             Gm9                 Bb7M
+Nos tambores surdos da porta que cerras
+             Am7/5-           D7(13b)
+Pra chorar sozinha por tanto querer
+Gm9                         Bb9
+Teu amadorismo impõe tal carência
+             Am7/5              D7(13b)
+Não sou da cadência, não sou de valor
+      Gm9       Bb7M
+Tu és rara, no mundo
+      Am7/5-           D7(13b)     Gm9  (pausa)
+Só dance essa valsinha se preciso for
+
+Terceira Parte:
+D7           Cm  Bb6          A7(13b)
+Eu tento trair, não me cabe a culpa
+Gm9                  Bb7M
+Abra logo a tua porta
+            Am7/5-          D7(13b)
+Minha vã certeza vai te embargar
+D7         Cm  Bb6         A7(13b)
+Sigo distraída, a tal impureza
+Gm9               Bb7M             Am7/5-
+Mas é carnaval de novo, você se dissolve
+               Gm9  (pausa)
+E a saudade aumenta
+
+Solo: Gm F#°(2x) F7 Bb7M Am7/5- D7(13b) [2x]
+
+Repete Segunda Parte
+
+Repete Terceira Parte
+
+Final:
+               D7                   Cm
+Não precisa o amor, não precisa o abraço
+                Bb6                 A7(13b)
+Não te cobre o laço, que não cobre o som
+          Gm9     Bb9     Bb7M
+Teu grito arde, invade, a casa
+ Am7/5-            D7(13b)        Gm
+E as palavras calam no meu coração
+
+----------------- Acordes -----------------
+A7(13b) = X 0 X 0 2 1
+Ab° = 4 X 3 4 3 X
+Am7/5- = 5 X 5 5 4 X
+Am9 = X 0 2 4 1 0
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+Bb9 = X 1 3 3 1 1
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+Cm = X 3 5 5 4 3
+D7 = X X 0 2 1 2
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3
+Gm9 = 3 5 7 3 3 3

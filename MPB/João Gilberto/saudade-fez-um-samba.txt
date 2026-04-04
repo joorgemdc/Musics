@@ -1,0 +1,39 @@
+João Gilberto - Saudade Fez Um Samba
+
+D7M           F°         Em7/9         A7(b9)
+Deixa que meu samba sabe tudo   sem você
+        D7M          F°         Em7/9       A7(b9)
+Não acredito que meu samba só dependa de você
+        Am7            D7/9
+A dor é minha em mim doeu
+          G7M            Gm6
+A culpa é sua, o samba é meu
+  F#7(b13)     Bm7           F°(b13)
+Então      não vamos mais brigar
+   Em7/9        A7(b9)    F#m7(b5)        B7(b9)
+Saudade  fez um samba, saudade     fez um samba
+E7/9         A7/4(9)   A7(b9)  G#m7(b5)
+      Fez um samba  em seu   lugar
+
+Final: Gm6  D/F#  F°  Em7  Eb7M  D7M
+
+----------------- Acordes -----------------
+A7(b9) = 5 X 5 3 2 X
+A7/4(9) = 5 X 5 4 3 X
+Am7 = X 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+D/F# = 2 X 0 2 3 2
+D7/9 = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+E7/9 = X X 2 1 3 2
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+Em7/9 = X 7 5 7 7 X
+F#7(b13) = 2 X 2 3 3 2
+F#m7(b5) = 2 X 2 2 1 X
+F° = X X 3 4 3 4
+F°(b13) = 1 X 0 1 2 X
+G#m7(b5) = 4 X 4 4 3 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

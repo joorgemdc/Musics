@@ -1,0 +1,58 @@
+Toquinho - Alô   Alô
+
+C7/9          G7M          C7/9        G7M
+Alô!!         Alô!!,    Alô!!     Alô!!,   Alô!!   Alô!!
+C7/9          G7M          C7/9        G7M
+ Alô!!        Alô!!,   Alô!!      Alô!!,  Alô!!   Alô!!
+
+  G7M       C7/9        G7M     C7/9
+Alô   Alô!!        A noite vem
+   G7M                F#7(b5)              Bm7      E7/9
+Pra depois noutro dia nascer e o futuro moldar
+Am7       E7/9             Am7             Am7/G
+Parte um jato chegar um trem
+A7                       A7/C#                    C   Bm7   Am7    D7/9
+Pro´s encontros da vida poderem com a gente brincar
+G7M        C7/9   G7M     C7/9
+Alô   Alô !!  e tem também
+G7M                   F#m7(b5) B7(b9) Em7 Ebm7 Dm7 G7/13
+Tanta gente a nascer, gente a crescer acreditando no amor
+
+C7M   Cm6    Bm7        E7/9
+   Vamos      por   aí
+Am7                 D7/9      Dm7/9   G7/9
+Sabendo que o mundo é cruel e lindo
+
+C7M     Cm6     Bm7      E7/9
+   Sem   me     iludir
+Am7                      D7/9  (1º)  Dm7/9   G7/9   (2ª) G7M
+Às vezes chorando e às vezes sorrindo.
+
+D7/9          A7M          D7/9        A7M
+Alô!!         Alô!!,    Alô!!     Alô!!,   Alô!!   Alô!!
+D7/9          A7M          D7/9        A7M
+ Alô!!        Alô!!,   Alô!!      Alô!!,  Alô!!   Alô!!
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+A7M = X 0 2 1 2 0
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E7/9 = X X 2 1 3 2
+Ebm7 = X X 1 3 2 2
+Em7 = 0 2 2 0 3 0
+F#7(b5) = 2 X 2 3 1 X
+F#m7(b5) = 2 X 2 2 1 X
+G7/13 = 3 X 3 4 5 X
+G7/9 = 3 X 3 2 0 X
+G7M = 3 X 4 4 3 X

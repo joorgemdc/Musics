@@ -1,0 +1,60 @@
+Djavan - Dores Gris
+
+[Intro] E7M(9)  F7M(9)  E7M(9)  F7M(9)
+
+E7M(9)          Gm7
+Sei que não sei
+C7(9)         E7M(9)    C#m6  C6
+Sair de onde quero ficar
+E7M(9)      Gm7
+O meu lugar
+ C7(9)      Bm7          E7(9)
+É aonde eu ainda não fui
+     Bm6        A7M             D7(9)
+Vivo assim como quem nem nasceu
+  Gm7(9)       C7(9)
+Esperando você para amar
+F#m7(9)  B7
+E viver
+
+E7M(9)          Gm7
+A poesia
+  C7(9)           E7M(9)         C#m6  C6
+Quanto mais lida, mais ganha vida
+
+Bm7         Bb7M
+Com seu amor, um ser melhor serei
+
+A7M   Bm7      Cº          C#m7
+O vento austral sopra longitudinal
+Dm7       G4(7/9)
+As melenas da nau solidão
+A7M   Bm7      Cº          C#m7
+As Dores Gris de quem ama e não é feliz
+Dm7       G4(7/9)
+É uma praga que dá na raiz
+A7M   Bm7      Cº          C#m7
+Pois sem você não saberei quem sou
+Dm7          G4(7/9)      A9(7M)  Bm7
+Ou o que faço com tanto amor
+
+----------------- Acordes -----------------
+A7M = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bb7M = X 1 3 2 3 1
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C#m6 = X 4 X 3 5 4
+C#m7 = X 4 6 4 5 4
+C6 = 8 X 7 9 8 X
+C7(9) = X 3 2 3 3 X
+Cº = X 3 4 2 4 2
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+E7(9) = X X 2 1 3 2
+E7M(9) = X 7 6 8 7 X
+F#m7(9) = X X 4 2 5 4
+F7M(9) = X 8 7 9 8 X
+G4(7/9) = 3 X 3 2 1 X
+Gm7 = 3 X 3 3 3 X
+Gm7(9) = X X 5 3 6 5

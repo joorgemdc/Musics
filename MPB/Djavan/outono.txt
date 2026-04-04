@@ -1,0 +1,47 @@
+Djavan - Outono
+
+[Intro] B7+(omit3)  F#m7  G#7  C#7(9)  F#7  F#7(9)
+
+
+B7+(omit3)              F#m7
+Um        olhar uma luz     ou um par de pérolas
+G#7                     C#7(9)
+Mesmo sendo azuis   sou        teu e te devo
+         F#7     F#7(9)   B7+(omit3)            F#m7
+Por essa riqueza          uma       boca que eu sei
+                         G#7
+Não porque me fala lindo     e, sim, beija bem
+  C#7(9)                          F#7    F#5+(7/9)
+Tudo    é viável pra quem faz com prazer
+D#m7(9)   D°(b13)   C#m7       F#7
+Sedução,  frenesi   sinto você     assim
+D#m7(9)   D°(b13)  C#m7        F#7
+Sensual,  árvore   espécie escolhida
+    F#m7         G#7
+Pra ser a mão do ouro
+    G6            F#7   E7M                   C#7(13)  C7M(6)
+O outono traduzir     viver o esplendor em si...
+
+B7+(omit3)                  F#m7
+Tua        pele um  Bourbom      me aquece como eu quero
+G#7            C#7(9)
+Sweet home  gos------tar é atual
+        F#7          B7+(omit3)  B7M(5-/omit3)  B7M(4/omit3)  B7+
+Além de ser  tão bom
+
+----------------- Acordes -----------------
+B7+ = X 2 4 3 4 2
+B7+(omit3) = X 2 4 3 0 X
+B7M(4/omit3) = X 2 2 3 0 X
+B7M(5-/omit3) = X 2 3 3 0 X
+C#7(13) = X 4 X 4 6 6
+C#7(9) = X 4 3 4 4 X
+C#m7 = X 4 6 4 5 4
+C7M(6) = X 3 2 2 0 0
+D#m7(9) = X 6 4 6 6 X
+E7M = X X 2 4 4 4
+F#7 = 2 4 2 3 2 2
+F#7(9) = X X 4 3 5 4
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G6 = 3 X 2 4 3 X

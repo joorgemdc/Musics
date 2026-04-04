@@ -1,0 +1,79 @@
+Chico Buarque - Cala a Boca, Bárbara
+
+(De: Chico Buarque & Ruy Guerra)
+
+Intr.: F#m7(b5/9) / / / B7(13) / / / Fm7(b5/9) / / / Bb7(13) / / /
+       Em7(b5/9) / / / A7(13) / / A7(b13) Dm7(9) / / / Bbm6 / / /
+
+Dm7(9)            Bbm6        Dm7(9)               D7/F#
+      Ele sabe dos    caminhos      Dessa minha ter_____ra
+Gm7                         A7  A7(b13) A7  F#º                       D/C
+    No meu corpo se escondeu                    Minhas matas percorreu
+G/B            G7M/B G/B Gm/Bb              Gm(7M)/Bb Gm/Bb
+   Os meus rios               Os meus braços
+Dm7(9)                   Bbm6   Dm7(9)                   D7/F#
+      Ele é o meu guerrei____ro       Nos colchões de ter_____ra
+Gm7                            A7  A7(b13) A7  F#º                             D/C
+    Nas bandeiras, bons lençóis                    Nas trincheiras, quantos ais,   ai
+G/B                        Gm/Bb            Gm(7M)/Bb     Gm/Bb
+   Cala a boca Olha o fogo      Cala a boca Olha     a relva
+F/A       Fm/Ab     Bº     Bbº  F/A       Fm/Ab     Bº     Bbº
+   Cala a bo____ca, Bárbara        Cala a bo____ca, Bárbara
+F/A       Fm/Ab     Bº     Bbº  F/A       Fm/Ab     Bº     Bbº
+   Cala a bo____ca, Bárbara        Cala a bo____ca, Bárbara
+
+
+Dm7(9)            Bbm6        Dm7(9)                D7/F#
+      Ele sabe dos    segredos      Que ninguém ensi_____na
+Gm7                         A7  A7(b13) A7  F#º                      D/C
+    Onde guardo o meu prazer                    Em que pântanos beber
+G/B           G7M/B G/B Gm/Bb            Gm(7M)/Bb Gm/Bb
+   As vazantes               As correntes
+Dm7(9)                   Bbm6   Dm7(9)                  D7/F#
+      Nos colchões de fer____ro       Ele é o meu parcei_____ro
+Gm7                           A7  A7(b13) A7  F#º                           D/C
+    Nas campanhas, nos currais                    Nas entranhas, quantos ais,   ai
+G/B                         Gm/Bb            Gm(7M)/Bb     Gm/Bb
+   Cala a boca Olha a noite      Cala a boca Olha     o frio
+F/A       Fm/Ab     Bº     Bbº  F/A       Fm/Ab     Bº     Bbº
+   Cala a bo____ca, Bárbara        Cala a bo____ca, Bárbara
+F/A       Fm/Ab     Bº     Bbº  F/A       Fm/Ab     Bº     Bbº
+   Cala a bo____ca, Bárbara        Cala a bo____ca, Bárbara
+
+ACORDES:
+
+F#m7(b5/9) - XX4554     A7        - X02020
+B7(13)     - X2X244     F#º       - 2X121X
+Fm7(b5/9)  - XX3443     D/C       - X3X232
+Bb7(13)    - X1X133     G/B       - X2X033
+Em7(b5/9)  - XX2332     G7M/B     - X2X032
+A7(13)     - X0X022     Gm/Bb     - X1X033
+A7(b13)    - X0X021     Gm(7M)/Bb - X1X032
+Dm7(9)     - X5355X     F/A       - 5X356X
+Bbm6       - 6X566X     Fm/Ab     - 4X356X
+D7/F#      - 2X021X     Bº        - X2313X
+Gm7        - 3X333X     Bbº       - X1202X
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+B7(13) = X 2 X 2 4 4
+Bb7(13) = 6 X 6 7 8 X
+Bbm6 = 6 X 5 6 6 X
+Bbº = X 1 2 0 2 0
+Bº = X 2 3 1 3 1
+D/C = X 3 X 2 3 2
+D7/F# = X X 4 5 3 5
+Dm7(9) = X 5 3 5 5 X
+Em7(b5/9) = 0 1 4 0 X X
+F#m7(b5/9) = P2 3 6 2 X X
+F#º = 2 X 1 2 1 X
+F/A = 5 X 3 5 6 X
+Fm/Ab = 4 3 3 1 X X
+Fm7(b5/9) = P1 2 5 1 X X
+G/B = X 2 0 0 3 3
+G7M/B = 7 X 5 7 7 X
+Gm(7M)/Bb = X 1 0 0 3 2
+Gm/Bb = 6 5 5 3 X X
+Gm7 = 3 X 3 3 3 X

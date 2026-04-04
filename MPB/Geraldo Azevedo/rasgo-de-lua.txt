@@ -1,0 +1,68 @@
+Geraldo Azevedo - Rasgo de Lua
+
+          C
+Olho para trás
+         E7/B      Am   Am/G
+Não vejo nada meu amor
+       F
+E vejo tudo
+     G7             C      E7/B
+Por aqui que sai do chão
+         Am
+Rasgo de lua
+       Am/G          D/F#
+Brilha no seu rosto agora
+      D/C          G
+Com o som de lá de fora
+      F         C     E7/B
+Dá vontade de viver
+Am     Am/G       D/F#
+Eu não quero resolver
+F      E7          Am
+Eu não quero nem saber
+  D7          G
+Daquela coisa morna
+
+  E7         A
+Daquele laço firme
+  F#7       B7
+Daquela falação
+       G7         C    C7
+Aquele monte de saber
+   F
+Só quero aquela luz
+           C
+Que vem do dia
+                     D7
+Transformando em energia
+                  G
+Nosso ofício de fazer
+    F  G7          C
+E viver a cantar
+                    G7
+Eu quero ver essa menina
+          C
+A dançar
+                       G7
+Eu quero ver toda essa gente
+          C
+Balançar
+                     G7
+Eu quero ver mundo rodar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am = X 0 2 2 1 0
+Am/G = 3 X 2 2 1 X
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+E7/B = X 2 2 1 3 X
+F = 1 3 3 2 1 1
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3

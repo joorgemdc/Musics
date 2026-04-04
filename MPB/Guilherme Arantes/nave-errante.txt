@@ -1,0 +1,62 @@
+Guilherme Arantes - Nave Errante
+
+[Intro] E  B/E  A/E  C/E  C6/E  E
+
+E     B/E  A/E       E     A/C#
+Minha casa ,   é uma nave
+        E/B  B4/7  A/B
+E eu trafego só
+E      B/E  A/E         E    A
+Sem contato     com viv'alma
+      B4      B7      B/E  E  A  E/G#  F#m  A/B  E
+No silêncio frio das trevas 
+E     B/E  A/E      E   A/C#
+Na jornada,    uma pane
+         E/B    B4  A/B
+E eu não volto mais
+E     B/E  A/E       E    A
+Vou através ,  da galáxia
+          B4      B7   B/E  E
+Se não entrar n'alguma órbita
+
+A   E/G#  F#m    B4/7  E     E/D#      G  G/B  C
+Oh! Terra , oh! Terra , onde é que estou?
+   G/B   D/F#    G      B4    A
+Me sinto sempre mais distante
+    E/G#  F#m    B4  B7  E     E/D#       G   G/B  C
+Oh! Terra , oh! Terra , onde é que eu vou?
+   G/B  D/F#   G       B4
+Fechado nessa nave , errante
+
+E  B/E  A/E      E  B/E  A/E
+Oh!   Terra ,   oh!    Terra
+
+E      B/E        A/E   E      A/C#
+São cruéis os milenares astros
+    E/B       B4  A/B
+Com seres mortais
+E    B/E              A/E     E    A
+Eles não se importam muito comigo
+       B4     B7     E
+Porque são velhos demais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+B/E = X 7 9 8 7 7
+B4 = X 2 4 4 5 2
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C/E = 0 3 2 0 1 0
+C6/E = X 7 5 5 8 5
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/B = X 2 2 1 0 0
+E/D# = X X 1 1 0 0
+E/G# = 4 X 2 4 5 X
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3

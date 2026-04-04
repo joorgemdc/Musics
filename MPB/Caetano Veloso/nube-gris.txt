@@ -1,0 +1,81 @@
+Caetano Veloso - Nube Gris
+
+(intro) Dm7 G7 C6 Am7 Dm7 G7 C6 Em7(b5) A7 Dm7 Dm7(b5) Cmaj7 Am7 Dm7 G7 C6
+
+               Cmaj7
+Si me alejo de ti,
+    A7              Dm7  G7
+Es porque he comprendido
+                  Dm7
+Que soy la nube gris,
+     G7        C6
+Que nubla tu camino,
+              Cmaj7
+Me voy para dejar,
+    C7         F7M    F#dim7
+Que cambie tu destino,
+              Cmaj7
+Que seas muy feliz
+     Am7    Dm7 G7   C6
+Mientras yo busco olvido.
+
+Si me alejo de ti,
+Es porque he comprendido
+
+Que soy la nube gris,
+Que nubla tu camino,
+Me voy para dejar,
+Que cambie tu destino,
+Que seas muy feliz
+Mientras yo busco olvido.
+
+       Dm7            G7
+Y otra vez volveré a ser,
+     C6         Am7
+El errante trovador,
+       Dm7             G7(9)
+Que va en busca de un amor,
+    C6
+Del amor de una mujer.
+     Em7(b5)        A7
+Se perdió el celaje azul,
+       Dm7          Fm6
+Donde brillaba la ilusión,
+       Cmaj7 Am7  Dm7
+Vuelve la desolación,
+ G7      Cmaj7
+Vivo sin luz.
+
+ Dm7            G7
+Y otra vez volveré a ser,
+     C6         Am7
+El errante trovador,
+       Dm7             G7(9)
+Que va en busca de un amor,
+    C6
+Del amor de una mujer.
+     Em7(b5)        A7
+Se perdió el celaje azul,
+       Dm7          Fm6
+Donde brillaba la ilusión,
+       Cmaj7 Am7  Dm7
+Vuelve la desolación,
+ G7      Cmaj7
+Vivo sin luz.
+
+(repetir tudo)
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+Cmaj7 = X 3 2 0 0 X
+Dm7 = X 5 7 5 6 5
+Dm7(b5) = X X 0 1 1 1
+Em7(b5) = X X 2 3 3 3
+F#dim7 = 2 X 1 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+G7(9) = 3 X 3 2 0 X

@@ -1,0 +1,114 @@
+﻿Fagner - Revelação
+
+Capo Casa 1
+
+[Intro] Gm  Gm/F  D#7M  D4  D7
+
+Gm           Gm/F
+  Um dia vestido
+             D#7M  F
+De saudades vivas
+             D4  D7
+Faz ressuscitar
+Gm             Gm/F
+  Casas mal vividas
+            D#7M  F
+Camas repartidas
+            D  Em  Fº  D7/F#
+Faz-se revelar
+
+G                Bm7
+  Quando a gente tenta
+           Dm7
+De toda maneira
+G7             C  Cm
+  Dele se guardar
+
+              G   D/F#
+Sentimento ilhado
+ Em      A4/7   A7
+Morto e amordaçado
+    D7         Em  Fº  D7/F#
+Volta a incomodar
+
+G                Bm7
+  Quando a gente tenta
+           Dm7
+De toda maneira
+G7             C  Cm
+  Dele se guardar
+              G   D/F#
+Sentimento ilhado
+ Em      A4/7   A7
+Morto e amordaçado
+      D7     Em  Fº  D7/F#
+  Volta a incomodar
+
+Gm           Gm/F
+  Um dia vestido
+             D#7M  F
+De saudades vivas
+             D4  D7
+Faz ressuscitar
+Gm             Gm/F
+  Casas mal vividas
+            D#7M  F
+Camas repartidas
+            D  Em  Fº  D7/F#
+Faz-se revelar
+
+G                Bm7
+  Quando a gente tenta
+           Dm7
+De toda maneira
+G7             C  Cm
+  Dele se guardar
+              G   D/F#
+Sentimento ilhado
+ Em      A4/7   A7
+Morto e amordaçado
+     D7      Em  Fº  D7/F#
+  Volta a incomodar
+
+G                Bm7
+  Quando a gente tenta
+           Dm7
+De toda maneira
+G7             C  Cm
+  Dele se guardar
+              G   D/F#
+Sentimento ilhado
+ Em      A4/7   A7
+Morto e amordaçado
+     D7       Em  Fº  D7/F#
+  Volta a incomodar
+
+[Final] Gm  Gm/F  D#7M  D4  D7
+        Am  Am/G  F7M  E4  E7
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A4/7*  = X 0 2 0 3 0 - (*A#4/7 na forma de A4/7)
+A7*  = X 0 2 0 2 0 - (*A#7 na forma de A7)
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+Am/G*  = 3 X 2 2 1 X - (*A#m/G# na forma de Am/G)
+Bm7*  = X 2 4 2 3 2 - (*Cm7 na forma de Bm7)
+C*  = X 3 2 0 1 0 - (*C# na forma de C)
+Cm*  = X 3 5 5 4 3 - (*C#m na forma de Cm)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D#7M*  = X X 1 3 3 3 - (*E7M na forma de D#7M)
+D/F#*  = 2 X 0 2 3 2 - (*D#/G na forma de D/F#)
+D4*  = X X 0 2 3 3 - (*D#4 na forma de D4)
+D7*  = X X 0 2 1 2 - (*D#7 na forma de D7)
+D7/F#*  = X X 4 5 3 5 - (*D#7/G na forma de D7/F#)
+Dm7*  = X 5 7 5 6 5 - (*D#m7 na forma de Dm7)
+E4*  = 0 2 2 2 0 0 - (*F4 na forma de E4)
+E7*  = 0 2 2 1 3 0 - (*F7 na forma de E7)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+F7M*  = 1 X 2 2 1 X - (*F#7M na forma de F7M)
+Fº*  = X X 3 4 3 4 - (*F#º na forma de Fº)
+G*  = 3 2 0 0 0 3 - (*G# na forma de G)
+G7*  = 3 5 3 4 3 3 - (*G#7 na forma de G7)
+Gm*  = 3 5 5 3 3 3 - (*G#m na forma de Gm)
+Gm/F*  = X X 3 3 3 3 - (*G#m/F# na forma de Gm/F)

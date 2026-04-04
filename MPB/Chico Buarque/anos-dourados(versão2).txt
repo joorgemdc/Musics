@@ -1,0 +1,97 @@
+Chico Buarque - Anos Dourados
+
+[ Chico Buarque / Tom Jobim ]
+
+
+[Intro:] G7M Em7(9) Am7 D7(13)
+
+           G7M  Em7(9) A7(13) A7(b13) D7(9)(11) D7(b9)  G7M Em7(9) Am7 D7(13)
+Parece que dizes,     te amo                          Maria
+          G7M Em7(9)  Am7  D7(b9) G7(9)(11) G7(b9)(13)
+Na fotografia       estamos        felizes
+           C7M  C#m7(b5)    F#7(b9)        Bm7 C#m7 F#7(b13)
+Te ligo afobada e deixo confissões no gravador
+             Bm7 Bm7/A G#m7(11) G7(b5) F#7(b13) B7(13) E7(#9) Am7 D7(b9)
+Vai ser engraçado     se tens     um     novo  amor
+
+               G7M  Em7(9) A7(13) A7(b13) D7(9)(11) D7(b9)    G7M   Em7(9) Am7 D7(13)
+Me vejo ao teu lado,      te amo,                         não lembro
+         G7M   Em7(9)     Am7 D7(b9) G7(9)(11) G7(b9)(13)
+Parece dezembro      de um ano       dourado
+         C7M    B7(9)(11) B7(b9)   Em7M Cm6/Eb               G7M Em7(9)
+Parece bolero, te quero,       te quero       dizer que não quero
+   A7(13) A7(b13) D7(9)(11) D7(b9) B7(13) E7(b9)
+Teus bei...jos         nun...ca     mais
+
+   A7(13) A7(b13) D7(9)(11) D7(b9) Fm7(9) Bb7(9)(13)
+Teus bei...jos         nun...ca      mais
+
+Solo: Eb7M Cm7(9) F7(13) F7(b13) Bb7(9)(11) Bb7(b9)
+      Eb7M Cm7(9) Fm7 Bb7(13) Eb7M Cm7(9) Fm7 Bb7(9)
+      Eb7(9)(11) D7(9)(11) G7M Em7(9)
+
+     A7(13) A7(b13) D7(9)(11) D7(b9)   G7M Em7(9) Am7 D7(13)
+Te esqueço                          de fato
+            G7M Em7(9)  Am7 D7(b9) G7(9)(11) G7(b9)(13)
+No nosso retrato      pareço      tão linda
+           C7M   C#m7(b5)  F#7(b9)    Bm7    C#m7 F#7(b13)
+Te ligo ofegante e digo confusões no gravador
+           Bm7  Bm7/A G#m7(11) G7(b5) F#7(b13) F7(#9) E7(#9) D#7(#9) D7(#9) D7(9)(11)
+É desconcertante      rever      o      grande amor
+
+              G7M  Em7(9) A7(13) A7(b13) D7(9)(11) D7(b9)  G7M    Em7(9) Am7 D7(13)
+Meus olhos molhados      insanos,                        dezembros
+              G7M   Em7(9)   Am7  D7(b9) G7(9)(11) G7(b9)(13)
+Mas quando me lembro      são anos      dourados
+          C7M F#m7(b5)       B7(b9)  Em7M      Cm6/Eb             G7M Em7(9)
+Ainda te quero bolero, nossos versos são banais,     as como eu espero
+   A7(13) A7(b13) D7(9)(11) D7(b9) B7(13) E7(b9)
+Teus bei...jos         nun...ca     mais
+   A7(13) A7(b13) D7(9)(11) D7(b9) Fm7(9) Bb7(9)(13) Eb7M Ab7M D7(13) G6(9)/D
+Teus bei...jos         nun...ca     mais
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Ab7M = 4 X 5 5 4 X
+Am7 = X 0 2 0 1 0
+B7(13) = X 2 X 2 4 4
+B7(9)(11) = X 2 2 2 2 2
+B7(b9) = X 2 1 2 1 X
+Bb7(13) = 6 X 6 7 8 X
+Bb7(9) = X 1 0 1 1 X
+Bb7(9)(11) = X 1 1 1 1 1
+Bb7(9)(13) = X 1 0 1 1 3
+Bb7(b9) = 6 X 6 4 3 X
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C#m7(b5) = X 4 5 4 5 X
+C7M = X 3 2 0 0 X
+Cm6/Eb = X X 1 2 1 3
+Cm7(9) = X 3 1 3 3 X
+D#7(#9) = X 6 5 6 7 X
+D7(#9) = X 5 4 5 6 X
+D7(13) = X 5 X 5 7 7
+D7(9)(11) = X 5 5 5 5 5
+D7(b9) = X 5 4 5 4 X
+E7(#9) = X 7 6 7 8 X
+E7(b9) = X X 2 1 3 1
+Eb7(9)(11) = X X 1 1 2 1
+Eb7M = X X 1 3 3 3
+Em7(9) = X 7 5 7 7 X
+Em7M = X X 2 4 4 3
+F#7(b13) = 2 X 2 3 3 2
+F#7(b9) = X X 4 3 5 3
+F#m7(b5) = 2 X 2 2 1 X
+F7(#9) = X X 3 2 4 4
+F7(13) = 1 X 1 2 3 X
+F7(b13) = 1 X 1 2 2 1
+Fm7 = 1 X 1 1 1 X
+Fm7(9) = X X 3 1 4 3
+G#m7(11) = 4 X 4 4 2 X
+G6(9)/D = X 5 5 2 0 0
+G7(9)(11) = 3 X 3 2 1 X
+G7(b5) = 3 X 3 4 2 X
+G7(b9)(13) = 3 X X P1 5 1
+G7M = 3 X 4 4 3 X

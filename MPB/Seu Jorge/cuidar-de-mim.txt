@@ -1,0 +1,80 @@
+Seu Jorge - Cuidar de Mim
+
+(intro) C7+ Bm7 Am7 B7 C7+ F#5 B7
+
+C7+                  Bm7
+Minha cabeça bem confusa
+Am7             B7
+Só de ver ela passar
+C7+               F#m7/5- B7/9+
+Só de ver ela sem mim
+C7+                 Bm7
+Ainda usa a mesma blusa
+Am7                     B7/9+
+Com o broche que eu lhe dei
+C7+                F#m7/5-
+Combinando com o colar
+
+B7/9+                 Em Em/D
+Eu fico imaginando coisas
+C7+ Bsus             E7+/9
+Me pego imaginando coisas
+Am7 Bm7             Em   Em/D
+Eu fico imaginando coisas
+
+C7+ Bsus             E7+/9
+Me pego imaginando coisas
+
+F#m/9                    B7
+Lembranças de um tempo bom
+F#m/9                    B7
+Que a gente se amava em paz
+F#m/9                 B7
+Que pena que eu vacilei
+A7               B7
+Agora que não dá mais
+A7               B7
+Você não me deu perdão
+             F#m/9
+Não tem problema
+                  B7
+Espero que esteja bem
+F#m/9                B7
+Feliz como eu fui feliz
+F#m/9                 B7
+O tempo é quem vai dizer
+A7               B7
+A vida quem quis assim
+A7                 B7
+Não sou capaz de entender
+
+             F#m/9   D7+/9
+Como saí de cena
+           E7+/9  D7+/9
+Não dá pra mim
+        F#m/9   D7+/9
+Eu vou voar
+        E7+  D7+
+Melhor assim
+
+F#m7 D7+ E7+ D7+
+ÊÊÊÊÊÊÊÊÊÊÊÊ
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7/9+ = X 2 1 2 3 X
+Bm7 = X 2 4 2 3 2
+Bsus = X 2 4 4 4 2
+C7+ = X 3 2 0 0 X
+D7+ = X X 0 2 2 2
+D7+/9 = X 5 4 6 5 X
+E7+ = X X 2 4 4 4
+E7+/9 = X 7 6 8 7 X
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+F#5 = 2 4 4 X X X
+F#m/9 = 2 4 6 2 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7/5- = 2 X 2 2 1 X

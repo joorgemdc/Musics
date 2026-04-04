@@ -1,0 +1,60 @@
+João Gilberto - Rosa Morena
+
+[Intro] D7+  Dm6/9  C#m7  F#7/b13  Bm7  E7/b9  A7+
+
+ A7+  B7/b13    Bm7  E7/9      E7/b9        A7+
+Rosa         Morena,    onde vais morena Rosa
+                  C#m7           F#7/b13      Bm7  F#7/b13
+Com essa rosa no cabelo e esse andar de moça prosa
+  Bm7   E7/b9     Dº7  A7+
+Morena,    morena Ro__sa
+
+
+ A7+  B7/b13    Bm7  E7/9      E7/b9        A7+
+Rosa         Morena,    onde vais morena Rosa
+                  C#m7           F#7/b13      Bm7  F#7/b13
+Com essa rosa no cabelo e esse andar de moça prosa
+  Bm7   E7/b9     Dº7  A7+
+Morena,    morena Ro__sa
+
+ A7           A7/b13         D7+  D#m7/b5
+Rosa morena o samba está esperando
+     G#7/D#      A7+/E   C#dim7
+Esperando pra te ver
+
+                              Bm7
+Deixa de lado esta coisa de dengosa
+     Bm7/b5      A7+
+Anda Rosa vem me ver
+
+  D7+               Dm6/9
+Deixa da lado esta pose
+C#m7               F#7/b13
+Vem pro samba vem sambar
+Bm7                 E7/9         A7+
+Que o pessoal tá cansado de esperar
+ F#7/b13  Bm7                E7/9        A7+
+Ô Rosa, que o pessoal tá cansado de esperar
+      F#7/b13  Bm7               E7/9        A7+
+Morena Rosa, que o pessoal tá cansado de esperar
+   F#7/b13  Bm7               E7/9         A7+
+Viu Rosa, que o pessoal tá cansado de esperar
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A7+/E = X X 2 2 2 4
+A7/b13 = X 0 X 0 2 1
+B7/b13 = X 2 X 2 4 3
+Bm7 = X 2 4 2 3 2
+Bm7/b5 = X 2 3 2 3 X
+C#dim7 = X 4 5 3 5 3
+C#m7 = X 4 6 4 5 4
+D#m7/b5 = X X 1 2 2 2
+D7+ = X X 0 2 2 2
+Dm6/9 = X 5 3 4 5 X
+Dº7 = X X 0 1 0 1
+E7/9 = X X 2 1 3 2
+E7/b9 = X X 2 1 3 1
+F#7/b13 = 2 X 2 3 3 2
+G#7/D# = X X 1 1 1 2

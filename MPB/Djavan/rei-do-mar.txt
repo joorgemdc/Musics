@@ -1,0 +1,38 @@
+Djavan - Rei do Mar
+
+Intro: E    B/D#    C#m7   C#m/B    Bsus4   B7
+
+ E        B/D#  C#m7     C#m/B   Bbm7/5- A7+
+Vou me perder no azul-verde do mar
+C#m7       C#m/B    F#7         B7/11  B7
+Junto da manhã, em busca da vida
+E        B/D# C#m7     C#m/B        Bbm7/5- A7+
+Vou remover lendas, tormentas, paixão
+C#m7      C#m/B      F#7        B7/11  B7
+Livre a navegar, em busca da vida
+E                B/D#                  D7+
+Que me importa a brisa fria, o brilho dos faróis
+C#m7               C#m/B                Bbm7/5-   Eb7
+Que me importa o fundo, a calmaria, o temporal
+G#m           E
+Eu sou o rei, eu sou o rei
+         B     C#7      E       B      E   B  Eb7
+Eu sou o rei do mar da minha cidade natal
+E  Bbm7/5- A7+  E  B/D#  C#m7  F#7  B7 (volta p/a 2a. estrofe)
+
+----------------- Acordes -----------------
+A7+ = X 0 2 1 2 0
+B = X 2 4 4 4 2
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7/11 = X 2 4 2 5 2
+Bbm7/5- = X 1 2 1 2 X
+Bsus4 = X 2 4 4 5 2
+C#7 = X 4 3 4 2 X
+C#m/B = 7 X 6 6 5 X
+C#m7 = X 4 6 4 5 4
+D7+ = X X 0 2 2 2
+E = 0 2 2 1 0 0
+Eb7 = X 6 5 6 4 X
+F#7 = 2 4 2 3 2 2
+G#m = 4 6 6 4 4 4

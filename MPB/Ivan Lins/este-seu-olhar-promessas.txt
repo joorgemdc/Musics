@@ -1,0 +1,126 @@
+Ivan Lins - Este Seu Olhar / Promessas
+
+( Tom Jobim )
+
+
+F7M        F#º Gm7               G#º Am7
+Este seu olhar quando encontra o meu
+           A7(b13)             A#6         A#m6 F7M/A
+Fala de umas coisas que eu não posso acreditar
+           Fº G#º  Gm7       A#/C C/A# F7M/A
+Doce é sonhar e pensar que você
+         Dm7     Gm7     C7(13) C7(9) F7M
+Gosta de mim como eu de você
+
+         F#º     Gm7      G#º    Am7
+Mas a ilusão quando se desfaz dói...
+         A7(b13)          A#6           A#m6 F7M/A
+dói no coração de quem sonhou, sonhou demais,
+            G#º       Cm7/G Cm6/G
+Ah! se eu pudesse entender
+     G7(13) G7(b13) Gm7 C7(b9)   F7M   F#7M
+O que di...zem            os teus olhos
+
+ Gº     G#m7      Aº
+Sim, promessas fiz,
+       A#m7           A#7(b5)(13)  B7M        Bm6   E7(9)
+Fiz projetos pensei tanta coisa e agora o coração me diz
+    A#m7           D#m7(9)(11) D#m7 G#m7(11) A#m7(11) Bm7(11) E7
+Que só em seus braços, amor, eu ia ser fe...liz
+   A#m7               D#7(b9)             G#m7(11)   G#m7(b5) C#7(9)
+Eu tenho esse amor para dar, o que é que eu vou fazer
+
+     C#7(b9)    F#7M Gº  G#m7  Aº  A#m7
+Eu tentei te esquecer e prometi apagar da minha vida
+ A#7(b5)(13) B7M    E7(9)(11)   E/D
+Esse sonho e vem o coração e diz
+   A#m/C#           D#m7(9)(11) D#m7 C#7(9)(11) C#/B A#m7 D#7(b9)
+Que só em teus braços, amor, eu posso ser feliz
+  G#m7(11)    G#m7(b5) C#7(9) C#7(b9) F#7M  G7M
+Que só em teus braços, amor, eu posso ser feliz
+
+     G#º     Am7                 A#º Bm7
+Este seu olhar quando encontra o meu
+           B7(b13)              C6         Cm6 G7M/B
+Fala de umas coisas que eu não posso acreditar
+          A#º Am7             C/D D/C G7M/B
+Doce é sonhar, é pensar que você
+         Em7     Am7     D7(13) D7(9) G7M
+Gosta de mim como eu de você
+
+     G#º   Am7            A#º Bm7
+Mas a ilusão quando se desfaz
+           B7(b13)           C6         Cm6 G7M/B
+Dói no coração de quem sonhou, sonhou demais,
+  A#º                 Dm7/A Fm6/G#
+Ah! se eu pudesse entender
+     A7(13) A7(b13) Am7 D7(b9) C#m7(b5) Cm6 Bm7 E7(b9)
+O que di...zem        os teus olhos
+    Am7                 G#7M         G7M(9)
+Que só em teus braços, amor, eu posso ser feliz
+
+----------------- Acordes -----------------
+A#/C = X 3 X 3 3 1
+A#6 = X 1 3 0 3 X
+A#7(b5)(13) = X 1 2 1 3 3
+A#m/C# = X 4 X 3 6 6
+A#m6 = 6 X 5 6 6 X
+A#m7 = X 1 3 1 2 1
+A#m7(11) = 6 X 6 6 4 X
+A#º = X 1 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Aº = 5 X 4 5 4 X
+B7(b13) = X 2 X 2 4 3
+B7M = X 2 4 3 4 2
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+C#/B = X 2 3 1 2 X
+C#7(9) = X 4 3 4 4 X
+C#7(9)(11) = X 4 4 4 4 4
+C#7(b9) = X 4 3 4 3 X
+C#m7(b5) = X 4 5 4 5 X
+C/A# = X 1 2 0 1 X
+C/D = X X 0 0 1 0
+C6 = 8 X 7 9 8 X
+C7(13) = X 3 X 3 5 5
+C7(9) = X 3 2 3 3 X
+C7(b9) = X 3 2 3 2 X
+Cm6 = X 3 X 2 4 3
+Cm6/G = X X 5 5 4 5
+Cm7/G = 3 1 1 3 1 X
+D#7(b9) = X 6 5 6 5 X
+D#m7 = X X 1 3 2 2
+D#m7(9)(11) = X 6 4 6 6 4
+D/C = X 3 X 2 3 2
+D7(13) = X 5 X 5 7 7
+D7(9) = X 5 4 5 5 X
+D7(b9) = X 5 4 5 4 X
+Dm7 = X 5 7 5 6 5
+Dm7/A = X 0 0 2 1 1
+E/D = X 5 X 4 5 4
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+E7(9)(11) = X X 2 2 3 2
+E7(b9) = X X 2 1 3 1
+Em7 = 0 2 2 0 3 0
+F#7M = 2 X 3 3 2 X
+F#º = 2 X 1 2 1 X
+F7M = 1 X 2 2 1 X
+F7M/A = 5 X 3 5 5 X
+Fm6/G# = 4 5 3 5 3 X
+Fº = X X 3 4 3 4
+G#7M = 4 X 5 5 4 X
+G#m7 = 4 X 4 4 4 X
+G#m7(11) = 4 X 4 4 2 X
+G#m7(b5) = 4 X 4 4 3 X
+G#º = 4 X 3 4 3 X
+G7(13) = 3 X 3 4 5 X
+G7(b13) = 3 X 3 4 4 3
+G7M = 3 X 4 4 3 X
+G7M(9) = 3 2 4 2 X X
+G7M/B = 7 X 5 7 7 X
+Gm7 = 3 X 3 3 3 X
+Gº = 3 X 2 3 2 X

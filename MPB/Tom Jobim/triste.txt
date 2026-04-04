@@ -1,0 +1,50 @@
+Tom Jobim - Triste
+
+A7M        A6          F7M(#11)
+Triste é viver na solidão
+A7M      A6           C#m7   F#7(#5)
+Na dor cruel de uma paixão
+Bm7      G#m7(b5)  C#7(b9) F#m7  F#m(7M)  G#7(13) G#7(b13)
+Triste é saber que ninguém pode viver de ilusão
+    C#7M           G#7(13)
+Que nunca vai ser, nunca vai dar
+C#7M   F#7 Bm7        E7(13)
+O sonhador tem que acordar
+
+A7M   A6           Am7(9)  Am6(9)
+Tua beleza é um avião
+A7M            A6        C#m7(b5)  F#7
+Demais pra um pobre coração
+D7M             Dm6
+Que pára pra te ver passar
+C#m7             C°
+Só pra me maltratar
+Bm7     E7/4(9)  E7/4(b9) Am7  Am6
+Triste é viver na solidão
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+Am6 = 5 X 4 5 5 X
+Am6(9) = X 0 4 5 0 0
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+Bm7 = X 2 4 2 3 2
+C#7(b9) = X 4 3 4 3 X
+C#7M = X 4 6 5 6 4
+C#m7 = X 4 6 4 5 4
+C#m7(b5) = X 4 5 4 5 X
+C° = X 3 4 2 4 2
+D7M = X X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+E7(13) = 0 X 0 1 2 0
+E7/4(9) = X X 2 2 3 2
+E7/4(b9) = X X 2 2 3 1
+F#7 = 2 4 2 3 2 2
+F#7(#5) = 2 X 2 3 3 2
+F#m(7M) = X X 4 6 6 5
+F#m7 = 2 X 2 2 2 X
+F7M(#11) = 1 X X 2 0 0
+G#7(13) = 4 X 4 5 6 X
+G#7(b13) = 4 X 4 5 5 4
+G#m7(b5) = 4 X 4 4 3 X

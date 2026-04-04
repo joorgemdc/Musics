@@ -1,0 +1,63 @@
+Djavan - A Rota do Indivíduo
+
+Intro: D7M  Dm6  C#m7(b5)  Em7 F#  Dm7 Bm7(b5)   E
+
+A        E/G#               E7/G#     Gm6
+Mera luz que invade a tarde      cinze----nta
+          F#m7                        Fº(b13)    Fº
+E algumas folhas dei---tam  sobre a estra----da
+A                              B7/A
+O frio é o agasalho que esquen----ta
+Bm7           C#m7     D7M        C#m7
+O   coração gelado quando  venta
+          Bm7        E7(4/9)
+Movendo a água abandona------da
+
+   A            E/G#          E7/G#
+Restos de sonho sobre um novo dia
+  Gm6                         F#m7
+Amores nos vagões, vagões nos tri--lhos
+  Dm7M/F          Fº             A
+Parece     que quem parte é a ferrovia
+                       B7/A           Bm7
+Que mesmo não te vendo te  vigi--a,  como mãe
+
+C#7(4/9)      C#7(b9)     F#m7
+Como     mãe          que dorme olhando os filhos
+        C#m7             D7M       C#m7       Bm7
+Com os olhos na estrada
+Fº   A                E/G#                E7/G#
+   E no misté--rio so-----litário da penu------gem
+Gm6                     F#m7
+    Vê--se a vida corren-----do, parada
+Fº     Fº(b13)         F#m7
+  Como se      não existisse chegada
+   C#m7                   D7M          Bm7
+Na tar--de distan--te     fer--ru--gem
+    E7(4/9)    A         B7/A       Dm6       E7(4)/A
+Ou         na---da
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B7/A = X 0 4 4 4 X
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C#7(4/9) = X 4 4 4 4 4
+C#7(b9) = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+C#m7(b5) = X 4 5 4 5 X
+D7M = X X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+Dm7M/F = 1 4 X 2 3 1
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7(4)/A = 5 7 6 7 5 X
+E7(4/9) = X X 2 2 3 2
+E7/G# = 4 X 2 4 3 X
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+Fº = X X 3 4 3 4
+Fº(b13) = 1 X 0 1 2 X
+Gm6 = 3 X 2 3 3 X

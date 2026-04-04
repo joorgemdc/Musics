@@ -1,0 +1,87 @@
+Ivan Lins - Nada Sem Você
+
+[ Ivan Lins / Ivano Fossatti / Celso Viáfora ]
+
+
+[Intro:] G9 A9 Bm7 C7M Bm7(9) G7M Bm7(9) G7M Bm7(9)
+
+                   Bm6(9)
+Sem você sou inutilidade
+              G7M/B
+Nuvem negra ao fim da tarde
+             Bbº       Bbº(b13) Bbº D7M(9)/A
+Escondendo o pôr-do-sol
+                      G#7(b13)
+Sem você e tudo são naufrágios
+           C#m7(b5)/G
+Onde eu sou o foco frágil
+                F#7(4) F#7
+De um estúpido farol
+
+Sem você é tudo tão difuso
+Uma hora em outro fuso
+Arco-íris de uma só cor
+Sem você é o frio do dilúvio
+Onde o olho do Vesúvio
+Que sou eu, já se apagou
+
+       G9  A9
+Coisa linda
+      Bm7  C7M
+Coisa linda
+    C#m7(b5)
+Coisa linda
+F#m7 F#7(b13)(b9) Bm7(9)(11) G7M Bm7(9)(11) G7M Bm7(9)
+Fica, por favor
+
+Sem você sou a desalegria
+No espelho da alegoria
+Que ficou no barracão
+Nada, sem você sou uma bobagem
+Uma falsa tatuagem
+Que desmancha no sabão
+
+Sem você é tudo revirado
+O futuro do passado
+De onde nada se guardou
+O silêncio que quebrou o rádio
+E ficou no chão do estádio
+Quando o jogo terminou
+
+       G9  A9
+Coisa linda
+      Bm7  C7M
+Coisa linda
+    C#m7(b5)
+Minha linda
+F#m7 F#7(b13)(b9) Bm7(9)(11) G7M/B
+Fica, por favor
+Bm7(9)(11) G7M/B
+Por favor
+Bm7(9)(11) G7M G6 F#7(4) F#7
+Por favor
+Bm7(9)(11) G7M G6 F#7(4) F#7
+Por favor
+Bm7(9)(11) G7M G6 F#7(4) F#7 Bm7(9)(11)
+Por favor
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Bbº = X 1 2 0 2 0
+Bbº(b13) = X 1 X 0 2 2
+Bm6(9) = X 2 0 1 2 X
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+Bm7(9)(11) = X 2 0 2 2 0
+C#m7(b5) = X 4 5 4 5 X
+C7M = X 3 2 0 0 X
+D7M(9)/A = 5 4 2 2 3 2
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F#7(b13)(b9) = 2 X 2 3 3 3
+F#m7 = 2 X 2 2 2 X
+G#7(b13) = 4 X 4 5 5 4
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X
+G7M/B = 7 X 5 7 7 X
+G9 = 3 X 0 2 0 X

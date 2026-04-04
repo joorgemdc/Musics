@@ -1,0 +1,71 @@
+Milton Nascimento - Outro Lugar
+
+Intr: C# G#
+
+solo
+         C#      F#      C#     C#          F#     B
+E|----13--11--9----------------13--11--9----------------|  esse solo é executado na
+B|--------------11--9---11--14-------------11--9--11----|  introdução e em algumas
+G|------------------------------------------------------|  partes da música
+D|------------------------------------------------------|
+A|------------------------------------------------------|
+E|------------------------------------------------------|
+
+    (C#9 G#)
+Cê sabe que as canções são todas feitas pra você
+     (C#9 G#)
+E vivo porque acredito nesse nosso doido amor
+  Bbm         Bbm7M      Bbm7       Bbm6
+Não vê que tá errado, tá errado me querer quando convém
+    (C#9 G#)
+E se eu não tô enganado acho que você me ama também
+
+  (C#9 G#)
+O dia amanheceu chovendo e a saudade me contém
+
+  (C#9 G#)
+O céu já tá estrelado e tá cansado de zelar pelo meu bem
+  Bbm        Bbm7M    Bbm7         Bbm6
+Vem logo que esse trem já tá na hora, tá na hora de partir
+  (C#9 G#)
+E eu já tô molhado, tô molhado de esperar você aqui
+
+ Bbm       Bbm7M       Bbm7       Bbm6
+Amor eu gosto tanto eu amo, amo tanto o seu olhar
+ Fm7       Fm7M        Fm7            Fm6
+Andei por esse mundo louco, doido, solto, com sede de amar
+  G#m         G#m7M          G#m7            G#m6
+Igual a um beija-flor que beija a flor, de flor em flor eu quis beijar
+ D#m         D#m7         D#m7M          D#m6
+Por isso não demora que a história passa e pode me levar
+
+     (C#9 G#)
+E eu não quero ir, não posso ir pra lado algum enquanto não voltar
+    (C#9 G#)
+Não quero que isso aqui dentro de mim vá embora e tome outro lugar
+ Bbm          Bbm7M   Bbm7        Bbm6
+Talvez a vida mude, nossa estrada pode se cruzar
+ (C#9 G#)
+Amor meu grande amor, estou sentindo que está chegando a hora de dormir
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+Bbm = X 1 3 3 2 1
+Bbm6 = 6 X 5 6 6 X
+Bbm7 = X 1 3 1 2 1
+Bbm7M = X 1 3 2 2 1
+C# = X 4 6 6 6 4
+C#9 = X 4 6 6 4 4
+D#m = X X 1 3 4 2
+D#m6 = X X 1 3 1 2
+D#m7 = X X 1 3 2 2
+D#m7M = X 6 8 7 7 6
+F# = 2 4 4 3 2 2
+Fm6 = 1 X 0 1 1 X
+Fm7 = 1 X 1 1 1 X
+Fm7M = X X 3 5 5 4
+G# = 4 3 1 1 1 4
+G#m = 4 6 6 4 4 4
+G#m6 = 4 X 3 4 4 X
+G#m7 = 4 X 4 4 4 X
+G#m7M = X X 6 8 8 7

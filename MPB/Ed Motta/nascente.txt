@@ -1,0 +1,54 @@
+Ed Motta - Nascente
+
+De: Flávio Venturini & Murilo Antunes
+
+  Introd.: Dm9 Em9 Eb9 Em9 Em7/5+ Eb9 Dm9 Db9 C7/4 C7
+
+       F7+    Em7   A7/9-
+  Clareia, manhã
+        Dm7  Dm7/C  Dm7/B
+  O sol vai esconder
+        Dm7/5+  Em7  A7/13  A7/13-
+  a clara estrela
+      Dm7  Dm7/C
+  Ardente
+  Bb7+ Am7  Gm7  Am7  Bb7+  Dm/B
+  Pérola do céu, refletindo
+         Dm/C  Dm/C#
+  Teus olhos
+       Dm7  Dm7/C  Dm7/B  D7/5+
+  A luz do dia a contemplar
+        Em7  A7/13  A7/13-
+  teu corpo
+      Dm7  Dm7/C
+  Sedento
+  Bb7+  Am7  Gm7  Am7  Bb7+  Dm/B
+  Louco de prazer e desejos
+      Dm/C  Dm/C#
+  Ardentes
+
+-- [ acordes ] --
+
+Em9 = 020032    C7 = 032310
+F7+ = 1x221x    Gm7 = 131111
+Am7 = 002010    Dm7 = xx0211
+Dm/B = 123231   Dm/C = x57565
+
+----------------- Acordes -----------------
+A7/13 = X 0 X 0 2 2
+A7/13- = X 0 X 0 2 1
+A7/9- = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+Bb7+ = X 1 3 2 3 1
+C7 = X 3 2 3 1 X
+D7/5+ = X 5 X 5 7 6
+Dm/B = X 2 X 2 3 1
+Dm/C = X 3 X 2 3 1
+Dm/C# = X 4 3 2 3 X
+Dm7 = X 5 7 5 6 5
+Dm7/5+ = X X 0 3 1 1
+Dm7/C = X 3 0 2 1 1
+Em7 = 0 2 2 0 3 0
+Em9 = 0 2 4 0 0 0
+F7+ = 1 X 2 2 1 X
+Gm7 = 3 X 3 3 3 X

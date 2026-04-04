@@ -1,0 +1,73 @@
+Zizi Possi - Meia-noite
+
+(De: Edu Lobo & Chico Buarque)
+
+Intr.: Gm / Ebm(add9)/Gb / Dm/F / E7(#11) / Eb6 / Bb/Ab /
+
+     Gm(add9)        Ab7(13)   Gm6           Ebm6/Gb
+Se a noite   não tem fundo   O mar perde o valor
+ Bb/F            E7(#9/#11)         Eb7(9)      D7(b9/#11)
+Opaco é o fim do mundo      Pra qualquer  navegador
+    Gm(add9)   Ab7(13)  Gm6          Ebm6/Gb
+Que perde   o oriente e entra em espirais
+  Bb/F      E7(#9/#11)          Eb7(9)        D7(b9/b13)           Gm
+E topa pela frente     Um contingente Que ele já        deixou pra trás
+
+     Eb/Db    G/B         Cm           Am7(b5) F#º  D7(b9/b13)   Eb7M(9)
+Os solu___ços dobram tão iguais Seus rivais,        seus       irmãos
+Am7(11) Ab7(#11)  Gm(add9)     Ebm/Gb      Bb/F  E7(#9/#11)
+        Seu     navio     carregado  de ideais
+    Eb7M(6/#11)     D7(b9)      Gm7   Ab7(#11)
+Que foram      escorrendo feito grãos
+     Gm7(9)         Ebm6/Gb      Bb/F  E7(#9/#11)
+As estrelas que não voltam nunca mais
+
+     Eb7M(6/#11)    D7(#5/#9)         Gm
+E um oce________ano pra      lavar as mãos
+
+ACORDES:
+
+Gm           - 3X033X
+Ebm(add9)/Gb - 2X334X     Eb/Db       - X4534X
+Dm/F         - 1X023X     G/B         - X2003X
+E7(#11)      - 0X633X     Cm          - X3554X
+Eb6          - X6554X     Am7(b5)     - X0554X
+Bb/Ab        - 4X333X     F#º         - 2X121X
+Gm(add9)     - 3X733X     Eb7M(9)     - X6576X
+Ab7(13)      - 4X456X     Am7(11)     - 5X553X
+Gm6          - 3X233X     Ab7(#11)    - 4X453X
+Ebm6/Gb      - 2X131X     Ebm/Gb      - 2X134X
+Bb/F         - 1X333X     Eb7M(6/#11) - X67533
+E7(#9/#11)   - 0X6333     D7(b9)      - X54545
+Eb7(9)       - X6566X     Gm7         - 3X333X
+D7(b9/#11)   - X54544     Gm7(9)      - 3XX365
+D7(b9/b13)   - X54546     D7(#5/#9)   - X54566
+
+----------------- Acordes -----------------
+Ab7(#11) = 4 X 4 5 3 X
+Ab7(13) = 4 X 4 5 6 X
+Am7(11) = 5 X 5 5 3 X
+Am7(b5) = 5 X 5 5 4 X
+Bb/Ab = 4 X 3 3 3 X
+Bb/F = X 8 8 7 6 X
+Cm = X 3 5 5 4 3
+D7(#5/#9) = X 5 4 3 1 1
+D7(b9) = X 5 4 5 4 X
+D7(b9/#11) = X 5 4 5 4 4
+D7(b9/b13) = X 5 4 5 4 6
+Dm/F = X X 3 2 3 1
+E7(#11) = X X 2 3 3 4
+E7(#9/#11) = 0 5 6 3 3 3
+Eb/Db = X 4 5 3 4 X
+Eb6 = X X 1 3 1 3
+Eb7(9) = X 6 5 6 6 X
+Eb7M(9) = X 6 5 7 6 X
+Ebm/Gb = 2 X 1 3 4 X
+Ebm6/Gb = 2 3 1 3 1 X
+F#º = 2 X 1 2 1 X
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gm(add9) = 3 5 7 3 3 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7(9) = X X 5 3 6 5

@@ -1,0 +1,61 @@
+Caetano Veloso - Chora Tua Tristeza
+
+(intro) G7  G7
+
+C           Bm7 E7 Am
+Chora que a tristeza
+               Gm7 C7
+foge do teu olhar
+ F7M              Bb7
+brincando de esquecer
+   C7M         A7
+saudade vai passar
+Dm7             Dm7
+e amor já vai chegar
+  G7
+Então,
+ C7M          Bm7  E7
+canta que a beleza
+Am7               Gm7 C7 F7M
+volta pra te encantar
+                 Bb7
+num sonho tão pequeno
+      C7M      Am7
+que o dia escondeu
+
+    Dm6       G7 C7M F#m7 B7 Em7
+guardando pra te dar.
+
+                 F#m7    B7   Em7
+Como é bonito gostar e querer ficar
+                    Dm6     G7
+com alguém pra quem possa dizer
+ C7M            Bm7 E7  Am7
+olha quantas estrelas
+                    Gm7 C7 F7M
+nascem pra te encontrar
+               B7  Em7
+depois do céu azul
+              A7
+a noite vai chegar
+ Dm7     G7  C7M
+e eu pra te amar.
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bb7 = X 1 3 1 3 1
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

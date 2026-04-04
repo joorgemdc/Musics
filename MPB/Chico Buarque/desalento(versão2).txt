@@ -1,0 +1,82 @@
+Chico Buarque - Desalento
+
+[ Chico Buarque / Vinícius de Moraes ]
+
+
+[Intro:] Gm7 Ebm/Gb Bb/F Em7(b5) Eb7M Bb/D Cm7 Cm7/Bb
+         Am7(b5) Cm6/Eb D7(b9) Gm7 Bb7(13) Am7(b5) D7(#9)
+
+Gm7 Ab6 Gm7      G7(b13)      Cm7M Cm7
+Sim,    vai e diz       diz assim
+          Cm6 Cm(6-)         D/C             Bº  G7/B
+Que eu chorei      que eu morri de arrependimento
+            Am7(b5)       D7(b9)    Gm7 Ab6
+Que o meu desalento já não tem mais fim
+      Gm7 G7(b13)      Cm7M Cm7
+Vai e diz        diz assim
+     Cm6 Cm(6-) Am7(b5)           G#º  G7
+Como sou   in...feliz no meu descaminho
+                Cm7          D7(b9)   G6 Am7 D7(b9)
+Diz que estou sozinho e sem saber de mim
+
+G7M           G6       Bm7(b5) E7(b9)
+Diz que eu estive por pouco
+
+                   Am7(9) Am7(9)/G      F#m7(b5) B7(#9)
+Diz a ela que estou louco         pra perdoar
+E7(13) E7(b13)    Fº
+Que seja lá como for, por amor,
+   Bm7(b5)/F  E7(b9)  Cm6/Eb D7(b9)
+Por favor é pra ela voltar    sim
+
+Gm7 Ab6       Gm7 G7(b13)     Cm7M
+Sim,    vai e diz       diz assim
+                 Cm7          Cm6                Cm(6-)
+Que eu rodei, que eu bebi, que eu caí, que eu não sei
+                     D/C                      G7/B   Bº
+Que eu só sei que cansei, enfim dos meus desencontros
+           Am7(b5)        D7(b13)
+Corre e diz a ela que eu entrego os pontos
+
+Fim: Gm7 Gm6 Bb/D E7(b5) Eb7M Bb/D Cm7 D7(b13) Gm7M(9/11)
+
+----------------- Acordes -----------------
+Ab6 = 4 X 3 5 4 X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+Am7(9)/G = 3 2 2 P5 5 5
+Am7(b5) = 5 X 5 5 4 X
+B7(#9) = X 2 1 2 3 X
+Bb/D = X 5 X 3 6 6
+Bb/F = X 8 8 7 6 X
+Bb7(13) = 6 X 6 7 8 X
+Bm7(b5) = X 2 3 2 3 X
+Bº = X 2 3 1 3 1
+Cm(6-) = X 3 1 1 1 4
+Cm6 = X 3 X 2 4 3
+Cm6/Eb = X X 1 2 1 3
+Cm7 = X 3 5 3 4 3
+Cm7/Bb = 6 3 5 3 4 3
+Cm7M = X 3 5 4 4 3
+D/C = X 3 X 2 3 2
+D7(#9) = X 5 4 5 6 X
+D7(b13) = X 5 X 5 7 6
+D7(b9) = X 5 4 5 4 X
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+E7(b5) = X X 2 3 3 4
+E7(b9) = X X 2 1 3 1
+Eb7M = X X 1 3 3 3
+Ebm/Gb = 2 X 1 3 4 X
+Em7(b5) = X X 2 3 3 3
+F#m7(b5) = 2 X 2 2 1 X
+Fº = X X 3 4 3 4
+G#º = 4 X 3 4 3 X
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7(b13) = 3 X 3 4 4 3
+G7/B = X 2 3 0 3 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7M(9/11) = 3 1 4 2 1 X

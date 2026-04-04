@@ -1,0 +1,68 @@
+Djavan - Álibi
+
+de: Djavan
+
+Intro.:  Em7M(9/11)     C7(9/13)
+
+
+ F7M      B7(13)     B7(b13)       Em7M(9/11)       A7(9/#11)
+Havi---a       mais que    um  de|-----------se|--jo
+G7(13)          F#m7(b5/9)                B7(b13)         F7(9)
+      A for--ça do         beijo  por mais que    vadi--a
+       Em7M(9/11)      C7(9/13)
+Não sacia          mais
+
+     F7M          B7(13)    B7(b13)     Em7M(9/11)      A7(9/#11)
+Meus     o---lhos       lacrimejam  teu          cor--po
+
+G7(13)           F#m7(b5/9)         B7(b13)
+     Expos--to à mentira   do calor        da i--ra
+        Am7                           C7(9/13)  B7(b13)
+Do afã de  um dese|---jo que não contra--------í--------ra
+
+Em7M(9/11)            C7(9/13)
+No        amor a tortu--------ra    está por um triz
+
+Bm7(b5)                             E7(b9)
+       Mas a gente atura e a--té se mostra feliz
+
+Am7         D7(9)       G7M      Am7        Bm7
+   Quan--do se   tem o á----libe de  ter nascido  ávido
+E7(b13)            F#m7(b5)
+       E convido inválido
+B7(b13)                Em7M(9/11)    A7(13)
+       Mes--mo sem ter havi------do, havi--do...
+
+Am7         D7(9)       G7M      Am7        Bm7
+   Quan--do se   tem o á----libe de  ter nascido  ávido
+E7(b13)            F#m7(b5)
+       E convido inválido
+B7(b13)              Em7M(9/11)    A7(13)       C7(9/13)
+       Mes--mo sem ter havi------do, havi--do...
+
+ F7M      B7(13)     B7(b13)       Em7M(9/11)       A7(9/#11)
+Havi---a       mais que    um  de|-----------se|--jo
+
+
+    Em7M(9/11)   C7(9/13)     F7M        B7(13)      B7(b13)    A7(9/#11)
+
+ 5ª  ||
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(9/#11) = 5 4 5 4 4 X
+Am7 = X 0 2 0 1 0
+B7(13) = X 2 X 2 4 4
+B7(b13) = X 2 X 2 4 3
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C7(9/13) = X 3 2 P3 3 5
+D7(9) = X 5 4 5 5 X
+E7(b13) = 0 X 0 1 1 0
+E7(b9) = X X 2 1 3 1
+F#m7(b5) = 2 X 2 2 1 X
+F#m7(b5/9) = P2 3 6 2 X X
+F7(9) = X X 3 2 4 3
+F7M = 1 X 2 2 1 X
+G7(13) = 3 X 3 4 5 X
+G7M = 3 X 4 4 3 X

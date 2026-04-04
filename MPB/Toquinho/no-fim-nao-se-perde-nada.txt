@@ -1,0 +1,69 @@
+Toquinho - No Fim Não Se Perde Nada
+
+[Intro] E7  Am7  D7(9)  G7M
+        C7M  F#m7/C  B7  Bm7  E7
+        Am7  D7(9)  G7M  C7M
+        F#m7/C  B7  Em7  B7(b13)
+
+           Em7
+Em certos casos
+         B7(b13)  Em7
+Não se perde      nada
+  Bm7(b5)           E7
+Poeta     de pouco brilho
+          Am7
+Pai de família criada
+      D7(9)
+Não forceja contra o trilho
+       G7M
+Nem pergunta pra onde vai
+    F#7
+Não soma nem subtrai
+      F#m7/C         B7
+No extremo   da caminhada
+
+   Am7   D7(9)     G7M     C7M     F#m7/C B7    Bm7   E7
+O samba deixa  pro filho o nome na ma        drugada.
+   Am7   D7(9)     G7M     C7M     F#m7/C B7    Em7
+O samba deixa  pro filho o nome na ma        drugada.
+
+( B7(b13) )
+
+           Em7
+Chegou chorando
+      B7(b13)   Em7
+Por inexpe      riência
+    Bm7(b5)                E7
+Pra sair,   saiu mudo e quieto
+    Am7
+Por alguma ciência
+  D7(9)
+O samba vem de outro samba
+      G7M
+Com algum disfarce ou quase
+    F#7
+A frase gera outra frase
+    F#m7/C            B7
+Por sorte  sai bem achada
+   Am7   D7(9)       G7M       C7M        F#m7/C B7     Bm7 E7
+O filho faz    outro filho, no fim não se pe        rde na  da
+   Am7   D7(9)       G7M       C7M        F#m7/C B7     Bm7 E7
+O filho faz    outro filho, no fim não se pe        rde na  da
+
+( Am7  D7(9)  G7M  C7M )
+( F#m7/C  B7  Bm7  E7 )
+( Am7  D7(9)  G7M  C7M )
+( F#m7/C  B7  Em7 )
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b13) = X 2 X 2 4 3
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C7M = X 3 2 0 0 X
+D7(9) = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+G7M = 3 X 4 4 3 X

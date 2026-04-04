@@ -1,0 +1,54 @@
+Caetano Veloso - Remelexo
+
+C6/9                      C7/9          F7M
+Que menina é aquela Que entrou na roda agora
+      Bb7(9)       Em7           Am7          D7(9)
+Eu quero falar com ela  Ninguém sabe onde ela mora
+      G7          C7M          Bm7(b5)  E7  Am7
+Por ela bate o pandeiro  Por ela canta a viola
+          Dm7  G7    Gm7    F7M     Bm7(b5)  E7     A7
+Enquanto ela está sambando  Ninguém mais   entra na roda
+         Dm7  G7      C7(9)  F7    Bm7(b5) E7   A7
+Enquanto ela samba As outras ficam do     lado de fora
+          Dm7 G7     C7M        D7            G7
+E quando ela  pára O samba se acaba na mesma hora
+          A7         D7          G7             C6/9
+Valha-me Deus se ela pára Pára o samba e vai-se embora
+                                   C7/9  F7M
+Eu quero falar com ela  E ninguém sabe onde ela mora
+         Bb7(9)    Em7           Am7       D7(9)
+Ninguém sabe sua janela  Ninguém sabe sua porta
+       G7              C7M         Bm7(b5) E7   Am7
+Quem sabe se ela é donzela  Quem sabe se ela namora
+     Dm7   G7    Gm7    F7M   Bm7(b5)  E7   A7
+E depois o samba acaba  E ela fica     na memória
+
+    Dm7 G7       C7/9 F7     Bm7(b5)  E7  A7
+Por ela bate meu pei--to  Por ela a viola chora
+      Dm7  G7 C7M          D7             G7
+Que menina é aquela  Que entrou na roda agora
+         A7         D7          G7         C6/9
+Ninguém sabe nessa terra  Me contar a sua estória
+                            Dm7    G7   C7M
+Que menina é aquela  Que entrou na roda agora
+    Dm7    G7  Em7       Am7       Dm7    G7    C7M
+Ela tem um remelexo  Que valha-me Deus, Nossa Senhora
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+Bb7(9) = X 1 0 1 1 X
+Bm7(b5) = X 2 3 2 3 X
+C6/9 = X 3 2 2 3 3
+C7(9) = X 3 2 3 3 X
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F7 = 1 3 1 2 1 1
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

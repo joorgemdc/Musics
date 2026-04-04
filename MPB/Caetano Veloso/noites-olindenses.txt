@@ -1,0 +1,57 @@
+Caetano Veloso - Noites Olindenses
+
+(intro) Amaj7 A#dim7 G#m7 C#7 F#m7 B7 E6
+
+  E    Emaj7       E6
+Quero cantar com você
+E             A#dim7   E
+Nas noites olinden -   ses
+    Emaj7    C#7     F#m7
+Ai Lili, ai Lili, ai Lô
+ F#m7                B7
+Quero te ver como a lua
+                F#m7   B7
+Bonita e transparen    te
+  F#m7      B7        E6
+Fluindo vertentes de amor
+    E6
+De amor
+ Amaj7  F#m7
+Nesse verão tu és a luz que ilumina
+ G#m7   Emaj7                   C#m7
+Meu coração de carnaval e purpurina
+           F#m7   A#dim7    G#m
+Todas as rimas de Olinda menina
+
+   C#7      F#m    B7       Emaj7
+Estrela matutina de toda a canção
+                  G#7    C#m7
+Canção que vem e vai brilhar
+               B7     Emaj7  E7
+Em um domingo azul do mar
+   Amaj7 A#dim7    G#m7  C#7
+De Olin  da,   de Olin  da
+   F#m7          B7     Bm7  E7
+De Olinda, que linda Olinda
+
+  Amaj7 A#dim7     G#m7  C#7
+De Olin  da,   de Olin  da
+   F#m7          B7    E
+De Olinda, que linda Olinda
+
+----------------- Acordes -----------------
+A#dim7 = X 1 2 0 2 0
+Amaj7 = X 0 2 1 2 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+Emaj7 = X X 2 4 4 4
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G#7 = 4 6 4 5 4 4
+G#m = 4 6 6 4 4 4
+G#m7 = 4 X 4 4 4 X

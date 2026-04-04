@@ -1,0 +1,80 @@
+Chico Buarque - Folhetim
+
+(De: Chico Buarque)
+
+Intr.: C6 / A7/C# / G6/D / B7/D# / E7(9) / D7(9) / G7/4(9/13) / G7(b9/13) /
+       C6 / A7/C# / G6/D / B7/D# / E7(9) / D7(9) /
+
+G6    G#º        Dm6/F  B7/F#         C7M        A7/C#      G6/D  B7  Em7
+  Se acaso me quiseres  Sou  dessas mulheres Que só   dizem sim
+    Em/G  Db7(9)  C6/9     A7/C#   Bm7(b5) E7(b9)      Am7          D7(9)
+Por uma   coisa à toa  Uma noitada boa            Um cinema, um botequim
+
+G6   G#º        Dm6/F   B7/F#     C7M        A7/C#         G6/D  B7  Em7
+  E, se tiveres renda  Aceito uma prenda Qualquer coisa assim
+  Em/G    Db7(9)  C6/9     A7/C#    Bm7(b5) E7(b9)       Am7        D7(9)
+Como  uma pedra   falsa Um sonho de valsa          Ou um corte de cetim
+
+F#m7(b5)          B7(b9)      Em7(9)  Em/D               C7M   D7(9)         G7M  G6
+        E eu te farei   as vontades       Direi meias verdades Sempre à meia luz
+B7       B7/D#    Em7(9)      F#7/C#           F#7   B7M       D7(9)
+  E te farei,  vaidoso, supor       Que és o maior e que me possuis
+
+G6    G#º        Dm6/F      B7/F#     C7M       A7/C#    G6/D  B7  Em7
+  Mas na manhã seguinte Não conta até vinte Te afasta de mim
+
+     Em/G    Db7(9)  C6/9    A7/C#    Bm7(b5) E7(b9)       Am7        D7(9)     Dm7(9)
+Pois já  não vales   nada És página virada           Descartada do meu     folhetim
+
+Db7(9) / C6 / A7/C# / G6/D / B7/D# / E7(9) / D7(9) / G7/4(9/13) / G7(b9/13) /
+C6 / A7/C# / G6/D / B7/D# / E7(9) / D7(9) / G6
+
+ACORDES:
+
+C6         - X3525X     Em/G     - 3X245X
+A7/C#      - X4525X     Db7(9)   - X4344X
+G6/D       - XX0000     C6/9     - X3223X
+B7/D#      - XX1202     Bm7(b5)  - X2323X
+E7(9)      - XX2132     E7(b9)   - 0X2131
+D7(9)      - X5455X     Am7      - X02010
+G7/4(9/13) - 3X3210     F#m7(b5) - 2X221X
+G7(b9/13)  - 3X3100     B7(b9)   - X2121X
+G6         - 3X243X     Em7(9)   - XX2032
+G#º        - 4X343X     Em/D     - XX0000
+Dm6/F      - 1X020X     G7M      - 3X443X
+B7/F#      - 2X120X     F#7/C#   - X4435X
+C7M        - X32000     F#7      - 2X435X
+B7         - X24242     B7M      - X2434X
+Em7        - 022030     Dm7(9)   - X5355X
+
+----------------- Acordes -----------------
+A7/C# = X 4 5 2 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+B7/D# = X X 1 2 0 2
+B7/F# = X X 4 4 4 5
+B7M = X 2 4 3 4 2
+Bm7(b5) = X 2 3 2 3 X
+C6 = 8 X 7 9 8 X
+C6/9 = X 3 2 2 3 3
+C7M = X 3 2 0 0 X
+D7(9) = X 5 4 5 5 X
+Db7(9) = X 4 3 4 4 X
+Dm6/F = 1 X 0 2 0 X
+Dm7(9) = X 5 3 5 5 X
+E7(9) = X X 2 1 3 2
+E7(b9) = X X 2 1 3 1
+Em/D = X X 0 4 5 3
+Em/G = 3 X 2 4 5 X
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#7 = 2 4 2 3 2 2
+F#7/C# = X 4 4 3 5 X
+F#m7(b5) = 2 X 2 2 1 X
+G#º = 4 X 3 4 3 X
+G6 = 3 X 2 4 3 X
+G6/D = X 5 5 4 5 X
+G7(b9/13) = 3 X X P1 5 1
+G7/4(9/13) = 3 X 3 2 1 0
+G7M = 3 X 4 4 3 X

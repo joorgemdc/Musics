@@ -1,0 +1,91 @@
+Chico Buarque - Desaforos
+
+[Intro]  C#7/F  C#m6/E  Am6/E  E7(#5/9)  Ab7/Eb  Em/D   C#°  B7M  F#7/C#
+
+D7M           F#7(b13)
+Alguém me disse
+G7M             Gm6
+Que tu não me queres
+D6/F#        F°        Am7/E          B7/D#
+E que até proferes desaforos pro meu lado
+Em/D    B7/D#          Em/D        C#m7(b5)
+Fico admirado por incomodar-te assim
+B7M        E7(9)      Em7(9)/B  Bb°(b13)
+Jamais pensei Que pensasses em mim
+D7M       F#7(b13)  G7M   Gm6
+Nunca bebemos Do mesmo regato
+D6/F#          F°          Am7/E  B7/D#
+Sou apenas um mulato que toca boleros
+Em7                B7/D#     Em/D           F#7/C#
+Custo a crer que meros Iero-Ieros de um cantor
+B7M       Am6     G7M    F#7(b9/13)
+Possam te dar    tal dissabor
+
+
+B7M           Am6                   C#m7
+Vejo-te a flanar    pela          avenida
+    F#4/7  F#7
+Como dama
+       F#m7      B7(b9)        E7M(9)        Em6
+Florescida num viveiro E em salões que nunca vi
+C#7/F  C#m6/E      Am6/E
+Serei o primeiro a duvidar
+              E7(#5/9)  Ab7/Eb       Em/D      C#°
+Que em horas vagas      Os teus lábios delicados
+             B7M        F#7/C#
+Roguem pragas por aí
+D7M     F#7(b13)  G7M                    Gm6
+Ouço dizer, mas  deve ser (claro que é) mentira
+D6/F#        F°           Am7/E  B7/D#
+Nem a tua ira eu acredito que mereça
+Em7             B7/D#     Em/D        Gm6
+Ou que vires a cabeça pra enxergar no breu
+D7M/F#  B7(b9)  E7(9)  A7(b9/13)  A6(9)
+Um vagabundo como    eu
+
+[Solo] F#7/A#  Bm6  Gm6/Bb  D7M/A  C#7/G#  C7M/G  B7/F#  Em7  B7/D#    Em/D
+
+( F#7/C#  B7M  Am6  G7M  F#7(b9/13) )
+
+----------------- Acordes -----------------
+A6(9) = 5 4 4 4 X X
+A7(b9/13) = 5 X X P3 7 3
+Ab7/Eb = X X 1 1 1 2
+Am6 = 5 X 4 5 5 X
+Am6/E = X X 2 2 1 2
+Am7/E = X X 2 2 1 3
+B7(b9) = X 2 1 2 1 X
+B7/D# = X X 1 2 0 2
+B7/F# = X X 4 4 4 5
+B7M = X 2 4 3 4 2
+Bb°(b13) = X 1 X 0 2 2
+Bm6 = 7 X 6 7 7 X
+C#7/F = X X 3 4 2 4
+C#7/G# = 4 X 3 4 2 X
+C#m6/E = X X 2 3 2 4
+C#m7 = X 4 6 4 5 4
+C#m7(b5) = X 4 5 4 5 X
+C#° = X 4 5 3 5 3
+C7M/G = 3 X 2 4 1 X
+D6/F# = 2 X 0 2 0 X
+D7M = X X 0 2 2 2
+D7M/A = 5 5 4 2 2 2
+D7M/F# = 2 X 0 2 2 2
+E7(#5/9) = 0 X 0 1 1 2
+E7(9) = X X 2 1 3 2
+E7M(9) = X 7 6 8 7 X
+Em/D = X X 0 4 5 3
+Em6 = X 7 X 6 8 7
+Em7 = 0 2 2 0 3 0
+Em7(9)/B = X 2 4 0 3 0
+F#4/7 = 2 4 2 4 2 X
+F#7 = 2 4 2 3 2 2
+F#7(b13) = 2 X 2 3 3 2
+F#7(b9/b13) = 2 X 2 3 3 3
+F#7/A# = 6 X 4 6 5 X
+F#7/C# = X 4 4 3 5 X
+F#m7 = 2 X 2 2 2 X
+F° = X X 3 4 3 4
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm6/Bb = X 1 2 0 3 0

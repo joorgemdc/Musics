@@ -1,0 +1,142 @@
+Caetano Veloso - Cinema Novo
+
+
+Intro: D7+  Gm/D
+
+  D7+              C#m5-/7 C7 B7           E7/9
+O filme quis dizer               "Eu sou o samba"
+                                 Em7   A7
+A voz do morro rasgou a tela do cinema
+  D7+        C#7        F#m7
+E começaram a se configurar
+           G#m7           C#7/9- A7
+Visões das coisas grandes  e   pequenas
+           D7+       A7           D7+
+Que nos formaram e estão a nos formar
+        A7/9-            D7+          F#7         Bm7
+Todas e muitas: Deus e o diabo, vidas secas, os fuzis
+        D7/9               G7+            D7           G7+
+Os cafajestes, o padre e a moça, a grande feira, o desafio
+          B7/9-             Em7                          F#7
+Outras conversas, outras conversas sobre os jeitos do Brasil
+B7        Em7             A7           D7+  D7
+Outras conversas sobre os jeitos do Brasil
+
+  G7+           B7     Em7
+A bossa nova passou na prova
+       F#m7 B7      Em7
+Nos salvou  na dimensão da eternidade
+  Dm7    G7           C7+  B7             Em7
+Porém aqui embaixo "A vida mera metade de nada"
+A7               Am7           D7
+Nem morria nem enfrentava o problema
+  G7+     B7            G7+
+Pedia soluções e explicações
+B7         Em7           A7       D7+          B7
+ E foi por isso que as imagens do país desse cinema
+  E7/9         A7            D7+
+Entraram nas palavras das canções
+B7  E7/9         A7            D7+  F7
+  Entraram nas palavras das canções
+   Bb7+  F7       Bb7+
+Primeiro   foram aquelas que explicavam
+             A7          D7+  F7
+E a música parava pra pensar
+    Bb7+ F7     Bb7+
+Mas era   tão bonito que parece
+                   A7       D7+
+Que a gente nem queria reclamar
+  Fm7  Bb7       Eb
+Depois foram as imagens que assombravam
+           D7+          A7          D
+E outras palavras já queriam se cantar
+   F#7                    Bb7
+De ordem e desordem de loucura
+   E7                       G7+
+De alma a meia-noite e de indústria
+                           Gm6
+E a Terra entrou em transe
+                  Dm7
+E no sertão de Ipanema
+         Gm6                 D
+Em transe é, no mar de monte santo
+    B7           Em7        C#7      F#m7
+E a luz do nosso canto e as vozes do poema
+      F#7     G7+           G#º
+Necessitaram transformar-se tanto
+      D7+          B7
+Que o samba quis dizer
+  Bb7          A7            D7+  F7
+O samba quis dizer: eu sou cinema
+  E7/9         A7            D7+
+O samba quis dizer: eu sou cinema
+     C7      F#7            Bm7
+Aí o anjo nasceu, veio o bandido meterorango
+          C7      F#7            Bm7
+Hitler terceiro mundo, sem essa aranha, fome de amor
+    E7/9            A7        D7+
+E o filme disse: Eu quero ser poema
+         C7+            F#7      Bm7
+Ou mais: Quero ser filme e filme-filme
+    C#7       F#7        B7       Em7
+Acossado no limite da garganta do diabo
+           G7                       D7+
+Voltar a Atlântida e ultrapassar o eclipse
+        G7+   F#7        Bm7
+Matar o ovo e ver a vera cruz
+    E7/9        F#7     A7    D7+ F7
+E o samba agora diz: Eu sou a luz
+  Bb7+   F7   Bb7+
+Da lira do delírio, da alforria de Xica
+   A7                D
+De toda a nudez de índia
+F7 Bb7+ F7     Bb7+
+De flor de macabéia, de asa branca
+               A7         D
+Meu nome é Stelinha é Inocência
+    Fm7 Bb7        Eb                 D          A7
+Meu nome é Orson Antonio Vieira conselheiro de pixote
+     D
+Superoutro
+          F#7            Bm7          F#7         Bm7
+Quero ser velho de novo eterno, quero ser novo de novo
+          Am7   D7/9          G7+
+Quero ser Ganga bruta e clara gema
+         B7             Em7  Bb7
+Eu sou o samba viva o cinema
+     A7       D
+Viva o cinema novo
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/9- = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+B7/9- = X 2 1 2 1 X
+Bb7 = X 1 3 1 3 1
+Bb7+ = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7/9- = X 4 3 4 3 X
+C#m5-/7 = X 4 5 4 5 X
+C7 = X 3 2 3 1 X
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+Eb = X 6 5 3 4 3
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+F7 = 1 3 1 2 1 1
+Fm7 = 1 X 1 1 1 X
+G#m7 = 4 X 4 4 4 X
+G#º = 4 X 3 4 3 X
+G7 = 3 5 3 4 3 3
+G7+ = 3 X 4 4 3 X
+Gm/D = X 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

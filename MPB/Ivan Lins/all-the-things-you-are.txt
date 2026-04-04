@@ -1,0 +1,61 @@
+Ivan Lins - All The Things You Are
+
+Jerome Kern / Oscar Hammerstein
+
+[Intro:] Em7(9) G6 A7(13) B7
+         Em7(9) G6 A7(13) B7(b13)
+         Em7(9) G6 A7(13) B7
+         Em7(9) G6 A7(13) B7(b13) Em7(9)
+
+ Am7(9)     D7(13)       G7M           C7M(9)
+You are the promised kiss of springtime
+                    C#m7(b5) F#7(13) B7M(9)    G#m7(9) Fm7(9) Bb7(13) Bm7(9)
+That makes the lonely win......ter    seem long
+   Em7      A7(13)         D7M
+You are the breathless hush of evening
+ G7M                G#m7(b5) C#7     F#7M 
+That trembles on the brink      of a lovely song
+
+           G#m7  C#7(9)(11) C#7(b9)                F#7M    D#m7(9)
+You are the angel                  glow that lights a star,
+            Fm7(9)        Bb7(b9)            Eb7M F7(9)/C B7(b13) Em7
+The dearest things I know        are what you are
+   Am7(9) D7(13)            G7M        C7M(9)
+Some day   my happy arms will hold you,
+         Eb/F F/Eb G7M                     A7(13)
+And some day        I'll know that moment divine,
+ Am7             D7(9)(11)  B7(b13) Em7(9) G6 A7(13) B7
+When all the things you are,      are mine
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+B7(b13) = X 2 X 2 4 3
+B7M(9) = X 2 1 3 2 X
+Bb7(13) = 6 X 6 7 8 X
+Bb7(b9) = 6 X 6 4 3 X
+Bm7(9) = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+C#7(9)(11) = X 4 4 4 4 4
+C#7(b9) = X 4 3 4 3 X
+C#m7(b5) = X 4 5 4 5 X
+C7M(9) = X 3 2 4 3 X
+D#m7(9) = X 6 4 6 6 X
+D7(13) = X 5 X 5 7 7
+D7(9)(11) = X 5 5 5 5 5
+D7M = X X 0 2 2 2
+Eb/F = X 8 8 8 8 X
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#7(13) = 2 X 2 3 4 X
+F#7M = 2 X 3 3 2 X
+F/Eb = X X 1 2 1 1
+Fm7(9) = X X 3 1 4 3
+G#m7 = 4 X 4 4 4 X
+G#m7(9) = X X 6 4 7 6
+G#m7(b5) = 4 X 4 4 3 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,110 @@
+Guilherme Arantes - Brincar de Viver
+
+DEDILHADO:
+  a   a             e|--0----0-----0----0----0----0---|
+  m   m             B|--0----0-----0----0----0----0---|
+  i  i i   ou seja: G|--0--0---0---0--0---0--0--0---0-|
+                    D|--------------------------------|
+                    A|--------------------------------|
+  p                 E|--0----------0---------0--------|
+ 
+Intro: (D D7+ G/D Gm6/D) 2x
+
+D          D7+        G/D 
+Quem me chamou / Quem vai querer voltar pro ninho
+D          D7        G/D  Gm6/D 
+E redescobrir seu lugar        
+D         D7       G/D
+Pra retornar/ e enfrentar o dia a dia
+D        D7       G/D 
+Reaprender a sonhar
+
+A/C#                   Am/C
+Você verá que é mesmo assim 
+           D/C           G/D
+E Que a história não tem fim
+           Em7          G/A          D7+           G7+
+Continua sempre / Que você responde sim À sua imaginação
+ Em7               G/A                      D D7+ G/D G/A       
+À arte de sorrir Cada vez que o mundo diz não...
+
+D     D7+        G/B 
+Você verá que a emoção começa agora 
+D         D7        G/D  Gm6/D 
+Agora é brincar de viver      
+D         D7       G/D
+Não esquecer / Ninguém é o centro do universo
+D         D7       G/D
+Assim é maior o prazer
+
+A/C#                   Am/C
+Você verá que é mesmo assim 
+           D/C           G/B
+E Que a história não tem fim
+           Em7          G/A          D7+           G7+
+Continua sempre / Que você responde sim À sua imaginação
+ Em7               G/A                      D D7+ G/D G/A       
+À arte de sorrir Cada vez que o mundo diz não...
+
+                            
+    F  F7+          Gm7/F Bbm6/F                F    F7+      Bb7+ Bb/C C7   
+        E eu desejo amar        Todos que eu cruzar pelo meu caminho      
+    F  F7+          Gm7/F Em7(11)      A7     Dm7 Dm/C           Bb7+ A7
+        Como sou feliz,         quero Ver feliz     quem andar comi...go 
+        D D7+ G/D  D D7+ G/D                 
+        Vem...  
+        
+A/C#                   Am/C
+Você verá que é mesmo assim 
+           D/C           G/B
+E Que a história não tem fim
+           Em7          G/A          D7+           G7+
+Continua sempre / Que você responde sim À sua imaginação
+ Em7               G/A                      D D7+ G/D G/A       
+À arte de sorrir Cada vez que o mundo diz não...
+
+
+
+A formção de alguns acordes diferentes...
+(assim a musica fica mais legal)
+
+G/D  Gm6/D  A/C#  Am/C  D/C  Gm7/F  Bbm6/F  Bb/C   Em7(11)  Bb7+  Dm/C  F7+  G/A
+-3-   -0-   -5-   -5-   -2-   -x-    -3-     -x-    -3-     -1-   -1-   -0-  -3-
+-3-   -3-   -5-   -5-   -3-   -3-    -2-     -3-    -3-     -3-   -3-   -1-  -3-
+-4-   -3-   -6-   -5-   -2-   -3-    -3-     -3-    -2-     -2-   -2-   -2-  -4-
+-0-   -0-   -X-   -x-   -x-   -3-    -1-x    -3-    -x-     -3-   -x-   -3-  -X-
+-X-   -X-   -4-   -3-   -3-   -x-    -1-x    -3-    -x-     -1-   -3-   -x-  -0-
+-X-   -X-   -x-   -x-   -x-   -1-    -1-     -x-    -0-     -x-   -x-   -x-  -X-
+
+
+O numero indica a casa... 0 é solta...  "X" indica q vc não deve dedilhar essa corda... 
+os acordes D/C, Bbm6/F, Bb/C, Bb7+ e G/A são pestannas
+
+qualquer duvida guibarizao@hotmail.com
+
+transcrita por WHESLEY RODRIGUES e adpatada por Guilherme Barizão
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7 = X 0 2 0 2 0
+Am/C = X 3 2 2 5 X
+Bb/C = X 3 X 3 3 1
+Bb7+ = X 1 3 2 3 1
+Bbm6/F = X X 3 3 2 3
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D7 = X X 0 2 1 2
+D7+ = X X 0 2 2 2
+Dm/C = X 3 X 2 3 1
+Dm7 = X 5 7 5 6 5
+Em7 = 0 2 2 0 3 0
+Em7(11) = X 7 X 7 8 5
+F = 1 3 3 2 1 1
+F7+ = 1 X 2 2 1 X
+G/A = 5 X 5 4 3 X
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G7+ = 3 X 4 4 3 X
+Gm6/D = X 5 5 3 5 X
+Gm7/F = X X 3 3 6 3

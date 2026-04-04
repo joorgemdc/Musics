@@ -1,0 +1,105 @@
+Chico Buarque - Mil Perdões
+
+[Intro:] D6(9) A7(b13) D6(9) A7(b13)
+
+     D6(9) A7(b13)
+Te perdôo
+     Am/C             D/C G/B
+Por fazeres mil perguntas
+                  F#/A#        Bm7(11) Gm6/Bb
+Que em vidas que andam juntas ninguém faz
+     D7M/A C#7/G#
+Te perdôo
+     F7M/C     F7/C Bb7M
+Por pedires perdão
+                A7/C#
+Por me amares demais
+
+     D6(9) A7(b13)
+Te perdôo
+     Am/C       D/C  G/B
+Te perdôo por ligares
+        F#/A#            Bm7(11) Gm6/Bb
+Pra todos os lugares de onde eu vim
+
+     D7M/A C#7/G#
+Te perdôo
+     F7M/C     F7/C Gm7
+Por ergueres a mão
+     Bb7M       C7
+Por bateres em mim
+
+       B7 F#m7/C# Dº
+Te perdôo
+         B7/D#    C#7(b13)    F#m7 C#7(b9)
+Quando anseio pelo instante de sair
+ F#m7/C#      G#7/C            C#m Am6/C
+E rodar exuberante, me perder de ti
+     E7M/B D#7/A#
+Te perdôo
+     Bm6/D      C#7 C7M
+Por quereres me ver
+               B7/D#
+Aprendendo a mentir
+
+      E7M Dm6
+Te perdôo
+     Am6/C             B7 Gm6
+Por contares minhas horas
+            Gm6/Bb    D7M F#7/C#
+Nas minhas demoras por aí
+     Am6/C
+Te perdôo
+     D7(9)           G7M              Gm6       Bm6
+Te perdôo por que choras, quando eu choro de rir
+              Bbm6     D6(9) A7(b13) D6(9) A7(b13)
+Te perdôo por te      trair
+
+
+Acordes do trecho dedilhado:
+Bm7(11)=7x775x
+Gm6/Bb=65575x
+D7M/A=5x463x
+C#7/G#=4x342x
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+A7/C# = X 4 5 2 5 X
+Am/C = X 3 2 2 5 X
+Am6/C = X 3 4 2 5 2
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+Bb7M = X 1 3 2 3 1
+Bbm6 = 6 X 5 6 6 X
+Bm6 = 7 X 6 7 7 X
+Bm6/D = X X 0 1 0 2
+Bm7(11) = 7 X 7 7 5 X
+C#7 = X 4 3 4 2 X
+C#7(b13) = X 4 X 4 6 5
+C#7(b9) = X 4 3 4 3 X
+C#7/G# = 4 X 3 4 2 X
+C#m = X 4 6 6 5 4
+C7 = X 3 2 3 1 X
+C7M = X 3 2 0 0 X
+D#7/A# = 6 X 5 6 4 X
+D/C = X 3 X 2 3 2
+D6(9) = X 5 4 2 0 0
+D7(9) = X 5 4 5 5 X
+D7M = X X 0 2 2 2
+D7M/A = 5 5 4 2 2 2
+Dm6 = X 5 X 4 6 5
+Dº = X X 0 1 0 1
+E7M = X X 2 4 4 4
+E7M/B = X 2 2 1 4 X
+F#/A# = 6 X 4 6 7 X
+F#7/C# = X 4 4 3 5 X
+F#m7 = 2 X 2 2 2 X
+F#m7/C# = X 4 2 2 2 2
+F7/C = X 3 3 2 4 X
+F7M/C = X 3 3 2 5 X
+G#7/C = X 3 4 1 4 X
+G/B = X 2 0 0 3 3
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X
+Gm6/Bb = X 1 2 0 3 0
+Gm7 = 3 X 3 3 3 X

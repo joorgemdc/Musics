@@ -1,0 +1,121 @@
+Paulinho Moska - A Seta E O Alvo
+(Paulinho Moska & Nilo Romero)
+
+E=0,7,9,9,0,0
+E7+=0,7,9,8,0,0
+E7=0,7,9,7,0,0
+A/E=0,7,9,6,0,0
+Am/E=0,7,9,5,0,0
+F#7+(11+)=2,4,4,3,0,0
+
+Intro: E  
+
+     E                     E7+     E7  
+Eu falo de amor à vida, você de medo da morte  
+     A/E                       Am/E                   E  
+Eu falo da força do acaso e você, de azar ou sorte  
+                          E7+                         E7  
+Eu ando num labirinto e você, numa estrada em linha reta  
+     A/E                               Am/E                E  
+Te chamo pra festa mas você só quer atingir sua meta  
+
+       F#7       A7+     F#m7  
+Sua meta é a seta no alvo  
+           D9        A      B           E  
+Mas o alvo, na certa não te espera  
+
+     E                E7+                 E7  
+Eu olho pro infinito e você, de óculos escuros  
+     A/E                          Am/E                                E  
+Eu digo: "Te amo" e você só acredita quando eu juro  
+                                            E7+       E7  
+Eu lanço minha alma no espaço, você pisa os pés na terra.  
+     A/E                     Am/E                                  E  
+Eu experimento o futuro e você só lamenta não ser o que era  
+
+            F#7+(11+)         A7+     F#m7  
+E o que era ? Era a seta no alvo  
+           D9        A      B           E    (E  E7+  E7  A/E  Am/E E) 
+Mas o alvo, na certa não te espera  
+
+     E                E7+              E7  
+Eu grito por liberdade, você deixa a porta se fechar  
+     A/E                      Am/E                                   E  
+Eu quero saber a verdade, e você se perocupa em não se machucar  
+                             E7+             E7  
+Eu corro todos os riscos, você diz que não tem mais vontade  
+     A/E                Am/E                  E  
+Eu me ofereço inteiro, e você se satisfaz com metade  
+
+      F#7+(11+)       A7+     F#m7  
+É a meta de uma seta no alvo  
+           D9        A      B          C#m  
+Mas o alvo, na certa não te espera  
+
+                F#7+(11+)     A9  
+Então me diz qual é a graça  
+             E/G#                 G  
+De já saber o fim da estrada  
+F#m            B7(9)              E  
+Quando se parte rumo ao nada ?    
+
+
+
+                F#7+(11+)      A7+     F#m7  
+Sempre a meta de uma seta no alvo  
+           D9        A      B           E  
+Mas o alvo, na certa não te espera  
+
+                F#7+(11+)    A7+  
+Então me diz qual é a graça  
+             E                   G  
+De já saber o fim da estrada  
+F#m7            B7              E  
+Quando se parte rumo ao nada ?  
+
+
+Solo final: 
+
+e|--5p40-----12--12-| 
+B|--------0--10--12-| 
+G|-----------11--13-| 
+D|------------------| 
+A|------------------| 
+E|------------------| 
+
+
+ 
+
+
+  E            E7+          E7           A/E          Am/E         F#7        
+  |||o||       ||oo||       |||o||       ||||||       ||||o|       ||||||     
+  |oo|||       |o||||       |oo|||       ||ooo|       ||oo||       o|o|oo     
+  ||||||       ||||||       ||||o|       ||||||       ||||||       |||o||     
+  ||||||       ||||||       ||||||       ||||||       ||||||       |o||||     
+  ||||||       ||||||       ||||||       ||||||       ||||||       ||||||     
+
+
+  A7+          F#m7         D9           A            B            F#7+(11+)  
+  |||o||       ||||||       ||||||       ||||||       ||||||       ||||oo     
+  ||o|o|       o|ooo|       |||o||       ||ooo|       |o|||o       o|||||     
+  ||||||       ||||||       ||||o|       ||||||       ||||||       ||oo||     
+  |||||o       ||||||       ||||||       ||||||       ||ooo|       ||||||     
+  ||||||       ||||||       ||||||       ||||||       ||||||       ||||||     
+
+
+  C#m          A9           E/G#         G            F#m          B7(9)      
+4 |o|||o       ||||||       ||||||       ||||||       ||||||       ||o|||     
+  ||||o|       ||oo||       ||o|||       |o||||       o||ooo       |o|oo|     
+  ||oo||       ||||||       ||||||       o|||oo       ||||||       ||||||     
+  ||||||       ||||||       o||o||       ||||||       |oo|||       ||||||     
+  ||||||       ||||||       ||||o|       ||||||       ||||||       ||||||     
+
+
+  B7                      
+  ||o|||     
+  |o|o|o     
+  ||||||     
+  ||||||     
+  ||||||     
+
+

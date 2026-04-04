@@ -1,0 +1,58 @@
+Ivan Lins - Depende de Nós
+
+C#4(7/9)           F#7M
+       Dep ende de nós
+        G#m7               F#7M
+Quem já foi ou ainda é criança
+        G#m7            F#7M
+Que acredita ou tem esperança
+         G#m7       Bb7     Ebm7  C#4(7/9) C#7(b9)
+Quem faz tudo pra um mundo melhor
+            F#7M
+Depende de nós
+      G#m7           F#7M
+Que o circo esteja armado
+       G#m7              F#7M
+Que o palhaço esteja engraçado
+      G#m7  Bb7    Ebm7
+Que o riso esteja no ar
+          Ab7(11)   Ab7    C#7M  G7
+Sem que a gente precise sonhar
+
+C7M             Bb/C
+Que os ventos cantem nos galhos
+C7M           Bb/C            Em
+Que as folhas bebam orvalhos
+      A7        D7        G7    C7M  C4(7/9)
+Que o sol descortine mais as manhãs
+
+           F7M
+Depende de nós
+        Gm7             F7M
+Se este mundo ainda tem jeito
+   Gm7                     F7M
+Apesar do que o homem tem feito
+     Gm7  C4(7/9)   F7M
+Se a vida sobreviverá
+C4(7/9)        F7M          Gm7                F7M
+Lá la la la la... la la la la la la la la la
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab7 = 4 6 4 5 4 4
+Ab7(11) = 4 6 4 6 4 X
+Bb/C = X 3 X 3 3 1
+Bb7 = X 1 3 1 3 1
+C#4(7/9) = X 4 4 4 4 4
+C#7(b9) = X 4 3 4 3 X
+C#7M = X 4 6 5 6 4
+C4(7/9) = X 3 3 3 3 3
+C7M = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+Ebm7 = X X 1 3 2 2
+Em = 0 2 2 0 0 0
+F#7M = 2 X 3 3 2 X
+F7M = 1 X 2 2 1 X
+G#m7 = 4 X 4 4 4 X
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

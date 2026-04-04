@@ -1,0 +1,89 @@
+Gilberto Gil - Three Little Birds
+
+Intr:
+
+1ªParte (só violão)
+e|--------------------------------------------------------------------
+B|--------------------------------------------------------------------
+G|-----------------1--2--------------2--4--------0--2--4--6h8--9---7h9
+D|--2--------2--4--------0--2--3--5--------2--4-----------------------
+A|-----2--4-----------------------------------------------------------
+E|--------------------------------------------------------------------
+
+2ªParte - violão e flauta
+e|-------------------------
+B|-------------------------
+G|-------------------------
+D|--2--------2--4--7--6----
+A|-----2--4----------------
+E|-------------------------
+
+           E
+So don't worry about a thing
+       A                                E
+'Cause ev'ry little thing is gonna be alright
+
+
+So don't worry about a thing
+   A                             E
+Every little thing is gonna be alright
+
+Rise up this morning
+                 B
+Smiled with the rising sun
+              E7(9)
+Three little birds
+          A
+Pitch by my door step
+         E
+Singin' sweet songs
+            B
+of melodies pure and true
+      A7                          E    E E4 E : D D4 D : Fmaj7 F Fmaj7 E 2x
+Sayin': “This is my message to you”    E E4 E : D D4 D : Fmaj7 F Fmaj7 G A B
+
+           E
+So don't worry about a thing
+       A                                E
+'Cause ev'ry little thing is gonna be alright
+
+So don't worry about a thing
+  A                               E
+Every little thing is gonna be alright
+
+
+Rise up this morning
+                 B
+Smiled with the rising sun
+              E
+Three little birds
+          A
+Pitch by my door step
+         E
+Singin' sweet songs
+            B
+of melodies pure and true
+
+      A                           E  E E4 E : D D4 D : Fmaj7 F Fmaj7 E 2x
+Sayin': “This is my message to you”  E E4 E : D D4 D : Fmaj7 F Fmaj7 G A B
+
+FINAL                            E
+e|-------------------------------0------
+B|-------------------------------0------
+G|-------------------------------1------
+D|--2--------2--4--7-6----7-6-2--2------
+A|-----2--4----------------------2------
+E|-------------------------------0------
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B = X 2 4 4 4 2
+D = X X 0 2 3 2
+D4 = X X 0 2 3 3
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7(9) = X X 2 1 3 2
+F = 1 3 3 2 1 1
+Fmaj7 = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

@@ -1,0 +1,51 @@
+Gal Costa - LiLi (Hi-lili Hi-lo)
+
+D            A        D
+Um passarinho me ensinou
+              A
+Uma canção feliz
+       F#m7
+E quando solitário estou
+       B7(9-)
+Mais triste do que triste sou
+Em7                    A7
+Recordo o que ele me ensinou
+     A7(b5)          D  A7
+Uma canção que diz
+D
+Eu vivo a vida cantando
+                        A7
+Hi, Lili, hi, Lili, hi lo
+    A7              A7
+Por isso sempre contente estou
+   A7(b5)            D  A7(b5)
+O que passou, passou
+   D            A7
+O mundo gira depressa
+
+      D7            G
+E nessas voltas eu vou
+    Gm                   D
+Cantando a canção tão feliz que diz
+A7                 D     D7
+Hi, Lili, hi, Lili, hi lo
+       G           Gm             D
+Por isso é que sempre contente estou
+       A7        A7(b5)    D D7
+Hi, Lili, hi, Lili, hi lo
+       G           Gm             D
+Por isso é que sempre contente estou
+       A7        A7(b5)         G    Gm    D
+Hi, Lili, hi, Liliiiiiiiii. Hi, Lo
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7(b5) = X 0 1 0 2 X
+B7(9-) = X 2 1 2 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

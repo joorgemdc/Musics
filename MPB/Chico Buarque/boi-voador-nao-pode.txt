@@ -1,0 +1,48 @@
+Chico Buarque - Boi Voador Não Pode
+
+C6/9                  Dm7/9             G7/13      A7/13
+    Quem foi, quem foi     que falou do boi  voador
+          A7(b13)        D7/9          G7
+Manda prender    esse boi    Seja esse boi o que for
+C6/9                  Dm7/9             G7/13      A7/13
+    Quem foi, quem foi     que falou do boi  voador
+          A7(b13)        D7/9          G7
+Manda prender    esse boi    Seja esse boi o que for
+
+C6/9   A7/C#    Dm7                B7/D#        Em7
+     O boi   ain___da dá bode Qual é    a do boi   que revoa
+Gm7 C7(b9)      F7M         F6 Am7  D7/9    Dm7/9  G7/13
+Boi re_____almen___te não pode vo___ar  à to_______a
+  C6/9                           Dm7/9   G7      C6/9
+É fora, é fora, é fora É fora da lei,  é fora do ar
+                                   Dm7/9     G7     C6/9
+É fora, é fora, é fora Segura esse boi   Proibido voar
+                                 Dm7/9   G7      C6/9
+É fora, é fora, é fora É fora da lei,  é fora do ar
+                                   Dm7/9     G7     C6/9
+É fora, é fora, é fora Segura esse boi   Proibido voar
+
+
+F7M F#° Em7(b5) A7(b13) D7/9 G7/13 Gm7 C7(b9)
+F7M F#° Em7(b5) A7(b13) D7/9 G7/13 C6/9 C7(#9)
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+A7/13 = X 0 X 0 2 2
+A7/C# = X 4 5 2 5 X
+Am7 = X 0 2 0 1 0
+B7/D# = X X 1 2 0 2
+C6/9 = X 3 2 2 3 3
+C7(#9) = X 3 2 3 4 X
+C7(b9) = X 3 2 3 2 X
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+Em7 = 0 2 2 0 3 0
+Em7(b5) = X X 2 3 3 3
+F#° = 2 X 1 2 1 X
+F6 = 1 X 0 2 1 X
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+G7/13 = 3 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X

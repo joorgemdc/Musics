@@ -1,0 +1,71 @@
+Chico Buarque - Sonho de Um Carnaval
+
+[Intro] C7M(6)  D/F#  D/C  Bm7(11)  Bb7(9/+11)  Am  E7(+9)
+
+     C7M(6)       D/C
+Carnaval,   desengano
+         Bm7(11)     Bb7(9/+11)    Am7 G#º(b13) Gm7 C7(9)
+Deixei a dor em casa me        esperando
+      F#m7     Dm6/F      Am7          Em7
+E brinquei e gritei  e fui vestido de rei
+       Bm7(b5)   E7(b13)      Am7  E7(#9)
+Quarta-feira   sempre desce o pano
+
+     Am7 D7(9) Gm7 C7(9)    D/F#
+Carnaval,              desengano
+       Dm/F      E7(b13)    Am7 G#º(b13) Gm7 C7(9)
+Essa morena me deixou    sonhando
+      F#m7     Dm6/F         Am7         Em7
+Mão na mão, pé no chão e hoje nem lembra não
+       Bm7(b5)   E7(b13)      Am7
+Quarta-feira   sempre desce o pano
+
+           D/F#         E7(13)         Am7
+Era  uma canção, um só cordão, e uma vontade
+
+C7/G        F7M        B7            E7(b13)
+De  tomar a mão de cada irmão pela cidade
+
+        Am7 D7(9) Gm7 C7(9)   D/F#
+No carnaval,              esperança
+          Dm/F       E7(b13)   Am7    C7/G
+Que gente longe viva na     lembrança
+          F7M            E7(b13)   Am7   C7/G
+Que gente triste possa entrar   na dança
+          F7M       E7(b13)  Am7   C7/G
+Que gente grande saiba ser criança
+
+[Solo] D/F#  E7(13)Am7  C7/G  F7M  B7  E7(b13)
+
+        Am7 D7(9) Gm7 C7(9)   D/F#
+No carnaval,              esperança
+          Dm/F       E7(b13)   Am7    C7/G
+Que gente longe viva na     lembrança
+          F7M            E7(b13)   Am7   C7/G
+Que gente triste possa entrar   na dança
+          F7M       E7(b13)  Am7   C7/G
+Que gente grande saiba ser criança
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7(11) = 7 X 7 7 5 X
+Bm7(b5) = X 2 3 2 3 X
+C7(9) = X 3 2 3 3 X
+C7/G = 3 X 2 3 1 X
+C7M(6) = X 3 2 2 0 0
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7(9) = X 5 4 5 5 X
+Dm/F = X X 3 2 3 1
+Dm6/F = 1 X 0 2 0 X
+E7(#9) = X 7 6 7 8 X
+E7(+9) = X 6 5 6 7 X
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F7M = 1 X 2 2 1 X
+G#º(b13) = 4 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X

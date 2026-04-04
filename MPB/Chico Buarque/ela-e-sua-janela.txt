@@ -1,0 +1,65 @@
+Chico Buarque - Ela e Sua Janela
+
+(De: Chico Buarque)
+
+C#m7                      A7     G#7              Bm7          E7
+Ela e sua menina Ela e seu  tricô   Ela e sua jane___la, espian__do
+Dm7    G7          C6/9              Am7    D7(9)         Bm7(11) E7
+   Com tanta moça aí   na rua o seu amor só pode estar dançan_____do
+Am7                B7    Em7
+Da sua janela Imagina ela   Por onde ele anda
+F#m7(b5)                    G7           G#7
+E       ela vai talvez sair uma vez na varanda
+
+C#m7                        A7     G#7              Bm7           E7
+Ela e um fogareiro Ela e seu  calor   Ela e sua jane___la, esperan__do
+Dm7    G7           C6/9                  Am7  D7(9)       Bm7(11) E7
+   Com tão pouco dinheiro será que o seu amor ainda está jogan_____do
+Am7                 B7        Em7
+Da sua janela uma vaga estrela   e um pedaço de lua
+F#m7(b5)                    G7           G#7
+E       ela vai talvez sair outra vez na rua
+
+C#m7                       A7     G#7              Bm7          E7
+Ela e seu castigo Ela e seu  penar   Ela e sua jane___la, queren__do
+
+Dm7    G7           C6/9                Am7    D7(9)        Bm7(11) E7
+   Com tanto velho amigo O seu amor num bar só pode estar beben_____do
+Em7(b5)                     A7(b9)
+Mas    outro moreno joga um novo  aceno
+Dm7                  Dº  B7               G#7(b13)           C#m7(9) A7  C#m7(9)
+   E uma jura fingida    e ela vai talvez viver   duma vez a vi______da
+
+ACORDES:
+
+C#m7  - X46454
+A7    - 5X565X     Bm7(11)  - X2X230
+G#7   - 4X454X     B7       - X24242
+Bm7   - X24232     Em7      - 02203X
+E7    - 022130     F#m7(b5) - 2X221X
+Dm7   - XX0211     Em7(b5)  - 0X2333
+G7    - 3X343X     A7(b9)   - X02323
+C6/9  - X3223X     Dº       - XX0101
+Am7   - 5X555X     G#7(b13) - 4X455X
+D7(9) - X5455X     C#m7(9)  - X4244X
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b9) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+C#m7 = X 4 6 4 5 4
+C#m7(9) = X 4 2 4 4 X
+C6/9 = X 3 2 2 3 3
+D7(9) = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+Dº = X X 0 1 0 1
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+Em7(b5) = X X 2 3 3 3
+F#m7(b5) = 2 X 2 2 1 X
+G#7 = 4 6 4 5 4 4
+G#7(b13) = 4 X 4 5 5 4
+G7 = 3 5 3 4 3 3

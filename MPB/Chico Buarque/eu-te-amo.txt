@@ -1,0 +1,100 @@
+Chico Buarque - Eu Te Amo
+
+( Chico Buarque / Tom Jobim )
+
+
+[Intro:] G7(4)(9) Eb7M/G G7(4)(9)(13) G7(b9)
+
+C7M         B7(4)  B7       Bb7M(9) Bb7M
+Ah, se já perdemos a noção da hora
+      A7(b13) A7(b9)    Ab7M(9) Ab7M
+Se juntos já jogamos tudo fora
+        G7(13) G7(b13)        Gb7M Dm/F
+Me conta agora como hei de partir
+E7M G7(b13)       C7M(9)
+Ah, se, ao te conhecer,
+          Am7(9)              B7(9)(11)
+Dei pra sonhar, fiz tantos desvarios
+           B7(b9)              B7(b9)(11)
+Rompi com o mundo, queimei meus navios
+                  A7(13) A7(b13) Bbº Dm7(9)
+Me diz pra onde é que inda posso ir
+   F7M             E7             Eb7M(#5) Eb7M
+Se nós, nas travessuras das noites eternas
+
+        D7(b13) D7           Db7M(#5) Db7M
+Já confundimos tanto as nossas pernas
+          C7(b13)           B7M(b13) B7M B7M(#11)
+Diz com que pernas eu devo seguir
+
+C7M            Am7(9)          D7(9)(13)
+Se entornaste a nossa sorte pelo chão
+              Bbº       Dm7(9)
+Se na bagunça do teu coração
+            G7(b9)              E7(4) E7(b13)
+Meu sangue errou de veia e se perdeu
+F7M            E7                   Eb7M
+Como, se na desordem do armário embutido
+      D7(b13)              Db7M
+Meu paletó enlaça o teu vestido
+           C7               B7M
+E o meu sapato inda pisa no teu
+
+Como, se nos amamos feito dois pagãos
+Teus seios inda estão nas minhas mãos
+Me explica com que cara eu vou sair
+Não, acho que estás te fazendo de tonta
+Te dei meus olhos pra tomares conta
+Agora conta como hei de partir
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+Ab7M = 4 X 5 5 4 X
+Ab7M(9) = 4 3 5 3 X X
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+B7 = X 2 1 2 0 2
+B7(4) = X 2 4 2 5 2
+B7(9)(11) = X 2 2 2 2 2
+B7(b9) = X 2 1 2 1 X
+B7(b9)(11) = X 2 2 2 1 X
+B7M = X 2 4 3 4 2
+B7M(#11) = X 2 3 3 4 X
+B7M(b13) = X 2 X 3 4 3
+Bb7M = X 1 3 2 3 1
+Bb7M(9) = X 1 0 2 1 X
+Bbº = X 1 2 0 2 0
+C7 = X 3 2 3 1 X
+C7(b13) = X 3 X 3 5 4
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+D7 = X X 0 2 1 2
+D7(9)(13) = X 5 4 5 0 0
+D7(9/#11) = X X 0 1 1 0
+D7(b13) = X 5 X 5 7 6
+Db7M = X 4 6 5 6 4
+Db7M(#5) = X 4 3 2 1 1
+Dm/F = X X 3 2 3 1
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+E7 = 0 2 2 1 3 0
+E7(4) = 0 2 0 2 0 X
+E7(b13) = 0 X 0 1 1 0
+E7/4 = 0 2 0 2 0 X
+E7M = X X 2 4 4 4
+Eb7M = X X 1 3 3 3
+Eb7M(#5) = X 6 5 4 3 3
+Eb7M/G = 3 X 1 3 3 X
+Em7 = 0 2 2 0 3 0
+F7M = 1 X 2 2 1 X
+G7 = 3 5 3 4 3 3
+G7(#5) = 3 X 3 4 4 3
+G7(13) = 3 X 3 4 5 X
+G7(4)(9) = 3 X 3 2 1 X
+G7(4)(9)(13) = 3 X 3 2 1 0
+G7(b13) = 3 X 3 4 4 3
+G7(b9) = 3 X 3 1 0 X
+Gb7M = 2 X 3 3 2 X

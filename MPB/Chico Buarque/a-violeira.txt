@@ -1,0 +1,98 @@
+Chico Buarque - A Violeira
+
+      A           E7(4)9        A               E7(4)9        A
+Desde menina   Caprichosa e nordestina   Que eu sabia,  a minha sina
+       E7(4)9      A   Eb7M       D7M          Dm6              C#7(13)
+Era no Rio   vir morar      Em Araripe   Topei com o chofer dum jipe
+      F#m7(9)       B7(13)        E7(9)    A
+Que descia   pra Sergipe   Pro Serviço Militar
+
+                    E7(4)9       A                E7(4)9      A
+Esse maluco   Me largou em Pernambuco   Quando um cara  de trabuco
+     E7(4)9        A   Eb7M         D7M          Dm6        C#7(13)
+Me pediu   pra namorar      Mais adiante   Num estado interessante
+      F#m7(9)   B7(13)       E7(9)       A
+Um caixeiro  viajante   Me levou pra Macapá
+
+      F#m7     B7              E             C#m7        F#m7
+Uma cigana revelou que a minha sorte   Era ficar naquele Norte
+            B7        E               G#m7          C#7       F#
+E eu não queria acreditar   Juntei os trapos com um velho marinheiro
+   D#m7          F#m7            B7         E  E7(9)
+Viajei no seu cargueiro  Que encalhou no Ceará
+
+
+           A               E7(4)9      A               E7(4)9    A
+Voltei pro Crato   E fui fazer   artesanato   De barro bom   e barato
+       E7(4)9       A   Eb7M           D7M              Dm6         C#7(13)
+Pra mó de    economizar      Eu era um broto   E também fiz muito garoto
+        F#m7(9)         B7(13)       E7(9)         A
+Um mais bem feito que o outro   Eles só   faltam falar
+
+         F#m7          B7             E             C#m7        F#m7
+Juntei a prole e me atirei no São Francisco   Enfrentei raio, corisco
+      B7           E             Em7          A7           D
+Correnteza e coisa-má   Inda arrumei com um artista em Pirapora
+                         Dm7          G7        C  E7(9)
+Mais um filho e vim-me embora   Cá no Rio vim parar
+
+       A              E7(4)9        A            E7(4)9     A
+Ver Ipanema   Foi que nem   beber jurema   Que cenário de cinema
+      E7(4)9        A   Eb7M           D7M          Dm6           C#7(13)
+Que poema   à beira-mar      E não tem tira  Nem doutor, nem ziguizira
+      F#m7(9)           B7(13)      E7(9)       A  Eb7M
+Quero ver    quem é que tira   Nós aqui desse lugar
+          D7M          Dm6           C#7(13)
+E não tem tira  Nem doutor, nem ziguizira
+      F#m7(9)           B7(13)      E7(9)       A
+Quero ver    quem é que tira   Nós aqui desse lugar
+
+        E7(4)9           A            E7(4)9        A
+Será verdade   Que eu cheguei nessa cidade   Pra primeira autoridade
+     E7(4)9          A   Eb7M                D7M          Dm6        C#7(13)
+Resolver   me escorraçar      Com a tralha inteira   Remontar a Mantiqueira
+       F#m7(9)        B7(13)            E7(9)      A
+Até chegar    na corredeira   O São Francisco me levar
+
+         F#m7            B7              E             C#m7          F#m7
+Me distrair   Nos braços de um barqueiro sonso   Despencar na Paulo Afonso
+      B7        E               Em7            A7         D
+No oceano me afogar   Perder os filhos   Em Fernando de Noronha
+                     Dm7            G7          C  E7(9)
+E voltar morta de vergonha   Pro sertão de Quixadá
+
+        A              E7(4)9          A            E7(4)9             A
+Tem cabimento   Depois de     tanto tormento   Me casar   com algum sargento
+       E7(4)9       A   Eb7M           D7M             Dm6         C#7(13)
+E todo sonho desmanchar      Não tem carranca   Nem trator, nem alavanca
+      F#m7(9)             B7(13)       E7(9)        A  Eb7M
+Quero ver    quem é que arranca   Nós aqui  desse lugar
+          D7M             Dm6         C#7(13)
+Não tem carranca   Nem trator, nem alavanca
+      F#m7(9)             B7(13)       E7(9)        A  Eb7M
+Quero ver    quem é que arranca   Nós aqui  desse lugar
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+B7 = X 2 1 2 0 2
+B7(13) = X 2 X 2 4 4
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#7(13) = X 4 X 4 6 6
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D#m7 = X X 1 3 2 2
+D7M = X X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+E = 0 2 2 1 0 0
+E7(4)9 = X X 2 2 3 2
+E7(9) = X X 2 1 3 2
+Eb7M = X X 1 3 3 3
+Em7 = 0 2 2 0 3 0
+F# = 2 4 4 3 2 2
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+G#m7 = 4 X 4 4 4 X
+G7 = 3 5 3 4 3 3

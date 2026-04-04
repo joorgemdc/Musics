@@ -1,0 +1,92 @@
+Chico Buarque - Bolero Blues
+
+Jorge Helder / Chico Buarque
+
+[Intro:] Eb7M(9) Am6(9) D7(b9)(13) Gm7M(9) Gm7(9) Cm7
+
+         A7(b9)       Dm7(9)
+Quando eu ainda estava moço
+Bm7(b5)         Bº
+Algum pressentimento
+         Cm/Eb        D7(b9) G7  Cm7(9)
+Me trazia      volta e meia por aqui
+         A7(b13)     Bb7M Bb6
+Talvez à espera da garota
+ G7/B     Bm7(b5)
+Que naquele tempo
+   Bº       Cm/Eb      D7(b9)  G7   Cm7(11)
+Andava longe,     muito longe de existir
+Cm7      Bº  Am7(b5) D7(b9) Gm7M(9) G7/B
+Tantos tristes fados   eu compus
+ Cm7     Bº   Am7(b5) D7(b9) Gm7M(9) G7/B Cm7(9)
+Quanto choro em vão, bolero   blues
+          A7(b9)      Dm7(9)
+Eis que do nada ela aparece
+
+Bm7(b5)           Bº
+Com o vestido ao vento
+          Cm/Eb D7(b9)         G7    Cm7(9)
+Já tão desejada       que não cabe em si
+
+Ab7M      Abm6       Gm7(b5)     C7(b9)
+Neste crucial momento, neste cruzamento
+             Fm7
+Se ela olhar para trás
+        C7/E        Fm/Eb G7/D
+É bem capaz de num lamento
+Bbm/Db   C7(b9)      Fm7M(9) Fm/Eb
+Acudir ao meu olhar mendigo
+Dm7(b5)       G7/B
+Mas aquela ingrata corre
+Bbm/Db      C7(b9)            Fm7M(9)
+E a Barão da Torre e a Vinícius de Moraes
+        E7(9)           Fm/Eb Dm7(b5)
+São de repente estranhas ruas
+Bbm/Db      C7(b9)    Fm7M(9) Fm/Eb
+Sem o seu vestido ficam nuas
+Dm7(b5) Abm6     Gm7 Gm7/F G7/D         Cm7(9)
+E ao    vento eu digo:     -Tarde demais
+
+         A7(b13)         Bb7M Bb6
+Quando ela já não mais garota
+G7/B        Bº  Dº
+Der a meia-volta
+     Dm7(b5)   Dº  Cm/Eb    G7/D Cm7(9)
+Claro que não vou estar mais nem  aí
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+Ab7M = 4 X 5 5 4 X
+Abm6 = 4 X 3 4 4 X
+Am6(9) = X 0 4 5 0 0
+Am7(b5) = 5 X 5 5 4 X
+Bb6 = X 1 3 0 3 X
+Bb7M = X 1 3 2 3 1
+Bbm/Db = X 4 X 3 6 6
+Bm7(b5) = X 2 3 2 3 X
+Bº = X 2 3 1 3 1
+C7(b9) = X 3 2 3 2 X
+C7/E = 0 3 2 3 1 0
+Cm/Eb = X X 1 0 1 3
+Cm7 = X 3 5 3 4 3
+Cm7(11) = X 3 3 3 4 3
+Cm7(9) = X 3 1 3 3 X
+D7(b9) = X 5 4 5 4 X
+D7(b9)(13) = 10 X X P8 12 8
+Dm7(9) = X 5 3 5 5 X
+Dm7(b5) = X X 0 1 1 1
+Dº = X X 0 1 0 1
+E7(9) = X X 2 1 3 2
+Eb7M(9) = X 6 5 7 6 X
+Fm/Eb = X 6 X 5 6 4
+Fm7 = 1 X 1 1 1 X
+Fm7M(9) = X 8 6 9 8 X
+G7 = 3 5 3 4 3 3
+G7/B = X 2 3 0 3 X
+G7/D = X X 0 0 0 1
+Gm7 = 3 X 3 3 3 X
+Gm7(9) = X X 5 3 6 5
+Gm7(b5) = 3 X 3 3 2 X
+Gm7/F = X X 3 3 6 3
+Gm7M(9) = 3 1 4 2 X X

@@ -1,0 +1,76 @@
+Elis Regina - Transversal do Tempo
+
+Int.: (Fm7 Eb/F Fm7 Eb/F Fm7 Eb/F D7/9+
+E7/9+ F#7/9+ F7/9+ D7/9+) C#7/9+ C7/9+
+
+Fm7                      D7/9+ G5+/7
+As coisas que eu sei de mim
+                 Cm   Cm7+ Cm7 Cm6
+São pivetes da cidade
+Bbm7               F5+/7
+Pedem, insistem e eu
+Bbm7                Bbm7+
+Me sinto pouco à vontade
+Db/Eb                 Eb7/9 Eb7/9-
+Fechada dentro de um táxi
+         Ab7+ Gm7     Fm7
+Numa transversal do tempo
+G7/13  G5+/7 G7
+Acho que o amor
+                C   Dm7   D#º  C/E
+É a ausência de engarrafamento
+Fm7                      Abm7 B/C#
+As coisas que eu sei de mim
+
+Ebm7                 F#m7  B7/13
+Tentam vencer a distância
+    F7/13
+E é como se aguardassem feridas
+           Bb7   Eb7/9
+Numa ambulância
+                        A7
+As pobres coisas que eu sei
+        Ab7+       Fm7
+Podem morrer, mas espero
+           G7
+Como se houvesse um sinal
+               Bb/C
+Sem sair do amarelo
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Ab7+ = 4 X 5 5 4 X
+Abm7 = 4 X 4 4 4 X
+B/C# = X 6 X 4 7 7
+B7/13 = X 2 X 2 4 4
+Bb/C = X 3 X 3 3 1
+Bb7 = X 1 3 1 3 1
+Bbm7 = X 1 3 1 2 1
+Bbm7+ = X 1 3 2 2 1
+C = X 3 2 0 1 0
+C#7/9+ = X 4 3 4 5 X
+C/E = 0 3 2 0 1 0
+C7/9+ = X 3 2 3 4 X
+Cm = X 3 5 5 4 3
+Cm6 = X 3 X 2 4 3
+Cm7 = X 3 5 3 4 3
+Cm7+ = X 3 5 4 4 3
+D#º = X X 1 2 1 2
+D7/9+ = X 5 4 5 6 X
+Db/Eb = 11 X 11 10 9 X
+Dm7 = X 5 7 5 6 5
+E7/9+ = X 6 5 6 7 X
+Eb/F = X 8 8 8 8 X
+Eb7/9 = X 6 5 6 6 X
+Eb7/9- = X 6 5 6 5 X
+Ebm7 = X X 1 3 2 2
+F#7/9+ = X X 4 3 5 5
+F#m7 = 2 X 2 2 2 X
+F5+/7 = 1 X 1 2 2 1
+F7/13 = 1 X 1 2 3 X
+F7/9+ = X X 3 2 4 4
+Fm7 = 1 X 1 1 1 X
+G5+/7 = 3 X 3 4 4 3
+G7 = 3 5 3 4 3 3
+G7/13 = 3 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X

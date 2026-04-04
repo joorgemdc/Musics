@@ -1,0 +1,60 @@
+Seu Jorge - Seu Olhar
+
+[Intro]  C#9  C#7M  C#7  C#7M  B9  F#7  A9  B/A
+
+       C#9        C#7M
+Temos rotas a seguir
+        C#7           C#7M
+Podemos ir daqui pro mundo
+ B9          F#7
+Mas quero ficar porque
+  A9                  B/A
+Quero mergulhar mais fundo
+ C#9            C#7M         C#7
+Só de me encontrar no seu olhar
+         C#7M
+Já muda tudo
+ B9         F#7
+Posso respirar você
+A9               B/A
+E posso te enxergar no escuro
+
+ C#9                   C#7M
+Tem muito tempo na estrada
+
+ F#7M  F#m6
+Muito tem
+C#9                   C#7M
+E como quem não quer nada
+ F#7M  F#m6
+Você  vem
+ C#9              C#7M
+Depois da onda pesada
+  F#7M  F#m6
+A onda zen
+C#9               C#7M
+É namorar na almofada
+   F#7M   F#m6
+E dormir bem
+
+ C#9         C#7M
+Foi o seu olhar
+F#7M           F#m6
+O que me encantou
+  C#9           C#7M
+Quero um pouco mais
+ F#7M       F#m6
+Desse seu amor
+
+( C#9  C#7M  F#7M  F#m6 )
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+B/A = X 0 4 4 4 X
+B9 = X 2 4 4 2 2
+C#7 = X 4 3 4 2 X
+C#7M = X 4 6 5 6 4
+C#9 = X 4 6 6 4 4
+F#7 = 2 4 2 3 2 2
+F#7M = 2 X 3 3 2 X
+F#m6 = 2 X 1 2 2 X

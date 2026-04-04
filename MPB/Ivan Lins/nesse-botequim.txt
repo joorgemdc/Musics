@@ -1,0 +1,72 @@
+Ivan Lins - Nesse Botequim
+
+[Intro:] F#m7(9) G#7(b13) C#m7(9)(11) F#m7(9) G#7(b13) C#m7(9)(11) G#7(b13)
+
+                  C#m7(9)(11)
+Nas portas desse botequim
+              F#m7M(9)
+Passaram tempos antigos
+       F#m7(9)  B7(4)(9)
+Passaram sonhos, amigos
+      B7(b9)(#11) E7M(#5)
+Passaram crimes, castigos
+
+ G#7(b13)         C#m7(9)(11)
+Nas portas desse botequim
+                F#m7M(9)
+Passaram porcos e vadios
+      F#m7(9)   B7(4)(9)
+Passaram povos, pavios
+       B7(b9)(#11) E7M(#5) E7M
+Passaram os copos vazios
+
+    Bm7    E7      A#m7(b5)
+Nas portas desse botequim
+        Am6     E/G#
+Passaram teias daninhas
+       C#7(#9)         F#7(4)
+Passaram reis e rainhas
+   F#7 B7(4)(9)  B7(b9)  E7M E6
+Passaram  fés,     ladainhas
+
+Nas portas desse botequim
+Passaram trens e tratores
+Passaram cães e tambores
+Passaram bois voadores
+
+Nas portas desse botequim
+Passaram barbas, batinas
+Passaram mãos assassinas
+Passaram grossas cortinas
+
+Nas portas desse botequim
+Passaram quedas de braço
+Passaram trevas de aço
+Passaram as águas de março
+
+          Bm7         E7    A#m7(b5)
+"É pau, é pedra, é o fim do caminho
+             Am6                 E/G#
+É um resto de toco, é um pouco sozinho"
+
+Fim: Em/G F#7 F7 E6(9)
+
+----------------- Acordes -----------------
+A#m7(b5) = X 1 2 1 2 X
+Am6 = 5 X 4 5 5 X
+B7(4)(9) = X 2 2 2 2 2
+B7(b9) = X 2 1 2 1 X
+B7(b9)(#11) = X 2 1 2 1 1
+Bm7 = X 2 4 2 3 2
+C#7(#9) = X 4 3 4 5 X
+C#m7(9)(11) = X 4 2 4 4 2
+E/G# = 4 X 2 4 5 X
+E6 = X X 2 4 2 4
+E7 = 0 2 2 1 3 0
+E7M = X X 2 4 4 4
+E7M(#5) = 0 X 1 1 1 X
+F#7 = 2 4 2 3 2 2
+F#7(4) = 2 4 2 4 2 X
+F#m7(9) = X X 4 2 5 4
+F#m7M(9) = 2 0 3 1 X X
+G#7(b13) = 4 X 4 5 5 4

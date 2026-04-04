@@ -1,0 +1,154 @@
+Lenine - É o Que Me Interessa
+
+Afinação Meio Tom Abaixo
+
+Intro: C4+/G  C/G  C4+/G   C5/G
+       G7M     G6   G7M      G
+
+  C4+/G  C/G  C4+/G  C5/G   G7M  G6   G7M     G
+E|-----------------------------------------
+B|-----------------------------------------
+G|-----------------------------------------
+D|4----2----4----5-----4----2----4----5----
+A|3----3----3----3-----2----2----2----2----
+E|3----3----3----3-----3----3----3----3----
+
+  C7M/G  C/G  Am   Am11  G7M   G6    G    G6
+E|-----------------------------------------
+B|-----------------------------------------
+G|4----0----0----0----0----0----0----0-----
+D|2----2----2----0----4----2----0----2-----
+A|3----3----3----3-------------------------
+E|3----3----5----5----3----3----3----3-----
+
+    C7M/G      C/G
+Daqui desse momento
+     Am           Am11
+Do meu olhar pra fora
+   G7M          G6   G  G6
+O mundo é só miragem
+   C7M/G       C/G
+A sombra do futuro
+   Am          Am11
+A sobra do passado
+   G7M          G6   G  G6
+Assombram a paisagem
+
+  Em                   C9
+E|-----------------------------------------
+B|-----3------3------------3------3--------
+G|-------0------0------------0------0------
+D|---------5-------5-----5-----5------5----
+A|--2-----------------3--------------------
+E|0----------------------------------------
+
+  G
+E|-----------------------------------------
+B|-----3------3------------3---------------
+G|-------0------0------------0-------------
+D|---5-----5------5-----5------5-----------
+A|-----------------------------------------
+E|3------------------3---------------------
+
+      Em
+Quem vai virar o jogo
+    C9
+E transformar a perda
+G
+  Em nossa recompensa
+       Em
+Quando eu olhar pro lado
+     C9
+Eu quero estar cercado
+G
+  Só de quem me interessa
+
+(Intro)
+
+    C7M/G         C/G
+Às vezes é um instante
+   Am          Am11
+A tarde faz silêncio
+   G7M      G6         G  G6
+O vento sopra a meu favor
+    C7M/G        C/G       Am        Am11
+Às vezes eu pressinto e é como uma saudade
+       G7M       G6           G  G6
+De um tempo que ainda não passou
+
+     Em
+Me traz o seu sossego
+   C9
+Atrasa o meu relógio
+G
+  Acalma a minha pressa
+    Em
+Me dá sua palavra
+    C9
+Sussurra em meu ouvido
+G
+  Só o que me interessa
+
+(Intro)
+
+   C7M/G  C/G
+A lógica do vento
+   Am         Am11
+O caos do pensamento
+   G7M    G6    G  G6
+A paz na solidão
+  C7M/G   C/G
+A órbita do tempo
+   Am       Am11
+A pausa do retrato
+   G7M      G6    G  G6
+A voz da intuição
+   Em
+A curva do universo
+   C9
+A fórmula do acaso
+G
+  O alcance da promessa
+   Em
+O salto do desejo
+    C9
+O agora e o infinito
+G
+  Só o que me interessa
+
+   C4+/G  C/G
+A lógica do vento
+   C4+/G      C/G
+O caos do pensamento
+   G7M    G6     G7M  G
+A paz na solidão
+  C4+/G   C/G
+A órbita do tempo
+   C4+/G    C/G
+A pausa do retrato
+   G7M      G6    G7M  G
+A voz da intuição
+   C4+/G     C/G
+A curva do universo
+   C4+/G   C/G
+A fórmula do acaso
+     G7M      G6      G7M  G
+O alcance da promessa
+   C4+/G    C/G
+O salto do desejo
+    C4+/G      C/G
+O agora e o infinito
+G
+  Só o que me interessa
+
+----------------- Acordes -----------------
+Am*  = X 0 2 2 1 0 - (*G#m na forma de Am)
+Am11*  = X 0 0 2 1 0 - (*G#m11 na forma de Am11)
+C/G*  = 3 3 2 X 1 X - (*B/F# na forma de C/G)
+C5/G*  = 3 3 5 5 X X - (*B5/F# na forma de C5/G)
+C7M/G*  = 3 X 2 4 1 X - (*B7M/F# na forma de C7M/G)
+C9*  = X 3 5 5 3 3 - (*B9 na forma de C9)
+Em*  = 0 2 2 0 0 0 - (*D#m na forma de Em)
+G*  = 3 2 0 0 0 3 - (*F# na forma de G)
+G6*  = 3 X 2 4 3 X - (*F#6 na forma de G6)
+G7M*  = 3 X 4 4 3 X - (*F#7M na forma de G7M)

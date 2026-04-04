@@ -1,0 +1,67 @@
+Jorge Vercillo - Pra Valer
+
+Intro: F#m7   A/B   B7(b9)   G#m7   C#7(9-)
+
+F#m7                A/B      B7(9-)
+Lembro que fizemos de tudo
+G#m7               B/A   C#7(9-)
+Para renegar um desejo  que ficou
+F#m7               A/B   B7(9-)
+Nos abrimos pra meio mundo
+G#m7                      B/A   C#7(9-)
+Só pra nos provar que era melhor lutar
+
+F#m7                       A/B   B7(9-)
+Tudo o que rolou ficou suspenso   no ar
+G#m7(9)            C#7(13-) C#7
+Como um vitrô como um holograma
+F#m7    G#m7    Am7
+Só pelo nosso amor
+     Bm7     D7/9
+O acaso planejou
+       A/B      E7M(9)  C#7(9+) C#7(9-) C#7
+Pro tempo cristalizar
+
+
+Refrão:
+ F#m7           A/B   B7(9-)
+Lembra quando agente
+    C7M       Bm7   Bb7   Bb7(5-)
+terminou pra valer
+A7M        Am6          G#m7      G°
+E provamos  de tudo que  há pra provar
+F#m7       A/B   B7(9-)  F7(9)   A7  C#7(9+)  C#7(9-)
+Conhecemos meio mundo   só para ver
+F#m7        A/B    B7(9)
+Que eu você e esse amor
+ Em7   Ebm7    Dm7     C#m7
+Em   nada vai   mudar
+
+----------------- Acordes -----------------
+A/B = X 2 2 2 2 X
+A7 = X 0 2 0 2 0
+A7M = X 0 2 1 2 0
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B/A = X 0 4 4 4 X
+B7(9) = X 2 1 2 2 X
+B7(9-) = X 2 1 2 1 X
+B7(b9) = X 2 1 2 1 X
+Bb7 = X 1 3 1 3 1
+Bb7(5-) = X 1 2 1 3 X
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(9+) = X 4 3 4 5 X
+C#7(9-) = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+C7M = X 3 2 0 0 X
+D7/9 = X 5 4 5 5 X
+Dm7 = X 5 7 5 6 5
+E7M(9) = X 7 6 8 7 X
+Ebm7 = X X 1 3 2 2
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F7(9) = X X 3 2 4 3
+G#m7 = 4 X 4 4 4 X
+G#m7(9) = X X 6 4 7 6
+G° = 3 X 2 3 2 X

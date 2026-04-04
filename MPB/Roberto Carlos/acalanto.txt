@@ -1,0 +1,57 @@
+Roberto Carlos - Acalanto
+
+(intro)
+
+   C C5+ Dm  G7 C7 F F5+ Gm  C7  F G
+E |-----------------------------------
+B |---------------------------------0-
+G |---------------0-2-2-2-0-2-3-0-2---
+D |-------0-2-3-0---------------------
+A |-3-3-3-----------------------------
+E |-----------------------------------
+ D/F# Em Am Dm E7 Am Am7+ Am7 D7/9   G7
+E |-------------------------------------|
+B |-------------------------------------|
+G |-2-0-----0---------------------------|
+D |-----2-3---2-0-----------2-0-------0-|
+A |---------------3-3-3-3-3-----3-2-3---|
+E |-------------------------------------|
+
+ C      C5+  Dm   G7     C7
+É tão tarde, a manhã já vem...
+ F      F5+   Gm   C7    F
+Todos dormem, a noite também.
+G  D/F# Em  Am Dm    E7     Am
+Só eu   ve__lo por você meu bem.
+  Am7+ Am7     D7/9      G7
+Dorme anjo, o boi pega neném.
+ C    C5+  Dm    G7   C7
+Lá no céu deixam de cantar
+ F    F5+   Gm    C7   F
+Os anjinhos foram se deitar
+G  D/F# Em  Am    Dm     E7    Am
+Ma_mãe__zi__nha precisa descansar
+  Am7+  Am7   D7/9          G7
+Dorme anjo, papai vai lhe ninar.
+ C         Am  F
+Boi, boi, boi, boi da cara preta,
+ G7         F             G7       C
+Pega essa menina que tem medo de careta.
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Am7+ = X 0 2 1 1 0
+C = X 3 2 0 1 0
+C5+ = X 3 2 1 1 X
+C7 = X 3 2 3 1 X
+D/F# = 2 X 0 2 3 2
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F5+ = X X 3 2 2 1
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm = 3 5 5 3 3 3

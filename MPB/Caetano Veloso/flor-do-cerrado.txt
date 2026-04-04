@@ -1,0 +1,51 @@
+Caetano Veloso - Flor do Cerrado
+
+
+D7M                                                  E7(9)
+Todo fim de ano é fim de mundo e todo fim de mundo é tudo
+                                   Em7(9)                A7(13)
+que já está no ar Tudo que já está Todo   ano é bom todo mundo
+      Em7(9)          A7(13)        D7M(9)
+é fim       Você tem amor    em mim Todo   mundo sabe e você sabe
+                   E7(9)
+que a cidade vai sumir  por debaixo do mar É a cidade
+        Em7(9) A7(13)        Em7(9)   A7(13)       Am7                D7(9)
+que vai avançar      E não o mar    Você     não vê    Mas da próxima vez
+               G          F         C            B7  E7    A7 \\ Am7
+que eu for a Brasília  Eu trago uma flor do  cerrado pra você
+            D7(9)                 G
+Mas da próxima vez   que eu for a Brasília
+F         C          B7   E7    A7\\ D7M(9)
+Eu trago uma flor do cerrado pra você   Tem   que ter um
+                                         E7(9)
+jeito e vai dar certo e Zé me diz que ninguém vai precisar morrer
+                Em7(9)     A7(#5)   D7M(9)      A7(13)
+Para ser   Para tudo   ser           Eu      você
+
+D7M(9)                                                  E7(9)
+Todo   fim de mundo é fim de nada é madrugada e ninguém tem
+                                  Em7(9)                A7(13)       Am7
+mesmo nada a perder Eu quero ver Olho   pra você  Tudo  vai    nascer
+               D7(9)                 G
+Mas da próxima vez   que eu for a Brasília
+   F         C        B7     E7    A7 \\ Am7                 D7(9)
+Eu trago uma flor do cerrado pra você        Mas da próxima  vez
+                 G          F        C        B7    E7    A7
+que eu for a Brasília  Eu trago uma flor do cerrado pra você
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(#5) = X 0 X 0 2 1
+A7(13) = X 0 X 0 2 2
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+D7(9) = X 5 4 5 5 X
+D7+ = X X 0 2 2 2
+D7M = X X 0 2 2 2
+D7M(9) = X 5 4 6 5 X
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+Em7(9) = X 7 5 7 7 X
+F = 1 3 3 2 1 1
+G = 3 2 0 0 0 3

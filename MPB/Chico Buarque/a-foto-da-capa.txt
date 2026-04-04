@@ -1,0 +1,93 @@
+Chico Buarque - A Foto da Capa
+
+(De: Chico Buarque)
+
+Intr.: E / / / F(#11) / / / E(#11) / / / F7(#11) / / /
+
+E               B7/D#          E  D6 B/A
+ O retrato do artista quando moço
+E                  B7/D#       E   D6 B/A
+ Não é promissora, cândida pintura
+E                B7/D#        E   D6 B/A
+ É a figura do larápio rastaqüera
+E                  B7/D#        E   D#m7(b5) G#7
+ Numa foto que não era  para a capa
+C#m7              B7           A7(#11)   G#7
+    Uma pose para câmera tão du_______ra
+C#m7               B7         A7     G#7
+    Cujo foco toda lírica sola____pa
+
+C#m7 / B7 / A7 / G#7 / C#m7 / B7 / A7 /
+
+G#7 B7/F# Gadd9                B7/F#             E     F7(b5)
+                 Era rala a luz     naquele cala___bou_______ço
+
+G7M(9)                  B7/F#        E  B7/F#
+      Do talento a clarabóia se tampara
+Gadd9                 B7/F#                 E    F7(b5)
+       E o poeta que e_____le sempre se sou___be________ra
+G7M(9)                 B7/F#          E  D#m7(b5) G#7
+      Claramente não mirava algum futuro
+C#m7                B7              A7     G#7
+    Via o tira da sinistra que rosna____ra
+C#m7                  B7               A7     G#7
+    E o fotógrafo frontal batendo a cha____pa
+
+C#m7 / B7 / A7 / G#7 / C#m7 / B7 / A7 /
+
+G#7 B7/F# E               B7/D#      E  D6 B/A
+           É uma foto que não  era para capa
+E                 B7/D#            E   D6 B/A
+ Era a mera contracara, a face obscura
+E               E/D            G#7/B#    G#7 G#/F#
+ O retrato da paúra quando o ca_______ra
+A/E             B7/F#                C#m7(9/11)/G#
+   Se prepara pa_____ra dar a cara a tapa
+
+Gadd9                     B7/F#       E  F7(b5)
+       É uma foto que não era  para capa
+G7M(9)                 B7/F#           E    D#°
+      Era a mera contracara, a face obscura
+E               E/D            G#7/B#    G#7 G#/F#
+ O retrato da paúra quando o ca_______ra
+A/E             B7/F#                C#m7(9/11)/G#
+   Se prepara pa_____ra dar a cara a tapa
+
+ACORDES:
+
+E        - 02210X
+F(#11)   - 13320X     A7            - X02020
+E(#11)   - 02230X     B7/F#         - 2X120X
+F7(#11)  - 1X120X     Gadd9         - 3X020X
+B7/D#    - XX1202     F7(b5)        - 1X120X
+D6       - XX0202     G7M(9)        - 3X420X
+B/A      - X04445     E/D           - XX0100
+D#m7(b5) - X6767X     G#7/B#        - X3414X
+G#7      - 4X454X     G#/F#         - 2X111X
+C#m7     - X46454     A/E           - 0X2220
+B7       - X24242     C#m7(9/11)/G# - 4X2442
+A7(#11)  - X0564X     D#º           - XX1212
+
+----------------- Acordes -----------------
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+A7(#11) = X 0 1 0 2 X
+B/A = X 0 4 4 4 X
+B7 = X 2 1 2 0 2
+B7/D# = X X 1 2 0 2
+B7/F# = X X 4 4 4 5
+C#m7 = X 4 6 4 5 4
+D#m7(b5) = X X 1 2 2 2
+D#° = X X 1 2 1 2
+D#º = X X 1 2 1 2
+D6 = X 5 4 2 0 X
+E = 0 2 2 1 0 0
+E(#11) = 0 2 2 3 0 0
+E/D = X 5 X 4 5 4
+F(#11) = 1 2 3 2 1 1
+F7(#11) = 1 X 1 2 0 X
+F7(b5) = 1 X 1 2 0 X
+G#/F# = 2 X 1 1 1 X
+G#7 = 4 6 4 5 4 4
+G7M(9) = 3 2 4 2 X X
+Gadd9 = 3 X 0 2 0 X

@@ -1,0 +1,79 @@
+Guilherme Arantes - Brilho Estranho
+
+[Intro]  D  C/E  D6/F#  G  C/G
+           D  C/E  D6/F#
+
+   G                D6             Em   Am
+Contigo  encontrei  forças  pra  mudar   
+    G     Am2/F#   E     B7/D#        Em7(5b)   D   A/C#
+No  teu  espelho  vi  meu  rosto  mais  feliz   
+             Am2       Cm6/D#
+Lembro  das  noites                         
+         Em/D         E7               Am   F/A
+Da  paulicéia  dos  ensaios  de  um  verão   
+              Am/F#    B7/D#  F#º/D           Bm      Em7(5b)/A#
+E  eu  nunca  mais  seria  o  mesmo, desde  então   
+                   Asus4         D6
+Que  um  brilho  estranho  me  tocou
+
+     G            D6               Em   Am
+E  quem  te  conheceu  não  esquecerá   
+   G  Am2/F#  E  B7/D#         Em7(5b)     D   A/C#
+Tua  coragem  e loucura  de  se  dar   
+       Am2   Cm6/D#
+Na  poesia
+        Em/D         E7            Asus4  Am     F/A
+Tua  alegria  e  solidão  teu  generoso     coração   
+              Am/F#    B7/D#    F#º/D       Bm     Em7(5b)/A#
+Te  deste  à  luz  de  ser  o  eterno  sonhador   
+        Asus4          D6             D/G      G
+Tua  presença  não  morreu  com  teu  corpo   
+
+D        C/E   D6/F#              G  C/G
+Longe  demais,        foi  teu  caminho   
+   D        C/E   D6/F#               G
+E  breve  demais,        teu  tempo  aqui   
+D        C/E  D6/F#              G   C/G
+Longe  daqui,        onde  tu  estás   
+      D         Gm
+Onde  vai  a canção     
+     F#(#5)  D#                Aº
+Vou  ficar      pensando  em  ti   
+Dm      A#          Gm      C/D     D/F#
+É  impossível  não  ter  saudade
+Gm          F#(#5)  D#                Aº
+E  eu  vou  ficar      pensando  em  ti   
+Dm      A#          Gm      C/D     D
+É  impossível  não  ter  saudade
+
+----------------- Acordes -----------------
+A# = X 1 3 3 3 1
+A/C# = X 4 X 2 5 5
+Am = X 0 2 2 1 0
+Am/F# = 2 X 2 2 1 0
+Am2 = X 0 2 4 1 0
+Am2/F# = 2 X X 4 X X
+Asus4 = X 0 2 2 3 0
+Aº = 5 X 4 5 4 X
+B7/D# = X X 1 2 0 2
+Bm = X 2 4 4 3 2
+C/D = X X 0 0 1 0
+C/E = 0 3 2 0 1 0
+C/G = 3 3 2 X 1 X
+Cm6/D# = X X 1 2 1 3
+D = X X 0 2 3 2
+D# = X 6 5 3 4 3
+D/F# = 2 X 0 2 3 2
+D/G = 3 X X 2 3 2
+D6 = X 5 4 2 0 X
+D6/F# = 2 X 0 2 0 X
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7(5b) = X X 2 3 3 3
+F#(#5) = 2 5 4 3 2 X
+F/A = 5 X 3 5 6 X
+G = 3 2 0 0 0 3
+Gm = 3 5 5 3 3 3

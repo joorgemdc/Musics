@@ -1,0 +1,57 @@
+Ivan Lins - Sede dos Marujos
+
+(intro) A9 A7M(9) F#m7 F#m7(9) D7M D7M(b5) A9 E4
+
+     A9 A7M(9)    A7(4)  A7  D7(4) D7
+Se ama...vam com a sede dos marujos
+  F/G    G7(13)  Bm7       E4         E    A9 E4
+Lavando os olhos sujos de mar e de embarcações
+        A9 A7M(9)    A7(4)  A7   D7(4)  D7
+Se devora...vam com a fome dos presídios
+      F/G  G7(13)  Bm7        E4       E      A9 C#7
+Com a festa dos sentidos guardados em seus porões
+
+F#m7            D7M    Bm7
+O amor cheio de gula
+           F7(9)(11) F7
+Desvairado  e        febril
+       Bb7M      Bm7(b5) E7
+Como a gente nunca viu
+F#m7                D7M     Bm7
+O amor cheio de fúria
+           F7(9)(11)  F7
+Tão selvagem que por mim
+                Bb7M  Bm7(b5) E7
+Condenava a não ter fim
+
+   A9  A7M(9)   A7(4)    A7   D7(4) D7
+Se adoravam mais tanto, tanto, tanto
+   F/G   G7(13)    Bm7          E4            A9
+Que eu já não me espanto de um dia te amar assim
+
+(solo) F#m7 D7M A9 C#7
+
+( A9 F#m7 D7M A9 E4 )
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(4) = X 0 2 0 3 0
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+Bb7M = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C#7 = X 4 3 4 2 X
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+D7M = X X 0 2 2 2
+D7M(b5) = X X 0 1 2 2
+E = 0 2 2 1 0 0
+E4 = 0 2 2 2 0 0
+E7 = 0 2 2 1 3 0
+F#m7 = 2 X 2 2 2 X
+F#m7(9) = X X 4 2 5 4
+F/G = 3 X 3 2 1 X
+F7 = 1 3 1 2 1 1
+F7(9)(11) = X X 3 3 4 3
+G7(13) = 3 X 3 4 5 X

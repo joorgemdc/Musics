@@ -1,0 +1,58 @@
+Toquinho - Samba do Jato
+
+[Intro]  F#m5-/7  Fm6  Em5-/7  A7/13-  D7/9  C#7/9+/G#
+           Gm6  F#m5-/7  Fm6   Em5-/7  A7/13-  D7/9  C#7/9+/G#
+
+       F#m5-/7  B7
+Um galo cantou
+           Em5-/7    A7/13
+Meu sonho acordou
+     Am6              G#º(b13)  Gm7  C7/9
+O jogo acabou, calado
+  Gm7         C7/9
+E eu madruguei
+                 F7M      Fm6
+Chutando pedras pelo chão
+    Em7    A7    Am7    G#7/13  G7/13
+Com a solidão do lado
+      F#m5-/7       B7
+Um cão me seguiu
+       Em5-/7  A7/13-
+Um jato partiu
+    Am6   G#º(b13)     Gm7    C7/9
+E tudo ficou parado
+
+    Gm7    C7/9       F7M
+E eu acabei naquele bar
+ Fm6
+Onde nós dois
+     Em7   A7     Am7   G#7/13  G7/13
+Vivemos  nosso  passado
+F#m5-/7  Fm6
+Fui beber
+Em5-/7    A7/13-  Am6   G#º(b13)   Gm7   C7/9
+Meu  "traçado"  de paixão     e        dor
+F#m5-/7  Fm6  Em5-/7  A7/13-
+Com o copo a suar
+           Am6      G#º(b13)   Gm7   C7/9
+Minha ilusão de amor
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7/13 = X 0 X 0 2 2
+A7/13- = X 0 X 0 2 1
+Am6 = 5 X 4 5 5 X
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C7/9 = X 3 2 3 3 X
+D7/9 = X 5 4 5 5 X
+Em5-/7 = X X 2 3 3 3
+Em7 = 0 2 2 0 3 0
+F#m5-/7 = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G#7/13 = 4 X 4 5 6 X
+G#º(b13) = 4 X 3 4 5 X
+G7/13 = 3 X 3 4 5 X
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X

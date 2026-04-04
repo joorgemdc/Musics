@@ -1,0 +1,52 @@
+Milton Nascimento - Carro de Boi
+
+D7M(6)                                           C7M(6)
+ que vontade eu tenho de sair
+D7M(6)                                   C7M(6)/D
+Num carro de boi ir por aí
+Bm                    A            G#°
+Estrada de terra que
+               Gm6
+Só me leva, só me leva
+D7M(6)
+ nunca mais me traz
+                                                        C7M(6)
+Que vontade de não mais voltar
+ Bm                                                            G#°   G7M  F#7
+Quanta coisa aqui eu vou conhecer
+Bm7                              A           G#°
+Pés no chão e os olhos vão
+                    Gm6         D7M                        D7sus4
+Procurar, onde foi que eu me perdi
+D7M                                      C7M(6)  A7sus4
+Num carro de boi ir por aí
+D7M                                      C7M(6)
+Ir numa viagem que só traz
+
+G7M/A                Bbm/A F#m7   Bm7
+Barro, pedra, pó e nunca mais
+G7M/A                Bbm/A F#m7   Bm7
+Barro, pedra, pó e nunca mais
+G7M/A                Bbm/A F#m7   Bm7
+Barro, pedra, pó e nunca mais
+G7M/E                Bbm7  F#m7  D7M(6)
+Barro, pedra, pó e nunca mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7sus4 = X 0 2 0 3 0
+Bbm/A = X X 7 6 6 6
+Bbm7 = X 1 3 1 2 1
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C7M(6) = X 3 2 2 0 0
+D7M = X X 0 2 2 2
+D7M(6) = X 5 4 4 2 2
+D7sus4 = X X 0 2 1 3
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G#° = 4 X 3 4 3 X
+G7M = 3 X 4 4 3 X
+G7M/A = 5 X 4 4 3 3
+G7M/E = 0 2 0 0 0 2
+Gm6 = 3 X 2 3 3 X

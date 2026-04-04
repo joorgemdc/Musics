@@ -1,0 +1,101 @@
+Chico Buarque - O Malandro
+
+Versão: Chico Buarque
+
+   C6(9)      Dm7(9) A7(b13)     G7(9)(11)   C6(9) G7(b13)
+O malandro na dureza        senta à mesa do café
+       Am7(9) Eb°     Dm7(9) C#°   G7(9)(11)      C6(9) G7(13)
+Bebe um gole     de cachaça     acha graça e dá no pé
+    C6(9)     Dm7(9) A7(b13)    G7(9)(11)       C6(9) G7(b13)
+O garçom no prejuízo,       sem sorriso, sem freguês
+     Am7(9) Eb°    Dm7(9) C#°    G7(9)(11)        C6(9) G7(13)
+De passagem    pela caixa    dá uma baixa no português
+   C6(9)       Dm7(9) A7(b13)       G7(9)(11)        C6(9) G7(b13)
+O galego acha estranho       que o seu ganho tá um horror
+      Am7(9) Eb°      Dm7(9) C#°      G7(9)(11)            C6(9) G#7(13)
+Pega o lápis    soma os canos   passa os danos pro distribuidor
+
+     C#6(9)         D#m7(9) A#7(b13)  G#7(9)(11)   C#6(9) G#7(b13)
+Mas o frete vê que ao todo          há engodo nos papéis
+    A#m7(9) E°     D#m7(9) D°       G#7(9)(11)         C#6(9) G#7(13)
+E pra cima    do alambique   dá um trambique de cem mil réis
+    C#6(9)     D#m7(9) A#7(b13)    G#7(9)(11)     C#6(9) G#7(b13)
+O usineiro nessa luta          grita (ponte que partiu)
+
+      A#m7(9) E°       D#m7(9) D°    G#7(9)(11)    C#6(9) G#7(13)
+Não é idiota    trunca a nota    lesa o Banco do Brasil
+     C#6(9)    D#m7(9) A#7(b13)   G#7(9)(11)  C#6(9) G#7(b13)
+Nosso banco tá cotado          no mercado exterior
+    A#m7(9) E°   D#m7(9) D°   G#7(9)(11)    C#6(9) A7(13)
+Então taxa    a cachaça    a um preço assustador
+
+      D6(9)           Em7(9) B7(b13)     A7(9)(11)      D6(9) A7(b13)
+Mas os ianques com seus tanques     têm bem mais o que fazer
+  Bm7(9) F°   Em7(9) D#° A7(9)(11)   D6(9) A7(13)
+E proíbem os soldados    aliados de beber
+    D6(9)     Em7(9) B7(b13)  A7(9)(11)    D6(9) A7(b13)
+A cachaça tá parada         rejeitada no barril
+    Bm7(9) F°     Em7(9) D#°      A7(9)(11)     D6(9) A7(13)
+O alambique tem chilique    contra o Banco do Brasil
+    D6(9)       Em7(9) B7(b13)   A7(9)(11)       D6(9) A7(b13)
+O usineiro faz barulho        com orgulho de produtor
+     Bm7(9) F°     Em7(9) D#°   A7(9)(11)        D6(9) Bb7(13)
+Mas a sua     raiva cega     descarrega no carregador
+
+    Eb6(9)     Fm7(9) C7(b13)    Bb7(9)(11)   Eb6(9) Bb7(b13)
+Este chega pro galego        nega arrêgo cobra mais
+    Cm7(9) Gb°     Fm7(9) E°   Bb7(9)(11)        Eb6(9) Bb7(13)
+A cachaça     tá de graça, mas o frete como é que faz?
+   Eb6(9)      Fm7(9) C7(b13)     Bb7(9)(11)    Eb6(9) Bb7(b13)
+O galego tá apertado         pro seu lado não tá bom
+     Cm7(9) Gb°    Fm7(9) E° Bb7(9)(11)   Eb6(9) C7(13)
+Então deixa    congelada    a mesada do garçom
+    F6(9)      Gm7(9)  D7(b13)    C7(9)(11)       F6(9) C7(b13)
+O garçom vê um malandro       sai gritando pega ladrão
+     Dm7(9) Ab°  Gm7(9) F#°  C7(9)(11)             C7(9)            F
+E o malandro   autuado     é julgado e condenado culpado pela situação
+
+----------------- Acordes -----------------
+A#7(b13) = X 1 X 1 3 2
+A#m7(9) = 6 4 6 5 X X
+A7(13) = X 0 X 0 2 2
+A7(9)(11) = 5 X 5 4 3 X
+A7(b13) = X 0 X 0 2 1
+Ab° = 4 X 3 4 3 X
+Am7(9) = X X 7 5 8 7
+B7(b13) = X 2 X 2 4 3
+Bb7(13) = 6 X 6 7 8 X
+Bb7(9)(11) = X 1 1 1 1 1
+Bb7(b13) = X 1 X 1 3 2
+Bm7(9) = X 2 0 2 2 X
+C#6(9) = X 4 3 3 4 4
+C#° = X 4 5 3 5 3
+C6(9) = X 3 2 2 3 3
+C7(13) = X 3 X 3 5 5
+C7(9) = X 3 2 3 3 X
+C7(9)(11) = X 3 3 3 3 3
+C7(b13) = X 3 X 3 5 4
+Cm7(9) = X 3 1 3 3 X
+D#m7(9) = X 6 4 6 6 X
+D#° = X X 1 2 1 2
+D6(9) = X 5 4 2 0 0
+D7(b13) = X 5 X 5 7 6
+Dm7(9) = X 5 3 5 5 X
+D° = X X 0 1 0 1
+Eb6(9) = X X 1 0 1 1
+Eb° = X X 1 2 1 2
+Em7(9) = X 7 5 7 7 X
+E° = X X 2 3 2 3
+F = 1 3 3 2 1 1
+F#° = 2 X 1 2 1 X
+F6(9) = 1 0 0 0 X X
+Fm7(9) = X X 3 1 4 3
+F° = X X 3 4 3 4
+G#7(13) = 4 X 4 5 6 X
+G#7(9)(11) = 4 X 4 3 2 X
+G#7(b13) = 4 X 4 5 5 4
+G7(13) = 3 X 3 4 5 X
+G7(9)(11) = 3 X 3 2 1 X
+G7(b13) = 3 X 3 4 4 3
+Gb° = 2 X 1 2 1 X
+Gm7(9) = X X 5 3 6 5

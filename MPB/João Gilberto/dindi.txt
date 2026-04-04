@@ -1,0 +1,64 @@
+João Gilberto - Dindi
+
+Int.: A7+ G7+
+
+A7+                  G7+             A7+                 G7+
+Céu, tão grande é o céu e bandos de nuvens que passam ligeiras
+    F#7+      B6/7            G#m7     C#6/7
+Pra onde elas vão, ah! eu não sei, não sei
+     A7+                G7+                   A7+                G7+
+E o vento que fala nas folhas contando as histórias que são de ninguém
+F#7+          B6/7       G#m7  C#6/7
+Mas que são minhas e de você também
+A7+  G7+
+Ah! Dindi
+      A7+                      Em7
+Se soubesses do bem que eu te quero
+  A7      D7+          A7+    G7+    A7+  G7+
+O mundo seria, Dindi, tudo, Dindi, lindo Dindi
+ A7+ G7+
+Ah! Dindi
+      A7+           Em7       A7     D7+
+Se um dia você for embora me leva contigo, Dindi
+ G7/9         A7+       G#7
+Fica, Dindi, olha Dindi
+
+               C#m          D#m5-/7   C#m F#7
+E as águas deste rio aonde vão eu não sei
+               Bm      C#m5-/7  Bm     E6/7
+A minha vida inteira esperei, esperei
+     A7+    G7+
+Por você, Dindi
+         A7+        Em7        A7
+Que é a coisa mais linda que existe
+           D7+
+Você não existe, Dindi
+ A7+    G7+
+Olha, Dindi
+  A7+      G7+
+Adivinha, Dindi
+ G7/9
+Deixa, Dindi
+            A7+
+Que eu te adore, Dindi
+
+
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+B6/7 = X 2 X 2 4 4
+Bm = X 2 4 4 3 2
+C#6/7 = X 4 X 4 6 6
+C#m = X 4 6 6 5 4
+C#m5-/7 = X 4 5 4 5 X
+D#m5-/7 = X X 1 2 2 2
+D7+ = X X 0 2 2 2
+E6/7 = 0 X 0 1 2 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7+ = 2 X 3 3 2 X
+G#7 = 4 6 4 5 4 4
+G#m7 = 4 X 4 4 4 X
+G7+ = 3 X 4 4 3 X
+G7/9 = 3 X 3 2 0 X

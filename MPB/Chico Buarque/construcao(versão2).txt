@@ -1,0 +1,129 @@
+Chico Buarque - Construção
+
+Intro: F#m7(b5/11)
+
+B(b9)/F#                                   Em6   Em6/B
+         Amou daquela vez como se fosse a última
+Em6             Em6/B                 Em6   Em6/B
+   Beijou sua mulher como se fosse a última
+Em6             Em6/B
+   E cada filho seu como se fosse o único
+    A#º         Am7        Am/G   F#m7(b5/11)
+E atravessou a rua com seu passo tímido
+
+B(b9)/F#                                    Em6   Em6/B
+         Subiu a construção como se fosse máquina
+Em6            Em6/B                 Em6    Em6/B
+   Ergueu no patamar quatro paredes sólidas
+Em6             Em6/B
+   Tijolo com tijolo num desenho mágico
+     A#º       Am7       Am/G      F#m7(b5/11)
+Seus olhos embotados de cimento e lágrima
+
+B(b9)/F#                                     Am6   Am6/E
+         Sentou pra descansar como se fosse sábado
+
+Am6                  Am6/E                   Am6    Am6/E
+   Comeu feijão com arroz como se fosse um príncipe
+Am6           Am6/E                  F#m6
+   Bebeu e soluçou como se fosse um náufrago
+                                    F#m7(b5/11)
+Dançou e gargalhou como se ouvisse música
+
+B(b9)/F#                                     Em6   Em6/B
+         E tropeçou no céu como se fosse um bêbado
+Em6             Em6/B                 Em6   Em6/B
+   E flutuou no ar como se fosse um pássaro
+Em6               Em6/B
+   E se acabou no chão feito um pacote flácido
+ A#º        Am7       Am/G   F#m(b5/11)
+Agonizou no meio do passeio público
+
+
+B(b9)/F# _____________(SILÊNCIO)_____________  Em6   Em6/B
+          Morreu na contramão atrapalhando o tráfego
+
+
+        (Em6  Em6/B  Em6  Em6/B)
+
+
+Em6             Em6/B                Em6    Em6/B
+   Amou daquela vez como se fosse o último
+Em6             Em6/B                 Em6   Em6/B
+   Beijou sua mulher como se fosse a única
+Em6             Em6/B
+   E cada filho seu como se fosse o pródigo
+   A#º         Am7         Am/G   F#m(b5/11)
+E atravessou a rua com seu passo bêbado
+
+B(b9)/F#                                    Em6   Em6/B
+         Subiu a construção como se fosse sólido
+Em6              Em6/B                Em6   Em6/B
+   Ergueu no patamar quatro paredes mágicas
+Em6             Em6/B
+   Tijolo com tijolo num desenho lógico
+     A#º        Am7      Am/G      F#m7(b5/11)
+Seus olhos embotados de cimento e tráfego
+
+B(b9)/F#                                         Am6     Am6/E
+         Sentou pra descansar como se fosse um príncipe
+Am6                   Am6/E                Am6    Am6/E
+   Comeu feijão com arroz como se fosse o máximo
+Am6           Am6/E               F#m6
+   Bebeu e soluçou como se fosse máquina
+                                     F#m7(b5/11)
+Dançou e gargalhou como se fosse o próximo
+
+B(b9)/F#                                    Em6    Em6/B
+         E tropeçou no céu como se ouvisse música
+Em6             Em6/B             Em6    Em6/B
+   E flutuou no ar como se fosse sábado
+Em6               Em6/B
+   E se acabou no chão feito um pacote tímido
+ A#°       Am7       Am/G   F#m7(b5/11)
+Agonizou no meio do passeio náufrago
+
+
+B(b9)/F# ____________(SILÊNCIO)____________  Em6   Em6/B
+         Morreu na contramão atrapalhando o público
+
+
+      (Em6  Em6/B  Em6  Em6/B)
+
+
+Em6             Em6/B     Em
+   Amou daquela vez como máquina
+             Em(7M)              Em7
+Beijou sua mulher como se fosse lógico
+             Em6                   Em(b6)
+Ergueu no patamar quatro paredes flácidas
+                  Em                    Eº
+Sentou pra descansar como se fosse um pássaro
+             Am7/E                Em6/B
+E flutuou no ar como se fosse um príncipe
+     A#º       Am7             Am/G  F#m7(b5/11)
+E se acabou no chão feito um pacote bêbado
+
+B(b9)/F# ____________(SILÊNCIO)____________  Em6   Em6/B
+         Morreu na contramão atrapalhando o sábado
+
+
+Final:(Em6  Em6/B  Em6)
+
+----------------- Acordes -----------------
+A#° = X 1 2 0 2 0
+A#º = X 1 2 0 2 0
+Am/G = 3 X 2 2 1 X
+Am6 = 5 X 4 5 5 X
+Am6/E = X X 2 2 1 2
+Am7 = X 0 2 0 1 0
+Am7/E = X X 2 2 1 3
+B(b9)/F# = X 9 10 8 0 X
+Em = 0 2 2 0 0 0
+Em(7M) = X X 2 4 4 3
+Em(b6) = X X 2 0 1 0
+Em6 = X 7 X 6 8 7
+Em6/B = X 2 2 0 2 0
+Em7 = 0 2 2 0 3 0
+F#m6 = 2 X 1 2 2 X
+F#m7(b5/11) = 2 2 2 P5 5 5

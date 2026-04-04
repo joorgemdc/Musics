@@ -1,0 +1,51 @@
+João Bosco - Corsário
+
+[Intro]
+
+Am7(b6)                                   Gadd9   |---5/7---| Corda (E) Mi prima
+        Meu coração tropical está coberto de      neve, mas
+                                          Am7(b6)
+Ferve em seu cofre gelado À voz vibra e a mão     escreve mar
+                                Gadd9   |---5/7---| Corda (E) Mi prima
+Bendita lâmina grave que fere a parede e traz
+                                        Am7(b6)
+As febres loucas e breves que mancham o silêncio e o cais
+
+F#m7(b5/11) F7M(#11)                      Am7(b6)
+Roserais             nova granada de      Espanha
+F#m7(b5/11)      F7M(#11)        E7    Am(b9)/G Am(b9)/E          
+Por         você eu       teu corsário preso
+  A7(#5)                                     Dmadd9   Dmadd9/C
+Vou       partir          a geleira azul da solidão
+Bm7(b5)   E7(b9)       Am7(b6)
+        E buscar a mão    do mar
+C7(13)              B7   E7*             Am7(b6)
+       Me arrastar até o mar    procurar o mar
+
+                                             Gadd9
+Mesmo que eu mande em garrafas mensagens por todo   o mar
+                                  Am7(b6)
+Meu coração tropical partirá esse gelo   e irá
+                                          Gadd9  
+Com as garrafas de náufrago e as rosas partindo  o ar
+                                      Am7(b6)
+Nova granada de Espanha e as rosas partindo  o ar
+
+[Final] Am7(9)
+
+----------------- Acordes -----------------
+A7(#5) = X 0 X 0 2 1
+Am(b9)/E = X X 2 3 1 0
+Am(b9)/G = 3 0 0 3 1 0
+Am7(9) = X X 7 5 8 7
+Am7(b6) = X 0 3 0 1 0
+B7 = X 2 1 2 0 2
+Bm7(b5) = X 2 3 2 3 X
+C7(13) = X 3 X 3 5 5
+Dmadd9 = X 5 7 9 6 5
+Dmadd9/C = X 3 3 2 5 X
+E7 = 0 X 0 0 1 0
+E7(b9) = X X 2 1 3 1
+F#m7(b5/11) = 2 2 2 P5 5 5
+F7M(#11) = 1 X X 2 0 0
+Gadd9 = 3 X 0 2 0 X

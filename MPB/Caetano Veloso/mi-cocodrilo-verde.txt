@@ -1,0 +1,54 @@
+Caetano Veloso - Mi Cocodrilo Verde
+
+              D7M
+Mi cocodrilo verde
+   A7       D7M
+Carcajada mulata
+            D7M Em7  F#m7
+Canción de serenata
+   Bm7       Em7          B7
+Embrujo de maraca y bongó
+
+               Em7
+Mi cocodrilo verde
+                 E7
+En tu palmar se pierde
+             Bm7 E7  Bm7
+La clásica leyenda
+        E7      Em7        A7
+De yemanyá y Changó
+
+               D
+Mi cocodrilo verde
+     A7           D7M
+Son tus mares de espuma
+
+               Am7   D7
+Tu majestuosa luna
+               G
+Y tu sol tropical
+
+             G#m7 C#7
+Mi cocodrilo verde
+                D     C7  B7
+Terroncito de azúcar
+              Em7     A7
+Las gaviotas anidan
+          D
+En tu litoral
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C7 = X 3 2 3 1 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+D7M = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3
+G#m7 = 4 X 4 4 4 X

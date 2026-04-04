@@ -1,0 +1,78 @@
+Zeca Baleiro - Retalhos de Cetim
+
+INTRO: (F5 G5 F5 G5 Bb9 G5 F5 G5 F5 G5 C#9 C9 Bb9)4X
+(uma batida no F5 e arrasta pra G5)
+
+F5 G5 F5 G5  Bb9 G5        Dm
+      Ensaiei meu samba o ano inteiro,
+F5 G5 F5 G5  Bb9 G5        Dm
+      Comprei surdo e tamborim.
+F5    Gm                Eb7+
+      Gastei tudo em fantasia,
+    Em7/5-          Edim
+Era tudo o que eu queria.
+       Gm6     D7          D#dim
+E ela jurou desfilar pra mim,
+F5 G5                      Dm
+      Minha escola estava tão bonita.
+F5 G5 F5 G5  Bb9 G5        Dm
+      Era tudo o que eu queria ver,
+F5     Gm              Eb7+
+       Em retalhos de cetim.
+      Em7/5-      Edim
+Eu dormi o ano inteiro,
+
+       Gm6          D7/5+        D#dim
+E ela jurou     desfilar pra mim.
+        G    D/F#      Dm/F  E7
+Mas chegou         o carnaval,
+      Am  Am5+   Am6    D7/E
+E ela não      desfilou,
+     Gm         Bb9        Eb7+ Eb6
+Eu chorei na avenida, eu chorei.
+                Edim      D7
+Não pensei que mentia a cabrocha,
+          F5 G5 F5 G5 Bb9 G5 F5 G5 F5 G5 C#9 C9 Bb9 (3x)
+Que eu tanto amei.
+
+Na última repetição é diferente:
+
+        (G5 F#5 F5 E5)
+Mas chegou o carnaval,
+      (A5 G#5 G5 F#5)
+E ela não desfilou,
+     Gm         Bb9        Eb7+ Eb6
+Eu chorei na avenida, eu chorei.
+                Edim      D7
+Não pensei que mentia a cabrocha,
+          F5 G5 F5 G5 Bb9 G5 F5 G5 F5 G5 D9 C9 Bb9
+Que eu tanto amei.
+
+----------------- Acordes -----------------
+A5 = X 0 2 2 X X
+Am = X 0 2 2 1 0
+Am5+ = 5 8 7 5 6 5
+Am6 = 5 X 4 5 5 X
+Bb9 = X 1 3 3 1 1
+C#9 = X 4 6 6 4 4
+C9 = X 3 5 5 3 3
+D#dim = X X 1 2 1 2
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7/5+ = X 5 X 5 7 6
+D9 = X X 0 2 3 0
+Dm = X X 0 2 3 1
+Dm/F = X X 3 2 3 1
+E5 = 0 2 2 X X X
+E7 = 0 2 2 1 3 0
+Eb6 = X X 1 3 1 3
+Eb7+ = X X 1 3 3 3
+Edim = X X 2 3 2 3
+Em7/5- = X X 2 3 3 3
+F#5 = 2 4 4 X X X
+F5 = 1 3 3 X X X
+G = 3 2 0 0 0 3
+G#5 = 4 6 6 X X X
+G5 = 3 5 5 X X X
+Gm = 3 5 5 3 3 3
+Gm6 = 3 X 2 3 3 X

@@ -1,0 +1,96 @@
+Zeca Baleiro - Ai Que Saudade D'oce
+
+Intro: A9 C G/B
+
+A                     D
+  Não se admire se um dia
+         Dm        A
+Um beija-flor invadir
+  A7+           D
+A porta da tua casa
+          Dm          A
+Te der um beijo e partir
+
+    A7+             A7
+Fui eu que mandei o beijo
+          C#m         D#m7(5b)
+Que é pra matar meu desejo
+   D#m(5b)               D
+Faz tempo que eu não te vejo
+          E        A
+Ai que saudade d'ocê
+
+PONTE: (A A9 A A9) 4x
+
+
+A                      D
+  Se um dia ocê se lembrar
+            Dm         A
+Escreva uma carta pra mim
+                 D
+Bote logo no correio
+            Dm
+Com a frase dizendo assim
+A     A7+                 A7
+  Faz tempo que eu não te vejo
+      C#m         D#m7(5b)
+Quero matar meu desejo
+                     D
+Te mando um monte de beijo
+          E        A
+Ai que saudade sem fim
+
+PONTE: (A A7+ D Dm) 2x
+       (A9 C G/B A) 2x
+
+A                  D
+  E se quiser recordar
+       Dm      A
+Aquele nosso namoro
+                D
+Quando eu ia viajar
+       Dm     A
+Você caía no choro
+   A7+              A7
+Eu chorando pela estrada
+                 C#m     D#m7(5b)
+Mas o que que eu posso fazer
+                  D
+Trabalhar é minha sina
+         E           A
+Eu gosto mesmo é d'ocê
+
+PONTE: A A7+ D Dm
+       A A7+ D E
+
+F#m    F#m7+           D#m7(5b)
+    Eu chorando pela estrada
+                       D#m13
+Mas o que que eu posso fazer
+                  D
+Trabalhar é minha sina
+         D/E         A
+Eu gosto mesmo é d'ocê
+
+FINAL: (A A7+ D Dm) 2x
+       (A9 C G/B A) 2x
+       (A A7+ D Dm) 2x
+       (A9 C G/B A) 2x
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+A7+ = X 0 2 1 2 0
+A9 = X 0 2 2 0 0
+C = X 3 2 0 1 0
+C#m = X 4 6 6 5 4
+D = X X 0 2 3 2
+D#m(5b) = X X 1 2 4 2
+D#m13 = X X 1 3 1 2
+D#m7(5b) = X X 1 2 2 2
+D/E = X X 2 2 3 2
+Dm = X X 0 2 3 1
+E = 0 2 2 1 0 0
+F#m = 2 4 4 2 2 2
+F#m7+ = X X 4 6 6 5
+G/B = X 2 0 0 3 3

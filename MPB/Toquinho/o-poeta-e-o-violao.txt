@@ -1,0 +1,55 @@
+Toquinho - O Poeta E O Violão
+
+Bm    F#              Am
+Ah,insensatez,que você fez
+  D7               E
+Coração mais sem cuidado
+ Em            C         C#m
+Fez chorar de dor o seu amor
+    F#7       Bm
+Um amor tão delicado
+ D7        Ab              G7M
+Ah!Porque você foi fraco assim
+ Em          Bm7
+Assim tão desalmado
+ D7      C#                G
+Ah!Meu coração,quem nunca amou
+     F#7         Bm F#
+Não merece ser amado
+ Bm7      F#7            Am
+Vai meu coração, ouve a razão
+    D7     E
+Usa só sinceridade
+ Em          C7M         C#m7
+Quem semeia vento,diz a razão
+
+       F#       Bm7
+Colhe sempre tempestade
+ D         A            G7M
+Vai,meu coração,pede perdão
+ Em        Bm7
+Perdão apaixonado
+ D7              C#        G
+Vai,porque quem não pede perdão
+       F#7        Bm7
+Não é nunca    perdoado
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Ab = 4 3 1 1 1 4
+Am = X 0 2 2 1 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C# = X 4 6 6 6 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+D7 = X X 0 2 1 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F# = 2 4 4 3 2 2
+F#7 = 2 4 2 3 2 2
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

@@ -1,0 +1,59 @@
+Caetano Veloso - O Samba e o Tango
+
+Introdução: ( Am  E7(#9) )
+
+         Am  E7(#9)      Am
+Chegou a hora, chegou chegou
+                            Bm7(11)   E7
+meu corpo treme e ginga qual pandeiro
+       Bm7(11)  E7        Bm7(11) E7
+a hora é boa e o samba começou
+ Bm7(11)        E7           Am   E7(#9)
+e fêz convite ao tango pra parceiro.
+         Am  E7(#9)      Am
+Chegou a hora, chegou chegou
+                            Bm7(11)   E7
+meu corpo treme e ginga qual pandeiro
+       Bm7(11)  E7        Bm7(11) E7
+a hora é boa e o samba começou
+ Bm7(11)        E7           Am   E7(9)
+e fêz convite ao tango pra parceiro.
+
+ A7+         E7(9)          A7+
+"Hombre yo no sé porque te quiero
+
+      E7(9)         A7+          Cº       Bm7    E7(9)
+yo te tengo amor sincero diz a muchacha do prata
+Bm7      E7(9)      Bm7         E7(9)         Bm7
+péro no Brasil é diferente yo te quiero simplesmente
+     E7(9)      A7+   E7(9)
+teu amor me desacata.
+A7+      E7(9)          A7+
+Habla castellano num fandango
+   A6          Em7      A7(13)  A7(b13)       D7+
+argentino canta tango ora lento,     ora      ligeiro
+             Dm6              C#m7
+e eu canto e danço sempre que possa
+     F#7(13)   F#7(b13)   Bm7
+um sambinha   cheio de     bossa
+      E7(9)     Am
+sou do Rio de Janeiro.
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+A7+ = X 0 2 1 2 0
+Am = X 0 2 2 1 0
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+C#m7 = X 4 6 4 5 4
+Cº = X 3 4 2 4 2
+D7+ = X X 0 2 2 2
+Dm6 = X 5 X 4 6 5
+E7 = 0 2 2 1 3 0
+E7(#9) = X 7 6 7 8 X
+E7(9) = X X 2 1 3 2
+Em7 = 0 2 2 0 3 0
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2

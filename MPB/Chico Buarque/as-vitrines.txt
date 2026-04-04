@@ -1,0 +1,112 @@
+Chico Buarque - As Vitrines
+
+[Intro:] D7(b9)(#11)
+
+       Gm            D/F# Eb9/G                        Bbm7 Bbm6
+Eu te vejo sumir por aí, te avisei que a cidade era um vão
+      Am7(11)       D7/A Gm7                       D7(b9)
+Dá tua mão, olha prá mim, não faz assim, não vá lá, não
+       Gm              D/F#    Eb9/G            Cm7 Cm6 Bb7M
+Os letreiros, a te colorir, embaraçam a minha visão
+                        A7(13) A7(b13)  Am7(11) D7/A    F/A Bb/D
+Eu te vi suspirar de aflição e sair da sessão frouxa de rir
+                   G7/D           Dm7(b5)                    Dº Cm7
+Já te vejo brincando gostando de ser, tua sombra se multiplicar
+                       Eb7M(#11)/Bb A7(b9)(13) A7(b9) Am7(b5) D7/A
+Nos teus olhos também posso ver as vitrines te vendo passar
+
+        Gm          D/F#
+Na galeria, cada clarão
+     Eb7M                  Dm7(b5)/Ab G7(b13)
+É como um dia depois de outro dia
+            Cm7 Ebm6/Gb
+Abrindo o salão
+
+          F7    Bb7M Bb7 Eb6
+Passas em exposição
+           C7/E     E°  Eb6(#11)
+Passas sem ver teu vigia
+            Cm6/G D/F#
+Catando a poesia
+                  Gm
+Que entornas no chão
+
+Solo: D/F# Eb7M Eb6 Dm7(b5)/Ab G7(b13)
+      Cm7 Eb7M/Bb Em7(b5) A7(b9)(13) Eb7M F7 Bb7M
+
+                        G7/B            Dm7(b5)                Dº Cm7
+Já te vejo brincando gostando de ser, tua sombra se multiplicar
+                       Eb7M(#11)/Bb A7(b9)(13) A7(b9) Am7(b5) D7/A
+Nos teus olhos também posso ver as vitrines te vendo passar
+
+Fim: Gm7M(9)
+
+
+ACORDES:
+
+D7(b9)(#11)  - X54544     Bb/D    - X5333x
+Gm           - 3X033X     G7/D    - X53433
+D/F#         - 2X023X     Dm7(b5) - XX0111
+Eb9/G        - 3X1341     Dº      - Xx0101
+Bbm7         - 6X666X     Eb7M/Bb - 6X574X
+Bbm6         - 6X566X     C7/E    - XX2313
+Am7(11)      - 5X553X     A7(b9)  - X0532X
+D7/A         - 5X453X     Em7(b5) - xx2333
+Gm7          - 3x333x     Cm6     - x3x243
+D7(b9)       - X5454X     G7(b13) - 3X344X
+Cm7          - X35343     Ebm6/Gb - 2X131X
+Bb7M         - X13231     Eb6     - XX1313
+A7(13)       - 5X567X     Eb7M    - XX1333
+A7(b13)      - 5X566X     Eº      - XX2323
+Am7(b5)      - 5X554X     Cm6/G   - 3X121X
+F/A          - 5X356X     Gm7M(9) - 354335
+Dm7(b5)/Ab   - 4X656X     Bb7     - X13131
+Eb7M(#11)/Bb - 6x5785     G7/B    - 7x576x
+A7(b9)(13)   - 5x5322     F7      -x8786x
+Eb6(#11)     - x65585
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+A7(b9)(13) = 5 X X P3 7 3
+A7/4(b9) = 5 X 5 3 3 X
+Ab6 = 4 X 3 5 4 X
+Am7(11) = 5 X 5 5 3 X
+Am7(b5) = 5 X 5 5 4 X
+Bb/D = X 5 X 3 6 6
+Bb7 = X 1 3 1 3 1
+Bb7M = X 1 3 2 3 1
+Bbm6 = 6 X 5 6 6 X
+Bbm7 = X 1 3 1 2 1
+C7/E = 0 3 2 3 1 0
+Cm6 = X 3 X 2 4 3
+Cm6/G = X X 5 5 4 5
+Cm7 = X 3 5 3 4 3
+Cm7(9) = X 3 1 3 3 X
+D/F# = 2 X 0 2 3 2
+D7(b5/b9) = X 5 4 5 4 4
+D7(b9) = X 5 4 5 4 X
+D7(b9)(#11) = X 5 4 5 4 4
+D7/A = 5 X 4 5 3 X
+D7/F# = X X 4 5 3 5
+Dm7(b5) = X X 0 1 1 1
+Dº = X X 0 1 0 1
+Eb6 = X X 1 3 1 3
+Eb6(#11) = X X 1 2 1 3
+Eb6/G = 3 1 1 3 1 X
+Eb7M = X X 1 3 3 3
+Eb7M/Bb = 6 6 5 3 3 3
+Eb9/G = 3 X 1 3 4 1
+Ebm6/Gb = 2 3 1 3 1 X
+Em7(b5) = X X 2 3 3 3
+E° = X X 2 3 2 3
+F/A = 5 X 3 5 6 X
+F7 = 1 3 1 2 1 1
+F7/A = 5 X 3 5 4 X
+G7(b13) = 3 X 3 4 4 3
+G7/B = X 2 3 0 3 X
+Gm = 3 5 5 3 3 3
+Gm(7M/9) = 3 1 4 2 X X
+Gm7 = 3 X 3 3 3 X
+Gm7M(9) = 3 1 4 2 X X

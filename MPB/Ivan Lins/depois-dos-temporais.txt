@@ -1,0 +1,83 @@
+Ivan Lins - Depois dos Temporais
+
+( Ivan Lins / Vítor Martins )
+
+
+[Intro:] Am7(9) Am7 Am7(9) Am7 F7M F7M(#11) F7M F7M(#11)
+         Am7(11) Am7 Am7(9) Am7 F7M F7M(#11) F7M F7M(#11) Am7(11)
+
+    Am7         Am7(9)       Am7/G F7M
+Sempre viveram no mesmo barco
+     F7M(#11)          F7M F7M(#11)
+Foram farinha do mesmo saco
+          Dm7(9)         G7(9)(11) G7(9)
+Da mesma marinha, da mesma rainha
+        C7(9)(11)
+Sob a mesma bandeira
+C7(13)     F7M(b13) F7M Bm7(b5)
+Tremulando no mastro
+
+     E7(b9)(b13)       Am7(11)  Am7 Am7(11) Am7
+E assim foram seguindo os astros
+  Am7/G      F7M            C/E Dm7(9)
+Cortaram as amarras e os nós
+               G7            Am7(9) A7(9)(11)
+Deixando pra trás o porto e o cais
+         Am7/G        F7M Fm6
+Berrando até perder a voz
+                        C7M(9)
+Em busca do imenso, do silêncio mais intenso
+   A7(9)(11)            Dm7(9) Fm6 Am7(11)
+Que está depois dos temporais
+
+E assim foram sempre em frente
+Fazendo amor pelos sete mares
+Inchando a água de alga e peixe
+Seguindo os ventos
+As marés e as correntes
+
+E7(b9)(b13)    Am7(11)
+O caminho dos golfinhos, a trilha das baleias
+          Am7/G F7M                 F7M(#11) F7M
+E não havia arrecifes, nem bancos de areia
+         E7(b9)(b13) Am7(11)
+Nem temores, nem mais dores, não havia cansaço,
+    Am7/G      F7M B7(13)   E7M
+Só havia, só havia azul e espaço
+
+Solo: C#m7(9) F#m7(9) B7(9)(11) B7(b9)
+      E7M C#m7(9) F#m7(9) B7(9)(11) B7(b9)
+      E7M C#m7(9) F#m7(9) Am6/B D7(9)(11) G7(4) G7
+
+Fim: C#m7(9) A7M C#m7(9)/Eb A7M C#m7(9)/Eb A7M C#m7(9)/Eb
+     A7M C#m7(9)/Eb A7M C#m7(9)/Eb A7M C#m7(9)/Eb A7M C#m7(9)/Eb
+
+----------------- Acordes -----------------
+A7(9)(11) = 5 X 5 4 3 X
+A7M = X 0 2 1 2 0
+Am7 = X 0 2 0 1 0
+Am7(11) = 5 X 5 5 3 X
+Am7(9) = X X 7 5 8 7
+Am7/G = 3 0 2 0 1 0
+B7(13) = X 2 X 2 4 4
+B7(9)(11) = X 2 2 2 2 2
+B7(b9) = X 2 1 2 1 X
+Bm7(b5) = X 2 3 2 3 X
+C#m7(9) = X 4 2 4 4 X
+C/E = 0 3 2 0 1 0
+C7(13) = X 3 X 3 5 5
+C7(9)(11) = X 3 3 3 3 3
+C7M(9) = X 3 2 4 3 X
+D7(9)(11) = X 5 5 5 5 5
+Dm7(9) = X 5 3 5 5 X
+E7(b9)(b13) = 0 X 0 1 1 1
+E7M = X X 2 4 4 4
+F#m7(9) = X X 4 2 5 4
+F7M = 1 X 2 2 1 X
+F7M(#11) = 1 X X 2 0 0
+F7M(b13) = 1 X 2 2 2 X
+Fm6 = 1 X 0 1 1 X
+G7 = 3 5 3 4 3 3
+G7(4) = 3 5 3 5 3 X
+G7(9) = 3 X 3 2 0 X
+G7(9)(11) = 3 X 3 2 1 X

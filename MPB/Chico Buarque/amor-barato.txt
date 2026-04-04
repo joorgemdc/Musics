@@ -1,0 +1,101 @@
+Chico Buarque - Amor Barato
+
+(De: Chico Buarque & Francis Hime)
+
+Intr.: Ab6/9 / / / Eb7/G / / / Dbadd9  /F / / / Eb7/4(9) / Eb7/9 /
+       Ab6/9 / / / Eb7/G / / / Dbadd9  /F / / / Eb7/4(9) / Eb7/9 /
+
+Ab6/9                   Eb7/G
+     Eu queria ser um ti_____po de compositor
+     Ebm6/Gb                 Ab7/9  Db7M(4)  Db7M
+Capaz       de cantar nosso amor  modes______to
+Cm7/9            F7(b9)        Bbm7/9
+     Um tipo de amor   que é de      mendigar cafuné
+        Bb7/4(9)                   Bb7/9     Eb7/4(9)  Eb7/9
+Que é po________bre e às vezes nem é    hones__________to
+Ab6/9                             Eb7/G
+     Pechincha de amor, mas que eu     faço tanta questão
+      Ebm6/Gb           Ab7/9      Db7M(4)  Db7M
+Que se       tiver precisão  eu fur_________to
+Cm7/9             F7(b9)   Bbm7/9
+     Vem cá, meu amor,  agüenta  o teu cantador
+        Bb7/4(9)              Bb7/9     Eb7/4(9)  Eb7/9
+Me esquenta     porque o cobertor  é cur__________to
+
+Ab6/9                         Gm7(b5)                 C7(b9)
+     Mas levo esse amor com o zelo   de quem leva o andor
+   Gm7(b5)          C7(b9)    Fm7  Ab7/4(9) Ab7/9
+Eu velo   pelo meu amor   que sonha
+Dm7(b5)                 Dbm6        Cm7                   F7/4(9) F7(b9)
+       Que enfim, nosso amor também     pode ter seu valor
+      Bb7/9             Eb7/4(9) Eb7/9       Ab7/9              Ab7/4(9) Ab7/9
+Também     é um tipo de flor          que nem     outro tipo de flor
+Dm7(b5)             Dbm6        Cm7                F7/4(9) F7(b9)
+       Dum tipo que tem que não     deve nada a ninguém
+      Bb7/9               Eb7/4(9) Eb7/9      Ab6/9    E7/13
+Que dá     mais que maria-sem____________vergo_____nha
+
+A6/9                   E7/G#
+    Eu queria ser um ti_____po de compositor
+     Em6/G                 A7/9     D7M(4)  D7M
+Capaz     de cantar nosso amor  bara_________to
+Dbm7/9            Gb7(b9)           Bm7/9
+      Um tipo de amor    que é de es_____farrapar e cerzir
+        B7/4(9)                 B7/9   E7/4(9) E7/9
+Que é de       comer e cuspir  no prato
+A6/9                           Abm7(b5)                    Db7(b9)
+    Mas levo esse amor com o ze________lo de quem leva o andor
+     Abm7(b5)             Db7(b9)    Gbm7  A7/4(9) A7/9
+Eu ve________lo pelo meu amor    que sonha
+Ebm7(b5)                  Dm6       Dbm7                  Gb7/4(9) Gb7(b9)
+        Que enfim, nosso amor também    pode ter seu valor
+      B7/9             E7/4(9) E7/9       A7/9              A7/4(9) A7/9
+Também    é um tipo de flor        que nem    outro tipo de flor
+Ebm7(b5)             Dm6        Dbm7               Gb7/4(9) Gb7(b9)
+        Dum tipo que tem que não    deve nada a ninguém
+      B7/9               E7/4(9) E7/9      A6/9
+Que dá    mais que maria-sem__________vergo____nha
+
+----------------- Acordes -----------------
+A6/9 = 5 4 4 4 X X
+A7/4(9) = 5 X 5 4 3 X
+A7/9 = 5 X 5 4 2 X
+Ab6/9 = 4 3 3 3 X X
+Ab7/4(9) = 4 X 4 3 2 X
+Ab7/9 = 4 X 4 3 1 X
+Abm7(b5) = 4 X 4 4 3 X
+B7/4(9) = X 2 2 2 2 2
+B7/9 = X 2 1 2 2 X
+Bb7/4(9) = X 1 1 1 1 1
+Bb7/9 = X 1 0 1 1 X
+Bbm7/9 = 6 4 6 5 X X
+Bm7/9 = X 2 0 2 2 X
+C7(b9) = X 3 2 3 2 X
+Cm7 = X 3 5 3 4 3
+Cm7/9 = X 3 1 3 3 X
+D7M = X X 0 2 2 2
+Db7(b9) = X 4 3 4 3 X
+Db7M = X 4 6 5 6 4
+Dbadd9 = X 4 6 6 4 4
+Dbm6 = X 4 X 3 5 4
+Dbm7 = X 4 6 4 5 4
+Dbm7/9 = X 4 2 4 4 X
+Dm6 = X 5 X 4 6 5
+Dm7(b5) = X X 0 1 1 1
+E7/13 = 0 X 0 1 2 0
+E7/4(9) = X X 2 2 3 2
+E7/9 = X X 2 1 3 2
+E7/G# = 4 X 2 4 3 X
+Eb7/4(9) = X X 1 1 2 1
+Eb7/9 = X 6 5 6 6 X
+Eb7/G = 3 X 1 3 2 X
+Ebm6/Gb = 2 3 1 3 1 X
+Ebm7(b5) = X X 1 2 2 2
+Em6/G = 3 4 2 4 2 X
+F7(b9) = X X 3 2 4 2
+F7/4(9) = X X 3 3 4 3
+Fm7 = 1 X 1 1 1 X
+Gb7(b9) = X X 4 3 5 3
+Gb7/4(9) = 2 X 2 1 0 X
+Gbm7 = 2 X 2 2 2 X
+Gm7(b5) = 3 X 3 3 2 X

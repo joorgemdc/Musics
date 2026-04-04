@@ -1,0 +1,78 @@
+Novos Baianos - Mistério do Planeta
+
+Intro 3x: F#m  C#m7
+
+       F#m                         C#m7     C#4/7 C#m7 C#m C#m7
+E|----4p2--------4p2-----------------4----------------------|
+B|---2------2----2-------2----------5-----7----5----5----5--|
+G|--2-------2---2--------2---------4------4----4----6----4--|
+D|-2-----2----2--------2------------------6----6----6----6--|
+A|------------------------------4------------4----4----4----|
+E|----------------------------------------------------------|
+
+      F#m                      C#m7            C#4/7  C#m7
+E|-4-2--------4-2----------------4--7---4-------------|
+B|-2-2---2----2-2----2----------5---5---5----7-----5--|
+G|-2-2---2----2-2----2---------4----4---4----4-----4--|
+D|-2---2------2----2-------------------------6-----6--|
+A|--------------------------4---------4---4-----4-----|
+E|----------------------------------------------------|
+
+      F#m
+E|-4-2--------4-2---------------2-----------|
+B|-2-2---2----2-2---2-----------2-----------|
+G|-2-2---2----2-2---2-----------2-----------|
+D|-2---2------2---2----------2--4-----------|
+A|------------------------4-----------------|
+E|------------------------------------------|
+
+
+
+F#m7   B7/9  (Bm7/9) C#m C#m7 A  G#  A     G#
+Vou mostrando como   sou,      e vou sendo como posso
+  C#m7               F#7       A                  E
+Jogando meu corpo no mundo, andando por todos os cantos
+       C#m7              F#7          A                F#m
+E pela lei natural dos encontros, eu deixo e recebo um tanto
+                   B              C#m7           A
+E passo aos olhos nus ou vestidos de lunetas, passado, presente
+C#m7             A               C#m7
+participo, sendo o mistério do planeta
+
+   B                F#m            B                 E
+O tríplice mistério do stop que eu passo por e sendo ele
+               C#m7      F#7          A            E
+No que fica em cada um,        no que sigo o meu caminho
+            C#m7         F#7        A             E
+E no ar que fez que assistiu, abra um parêntese, não esqueça
+C#m7             F#7           A    E
+Que independente disso eu não passo de um malandro
+C#m7                F#7     A            B       C#m7
+De um moleque do Brasil que peço e dou esmolas
+                  A                 C#m7
+Mas ando e penso sempre com mais de um
+          A                C#m7     (F#m  C#m7)
+Por isso ninguém vê minha sacola
+
+Riff Final:
+      F#m         E
+E|------2-----0------|
+B|------2-----0------|
+G|------2-----1------|
+D|---2--4-----2------|
+A|4-----------2------|
+E|------------0------|
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+B = X 2 4 4 4 2
+B7/9 = X 2 1 2 2 X
+Bm7/9 = X 2 0 2 2 X
+C#4/7 = X 4 6 4 7 4
+C#m = X 4 6 6 5 4
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4

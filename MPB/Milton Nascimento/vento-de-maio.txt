@@ -1,0 +1,104 @@
+Milton Nascimento - Vento de Maio
+
+[Intro] Em  A/C#  Em
+
+E6            E7/9            D7M/E         B9 A9
+Vento de maio rainha de raio estrela cadente
+Em/A          F#m7           Em/A
+Chegou de repente o fim da viagem
+               F7/9  E4/7          Em/A
+Agora já não dá mais pra voltar atrás
+           F#m7             Em/A
+Rainha de maio valeu o teu pique
+              F7/9  E4/7         Em/A
+Apenas para chover  no meu piquenique
+              F#m7           Em/A
+Assim meu sapato coberto de barro
+                F7/9  E4/7          Em/A
+Apenas pra não parar  nem voltar atrás
+           F#m7             Em/A
+Rainha de maio valeu o teu pique
+               F7/9  Bm7
+Apenas para choveee-eeer
+E6            E7/9            D7M/E         B9 A9
+Vento de maio rainha de raio estrela cadente
+
+Em/A          F#m7           Em/A
+Chegou de repente o fim da viagem
+               F7/9  E4/7         Em/A
+Agora já não dá mais pra voltar atrás
+           F#m7             Em/A
+Rainha de maio valeu o teu pique
+              F7/9  E4/7         Em/A
+Apenas para chover  no meu piquenique
+              F#m7           Em/A
+Assim meu sapato coberto de barro
+                F7/9   E4/7        Em/A
+Apenas pra não parar  nem voltar atrás
+           F#m7             Em/A
+Rainha de maio valeu o teu pique
+               F7/9 E4/9 Em C7M/D C7M/C# C7M G6/B Em/A G6/B Em/A
+Apenas para choveee-eeer
+
+Em       C7M/D    C7M/C#    C7M     G6/B    Em/A G6/B Em/A
+Nisso eu escuto no rádio do carro a nossa canção
+Em      C7M/D      C7M/C#  C7M        G6/B     Em/A G6/B Em/A
+Sol girassol e meus olhos abertos pra outra emoção
+  G        A/E        A/C#       A        C7M
+E quase que eu me esqueci que o tempo não para
+           A6/B C7M C7M/D C7M/D#
+Nem vai esperar
+ G       D9  C#m7(b5)     F6      Em7/B
+Vento de maio rainha dos raios de sol
+Em       C7M/D   C7M/C#   C7M  G6/B      Em/A G6/B Em/A
+Vá no teu pique estrela cadente até nunca mais
+Em       C7M/D      C7M/C#    C7M      G6/B         Em/A G6/B Em/A
+Não te maltrates nem tente voltar o que não tem mais vez
+     G         A/E      A/C#
+Nem lembro teu nome nem sei
+    A       C7M                A6/B C7M C7M/D C7M/D#
+Estrela qualquer lá no fundo do mar
+ G       D9  C#m7(b5)     F6      Em7/B
+Vento de maio rainha dos raios de sol
+Em/A          F#m7           Em/A
+Chegou de repente o fim da viagem
+               F7/9  E4/7          Em/A
+Agora já não dá mais pra voltar atrás
+           F#m7             Em/A
+Rainha de maio valeu o teu pique
+              F7/9  E4/7         Em/A
+Apenas para chover  no meu piquenique
+              F#m7           Em/A
+Assim meu sapato coberto de barro
+                F7/9  E4/7          Em/A
+Apenas pra não parar  nem voltar atrás
+Em/A          F#m7           Em/A
+Chegou de repente o fim da viagem
+               F7/9  E4/7 Em/A
+Agora já não dá mais
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/C# = X 4 X 2 5 5
+A/E = 0 X 2 2 2 0
+A6/B = X 2 2 2 2 2
+A9 = X 0 2 2 0 0
+B9 = X 2 4 4 2 2
+Bm7 = X 2 4 2 3 2
+C#m5-/7 = X 4 5 4 5 X
+C7+ = X 3 2 0 0 X
+C7+/D = 10 X 9 9 8 8
+D7+/E = 12 X 11 11 10 10
+D9 = X X 0 2 3 0
+E4/7 = 0 2 0 2 0 X
+E4/9 = 0 0 2 2 0 2
+E6 = X X 2 4 2 4
+E7/9 = X X 2 1 3 2
+Em = 0 2 2 0 0 0
+Em/A = X 0 2 0 0 X
+Em7/B = X 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F6 = 1 X 0 2 1 X
+F7/9 = X X 3 2 4 3
+G = 3 2 0 0 0 3
+G6/B = 7 5 5 7 5 X

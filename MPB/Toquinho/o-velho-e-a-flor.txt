@@ -1,0 +1,88 @@
+Toquinho - O Velho e a Flor
+
+Toquinho / Vinicius de Moraes
+
+
+(introdução)
+
+Am     Am(#5)      Am6     Am(#5)     Am     Am(#5)     Am6     Am(#5)
+
+
+Am                      Am/G#
+Por  céus  e  mares  eu      andei
+
+Am/G                 F#m7(b5)
+vi  um  poeta  e  vi          um   rei
+
+Dm/F              E7/4           E7             Amadd9       Bm7(b5)     E7
+na  esperança  de      saber  o  que  é  o  a - mor
+
+Am              Am/G#
+Ninguém  sabia         me   dizer
+
+Am/G                F#m7(b5)
+eu  já  queria  até          morrer
+
+
+Dm/F                        E7/4       E7           Amadd9       Bm7(b5)    E7
+quando  um  velhinho  com   uma  flor  assim  fa -  lou:
+
+     Am     E(#5)/G#    Am/G   F#m7(b5)
+O  amor     é    o    carinho,
+
+             Dm/F      E7          Amadd9                  Bm7(b5)       E7
+é  o  espi - nho  que  não  se  vê        em   cada   flor
+
+Am   E(#5)/G#       Am/G    F#m7(b5)
+é    a       vida   quando
+
+                 Dm/F     E7/4     E7   Amadd9             Bm7(b5)     E7
+chega  sangran - do  aber -   ta   em   pétalas  de   amor
+
+          Am                      E(#5)/G#               Am/G
+(I)        Por   céus  e  mares  eu       andei
+@L(II) o amor                      é            o   cari     -   nho,
+
+          F#m7(b5)
+(I) vi   um   poeta   e   vi              um         rei
+@L(II)                                    é           o espinho
+
+
+    Dm/F                E7/4     E7                    Amadd9       Bm7(b5)        E7
+(I)     na      esperança      de saber  o que  é  o   amor
+@L(II)                que não               se           vê em   cada   flor
+
+    Am                  Am/G#     Am/G
+(I)     Ninguém sabia   me dizer
+@L(II) é                  a vida     quando
+
+                       F#m7(b5)        Dm/F
+(I) eu   já   queria   até     morrer
+@L(II)                    chega     sangrando
+
+                           E7/4          E7        Amadd9
+(I) quando   um   velhinho com uma flor assim    falou
+@L(II)                      aber-            ta em   pétalas    de    amor
+
+
+(final)
+
+Amadd9  /G     F6     E7/B     Am     Am(#5)     Am6     Am(#5)     Am     Am(#5)     Am6
+
+Am(#5)     Amadd9       Am7(9)
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am(#5) = 5 8 7 5 6 5
+Am/G = 3 X 2 2 1 X
+Am/G# = X X 6 5 5 5
+Am6 = 5 X 4 5 5 X
+Am7(9) = X X 7 5 8 7
+Amadd9 = X 0 2 4 1 0
+Bm7(b5) = X 2 3 2 3 X
+Dm/F = X X 3 2 3 1
+E7 = 0 2 2 1 3 0
+E7/4 = 0 2 0 2 0 X
+E7/B = X 2 2 1 3 X
+F#m7(b5) = 2 X 2 2 1 X
+F6 = 1 X 0 2 1 X

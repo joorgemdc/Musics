@@ -1,0 +1,52 @@
+Chico Buarque - Mambembe
+
+[Intro]  D7M9  F7(13)  Bb7M  A7  D7M  F7(13)  Bb7M  A7
+
+D7M9             F6(9)                 Bb7M          A7
+   No palco, na praça, no circo, num banco de jardim
+D7M9              F#7/C#          Bm7       F#7          G6
+   Correndo no escuro, pixado no muro Você vai saber de mim
+      A7        F#m7(b5)  B7(b9)                E7(9)   C7(9)     F#m7    F7(13)
+Mambem__be, ciga________no       Debaixo da pon_____te,     cantan____do
+                Bb7M  A7      D7M  C#m7             E7(9)  A7(13)      D7M
+Por baixo da ter____ra, cantan___do    Na boca do po_____vo,     cantan___do
+
+           F6(9)             Bb7M             A7
+Mendigo, malandro, moleque, mulambo, bem ou mal
+D7M9              F#7/C#           Bm7         F#7            G6
+Escravo fugido  ou louco varrido Vou fazer meu festival
+      A7        F#m7(b5)  B7(b9)              E7(9)   C7(9)      F#m7   F7(13)
+Mambem__be, ciga________no       Debaixo da pon_____te,     cantan____do
+                Bb7M  A7      D7M  C#m7             E7(9)  A7(13)      D7M9
+Por baixo da ter____ra, cantan___do    Na boca do po_____vo,     cantan___do
+
+         F6(9)           Bb7M               A7
+Poeta, palhaço, pirata, corisco, errante judeu
+
+D7M9                  F#7/C#                   Bm7       F#7             G6
+Dormindo na estrada, não é nada, não é nada E esse mundo é todo meu
+      A7        F#m7(b5)  B7(b9)              E7(9)   C7(9)      F#m7   F7(13)
+Mambem__be, ciga________no       Debaixo da pon_____te,     cantan____do
+                Bb7M  A7      D7M  C#m7             E7(9)  A7(13)      D7M9
+Por baixo da ter____ra, cantan___do    Na boca do po_____vo,     cantan___do
+
+[Final]  F6(9)  Bb7M  A7  D7M9  F6(9)  Bb7M  A7  D7M9
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+B7(b9) = X 2 1 2 1 X
+Bb7M = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+C7(9) = X 3 2 3 3 X
+D7M = X X 0 2 2 2
+D7M9 = X 5 4 6 5 X
+E7(9) = X X 2 1 3 2
+F#7 = 2 4 2 3 2 2
+F#7/C# = X 4 4 3 5 X
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F6(9) = 1 0 0 0 X X
+F7(13) = 1 X 1 2 3 X
+G6 = 3 X 2 4 3 X

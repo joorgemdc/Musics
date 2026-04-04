@@ -1,0 +1,61 @@
+Caetano Veloso - Avarandado
+
+
+A7M     A6         Bm7  E7(9)
+Cada palmeira na estrada
+               A°   A7M  A6
+tem uma moça recostada
+                D#m7  G#7
+uma é minha namorada
+         C#m7      E7/9  A7M  Am7
+e essa estrada vai dar no mar
+               D7(9)  G7
+Cada palma enluarada
+                        Gm6
+tem que estar quieta, parada
+F7(9)                  Bb7M  E7(9)
+qualquer canção, quase na -  da
+      Am7            Bm7(11)  E7(b9)
+vai fazer o sol levantar
+      Am7          Bm7(11)  E7(b9)
+vai fazer o dia nascer
+A7M               Bm7
+Namorando a madrugada
+
+E7(9)          A°   A7M  A6
+eu e minha namora - da
+                  D#m7(b5)  G#7(b13)
+vamos andando na estrada
+        C#m7
+que vai dar
+   F#7(b9)  Bm7     E7(b9)   C#m7
+no avaran - dado do amanhe - cer
+    F#7(b9) Bm7     E7(b9)   C#m7
+no avaran - dado do amanhe - cer
+   F#7(b9)  B7(9)   E7(9)    F7M   A7M
+no avaran - dado do amanhe - cer
+
+
+----------------- Acordes -----------------
+A6 = 5 X 4 6 5 X
+A7M = X 0 2 1 2 0
+Am7 = X 0 2 0 1 0
+A° = 5 X 4 5 4 X
+B7(9) = X 2 1 2 2 X
+Bb7M = X 1 3 2 3 1
+Bm7 = X 2 4 2 3 2
+Bm7(11) = 7 X 7 7 5 X
+C#m7 = X 4 6 4 5 4
+D#m7 = X X 1 3 2 2
+D#m7(b5) = X X 1 2 2 2
+D7(9) = X 5 4 5 5 X
+E7(9) = X X 2 1 3 2
+E7(b9) = X X 2 1 3 1
+E7/9 = X X 2 1 3 2
+F#7(b9) = X X 4 3 5 3
+F7(9) = X X 3 2 4 3
+F7M = 1 X 2 2 1 X
+G#7 = 4 6 4 5 4 4
+G#7(b13) = 4 X 4 5 5 4
+G7 = 3 5 3 4 3 3
+Gm6 = 3 X 2 3 3 X

@@ -1,0 +1,66 @@
+﻿Fagner - Canção Brasileira
+
+Afinação Um Tom Abaixo
+
+C             F        Dm
+A canção brasileira chegou
+       G7       C  (F Em Dm C)
+Com o fim do verão
+   C           F    Em
+O sol está presente
+          Dm Dm/C           G/B Am7 G/B
+Como continua o impossível amor
+  G            G/F      Em   G/F
+Pela primeira vez, meu amor
+      G#°     Am   Gm7
+Eu me sinto feliz
+  C7        F   Em
+Sabendo que sou
+             Dm
+Sabendo que dou
+    G7          C   (F Em Dm C)
+O amor mais bonito
+
+2ª PARTE
+
+
+C                 F           Dm
+Quantas vezes vagueio no quarto
+Em     F         C   (F C)
+Ou nos bares tão só
+C                F
+Mas eu nunca fui triste
+Em               Dm  Dm/C           G Am7 G/B
+Os corredores da vida, eu já sei de cor
+       G     G/F         Em  G/F
+Já não sinto temor em sentir
+       G#°         Am    Gm7
+Já não sei mais chorar
+
+Refrão:
+        C7        F   Em                C
+É que o choro não vem
+               Dm
+Quando quero sorrir
+G7               Gm7  C7
+Quando quero sorrir
+
+ REPETE 2ª PARTE
+
+Refrão
+
+----------------- Acordes -----------------
+Am*  = X 0 2 2 1 0 - (*Gm na forma de Am)
+Am7*  = X 0 2 0 1 0 - (*Gm7 na forma de Am7)
+C*  = X 3 2 0 1 0 - (*A# na forma de C)
+C7*  = X 3 2 3 1 X - (*A#7 na forma de C7)
+Dm*  = X X 0 2 3 1 - (*Cm na forma de Dm)
+Dm/C*  = X 3 X 2 3 1 - (*Cm/A# na forma de Dm/C)
+Em*  = 0 2 2 0 0 0 - (*Dm na forma de Em)
+F*  = 1 3 3 2 1 1 - (*D# na forma de F)
+G*  = 3 2 0 0 0 3 - (*F na forma de G)
+G#°*  = 4 X 3 4 3 X - (*F#° na forma de G#°)
+G/B*  = X 2 0 0 3 3 - (*F/A na forma de G/B)
+G/F*  = 1 X X 0 0 3 - (*F/D# na forma de G/F)
+G7*  = 3 5 3 4 3 3 - (*F7 na forma de G7)
+Gm7*  = 3 X 3 3 3 X - (*Fm7 na forma de Gm7)

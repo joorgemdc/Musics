@@ -1,0 +1,45 @@
+Chico Buarque - Ludo Real
+
+(De: Chico Buarque & Vinicius Cantuária)
+
+F7M       F6            C7M           A7        D7     G  Em
+    Que nobreza você tem     Que seus lábios são  reais
+F7M          F6             C7M        A7       D7     G
+    Que seus olhos vão além    Que uma noite faz  o bem
+        C(add9)  F6    C(add9)     Bm7(b5)         E7(b9)    F6
+E nunca mais       Que salta  de so_______nho em so______nho
+  C(add9)         Bm7(b5)   E7(b9) F6    C(add9)       Bm7(b5)       E7(b9) F6
+E não    quebra te_______lha         Que passa  através       do amor
+  C(add9)         Bm7(b5)   E7(b9)             Am6            C(add9)
+E não    se atrapa_______lha       Que cruza o rio E não se molha
+F    C(add9) D7/A    G   F    C(add9)     D7/F#    G
+  Iê iê      iandai___a Aluaiê       alua iandai____a
+F    C(add9) D7/A    G   F    C(add9)     D7/F#    G
+  Iê iê      iandai___a Aluaiê       alua iandai____a
+
+ACORDES:
+
+F7M - 1X221X     C(add9) - X32030
+F6  - 1X021X     Bm7(b5) - X2X231
+
+C7M - X32000     E7(b9)  - 0X2131
+A7  - X02020     Am6     - 5X455X
+D7  - XX0212     F       - 133211
+G   - 320003     D7/A    - X0453X
+Em  - 022000     D7/F#   - 2X021X
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am6 = 5 X 4 5 5 X
+Bm7(b5) = X 2 3 2 3 X
+C(add9) = X 3 5 5 3 3
+C7M = X 3 2 0 0 X
+D7 = X X 0 2 1 2
+D7/A = 5 X 4 5 3 X
+D7/F# = X X 4 5 3 5
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+F = 1 3 3 2 1 1
+F6 = 1 X 0 2 1 X
+F7M = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

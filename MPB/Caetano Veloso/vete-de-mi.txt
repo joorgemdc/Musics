@@ -1,0 +1,56 @@
+Caetano Veloso - Vete de Mí
+
+Gm              C7                      Am7
+Tu, que llenas todo de alegría y juventud
+            Ddim                      Gm
+que ves fantasmas en la noche de trasluz,
+           C7                   Am7
+y oyes el canto perfumado del azul
+         D7
+vete de mi.
+
+Gm                  Bbm7
+No te detengas a mirar
+                        Am7
+las ramas viejas del rosal
+                            Ddim
+que se marchitan sin dar flor
+Gm                    Ddim
+mira el paisaje del amor
+                        Gm     C7   D7
+que es la razón para soñar y amar
+
+Gm                C7                     Am7
+Yo, que ya he luchado contra toda la maldad
+
+           Ddim                      Gm
+tengo las manos tan desechas de apretar
+            C7
+que no te puedo sujetar
+         Cm7    F7
+vete de mi
+
+Bbmaj7                Eb7
+Seré en tu vida lo mejor,
+                    Am7
+de la neblina del ayer
+                         Ddim
+cuando me llegues a olvidar
+Gm                        C7
+como es mejor el verso aquel
+          C#dim      F
+que no podemos recordar.
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bbm7 = X 1 3 1 2 1
+Bbmaj7 = X 1 3 2 3 1
+C#dim = X 4 5 3 5 3
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+D7 = X X 0 2 1 2
+Ddim = X X 0 1 0 1
+Eb7 = X 6 5 6 4 X
+F = 1 3 3 2 1 1
+F7 = 1 3 1 2 1 1
+Gm = 3 5 5 3 3 3

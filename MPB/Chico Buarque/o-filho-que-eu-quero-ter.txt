@@ -1,0 +1,61 @@
+Chico Buarque - O Filho Que Eu Quero Ter
+
+[Intro:] G C G C G D/F# G
+
+     G     C        G      D/F#         G      Em7 A7(9)(13) A7(9)(b13)
+É comum a gente sonhar, eu sei, quando vem o entardecer
+  C#m7(b5) Cm6     Bm7    E7   A7(13) A7(b13)  D7  D7(4) D7
+Pois eu também dei de sonhar um sonho   lindo de morrer
+         G       C          G   D/F#        G      Em7 A7(9)(13) A7(9)(b13)
+Vejo um berço e nele eu me debruçar com o pranto a me correr
+  C#m7(b5) Cm6    Bm7   E7 A7(13)        D7        G G/F
+E assim chorando acalentar   o filho que eu quero ter
+C7M        C#º    G/D  G7 C7M       C#m7(b5) F#7(b13) Bm7(b5) E7(b9)
+Dorme, meu pequenininho,  dorme que a noite          já vem
+Am7 Am7/G    F#m7(b5) B7(b9)   Em    A7                  D7(4) D7
+Teu  pai está   mui....to   sozinho de tanto amor que ele tem
+
+De repente eu vejo se transformar num menino igual à mim
+Que vem correndo me beijar quando eu chegar lá de onde eu vim
+Um menino sempre a me perguntar um porque que não tem fim
+Um filho a quem só queira bem e a quem só diga que sim
+Dorme menino levado, dorme que a vida já vem
+Teu pai está muito cansado de tanta dor que ele tem
+
+
+Quando a vida enfim me quiser levar pelo tanto que me deu
+Sentir-lhe a barba me roçar no derradeiro beijo seu
+E ao sentir também sua mão vedar meu olhar dos olhos seus
+Ouvir-lhe a voz a me embalar num acalanto de adeus
+Dorme meu pai, sem cuidado, dorme que ao entardecer
+Teu filho sonha acordado com o filho que ele quer ter
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(9)(13) = 5 X 5 6 7 7
+A7(9)(b13) = 5 X 5 4 6 X
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B7(b9) = X 2 1 2 1 X
+Bm7 = X 2 4 2 3 2
+Bm7(b5) = X 2 3 2 3 X
+C = X 3 2 0 1 0
+C#m7(b5) = X 4 5 4 5 X
+C#º = X 4 5 3 5 3
+C7M = X 3 2 0 0 X
+Cm6 = X 3 X 2 4 3
+D/F# = 2 X 0 2 3 2
+D7 = X X 0 2 1 2
+D7(4) = X X 0 2 1 3
+E7 = 0 2 2 1 3 0
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7(b13) = 2 X 2 3 3 2
+F#m7(b5) = 2 X 2 2 1 X
+G = 3 2 0 0 0 3
+G/D = X 5 5 4 3 X
+G/F = 1 X X 0 0 3
+G7 = 3 5 3 4 3 3

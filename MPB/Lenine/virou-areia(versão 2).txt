@@ -1,0 +1,124 @@
+Lenine - Virou Areia
+
+--------------------------
+Versão de "Ao Vivo inCité"
+--------------------------
+
+
+
+Pré intr.: ( Em14 / Em13 / Em(b13.18) / Em13 / Em / Em11(16) / Em* / Em11(16) / Bm7(11) Bbm7(11) )
+
+Acordes da pré introdução
+
+Em14............ 0  x 12  0 12  x
+Em13............ 0  x 11  0  8  x
+Em(b13.18)...... 0  x 10  0 10  x
+Em.............. 0  x  9  0  8  x
+Em11(16)........ 0  x  7  0  7  x
+Em*............. 0  x  5  0  5  x
+Bm7(11)......... 7  x  7  7  5  x
+Bbm7(11)........ 6  x  6  6  4  x
+
+---------------------------------
+
+(Os acidentes "bizarros" como "18", "16", ect... são para especificar com exatidão o intervalo que
+ deve ser tocado a partir da tônica, no caso aqui o "Mizão", 6ª corda solta do violão)
+
+---------------------------------
+
+Intr.: ( Am7(11) / F#(#5.b13) / ) 3x F#(#5.b13)  C9/G  F#(#5.b13)
+
+
+( Am7(11) / F#(#5.b13) / )
+Cadê a esfinge de pedra que ficava ali
+Virou areia... virou areia...
+Cadê a floresta que o mar já avistou dali
+Virou areia... virou areia...
+Dm7(9)              G7(13)  C7M(9)     F7M(#11)
+Cadê a mulher que esperava o pescador
+Bm7(b5) E7(b9)   (intr.)
+Virou...          areia
+
+( Am7(11) / F#(#5.b13) / )
+Cadê o castelo onde um dia já dormiu um rei
+Virou areia... virou areia...
+E o livro que o dedo de Deus deixou escrita a lei
+Virou areia... virou areia...
+Dm7(9)       G7(13)   C7M(9)  F7M(#11)
+Cadê o sudário do salvador
+Bm7(b5)  E7(b9)    Am7(11)
+Virou...            areia
+
+ | ( Am7(11) / F#(#5.b13) / )
+ | Areia, a lua batendo no chão do terreiro
+ | Areia, o barro batido subindo no ar
+ | Areia, o menino sentado na beira da praia
+ | Areia, fazendo com a mão um castelo no mar
+  |   Dm7(9)         G7(13)   C7M(9)     F7M(#11)
+ | E a onda que se ergueu e que passou
+  | Bm7(b5)  E7(b9)  Am7(11)  F#(#5.b13)
+ | Virou...         areia
+  | Dm7(9)           G7(13)    C7M(9)
+ | Nasceu no mar e na terra se acabou
+  | Bm7(b5)  E7(b9)     (pré intr. e intr.)
+ | Virou                     areia
+
+( Am7(11) / F#(#5.b13) / )
+Cadê a voz que encantava multidão, cadê
+Virou areia... virou areia...
+Cadê o passado o presente a paixão
+Virou areia... virou areia...
+Dm7(9)          G7(13)  C7M(9)   F7M(#11)
+Cadê a muralha do imperador
+Bm7(b5)  E7(b9)    Am7(11)
+Virou...            areia
+
+ | ( Am7(11) / F#(#5.b13) / )
+ | Areia, a lua batendo no chão do terreiro
+ | Areia, o barro batido subindo no ar
+ | Areia, o menino sentado na beira da praia
+ | Areia, fazendo com a mão um castelo no mar
+  |   Dm7(9)         G7(13)   C7M(9)     F7M(#11)
+ | E a onda que se ergueu e que passou
+  | Bm7(b5)  E7(b9)  Am7(11)  F#(#5.b13)
+ | Virou...         areia
+  | Dm7(9)           G7(13)    C7M(9)
+ | Nasceu no mar e na terra se acabou
+  | Bm7(b5)  E7(b9)     (pré intr.)
+ | Virou                  areia
+
+( Am7(11) / F#(#5.b13) / ) 3x Am7(11)  / F#m7(11) F7(#11)
+pré intr.
+Am7(11)
+
+ACORDES:
+
+Am7(11)........ 5x553x
+F#(#5.b13)..... 2x453x
+C9/G........... 3x332x
+Dm7(9)......... x5355x
+G7(13)......... 3x345x
+C7M(9)......... x3243x
+F7M(#11)....... 1x2200
+Bm7(b5)........ x2323x
+Em7(b9)........ 023130
+F#m7(11)....... 2x220x
+F7(#11)........ 1x120x
+
+
+----------------- Acordes -----------------
+Am7(11) = 5 X 5 5 3 X
+Bbm7(11) = 6 X 6 6 4 X
+Bm7(11) = 7 X 7 7 5 X
+Bm7(b5) = X 2 3 2 3 X
+C7M(9) = X 3 2 4 3 X
+C9/G = 3 X 5 5 3 3
+Dm7(9) = X 5 3 5 5 X
+E7(b9) = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em13 = X 7 X 6 8 7
+Em7(b9) = 0 1 0 0 0 1
+F#m7(11) = 2 X 2 2 0 X
+F7(#11) = 1 X 1 2 0 X
+F7M(#11) = 1 X X 2 0 0
+G7(13) = 3 X 3 4 5 X

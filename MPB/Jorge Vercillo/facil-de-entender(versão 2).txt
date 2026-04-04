@@ -1,0 +1,86 @@
+Jorge Vercillo - Fácil de Entender
+
+Tom = G
+
+Intro = G D/F# Em C D     No começo o C e o D são feitos no CONTRA-BAIXO do violão
+
+Solo:
+
+B|-------------------------------------------------------------------------| 
+G|--0-0-0---0-4-----0------------0-------------0--------------7-7-7--------| 
+D|--------0-------0---7-7-7-5-7----7-9-9-9-7-9---9-7-7-7-7-7--------9-7-5--| 
+
+                   D/F#         Em  C D
+Eu não sou mais o mesmo sem você
+G                D/F#       Em  C D
+mas nem tudo que tenho a falar
+G             D/F#        Em  C D
+eu apenas queria me esconder
+G               D/F#      Em  C D
+hoje sei que ferir foi calar.
+G               D/F#         Em
+As pessoas tem medo de se abrir
+               C    D
+e acabarem se machucando.
+
+G               D/F#        Em
+Eu levei tanto tempo pra falar
+             C      D
+mas agora estou tentando.
+
+(refrão)
+G                Am7
+É fácil de entender
+                 Bm7
+difícil de explicar,
+                 Cm7
+mas tenho que dizer
+   C/D
+te amo
+G            D/F#      Em
+Eu te amo a cada respirar
+             C    D
+cada dia, cada segundo.
+G             D/F#      Em
+Eu te amo na noite de luar
+                  C      D
+meu amor quer gritar ao mundo
+A                  E/G#          F#m
+como um canto que cobre o amanhecer,
+                 D     E
+um encanto que atinge tudo,
+A               E/G#        F#m
+um vulcão esquecido por você
+                D    E
+e escondido lá no fundo de mim
+
+(refrão)
+A                Bm7
+Eu quase não saio, eu quase não fico,
+                C#m7
+não dá pra entender
+              D/E
+Eu quase não caio no sonho de Icaro,
+A                 Bm7
+Eu quase não brigo, eu quase não erro,
+                 C#m7
+não dá pra entender
+              D/E
+eu quase não vivo o Abra-te Sésamo.
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C/D = X X 0 0 1 0
+Cm7 = X 3 5 3 4 3
+D = X X 0 2 3 2
+D/E = X X 2 2 3 2
+D/F# = 2 X 0 2 3 2
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+G = 3 2 0 0 0 3

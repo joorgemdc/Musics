@@ -1,0 +1,114 @@
+Lenine - Paciência
+
+(intro) G5(7M)   G5(6)   G5   Em7(9)   Em7   C4+(9)   C9   C2(9)   G5
+
+
+    G5(7M)          G5(6)   G5
+E|------------------------------------------|
+B|-----3-----3---------3-----3--------------|
+G|-------0-----0---------0-----0------------|
+D|---4-----4-----4---2-----0-----0----------|
+A|------------------------------------------|
+E|-3---------------3------------------------|
+
+    Em7(9)          Em7
+E|------------------------------------------|
+B|-----3-----3---------3-----3--------------|
+G|-------0-----0---------0-----0------------|
+D|---4-----4-----4---2-----0-----0----------|
+A|------------------------------------------|
+E|-0---------------0------------------------|
+
+    C4+(9)          C9      C2(9)
+E|------------------------------------------|
+B|-----3-----3---------3-----3--------------|
+G|-------0-----0---------0-----0------------|
+D|---4-----4-----4---2-----0-----0----------|
+A|-3---------------3------------------------|
+E|------------------------------------------|
+
+    G5
+E|------------------------------------------|
+B|-----3-----3---------3-----3--------------|
+G|-------0-----0---------0-----0------------|
+D|---0-----0-----0---0-----0-----0----------|
+A|------------------------------------------|
+E|-3---------------3------------------------|
+
+
+G5(7M)               G5(6)         G5             Em7(9)
+  Mesmo quando tudo pede um pouco mais de calma
+                      Em7                        C4+(9)   C9
+  Até quando o corpo pede um pouco mais de alma
+     C2(9)    G5
+  A vida não para
+
+G5(7M)                 G5(6)        G5         Em7(9)
+  Enquanto o tempo acelera e pede pressa
+                   Em7              C4+(9)   C9
+Eu me recuso faço hora vou na valsa
+      C2(9)    G5
+   A vida tão rara
+
+G5(7M)                  G5(6)       G5     Em7(9)
+ Enquanto todo mundo espera a cura do mal
+                      Em7                  C4+(9)
+E a loucura finge que isso tudo é normal
+       C9        C2(9)  G5
+   Eu finjo ter paciência
+
+G5(7M)                G5(6)            G5     Em7(9)
+ O mundo vai girando cada vez mais veloz
+                   Em7                            C4+(9)
+A gente espera do mundo   e o mundo espera de nós
+    C9            C2(9)  G5
+Um pouco mais de paciência
+
+F7M(9)
+  Será que é o tempo que lhe falta pra perceber
+Em7(11)
+  Será que temos esse tempo pra perder
+C9                   Am7(9)
+   E quem quer saber
+              Em7(9)
+a vida é tão rara. Tão rara
+
+F7M(9)
+Mesmo quando tudo pede um pouco mais de calma
+Em7(11)
+  Mesmo quando o corpo pede um pouco mais de alma
+C9      A7(4)             Em7(9)
+  Eu sei,    a vida não para
+             G5(7M)   G5(6)   G5   Em7(9)   Em7   C4+(9)   C9   C2(9)   G5
+ a vida não para não         (repete intro)
+
+F7M(9)
+  Será que é tempo que lhe falta pra perceber
+Em7(11)
+  Será que temos esse tempo pra perder
+C9                  Am7(9)
+   E quem quer saber
+              Em7(9)
+a vida é tão rara. Tão rara
+F7M(9)
+Mesmo quando tudo pede um pouco mais de calma
+Em7(11)
+  Até quando o corpo pede um pouco mais de alma
+C9       A7(4)            Em7(9)             G5(7M) ...(repete intro 2x)
+   Eu sei,  a vida é tão rara... a vida não para não...
+                G5(7M)
+A vida é tão rara.
+
+----------------- Acordes -----------------
+A7(4) = X 0 2 0 3 0
+Am7(9) = X X 7 5 8 7
+C2(9) = X 3 0 0 3 X
+C4+(9) = X 3 4 0 3 X
+C9 = X 3 5 5 3 3
+Em7 = 0 2 2 0 3 0
+Em7(11) = X 7 X 7 8 5
+Em7(9) = X 7 5 7 7 X
+F7M(9) = X 8 7 9 8 X
+G5 = 3 5 5 X X X
+G5(6) = 3 X 2 0 3 X
+G5(7M) = 3 X 4 0 3 X

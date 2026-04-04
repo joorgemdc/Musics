@@ -1,0 +1,83 @@
+Chico Buarque - Homenagem Ao Malandro
+
+Intro: F7M Fm7 E7(13) E7(b13) A7(9) A7(b9) Dm7 G7(b9) C7M
+
+C#m7(b5) Dm7(b5) D#m7(b5) Em7(b5)      A7(b13) D7(13)
+  Eu      fui      fa...zer um samba em home...nagem
+  D7(b13)       Dm7    G7(b9)       C6(9)
+À nata da malandragem, que conheço de outros carnavais
+C#m7(b5) Dm7(b5) D#m7(b5) Em7(b5)     A7(b13) D7(13)
+  Eu      fui      à       Lapa e perdi a viagem,
+         D7(b13)     Dm7  G7(b9)     C7M(9)
+Que aquela tal malandragem não existe mais
+
+     A7(13)              D7(9)                 G7(13)
+Agora já não é normal, o que dá de malandro regular profissional
+ C7M(9)                    A7(13)
+Malandro com o aparato de malandro oficial,
+  D7(9)               G7(13)
+Malandro candidato a malandro federal,
+ C7M(9)                   Gm7    C7(9)
+Malandro com retrato na coluna social;
+  F7M                        D7(9)
+Malandro com contrato, com gravata e capital,
+
+   Dm7(9)      G7(13)
+Que nunca se dá mal
+
+C#m7(b5) Dm7(b5) D#m7(b5) Em7(b5)        A7(b13) D7(13)
+Mas        o       ma...landro para valer, não espalha,
+  D7(b13)       Dm7    G7(b9)       C6(9)
+Aposentou a navalha, tem mulher e filho e tralha e tal
+C#m7(b5) Dm7(b5) D#m7(b5) Em7(b5)          A7(b13) D7(13)
+Di   ...   zem    as      más línguas que ele até trabalha,
+         D7(b13)     Dm7  G7(b9)     C7M(9)
+Mora lá longe e chacoalha num trem da Central
+
+     A7(13)              D7(9)                 G7(13)
+Agora já não é normal, o que dá de malandro regular profissional
+ C7M(9)                    A7(13)
+Malandro com o aparato de malandro oficial,
+  D7(9)               G7(13)
+Malandro candidato a malandro federal,
+ C7M(9)                   Gm7    C7(9)
+Malandro com retrato na coluna social;
+  F7M                        D7(9)
+Malandro com contrato, com gravata e capital,
+   Dm7(9)      G7(13)
+Que nunca se dá mal
+
+C#m7(b5) Dm7(b5) D#m7(b5) Em7(b5)        A7(b13) D7(13)
+Mas        o       ma...landro para valer, não espalha,
+  D7(b13)       Dm7    G7(b9)       C6(9)
+Aposentou a navalha, tem mulher e filho e tralha e tal
+C#m7(b5) Dm7(b5) D#m7(b5) Em7(b5)          A7(b13) D7(13)
+Di   ...   zem    as      más línguas que ele até trabalha,
+         D7(b13)     Dm7  G7(b9)     C7M(9)
+Mora lá longe e chacoalha num trem da Central
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(9) = 5 X 5 4 2 X
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+C#m7(b5) = X 4 5 4 5 X
+C6(9) = X 3 2 2 3 3
+C7(9) = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+C7M(9) = X 3 2 4 3 X
+D#m7(b5) = X X 1 2 2 2
+D7(13) = X 5 X 5 7 7
+D7(9) = X 5 4 5 5 X
+D7(b13) = X 5 X 5 7 6
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+Dm7(b5) = X X 0 1 1 1
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+Em7(b5) = X X 2 3 3 3
+F7M = 1 X 2 2 1 X
+Fm7 = 1 X 1 1 1 X
+G7(13) = 3 X 3 4 5 X
+G7(b9) = 3 X 3 1 0 X
+Gm7 = 3 X 3 3 3 X

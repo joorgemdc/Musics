@@ -1,0 +1,63 @@
+Djavan - Azul
+
+[Intro] Ab7(#11)  Gm7  C#°  Dm7(9)  Ab7(#11)  Gm7  C#°  Dm7(9)
+
+ Ab7(#11)  Gm7  C#°  Dm7(9)  F7(9)  Bb7M  A7(b13) / Ab7(#11)
+E|-13-10-------------------------------------------------------|
+B|-------10-----------10----------------10----------10---------|
+G|-----------12-10-12----10-------10-------12-10-12----12-10---|
+D|--------------------------12-12----12------------------------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+E|-13-10-------------------------------------------------------|
+B|-------10--------------10---------------10-------------------|
+G|-----------12-10----10---12-10-10----10----12-10-------------|
+D|-----------------12---------------12-------------12----------|
+A|-------------------------------------------------------------|
+E|-------------------------------------------------------------|
+
+   Gm7     C#º          Dm7(9)      F7(9)    Bb7M        A7(b13)  Dm7(9)
+Eu não sei    se vem de        Deus       do céu  ficar azul
+Ab7(#4)    Gm7     C#º          Dm7(9)       F7(9)  Bb7M
+         Ou vi---rá    dos olhos        teus       essa   cor
+
+              Em7(b5)   Ab7(#4)   Gm7   C#º       Dm7(9)
+Que azuleja o di-----a          se aca---so  anoi--tecer
+F7(9)    Bb7M           A7(b13)  Dm7(9)  Ab7(#4)         Gm7
+      Do céu  perder o azul                     entre o     mar
+  C#º         Dm7(9)   F7(9)   Bb7M        Bb7M     Em7(b5)
+E o   entar---decer...        Alga    mari--nha   vá na
+     Ab7(#4)  Gm7     C#º         Dm7(9)   F7(9)
+Ma----------re|--si--a   Buscar a------li
+
+Um cheiro de azul                     es---sa  cor não sai de     mim
+
+F7(9)        Bb7M     Bb7M        A7(b13)            Ab7(#4)
+      Bate e finca pé a    sangue         de rei até o       sol nascer
+ Gm7        C#º        Dm7(9)           F7(9)     Bb7M
+Ama-relinho     queimando,    mansinho  cedinho,  cedinho
+A7(b13)  Dm7(9)         Ab7(#4)       Gm7              C#º
+Cedinho         corre e vá       dizer pro meu benzinho
+     Dm7(9)        F7(9)       Bb7M     A7(b13)  Dm7(9)
+Um dizer    assim: O     amor  é     a--zulzinho
+
+      Ab7(#4)          Gm7         C#º       Dm7(9)          F7(9)
+Até o sol       nascer ama-relinho     queimando,    mansinho cedinho
+Bb7M      A7(b13)  Dm7(9)         Ab7(#4)       Gm7              C#º
+Cedinho,  cedinho         corre e vá       dizer pro meu benzinho
+     Dm7(9)        F7(9)       Bb7M    A7(b13)  Dm7(9)  Ab7(#4)
+Um dizer    assim: O     amor  é    a--zulzinho
+
+----------------- Acordes -----------------
+A7(b13) = X 0 X 0 2 1
+Ab7(#11) = 4 X 4 5 3 X
+Ab7(#4) = 4 X 4 5 3 X
+Bb7M = X 1 3 2 3 1
+C#° = X 4 5 3 5 3
+C#º = X 4 5 3 5 3
+Dm7(9) = X 5 3 5 5 X
+E = 0 2 2 1 0 0
+Em7(b5) = X X 2 3 3 3
+F7(9) = X X 3 2 4 3
+Gm7 = 3 X 3 3 3 X

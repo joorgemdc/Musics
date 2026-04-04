@@ -1,0 +1,51 @@
+Novos Baianos - Swing de Campo Grande
+
+Intro: Bm  F#m7  G7+  E7/G#  A7
+
+ Bm7         F#m7         E7/G#
+  Minha carne é de carnaval
+          A7(9)       A#º
+O meu coração é igual     (3x)
+
+Em       A7          D7M
+ Aqueles que têm uma seta
+          D#º           Em7
+e quatro letras de amor
+          A7
+por isso onde quer que
+    D7M                  Bm7         Em7
+eu ande em qualquer pedaço eu faço
+          A7    D7M
+um campo grande
+         D#º
+um campo grande
+    Em7         A7
+um campo grande
+    D7M         Bm7
+um campo grande
+
+(Em7             A7
+  Eu não marco toca
+          D
+  eu viro toca
+          Bm
+  eu viro moita) (4x)
+
+(Em7 A7 F#7)  Bm7
+                  Minha carne...
+
+----------------- Acordes -----------------
+A#º = X 1 2 0 2 0
+A7 = X 0 2 0 2 0
+A7(9) = 5 X 5 4 2 X
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+D = X X 0 2 3 2
+D#º = X X 1 2 1 2
+D7M = X X 0 2 2 2
+E7/G# = 4 X 2 4 3 X
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#m7 = 2 X 2 2 2 X
+G7+ = 3 X 4 4 3 X

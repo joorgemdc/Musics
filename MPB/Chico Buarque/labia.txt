@@ -1,0 +1,86 @@
+Chico Buarque - Lábia
+
+ A6                      A#7(b5)   A6                    E7(#9)          A6
+Mas nem cantor incendiário ataca à queima-roupa a canção
+ A7M/C#         G#7(#9)                  Bm7M            Bm
+Há sempre um tempo, um batimento  um clima que a introduz
+ G#7M(b5)                                        C#7(b9/b13)             F#m6(7M)
+Que nem abelha ronda a flor que nem dá voltas ao redor
+ F#m6            B7(13) A7M(9)/C#                        Dm6            D#dim
+Da lâmpada, ao redor da lâmpada o bicho-da-luz
+
+( E7/4/9  A6 )
+
+ A#7(b5)                 A6                      A#7(#11)
+Nem pode à meia-noite abrir um sol a pino de supetão
+ Em79            D#7(#9)                 D7M
+Nas noites em câmera lenta  espero por meu bem
+ D7M(#5)                 D7M(6)          D#m7(b5)                G#7(b9/b13)
+Lábia, flor do bem-me-quer lábia que adoça a boca de mulher
+ C#m7(b5)                F#7(b9/b13)             B7(13) F7(9/#11)
+Dom de mulher que os homens têm
+
+( E7/4/9  E7(b9)  A6  G#7(b9/b13) )
+
+
+ C#m79  C#m6 D#m7       G#7(b9) C#m79   C#m6
+Palavras de virar cabeça meu amado vai usar
+ D#m7   G#7(b9) C#m79    Am9/C
+Palavras como se elas fossem mãos
+ Gsus4/B                         C#/B
+Tantos rodeios pra enfim me roubar
+         D6(#11)/F#      D6/F#
+Coisas que dele já são
+
+( D#dim  C#7/4/9 )
+
+ C#7(b9/13)              A6              A#7(b5)
+Mas nem uma mulher em chamas cede o beijo assim de antemão
+ A6              A#7(#11)                Em79
+Há sempre um tempo, um batimento um clima que a seduz
+ D#7(#9)                 D7M             D7M(#5)                D7M(6)
+E eis que nada mais se diz os olhos se reviram para trás
+ D#m7(b5)                G#7(b9/b13)             C#m7(b5)
+E os lábios fazem jus
+
+( F#7(b9/b13)  B7(13)  F7(9/#11)  E4(7/9)  E7(b9) )
+
+----------------- Acordes -----------------
+A#7(#11) = X 1 2 1 3 X
+A#7(b5) = X 1 2 1 3 X
+A6 = 5 X 4 6 5 X
+A7M/C# = X 4 X 2 5 4
+B7(13) = X 2 X 2 4 4
+Bm = X 2 4 4 3 2
+Bm7M = X 2 4 3 3 2
+C#/B = X 2 3 1 2 X
+C#7(b9/13) = 9 X X P7 11 7
+C#7(b9/b13) = X 4 3 4 3 5
+C#7/4/9 = X 4 4 4 4 4
+C#m6 = X 4 X 3 5 4
+C#m7(b5) = X 4 5 4 5 X
+C#m79 = X 4 2 4 4 X
+D#7(#9) = X 6 5 6 7 X
+D#dim = X X 1 2 1 2
+D#m7 = X X 1 3 2 2
+D#m7(b5) = X X 1 2 2 2
+D6(#11)/F# = 2 X 0 1 0 X
+D6/F# = 2 X 0 2 0 X
+D7M = X X 0 2 2 2
+D7M(#5) = X 5 4 3 2 2
+D7M(6) = X 5 4 4 2 2
+Dm6 = X 5 X 4 6 5
+E4(7/9) = X X 2 2 3 2
+E7(#9) = X 7 6 7 8 X
+E7(b9) = X X 2 1 3 1
+E7/4/9 = X X 2 2 3 2
+Em79 = X 7 5 7 7 X
+F#7(b9/b13) = 2 X 2 3 3 3
+F#m6 = 2 X 1 2 2 X
+F#m6(7M) = 2 4 3 2 4 2
+F7(9/#11) = 1 0 1 0 0 X
+G#7(#9) = X X 6 5 7 7
+G#7(b9) = 4 X 4 2 1 X
+G#7(b9/b13) = 4 X 4 5 5 5
+G#7M(b5) = 4 X 5 5 3 X
+Gsus4/B = X 2 0 0 1 X

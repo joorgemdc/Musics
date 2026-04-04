@@ -1,0 +1,73 @@
+Chico Buarque - Linguagem do Morro
+
+intro: Cm7 Bm7 E7 Eb7 D7 G Eb7 D7
+
+G6        D7/A          G/B
+Tudo lá no morro é diferente
+D7         G6    F7        E7  E7/G#
+Daquela gente não se pode duvidar
+Am         Bbº            G/B
+Começando pelo samba quente
+    D#º           Em   A(add9)      Am D/C
+Que até um inocente sabe o que é sambar
+G/B          D#º        Em
+O outro fato muito importante
+   G7/D            C
+E também interessante
+D7               G G/F
+É a linguagem de lá
+C           C#º        G/D
+Baile lá no morro é fandango
+E7                  A7
+Nome de carro é carango
+A7/C#           D7 G7
+Discussão é bafafá
+
+C               C#º
+Briga de uns e outros
+G/D              E7
+Dizem que é burburim
+Am           D7         G6   B7 C7 C#7
+Velório no morro é gurufim
+D7                 G6
+Erro lá no morro chamam de vacilação
+Dm              G7        C          E7
+Grupo do cachorro em dinheiro é um cão
+  Eb
+Papagaio é rádio
+Bm           E7
+Grinfa é mulher
+Eb7     D7              G Eb7 D7
+Nome de otário é Zé Mané
+
+----------------- Acordes -----------------
+A(add9) = X 0 2 2 0 0
+A7 = X 0 2 0 2 0
+A7/C# = X 4 5 2 5 X
+Am = X 0 2 2 1 0
+B7 = X 2 1 2 0 2
+Bbº = X 1 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C = X 3 2 0 1 0
+C#7 = X 4 3 4 2 X
+C#º = X 4 5 3 5 3
+C7 = X 3 2 3 1 X
+Cm7 = X 3 5 3 4 3
+D#º = X X 1 2 1 2
+D7 = X X 0 2 1 2
+D7/A = 5 X 4 5 3 X
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+E7/G# = 4 X 2 4 3 X
+Eb = X 6 5 3 4 3
+Eb7 = X 6 5 6 4 X
+Em = 0 2 2 0 0 0
+F7 = 1 3 1 2 1 1
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G/D = X 5 5 4 3 X
+G/F = 1 X X 0 0 3
+G6 = 3 X 2 4 3 X
+G7 = 3 5 3 4 3 3
+G7/D = X X 0 0 0 1

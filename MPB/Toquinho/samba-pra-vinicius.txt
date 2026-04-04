@@ -1,0 +1,92 @@
+Toquinho - Samba pra Vinícius
+
+Intro: D6  A7/4  A7  D6  A7/4  A7  D6  A7/4  A7  F7+
+       Bb7+  Em  A7(13)
+
+     D6                  E7(13)    E7
+Po - eta,  meu  poeta  camara  -   da
+     Em            A7
+po - eta  da  pe - sada,
+        D6       Bm7        Em7    A7(9)
+do  pa- gode  e  do  perdão
+      D6                        G#m7(b5)    C#7
+per - doa  essa  canção  improvisa -       da
+      F#m            Bm/D      C#7(11)
+em tu - a  inspira - ção
+       F#m             Cm6      B7/C
+de  to - do  o  cora - ção,
+       E7(9)                E7       Gm6      A/G
+da  mo - ça  e  do  violão,     do   fun  -     do,
+    D6                   E7(b13)      E7
+poe - ta, poetinha  vaga -     bun -  do
+         Em7              A7                Amadd9            Cm6
+quem  de -  ra  todo  mun - do  fosse  as - sim  feito  você
+
+        G7+      C#7/G#    C#7          F#m7                Cm6     B7/C
+que  a  vi  -  da                  não  gos -   ta  de  esperar
+      E7
+a  vi - da  é  pra  valer,
+      Gm6
+a  vi - da  é  pra  levar,
+     E7(9)           A7         D6    Bm7    Em7    A7(9)
+Viní - cius,  velho,     saravá
+
+Improviso: D6/9  E7(9)  Em7(9)  A7(13)  D6  Bm7  Em7  A7(9)  D6  G#m7(b5)  C#7  F#m  D7  C#7  F#m  Cm6  B7/C  E7  Gm6  A/G
+
+    D6                    E7(13)     E7
+Poe - ta,  poetinha  vaga -    bun - do
+     Em7            A7
+vira - do,  viramun - do,
+         Amadd9          Cm6
+vira  e  mexe,  paga  e  vê
+        G7+    C#7/G#   C#7      F#m            Cm6    B7/C
+que  a  vi-    da          não   gosta de espe- rar
+      E7(9)
+a  vi - da  é  pra  valer
+      Gm6
+a  vi - da  é  pra  levar
+     E7(9)           A7
+Viní - cius,  velho,     saravá
+      E7(9)
+a  vi - da  é  pra  valer
+      Gm6
+a  vi - da  é  pra  levar
+     E7(9)           A7         F7+(6)    Bb7+    Em7    Eb7+
+Viní - cius,  velho,    saravá
+
+Final: D6/9  Eb6/9  D6/9  Eb6/9  D6/9  D/A  D6/9
+
+----------------- Acordes -----------------
+A/G = 3 X 2 2 2 X
+A7 = X 0 2 0 2 0
+A7(13) = X 0 X 0 2 2
+A7(9) = 5 X 5 4 2 X
+A7/4 = X 0 2 0 3 0
+Amadd9 = X 0 2 4 1 0
+Bb7+ = X 1 3 2 3 1
+Bm/D = X 5 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(11) = X 4 6 4 7 4
+C#7/G# = 4 X 3 4 2 X
+Cm6 = X 3 X 2 4 3
+D/A = X 0 X 2 3 2
+D6 = X 5 4 2 0 X
+D6/9 = X 5 4 2 0 0
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+E7(13) = 0 X 0 1 2 0
+E7(9) = X X 2 1 3 2
+E7(b13) = 0 X 0 1 1 0
+Eb6/9 = X X 1 0 1 1
+Eb7+ = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+Em7(9) = X 7 5 7 7 X
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+F7+ = 1 X 2 2 1 X
+F7+(6) = 1 X 2 2 3 X
+G#m7(b5) = 4 X 4 4 3 X
+G7+ = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

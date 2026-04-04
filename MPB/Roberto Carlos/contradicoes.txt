@@ -1,0 +1,60 @@
+Roberto Carlos - Contradições
+
+         Intro: A7+ E/G# F#m E7 Bb7 A7+ E/G# F#m B7/4 G#4/7 G#5+
+
+               C#m7                        F#m7
+         Voçê quer brincar de amor/eu quero só te amar
+               B4/7         B7
+         Voçê quis por um momento
+                      E        B/D#
+         E eu sempre quis ficar
+                A/C#                     F#m/A                 G#4/7 G#5+ G#
+         Mas em nossas diferenças nada é mais igual/do que nós dois
+               C#m7                     F#m7
+         Da certeza desse amor eu nunca duvidei
+                 B4/7     B7             E       B/D#
+         Porque tudo era bonito e eu me acostumei
+               A/C#                        F#m/A            G#4/7 G#7 C#4/7 C#7
+         Às palavras de amor que eu nunca acreditei, mas aceitei.
+
+         REFRÂO
+         F#m7          B4/7        B7             E
+         Ah! voçê tem coisas tão difíceis de entender
+                   C#m7                    F#m/A
+         Um jeito ausente tão presente no olhar
+                   G#4/7       G#7       C#4/7  C#7
+         Como quem ama e sente medo de gostar
+         F#m7           B4/7        B7               E      B/D#
+         Ah! eu não entendo esta paixão que eu vivo com você
+                       C#m7                      F#m/A
+         Que esquece o tempo e deixa a cama por fazer
+                  G#4/7      G#7         A7+
+         E esse ciúme que eu não queria ter
+
+         E/G# F#m B7 E7+ Bb7 A7+ E/G# F#m B7 C#4/7 C#7
+
+          F#m          B7
+         Ah! voçê tem coisas tão...
+
+----------------- Acordes -----------------
+A/C# = X 4 X 2 5 5
+A7+ = X 0 2 1 2 0
+B/D# = X 6 X 4 7 7
+B4/7 = X 2 4 2 5 2
+B7 = X 2 1 2 0 2
+B7/4 = X 2 4 2 5 2
+Bb7 = X 1 3 1 3 1
+C#4/7 = X 4 6 4 7 4
+C#7 = X 4 3 4 2 X
+C#m7 = X 4 6 4 5 4
+E = 0 2 2 1 0 0
+E/G# = 4 X 2 4 5 X
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+F#m = 2 4 4 2 2 2
+F#m/A = X 0 4 2 2 2
+F#m7 = 2 X 2 2 2 X
+G# = 4 3 1 1 1 4
+G#4/7 = 4 6 4 6 4 X
+G#5+ = 4 7 6 5 4 X
+G#7 = 4 6 4 5 4 4

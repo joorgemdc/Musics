@@ -1,0 +1,64 @@
+Tom Jobim - Aula de Matemática
+
+Intro: G7M Gm6 Bm7 E7/9 G7M Gm6 A7 A7(b13)
+
+Dmaj7       D#º E7/9        D7
+Pra que dividir, sem raciocinar
+   G7M           Gm6         Bm7 E7/9
+Na vida e sempre bom multiplicar
+G7M          Gm6  A7 Bm7          E7/9
+E por a mais b___ eu quero demonstrar
+     Bm7        E7/9        Bm7  A7(b13)
+Que gosto imensamente  de você, ah
+Dmaj7       D#º E7/9       D7
+Por uma fração,__infinitesimal
+G7M           Gm6     Bm7         E7/9
+Você criou um caso de calculo integral
+G7M         Gm6         Eº    G7M  A7(b13)
+E para resolver este problema
+Dmaj7          E7      E7/9 A7
+Eu tenho um teorema banal
+F#7M        G#m6       F#7M G#m7 F#7M  Am6    G#m7   C#7
+Quando dois meios se encontram,__desaparece a fração
+
+
+A7M    Bm7            A7M      Bm6   Bm7       E7/9         Bm7  A7(b13)
+E se achamos a unida____de,  esta resolvida a questão
+Dmaj7     D#º E7/9         D7
+Pra finalizar,  vamos recordar
+    GM7       Gm6      Eº     B7(13)
+Que menos por menos da mais, amor
+   Dmaj7      Bm7          E7/9         A7
+Se vão as paralelas ao infinito se encontrar
+               Bm7            E7/9          A7
+Porque demoram tanto dois corações a se integrar
+
+          GM7      Gm6        Bm7       E7/9
+Pois se desesperadamente, incomensuravelmente
+     GM7        F#7(13)     Bm7 E7/9        Bm7 E7/9
+Eu estou perdidamente apaixonado,_____apaixonado
+      Bm7  E7/9  A7 D7(b9)
+por você..
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+A7M = X 0 2 1 2 0
+Am6 = 5 X 4 5 5 X
+B7(13) = X 2 X 2 4 4
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+D#º = X X 1 2 1 2
+D7 = X X 0 2 1 2
+D7(b9) = X 5 4 5 4 X
+Dmaj7 = X X 0 2 2 2
+E7 = 0 2 2 1 3 0
+E7/9 = X X 2 1 3 2
+Eº = X X 2 3 2 3
+F#7(13) = 2 X 2 3 4 X
+F#7M = 2 X 3 3 2 X
+G#m6 = 4 X 3 4 4 X
+G#m7 = 4 X 4 4 4 X
+G7M = 3 X 4 4 3 X
+Gm6 = 3 X 2 3 3 X

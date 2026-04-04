@@ -1,0 +1,79 @@
+Ivan Lins - Mucuripe
+
+[ Raimundo Fagner / Antônio Carlos Belchior ]
+
+
+[Intro:] Gm7 Gm6 A7(13) A7(b13) Dm7(9) D7(9)(11)
+
+D7(b9)          Gm7
+As velas do Mucuripe
+              C7(9)(11) C7(9)
+Vão sair para pescar
+                    F7M   Em7(9)(11)
+Vou levar as minhas mágoas
+     A7(b13) Dm7(9)     Dm7(9)/C
+Pras águas fundas do mar
+    Bm7(9)(11)      E7(13)
+Hoje à noite namorar
+           Em7(b5)
+Sem ter medo da saudade
+A7(b13)      Dm7(9)   D7(9)(11)
+E sem vontade de casar
+
+D7(9) D7(9)(11) D7(9)(#11) D7(9) Gm7(9)
+Calça nova de riscado
+       C7(9)(11)      C#º
+Paletó de linho branco
+          Dm7        C#º
+Que até o mês passado
+                 C6      Cm7
+Lá no campo inda era flor
+     F7(9)   Bb7M        Bb6
+Sob o meu chapéu quebrado
+           Bm7(b5)
+Um sorriso ingênuo e fraco
+           E7(13)   E7(b13)
+De um rapaz novo encantado
+      Em7(b5)      A7(b9)
+Com 20 anos de amor
+
+ Dm7(9) D7(b13) Gm7(9)
+Aquela estrela é dela
+Fm7(9) Bb7(13) Em7(b5)   A7(b13) Bb6
+Vida,    vento,  vela leva-me daqui
+ Dm7(9) D7(b13) Gm7(9)
+Aquela estrela é dela
+Fm7(9) Bb7(13) Em7(b5)   A7(b13) Bb6 Gm7 Gm6 Dm7(9)
+Vida,    vento,  vela leva-me daqui
+
+----------------- Acordes -----------------
+A7(13) = X 0 X 0 2 2
+A7(b13) = X 0 X 0 2 1
+A7(b9) = 5 X 5 3 2 X
+Bb6 = X 1 3 0 3 X
+Bb7(13) = 6 X 6 7 8 X
+Bb7M = X 1 3 2 3 1
+Bm7(9)(11) = X 2 0 2 2 0
+Bm7(b5) = X 2 3 2 3 X
+C#º = X 4 5 3 5 3
+C6 = 8 X 7 9 8 X
+C7(9) = X 3 2 3 3 X
+C7(9)(11) = X 3 3 3 3 3
+Cm7 = X 3 5 3 4 3
+D7(9) = X 5 4 5 5 X
+D7(9)(#11) = X X 0 1 1 0
+D7(9)(11) = X 5 5 5 5 5
+D7(b13) = X 5 X 5 7 6
+D7(b9) = X 5 4 5 4 X
+Dm7 = X 5 7 5 6 5
+Dm7(9) = X 5 3 5 5 X
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+Em7(9)(11) = X 7 5 7 7 5
+Em7(b5) = X X 2 3 3 3
+F7(9) = X X 3 2 4 3
+F7M = 1 X 2 2 1 X
+Fm7(9) = X X 3 1 4 3
+Gm6 = 3 X 2 3 3 X
+Gm7 = 3 X 3 3 3 X
+Gm7(9) = X X 5 3 6 5

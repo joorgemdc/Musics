@@ -1,0 +1,53 @@
+Jorge Vercillo - Luar de Sol
+
+F#m
+
+Eu tô pensando em tu que só
+É chão que chega a dar um nó
+Um homem para se envolver
+Difícil como bicho se render
+
+F#m7                B7    E7M
+Açude quando há, se vê
+A7M(9)        B7 C#7(4) C#7
+O verde se avizinhar
+       E(#4)                    C#m7(9)
+E as garças dele vêm beber
+           A9         F#7      E(#4)
+Como faço eu do teu olhar
+   A7M(9)                           E7M/G#
+Desvão que faz pensar em nós
+  F#m7             B7/4/9 E7M
+Resiste que eu chego     já
+    Bm7    Bm7/A        C#7/G#
+Depois que fui te conhecer
+
+   F#m7             B7/4/9  Bm7 E7(b9)
+Jamais de mim voltei lembrar
+A7M(9)                           E7M/G#
+Luar que mais parece um sol
+    A7M(9)                          E7M
+Ninguém vai machucar você
+    Bm7                           C#7
+Só vim para te fazer sentir
+     A9               B7/4/9 E(#4)
+Você, para me fazer     viver
+
+----------------- Acordes -----------------
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+B7 = X 2 1 2 0 2
+B7/4/9 = X 2 2 2 2 2
+Bm7 = X 2 4 2 3 2
+Bm7/A = 5 2 4 2 3 2
+C#7 = X 4 3 4 2 X
+C#7(4) = X 4 6 4 7 4
+C#7/G# = 4 X 3 4 2 X
+C#m7(9) = X 4 2 4 4 X
+E(#4) = 0 2 2 3 0 0
+E7(b9) = X X 2 1 3 1
+E7M = X X 2 4 4 4
+E7M/G# = 4 X 2 4 4 X
+F#7 = 2 4 2 3 2 2
+F#m = 2 4 4 2 2 2
+F#m7 = 2 X 2 2 2 X

@@ -1,0 +1,76 @@
+Caetano Veloso - Estou Triste
+
+A                   D
+Estou triste, tão triste
+             F#m    F#m9  F#m
+Estou muito triste
+Em                A7
+Por que será que existe
+                DM7  D7M(9) D5
+O que quer que seja?
+
+Bm              E7
+O meu lábio não diz
+Bm              F#m
+O meu gesto não faz
+Gmaj7          C7/9
+Sinto o peito vazio
+                Bm   Bm7
+E ainda assim farto
+
+A                    D
+Estou triste, tão triste
+      F#m     F#m7/E    D            A
+E o lugar mais frio do Rio é o meu quarto
+
+
+A                   D
+Estou triste, tão triste
+             F#m    F#m9  F#m
+Estou muito triste
+Em                A7
+Por que será que existe
+                DM7  D7M(9) D5
+O que quer que seja?
+
+Bm              E7
+O meu lábio não diz
+Bm              F#m
+O meu gesto não faz
+Gmaj7          C7/9
+Sinto o peito vazio
+                Bm   Bm7
+E ainda assim farto
+
+A                    D
+Estou triste, tão triste
+      F#m     F#m7/E    D            A
+E o lugar mais frio do Rio é o meu quarto
+
+
+A      D      F#m   F#m9   F#m
+Em     A7     DM7   D7M(9) D5
+
+Bm     E7    Bm    F#m
+Gmaj7  C7/9  Bm    Bm7
+
+A                    D
+Estou triste, tão triste
+      F#m     F#m7/E    D            A
+E o lugar mais frio do Rio é o meu quarto
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm = X 2 4 4 3 2
+Bm7 = X 2 4 2 3 2
+C7/9 = X 3 2 3 3 X
+D = X X 0 2 3 2
+D5 = X 5 7 7 X X
+D7M(9) = X 5 4 6 5 X
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+F#m = 2 4 4 2 2 2
+F#m7/E = X X 2 2 5 2
+F#m9 = 2 4 6 2 2 2
+Gmaj7 = 3 X 4 4 3 X

@@ -1,0 +1,60 @@
+Zeca Baleiro - Comigo
+
+Intr.(Cadd9   G/B F/A D/A Cadd9   G/B F/A Fm6)
+
+Cadd9               G/B
+você vai comigo aonde eu for
+F/A                    D/A
+você vai bem se vem comigo                       2X
+Cadd9              G/B
+serei teu amigo e teu bem
+F/A                      Fm6          Cadd9
+fica bem mais fica só comigo
+D7/6                              D/C     G7/B
+quando o sol se vai a lua amarela
+          G#º            Am     G      F6
+fica colada no céu cheio de estrela
+D7/6    D/C              G7/B
+se essa lua fosse minha
+                    G#º
+ninguém chegava perto dela
+   F6
+a não ser  eu e você
+    D/F#
+ah eu pagava pra ver
+
+Fm/Ab                               Gsus4
+        nós dois no cavalo de ogum
+Fm/Ab                               Gsus4
+        nós juntos parecendo um
+     F6
+na lua na rua na nasa em casa
+D/F#        Gsus4             Cadd9     G7/B (para repetir)
+brasa da boca de um dragão
+(na 2ª vez)
+     D7/6
+na lua na rua na nasa em casa
+F6            Gsus4             Cadd9
+brasa da boca de um dragão
+     D7/6
+na lua na rua na nasa em casa
+F6            Gsus4             C/G
+brasa da boca de um dragão
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+C/G = 3 3 2 X 1 X
+Cadd9 = X 3 5 5 3 3
+D/A = X 0 X 2 3 2
+D/C = X 3 X 2 3 2
+D/F# = 2 X 0 2 3 2
+D7/6 = X 5 X 5 7 7
+F/A = 5 X 3 5 6 X
+F6 = 1 X 0 2 1 X
+Fm/Ab = 4 3 3 1 X X
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G#º = 4 X 3 4 3 X
+G/B = X 2 0 0 3 3
+G7/B = X 2 3 0 3 X
+Gsus4 = 3 5 5 5 3 3

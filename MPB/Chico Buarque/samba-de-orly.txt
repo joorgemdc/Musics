@@ -1,0 +1,41 @@
+Chico Buarque - Samba de Orly
+
+ C7M   C7M      F#m7   B7          Em7   A7         Gm7
+Vai,     meu irmão      pega esse avião   você tem razão
+ C7/9            F7M      Fm6
+De correr assim desse   fri__o
+     Am7             Am7/G    F#m7(b5)                     Dm7(4)
+Mas bei____ja o meu rio de janei___ro, Antes que um aventureiro
+         G7(13)
+lance mão
+
+ C7M     C7M    F#m7    B7       Em7  A7         Gm7      C7(9)
+Pe______de  perdão     pela duração  dessa temporada Mas não di___ga
+F#m7(b5)
+nada
+
+        Fm6    Em7     A7(b13)     D7(9)           G7(13)      Gm7
+Que me viu chorando    e pros da  pesada  diz que eu vou   levando
+    C7(9)       F#m7(b5)      Fm6          Em7
+Vê como é   que anda    aquela vi___da à toa
+      A7(b13)     D7(9)       G7(13)     C7M
+E se puder    me manda Uma notí_______cia bo________a
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+A7(b13) = X 0 X 0 2 1
+Am7 = X 0 2 0 1 0
+Am7/G = 3 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C7(9) = X 3 2 3 3 X
+C7/9 = X 3 2 3 3 X
+C7M = X 3 2 0 0 X
+D7(9) = X 5 4 5 5 X
+Dm7(4) = X 5 5 5 6 5
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+F#m7(b5) = 2 X 2 2 1 X
+F7M = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G7(13) = 3 X 3 4 5 X
+Gm7 = 3 X 3 3 3 X

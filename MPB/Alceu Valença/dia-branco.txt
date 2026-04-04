@@ -1,0 +1,66 @@
+Alceu Valença - Dia Branco
+
+INTRODUÇÃO:
+
+   (F# G# F#)
+e|-9-11-12-s14-12-11-12-11-9-s11-9-7-9-7-6---6-9-8---6-|
+B|-----------------------------------------7-------9---|
+G|-----------------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+   (F# G# F#)
+e|-9-11-12-s14-12-11-12-11-9-s11-9-7-9-7-6---6-9-8-----|
+B|-----------------------------------------7-------9-7-|
+G|-----------------------------------------------------|
+D|-----------------------------------------------------|
+A|-----------------------------------------------------|
+E|-----------------------------------------------------|
+
+F#
+Deusa da noite
+
+
+Sangrenta e fria
+         E
+Irmã da lua
+           C#         F#
+Mulher da noite e do dia
+
+Eu vim de longe
+
+Atrás de brisa
+          E
+Com sete pedras
+          C#      F#
+Bordei a minha camisa
+           B5             F#5
+Pra ver a doida das lantejoulas
+            B5             F#5
+Dos lábios verdes de purpurina
+           B5               F#5
+Dançar na noite nos quatro cantos
+           B5            F#5
+Com seu vestido de bailarina
+         B              F#
+Fazer o riso, tremer o medo
+         B             F#
+Fazer o medo, virar sorriso
+             B**                F#**
+Fazer da noite  dos quatro cantos
+         B     C#      F#5
+Um dia branco feito domingo
+
+
+B** :797879
+F#**:242324
+
+----------------- Acordes -----------------
+B = X 2 4 4 4 2
+B5 = X 2 4 4 X X
+C# = X 4 6 6 6 4
+E = 0 2 2 1 0 0
+F# = 2 4 4 3 2 2
+F#5 = 2 4 4 X X X
+G# = 4 3 1 1 1 4

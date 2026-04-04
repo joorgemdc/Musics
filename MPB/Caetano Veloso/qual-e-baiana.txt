@@ -1,0 +1,36 @@
+Caetano Veloso - Qual É, Baiana?
+
+Em     F#m7(b5)      B7       Em
+Essa menina é só de brincadeira
+   Em7    F#m7(b5)      B7    Em   Em7
+Só dá bandeira, só dá bandeira
+         F#m7(b5)      B7     Em
+Seja na Amaralina ou na Ribeira
+            Em7         F#m7(b5)
+Ela só dá bandeira
+       B7       Em
+Ela só dá bandeira
+            E7               Am
+Domingo no porto da barra pesada
+            B7                       Em7
+Ela sempre agrada ao gosto e ao olhar
+            E7             Am
+Domingo no porto da barra limpa
+            B7                     Em7   E7
+Todo mundo brinca entre ela e o mar
+     Am7    D7      G7M
+Domingo no porto da barra
+      G6     B7                   Em
+Todo mundo agarra mas não pode amar
+
+----------------- Acordes -----------------
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+D7 = X X 0 2 1 2
+E7 = 0 2 2 1 3 0
+Em = 0 2 2 0 0 0
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X
+G6 = 3 X 2 4 3 X
+G7M = 3 X 4 4 3 X

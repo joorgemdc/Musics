@@ -1,0 +1,209 @@
+Adriana Calcanhotto - Esquadros
+
+Intro: A9
+
+   A9
+E|-------0--------0--------0--------0-------|
+B|-------0--------0--------0--------0-------|
+G|---2---2----2---2----2---2----2---2-------|
+D|------------------------------------------|
+A|-0---0----0---0----0---0----0---0---------|
+E|------------------------------------------|
+
+
+Verso:
+   A9                F#m7
+E|-------0--------0-------------------------|
+B|-------0--------0--------2--------2-------|
+G|---2---2----2---2--------2--------2-------|
+D|---------------------2---2----2---2-------|
+A|-0---0----0---0---------------------------|
+E|-------------------2---2----2---2---------|
+
+   Bm7(9)            E7
+E|------------------------------------------|
+B|-------2--------2--------0--------0-------|
+G|-------2--------2--------1--------1-------|
+D|---0---0----0---0----0---0----0---0-------|
+A|-2---2----2---2---------------------------|
+E|-------------------0---0----0---0---------|
+
+
+
+A9
+   Eu ando pelo mundo
+                      F#m7
+Prestando atenção em cores
+
+Que eu não sei o nome
+ Bm7(9)
+Cores de Almodóvar
+           E7
+Cores de Frida Kahlo, cores
+    A9
+Passeio pelo escuro
+                     F#m7
+Eu presto muita atenção
+
+No que meu irmão ouve
+   Bm7(9)
+E como uma segunda pele
+              E7
+Um calo, uma casca
+                  A9
+Uma cápsula protetora
+F#m7
+Ai, eu quero chegar antes
+     Bm7(9)
+Pra sinalizar
+                 E7
+O estar de cada coisa
+
+Filtrar seus graus
+
+   A9
+Eu ando pelo mundo
+
+Divertindo gente
+F#m7
+     Chorando ao telefone
+   Bm7(9)
+E vendo doer a fome
+       E7
+Nos meninos que têm fome
+
+Refrão:
+
+Parte 1
+   Am9               Dm7
+E|-------------------------1--------1-------|
+B|-------1--------1--------1--------1-------|
+G|-------4--------4----2---2----2---2-------|
+D|---2---2----2---2--0---0----0---0---------|
+A|-0---0----0---0---------------------------|
+E|------------------------------------------|
+
+
+Parte 2
+   Am9               Dm6/F    E7
+E|------------------------------------------|
+B|-------1--------1--------0--------0-------|
+G|-------4--------4--------2--------1-------|
+D|---2---2----2---2----0---0----0---0-------|
+A|-0---0----0---0---------------------------|
+E|-------------------1---1----0---0---------|
+
+Am9
+    Pela janela do quarto
+
+Pela janela do carro
+Dm7
+    Pela tela, pela janela
+       Am9
+Quem é ela, quem é ela,
+
+Eu vejo tudo enquadrado
+Dm6/F             E7
+      Remoto controle
+
+Verso:
+
+A9
+   Eu ando pelo mundo
+          F#m7
+E os automóveis correm para quê
+Bm7(9)                         E7
+       As crianças correm para onde
+     A9
+Transito entre dois lados, de um lado
+
+F#m7
+     Eu gosto de opostos
+   Bm7(9)
+Exponho o meu modo me mostro
+    E7
+Eu canto para quem
+
+Refrão:
+
+Am9
+    Pela janela do quarto
+
+Pela janela do carro
+Dm7
+    Pela tela, pela janela
+       Am9
+Quem é ela, quem é ela,
+
+Eu vejo tudo enquadrado
+Dm6/F             E7
+      Remoto controle
+
+Verso:
+
+A9
+   Eu ando pelo mundo
+F#m7
+     E meus amigos, cadê
+Bm7(9)                 E7
+       Minha alegria, meu cansaço
+A9              F#m7
+   Meu amor, cadê você
+   Bm7(9)
+Eu acordei
+     E7
+Não tem ninguém ao lado
+
+Refrão:
+
+Am9
+    Pela janela do quarto
+
+Pela janela do carro
+Dm7
+    Pela tela, pela janela
+       Am9
+Quem é ela, quem é ela,
+
+Eu vejo tudo enquadrado
+Dm6/F             E7
+      Remoto controle
+
+Verso:
+
+A9
+   Eu ando pelo mundo
+F#m7
+     E meus amigos, cadê
+Bm7(9)                 E7
+       Minha alegria, meu cansaço
+A9              F#m7
+   Meu amor, cadê você
+   Bm7(9)
+Eu acordei
+     E7
+Não tem ninguém ao lado
+
+Refrão:
+
+Am9
+    Pela janela do quarto
+
+Pela janela do carro
+Dm7
+    Pela tela, pela janela
+       Am9
+Quem é ela, quem é ela,
+
+Eu vejo tudo enquadrado
+Dm6/F             E7  A9
+      Remoto controle
+
+----------------- Acordes -----------------
+A9 = X 0 2 2 0 0
+Am9 = X 0 2 4 1 0
+Bm7(9) = X 2 0 2 2 X
+Dm6/F = 1 X 0 2 0 X
+Dm7 = X X 0 2 P1 1
+E7 = 0 2 0 1 0 0
+F#m7 = 2 X 2 2 2 X

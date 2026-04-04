@@ -1,0 +1,114 @@
+Chico Buarque - Retrato Em Branco e Preto
+
+Em                           B/D#
+Já conheço os passos dessa estrada
+                       Dm
+Sei que não vai dar em nada
+       Db            Cmaj7  C6  C(#5)  C
+Seus segredos sei de cor
+Am7           B7(#9)      G
+Já conheço as pedras do caminho
+                       F#7(13)
+E sei também que ali sozinho
+         F#7(b13)   Bmaj7(9)
+Eu vou ficar tanto pior
+               F7(#11)          Em
+O que é que eu posso contra o encanto
+                       B/D#
+Deste amor que eu nego tanto
+                        Dm
+Evito tanto  E que no entanto
+      Db              Cmaj7  C7  C6
+Volta sempre a enfeitiçar
+Am              A#dim           G/B
+Com seus mesmos tristes, velhos fatos
+
+G(#5)/B    Cmaj7      Am(M7) Am7(b5)  Cm7  B7   Em B
+Que    num álbum de retratos eu teimo em colecionar
+Em                        B/D#
+Lá vou eu de novo como um tolo
+                  Dm
+Procurar um desconsolo
+          Db          Cmaj7  C6  C(#5)  C
+Que eu cansei de conhecer
+Am7        B7(#9)          C
+Novos dias tristes, noites claras
+                      F#7(13)
+Versos, cartas, minha cara
+      F#7(b13)         Bmaj7(9)
+Ainda volto a lhe escrever
+          F7(#11)          Em
+Pra lhe dizer que isto é pecado
+                        D#dim7
+Eu trago o peito tão marcado
+                  Dm
+De lembranças do passado
+    Db          Cmaj7  C7  C6
+E você sabe a razão
+Am         A#dim         G/B
+Vou colecionar mais um soneto
+  G(#5)/B   Cmaj7             Am(maj7)
+Outro     retrato em branco e preto
+  Am7(b5) Cm7   B7  Em  Bmaj7(#5)
+A maltratar meu coração
+
+Gm  F#dim  Fm  E7  Ebmaj7  Eb7  Eb6
+
+Cm         C#°           Bb/D
+Vou colecionar mais um soneto
+  Bb(#5)/D   Ebmaj7            Cm(maj7)
+Outro      retrato em branco e preto
+  Cm7(b5) Ebm7(11/9)     D7  Gm7  Db7(#11/9)
+A maltra--tar        meu coração.
+Cm         C#°           Bb/D
+Vou colecionar mais um soneto
+  Bb(#5)/D   Ebmaj7            Cm(maj7)
+Outro      retrato em branco e preto
+  Cm7(b5) Ebm7(11/9)     D7  Gm  Dmaj7(#9/#5) Gm
+A maltra--tar        meu coração.
+
+Dmaj7(#9/#5)  D7(b9)  Gm  Gm7(11/9)
+
+----------------- Acordes -----------------
+A#dim = X 1 2 0 2 0
+Am = X 0 2 2 1 0
+Am(maj7) = X 0 2 1 1 0
+Am7 = X 0 2 0 1 0
+Am7(b5) = 5 X 5 5 4 X
+B/D# = X 6 X 4 7 7
+B7 = X 2 1 2 0 2
+B7(#9) = X 2 1 2 3 X
+Bb(#5)/D = X 5 4 3 5 X
+Bb/D = X 5 X 3 6 6
+Bmaj7(#5) = X 2 X 3 4 3
+Bmaj7(9) = X 2 1 3 2 X
+C = X 3 2 0 1 0
+C#° = X 4 5 3 5 3
+C(#5) = X 3 2 1 1 X
+C6 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+Cm = X 3 5 5 4 3
+Cm(maj7) = X 3 5 4 4 3
+Cm7 = X 3 5 3 4 3
+Cm7(b5) = X 3 4 3 4 X
+Cmaj7 = X 3 2 0 0 X
+D#dim7 = X X 1 2 1 2
+D7 = X X 0 2 1 2
+D7(b9) = X 5 4 5 4 X
+Db = X 4 6 6 6 4
+Dm = X X 0 2 3 1
+E7 = 0 2 2 1 3 0
+Eb6 = X X 1 3 1 3
+Eb7 = X 6 5 6 4 X
+Ebmaj7 = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+F#dim = 2 X 1 2 1 X
+F7(#11) = 1 X 1 2 0 X
+Fm = 1 3 3 1 1 1
+G = 3 2 0 0 0 3
+G(#5)/B = X 2 0 0 4 X
+G/B = X 2 0 0 3 3
+Gm = 3 5 5 3 3 3
+Gm7 = 3 X 3 3 3 X

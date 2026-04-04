@@ -1,0 +1,79 @@
+Ivan Lins - Inútil Paisagem
+
+[ Tom Jobim ]
+
+
+[Intro:] D7M(13) Gm7(9)/D Gm6(9)/D
+
+ D6 C#7M(13) C7M(#11) B7(13) B7(b13)
+Mas  pra      que
+      Em7M(9)    Em7(9) Em6(9) Em7(9)
+Pra que tanto céu
+       Gm7(9)      Gm6(9) Gm9(b6) Gm6(9)
+Pra que tanto mar, pra que
+F#7(13)       F#7(b13)   B7(9)(11) B7(b9)
+De que serve esta onda que quebra
+   E7(13)  E7(b13) A7(9)(11) A7(9)
+E o vento da tarde
+         D7(13) D7(b13)
+De que serve a tarde
+G7(9) G7(b9) D7M(13)        Gm7(9)/D Gm6(9)/D D7M(13)
+Inú...til           paisagem
+        Gm7(9)/D Gm6(9)/D
+Paisagem
+
+D6 A#m7(9)(11) Fm7(9) A#7(13) C7M(#11) B7(13) B7(b13)
+Po...de                         ser
+      Em7M(9) Em7(9) Em6(9) Em7(9) D/F#
+Que não venhas mais
+       Gm7(9)    Gm6(9) Gm9(b6) Gm6(9)
+Que não venhas nunca      mais
+F#7(13)          C7(9)   B7(9)(11) B7(b9)
+De que servem as flores que nascem
+      E7(13) A#7(9) A7(9)(11) A7(9) D7(13) D7(b13) G7(9)
+Pelo caminho                   se o meu caminho
+    G7(b9) D7M(13)      Gm7(9)/D Gm6(9)/D D7M(13)      Gm7(9)/D Gm6(9)/D
+Sozinho           é nada,                        é nada
+
+Solo: D6 A#m7 C7M(#11) B6 G#m7 A#6 D#7M(9) D#6(9) G#7M A7(13)
+      D7M(13) Gm7(9)/D Gm6(9)/D
+
+----------------- Acordes -----------------
+A#6 = X 1 3 0 3 X
+A#7(13) = 6 X 6 7 8 X
+A#7(9) = X 1 0 1 1 X
+A#m7 = X 1 3 1 2 1
+A#m7(9)(11) = 6 4 6 5 4 X
+A7(13) = X 0 X 0 2 2
+A7(9) = 5 X 5 4 2 X
+A7(9)(11) = 5 X 5 4 3 X
+B6 = X 2 4 1 4 X
+B7(13) = X 2 X 2 4 4
+B7(9)(11) = X 2 2 2 2 2
+B7(b13) = X 2 X 2 4 3
+B7(b9) = X 2 1 2 1 X
+C#7M(13) = X 4 3 3 1 1
+C7(9) = X 3 2 3 3 X
+C7M(#11) = 8 X 9 9 7 X
+D#6(9) = X X 1 0 1 1
+D#7M(9) = X 6 5 7 6 X
+D/F# = 2 X 0 2 3 2
+D6 = X 5 4 2 0 X
+D7(13) = X 5 X 5 7 7
+D7(b13) = X 5 X 5 7 6
+D7M(13) = X 5 4 4 2 2
+E7(13) = 0 X 0 1 2 0
+E7(b13) = 0 X 0 1 1 0
+Em6(9) = X X 2 0 2 2
+Em7(9) = X 7 5 7 7 X
+Em7M(9) = 0 X X 0 4 2
+F#7(13) = 2 X 2 3 4 X
+F#7(b13) = 2 X 2 3 3 2
+Fm7(9) = X X 3 1 4 3
+G#7M = 4 X 5 5 4 X
+G#m7 = 4 X 4 4 4 X
+G7(9) = 3 X 3 2 0 X
+G7(b9) = 3 X 3 1 0 X
+Gm6(9) = X X 5 3 5 5
+Gm7(9) = X X 5 3 6 5
+Gm9(b6) = 15 X 15 14 11 11

@@ -1,0 +1,40 @@
+João Gilberto - Guacyra
+
+
+D6/9                 Fdim       Em7   A7/-9
+Adeus Guacyra, Meu pedacinho de terra,
+          Dmaj9          G#dim             Em7 Em9
+Meu pé de serra, Que nem Deus sabe, onde está
+         Em7/B        Bbdim
+Adeus Guacyra, Onde a Lua pequenina,
+Bm9      Bm7      Bm6          G#m7/-5       Em7 A13/-9
+Não encontra na colina, Nem um lago pra se oiá.
+            Dmaj9        G#dim       Em7 A13/-9
+Eu vou-me embora, Mas eu volto outro dia
+         Am6       D7    D7/+5  Gmaj7
+Virgem Maria, Tudo há de permi- tir
+Gm9                  Dmaj7    Fdim          Em7
+E se ele não quiser, Eu vou morrer cheio de fé
+A13/-9      D6/9
+Pensando em ti.
+
+----------------- Acordes -----------------
+A7/-9 = 5 X 5 3 2 X
+Am6 = 5 X 4 5 5 X
+Bbdim = X 1 2 0 2 0
+Bm6 = 7 X 6 7 7 X
+Bm7 = X 2 4 2 3 2
+Bm9 = X 2 4 6 3 2
+D6/9 = X 5 4 2 0 0
+D7 = X X 0 2 1 2
+D7/+5 = X 5 X 5 7 6
+Dmaj7 = X X 0 2 2 2
+Dmaj9 = X 5 4 6 5 X
+Em7 = 0 2 2 0 3 0
+Em7/B = X 2 2 0 3 0
+Em9 = 0 2 4 0 0 0
+Fdim = X X 3 4 3 4
+G#dim = 4 X 3 4 3 X
+G#m7/-5 = 4 X 4 4 3 X
+Gm9 = 3 5 7 3 3 3
+Gmaj7 = 3 X 4 4 3 X

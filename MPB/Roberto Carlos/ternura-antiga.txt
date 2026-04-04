@@ -1,0 +1,41 @@
+Roberto Carlos - Ternura Antiga
+
+Intro: Am9  F#m7(b5)  B7  Em7
+
+Am7         F#m7(b5) B7        Em7  Em/D
+Ai, a rua escura,      o vento frio
+                     C#°
+Esta saudade, este vazio
+C13                   Em7
+   Esta vontade de chorar
+Am7         D7/9       Bm7
+Ai, tua distância tão amiga
+Em7                   Am7
+   Esta ternura tão antiga
+C7                        B7 E7/9-
+   E o desencanto de esperar
+Am7    F#m7(b5) B7          Em7
+Sim, eu não te amo porque quero
+Am7    F#m7(b5)  B7           Em7 E7
+Ai, se eu      pudesse esqueceria!
+Am7 F#m7(b5)    B7             Em7  Em/D
+Vivo     e vivo só porque te espero
+Am7          F#m7(b5) B7     Em   Em/D C7 E7+
+Ai, esta amargura,      esta agonia
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am9 = X 0 2 4 1 0
+B7 = X 2 1 2 0 2
+Bm7 = X 2 4 2 3 2
+C#° = X 4 5 3 5 3
+C13 = 8 X 7 9 8 X
+C7 = X 3 2 3 1 X
+D7/9 = X 5 4 5 5 X
+E7 = 0 2 2 1 3 0
+E7+ = X X 2 4 4 4
+E7/9- = X X 2 1 3 1
+Em = 0 2 2 0 0 0
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F#m7(b5) = 2 X 2 2 1 X

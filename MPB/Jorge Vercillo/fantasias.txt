@@ -1,0 +1,66 @@
+Jorge Vercillo - Fantasias
+
+[Intro] A  F7+  Dm7/9  Bb7/9  A7+  F7+  G  A  D/E
+
+A                         B/A  A
+  Você não está feliz eu sei
+A                           A/B  C7+
+ Também não sabe o que eu passei
+         D/C      Bm7
+Você não tem ideia
+           E7(b9)        Am7
+Como essas coisas marcam
+         C/D        E7+/9
+E la no fundo faz refém
+
+                C7+
+Se você for julgar vai se perder
+                Bm7          Em7/9
+Nos labirintos dentro de você
+          C7+        D             E7+/9
+Agora acredita e vem comigo, vem viver
+
+Bm7                   C7+
+  A mão que aponta um dedo esconde três
+
+             Bm7               Em7/9
+De volta apontados pra quem fez
+    F7+          G           A
+Acredita e vem comigo de uma vez
+
+                F7+
+Estou lhe convidando pra viver
+               A                 A7+
+Uma história escrita por nos dois
+          F7+          G            A
+Agora acredita e vem comigo, vem viver
+
+              F7+          Dm7
+As fantasias dentro de você
+                 Bb7/9       A
+Um mundo que eu imaginei pra nós
+    F7+          G           Bm7/9  D/E
+Acredita e vem comigo, vem viver
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/B = X 2 2 2 2 X
+A7+ = X 0 2 1 2 0
+Am7 = X 0 2 0 1 0
+B/A = X 0 4 4 4 X
+Bb7/9 = X 1 0 1 1 X
+Bm7 = X 2 4 2 3 2
+Bm7/9 = X 2 0 2 2 X
+C/D = X X 0 0 1 0
+C7+ = X 3 2 0 0 X
+D = X X 0 2 3 2
+D/C = X 3 X 2 3 2
+D/E = X X 2 2 3 2
+Dm7 = X 5 7 5 6 5
+Dm7/9 = X 5 3 5 5 X
+E7(b9) = X X 2 1 3 1
+E7+/9 = X 7 6 8 7 X
+Em7/9 = X 7 5 7 7 X
+F7+ = 1 X 2 2 1 X
+G = 3 2 0 0 0 3

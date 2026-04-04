@@ -1,0 +1,59 @@
+Milton Nascimento - Canoa, Canoa
+
+Int.: G7+ F#m7 C7/9
+ G7+          Bm7
+Canoa canoa desce
+    C7/9    G7+           Bm7
+No meio do rio Araguaia desce
+   C7/9     G7+             Bm7
+No meio da noite alta da floresta
+ C7/9       G7+         Gm7
+Levando a solidão e a coragem
+ C7/9          G7+
+Dos homens que são
+Bm7  C7/9 G7+
+Ava avacanoê
+Bm7  C7/9 G7+
+Ava avacanoê
+     Bm7      C7/9       G7+
+Avacanoeiro prefere as águas
+     Bm7      C7/9     G7+
+Avacanoeiro prefere o rio
+     Bm7      C7/9       G7+
+Avacanoeiro prefere os peixes
+
+     Bm7      C7/9    G7+
+Avacanoeiro prefere remar
+Bm7   C7/9    G7+
+Ava prefere pescar
+Bm7   C7/9    Em7
+Ava prefere pescar
+  Em/D  C#m5-/7 C7+ Em7
+Dourado, arraia, grumatá
+ Em/D  C#m5-/7 C7+ Em7
+Piracará, pira-andirá
+
+Jatuarana, taiabucu
+   C/D              Em7
+Piracanjuba, peixe-mulher
+ Em7   C7+        Em7
+Avacanoeiro quer viver
+ Em7  C#m5-/7 C7+    Am7
+Avacanoeiro só quer pescar
+
+Dourado, arraia e grumatá
+     C/D             G7+  Bm7 C7/9
+Piracanjuba, peixe mulher
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Bm7 = X 2 4 2 3 2
+C#m5-/7 = X 4 5 4 5 X
+C/D = X X 0 0 1 0
+C7+ = X 3 2 0 0 X
+C7/9 = X 3 2 3 3 X
+Em/D = X X 0 4 5 3
+Em7 = 0 2 2 0 3 0
+F#m7 = 2 X 2 2 2 X
+G7+ = 3 X 4 4 3 X
+Gm7 = 3 X 3 3 3 X

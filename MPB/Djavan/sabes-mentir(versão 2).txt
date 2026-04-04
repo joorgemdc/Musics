@@ -1,0 +1,63 @@
+Djavan - Sabes Mentir
+
+A7M(9)
+Sabes mentir
+C#m7      Cm6        Bm7           Gm6 F#7
+  Hoje eu sei que tu sabes sentir
+Bm7
+Um falso amor
+E7(9/13) Bb7(9/13) A7M(9) C#m7 Bm7 Bb7(#9)
+  Abrigaste em meu coração
+
+A7M(9)
+Sempre a iludir
+C#m7      Cm6     Bm7        Gm6 F#7
+  Tu falavas com tanto ardor
+Bm7
+Dessa paixão
+E7(9/13)  E7      A  A9
+  Que dizias sentir
+
+Dm7               G74(9)
+Mas tudo agora acabou
+     G7(9)    A7M(9)
+Para mim terminou a ilusão
+
+F#m(b6)  F#m6     F#m7
+Hoje esse amor já findou
+   F#m6        Bm7  E7(#9)
+E afinal para que amar
+
+A7M(9)
+Sempre a iludir
+C#m7     Cm6      Bm7     Gm6  F#7
+  Tu beijavas com afeição
+Bm7
+Sempre a fingir
+E74(9) E4/7(b9)  Dm7  Dm6  A7M(9)  G#/A
+  Uma falsa emoção7
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7M(9) = X 0 2 1 0 0
+A9 = X 0 2 2 0 0
+Bb7(#9) = X X 8 7 9 9
+Bb7(9/13) = X 1 0 1 1 3
+Bm7 = X 2 4 2 3 2
+C#m7 = X 4 6 4 5 4
+Cm6 = X 3 X 2 4 3
+Dm6 = X 5 X 4 6 5
+Dm7 = X 5 7 5 6 5
+E4/7(b9) = X X 2 2 3 1
+E7 = 0 2 2 1 3 0
+E7(#9) = X 7 6 7 8 X
+E7(9/13) = 0 X 0 1 2 2
+E74(9) = X X 2 2 3 2
+F#7 = 2 4 2 3 2 2
+F#m(b6) = 2 5 4 2 3 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+G#/A = X X 7 8 9 8
+G7(9) = 3 X 3 2 0 X
+G74(9) = 3 X 3 2 1 X
+Gm6 = 3 X 2 3 3 X

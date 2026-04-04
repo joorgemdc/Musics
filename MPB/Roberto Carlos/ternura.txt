@@ -1,0 +1,69 @@
+Roberto Carlos - Ternura
+
+E|-12-10-7----7-5---5--------------|
+B|---------10-----8---8-7-5--------|
+G|---------------------------------|
+D|---------------------------------|
+A|---------------------------------|
+E|---------------------------------|
+
+
+Em        A7      D
+ Uma vez você falou
+                G       C7M
+ Que era meu o seu amor
+        Am7        D  C
+ E ninguém ia separar
+          D  C
+ Você de mim
+        D          G       Em  Am7
+ Agora você vem dizendo adeus
+                 D
+ Que foi que eu fiz
+            G             B7
+ Pra que você me trate assim ?
+  Em              A7        D
+ Todo o amor que eu guardei
+            G       C7M
+ A você eu entreguei
+            Am7       D  C          D   C
+ Eu não suporto tanta dor tanto sofrer
+        D           G      Em   Am7
+ Agora você vem dizendo adeus
+                 D
+ Que foi que eu fiz
+            G              B7
+ Pra que você me trate assim ?
+  E           C#m7         F#m7
+ Toda ternura que eu lhe dei
+      B7                    E     C#m7
+ Ninguém no mundo vai lhe ofertar
+    A                  B7         Em
+ E seus cabelos só eu sei como afagar
+               A7     D
+ O meu pobre coração
+                    G   C7M
+ Já não quer mais ilusão
+           Am7          D  C         D  C
+ Já não suporta mais sofrer ingratidão
+        D          G       Em
+ Agora você vem dizendo adeus
+  Am7             D
+ Que foi que eu fiz
+            G              B7
+ Pra que você me trate assim ?
+
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A7 = X 0 2 0 2 0
+Am7 = X 0 2 0 1 0
+B7 = X 2 1 2 0 2
+C = X 3 2 0 1 0
+C#m7 = X 4 6 4 5 4
+C7M = X 3 2 0 0 X
+D = X X 0 2 3 2
+E = 0 2 2 1 0 0
+Em = 0 2 2 0 0 0
+F#m7 = 2 X 2 2 2 X
+G = 3 2 0 0 0 3

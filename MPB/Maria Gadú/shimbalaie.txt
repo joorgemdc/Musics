@@ -1,0 +1,115 @@
+Maria Gadú - Shimbalaiê
+
+(intro 4x)
+
+E|----8--7-------0-------0-------0--|
+B|----8------8---------8---8---8----|
+G|----0--------------0-------0------|
+D|----------------------------------|
+A|-----------------8----------------|
+E|--8------8---8--------------------|
+
+(dedilhado 1º refrão)
+
+     C     C7M       F7M(9)    G9            C     C7M       F7M(9)    G9
+E|----8---7-------0---------------------------8---7-------0-------------------0---|
+B|----8-------8-----------8/10--------10------8-------8-----------8/10------------|
+G|----0---------------0----------0------------0---------------0----------0--------|
+D|--------------------------------------------------------------------------------|
+A|------------------8---8-----10---10-----------------------8---8-----10---10-----|
+E|--8---8---8---8---------------------------8---8---8---8-------------------------|
+
+     Am7                F7M(9)     G             C     C7M       F7M(9)    G9    Am7(9)
+E|-------7p5-------0---------------------------8---7-------0-------------------0--0-|
+B|---5---------5------------8/10---------10----8-------8-----------8/10-----------0-|
+G|---5---------5--------0-----------0----------0---------------0----------0-------5-|
+D|--------------------------------------------------------------------------------5-|
+A|-0---0-----0---0----8---8------10---10---------------------8---8-----10---10----0-|
+E|-------------------------------------------8---8---8---8--------------------------|
+
+
+C        F7M(9)             G9               C
+ Shimbalaiê, quando vejo o sol beijando o mar
+         F7M(9)             G9          Am7(9)
+ Shimbalaiê, toda vez que ele vai repousar
+                F7M(9)             G9               C
+ Shimbalaiê, quando vejo o sol beijando o mar
+         F7M(9)             G9          Am7(9)
+ Shimbalaiê, toda vez que ele vai repousar
+
+C9         G/B         Am7
+ Natureza deusa do viver
+           F
+ A beleza pura do nascer
+C9           G/B                Am7
+ Uma flor brilhando à luz do sol
+                   F         Am7
+ Pescador entre o mar e o anzol
+
+C9            G/B                Am7
+ Pensamento tão livre quanto o céu
+             F
+ Imagino um barco de papel
+C9            G/B              Am7
+ Indo embora pra não mais voltar
+             F         Am7
+ Tendo como guia Iemanjá
+
+          F                 G              C9
+ Shimbalaiê, quando vejo o sol beijando o mar
+          F                 G            Am7
+ Shimbalaiê, toda vez que ele vai repousar
+          F                 G              C9
+ Shimbalaiê, quando vejo o sol beijando o mar
+          F                 G            Am7
+ Shimbalaiê, toda vez que ele vai repousar
+
+C9             G/B           Am7
+ Quanto tempo leva pra aprender
+                   F
+ Que uma flor tem vida ao nascer
+C9             G/B              Am7
+ Essa flor brilhando à luz do sol
+                   F         Am7
+ Pescador entre o mar e o anzol
+
+          F                 G              C9
+ Shimbalaiê, quando vejo o sol beijando o mar
+          F                 G            Am7
+ Shimbalaiê, toda vez que ele vai repousar
+          F                 G              C9
+ Shimbalaiê, quando vejo o sol beijando o mar
+          F                 G
+ Shimbalaiê, toda vez que ele vai repousar
+
+(C   C7M)
+
+( C   C7M   F7M(9)   G9 )
+Ser capitã desse mundo
+Poder rodar sem fronteiras
+Viver um ano em segundos
+Não achar sonhos besteira
+
+          F7M(9)         G9          C          C7M
+ Me encantar com um livro, que fale sobre vaidade
+            F7M(9)        G9         F7M(9)      C
+ Quando mentir for preciso, poder falar a verdade
+
+(solo)  C  C7M
+
+          F                 G              C9
+ Shimbalaiê, quando vejo o sol beijando o mar
+          F                 G           C9       (4x)
+ Shimbalaiê, toda vez que ele vai repousar
+
+----------------- Acordes -----------------
+Am7 = X 0 2 0 1 0
+Am7(9) = X X 7 5 8 7
+C = X 3 2 0 1 0
+C7M = X 3 2 0 0 X
+C9 = X 3 5 5 3 3
+F = 1 3 3 2 1 1
+F7M(9) = X 8 7 9 8 X
+G = 3 2 0 0 0 3
+G/B = X 2 0 0 3 3
+G9 = 3 X 0 2 0 X

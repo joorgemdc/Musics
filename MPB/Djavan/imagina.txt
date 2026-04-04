@@ -1,0 +1,113 @@
+Djavan - Imagina
+
+Chico Buarque, Djavan, Tom Jobim, Vinicius de Moraes
+
+
+D7(b9)   G7M   F#°    G7M   F#°
+      Imagina,     imagina
+       G  Ebm6/Gb                    G  B7(b9)
+Hoje à no---------ite a gente se perder
+
+Imagi------na,       imagi------na
+         Em(7M/9)  B7(b9)        E7M(9)
+Hoje à no--------ite a lua se apagar
+
+E7(b9)            Am7   D7/4
+Quem já viu a lua cris
+         Am7   D7/4      Am7   D7/4
+Quando a lua começa a murchar
+    Bm7  E7/4      Bm7      E7/4
+Lua cris,     é preciso gritar
+     Bm(7M)           E7(9) E7(b9)
+E correr, socorrer o luar
+
+
+      Am7 D7/4        Am7       Bm/D      Am7  D7/4
+Meu amor,      abre a porta pra noite passar
+           B  C/B       B   C/B        B7    C/B
+E o olha o sol    da manhã,     olha a chuva
+        B7            F#°
+Olha a chuva, olha o sol
+       A°     D7(b9)
+Olha o dia lançar
+
+      G7M    D7(b9)       G7M   F7(b9)
+Serpentinas,        serpentinas
+     Bb7M(9) Bb7(b9)      Eb7M(9) Cm/Eb     Eb7M(9)  Cm/Eb
+Pelo céu,            sete fitas         coloridas
+     Cm7(9)
+Sete vias, sete vidas
+                                 D7(4/9)
+Avenidas pra qualquer lugar
+
+Imagina
+   D7(b9)
+Imagina
+
+     G7M                 Ebm6
+Sabe que o menino que passar
+                Cm7(9)    A7(b9)
+Debaixo do arco-íris vira moça, vira
+G7M             Ebm6
+A menina que cruzar de volta
+       Cm7(9)         A7(b9)
+O arco-íris rapidinho volta a ser rapaz
+G7M            Ebm6                 G7M
+A menina que passou no arco era o menino
+              Ebm6               G7M   C6/G
+Que passou no arco e vai virar menina
+   G7M   C6/G    G7M  D7(4/9)   G7M   D7(b9)
+Imagina,      imagina,       imagina
+   G7M   F#°    G7M   F#°
+Imagina,     imagina
+        G  Ebm6/Gb                   G    B7(b9)
+Hoje a no----------ite a gente se perder
+
+    Em(7M/9)    B7(b9)     Em(7M/9)     B7(b9)
+Imagi--------na,       imagi--------na
+
+         Em(7M/9)    B7(b9)             E7M(9)
+Hoje à no--------ite        a lua se apagar
+
+
+D7(b9)          X4545X  Am7             5X55XX  C/B             X2X010  Cm7(9)  X3133X
+G7M             3X443X  D7/4            X555XX  B7              X2424X  D7(4/9) X5555X
+F#°             2X121X  Bm7             7X77XX  A°              5X454X  Ebm6    XX1312
+G               3X000X  E7/4            0X770X  F7(b9)          1X424X  A7(b9)  X0532X
+Ebm6/Gb         2X131X  Bm(7M)          7X877X  Bb7M(9)         X1021X  C6/G    3X221X
+B7(b9)          X2121X  E7(9)           X7677X  Bb7(9)          X1010X
+Em(7M/9)                02404X  Bm/D            X5443X  Eb7M(9)         XX1031
+E7(b9)          02121X  B               X2444X  Cm/Eb           XX1013
+
+----------------- Acordes -----------------
+A7(b9) = 5 X 5 3 2 X
+Am7 = X 0 2 0 1 0
+A° = 5 X 4 5 4 X
+B = X 2 4 4 4 2
+B7 = X 2 1 2 0 2
+B7(b9) = X 2 1 2 1 X
+Bb7(9) = X 1 0 1 1 X
+Bb7(b9) = 6 X 6 4 3 X
+Bb7M(9) = X 1 0 2 1 X
+Bm(7M) = X 2 4 3 3 2
+Bm/D = X 5 X 4 7 7
+Bm7 = X 2 4 2 3 2
+C/B = X 2 2 0 1 0
+C6/G = 3 X 2 2 1 X
+Cm/Eb = X X 1 0 1 3
+Cm7(9) = X 3 1 3 3 X
+D7(4/9) = X 5 5 5 5 5
+D7(b9) = X 5 4 5 4 X
+D7/4 = X X 0 2 1 3
+E7(9) = X X 2 1 3 2
+E7(b9) = X X 2 1 3 1
+E7/4 = 0 2 0 2 0 X
+E7M(9) = X 7 6 8 7 X
+Eb7M(9) = X 6 5 7 6 X
+Ebm6 = X X 1 3 1 2
+Ebm6/Gb = 2 3 1 3 1 X
+Em(7M/9) = 0 X X 0 4 2
+F#° = 2 X 1 2 1 X
+F7(b9) = X X 3 2 4 2
+G = 3 2 0 0 0 3
+G7M = 3 X 4 4 3 X

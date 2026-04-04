@@ -1,0 +1,98 @@
+Caetano Veloso - Força Estranha
+
+A                         C#m7
+  Eu vi um menino correndo
+                F#7
+Eu vi o tempo brincando ao redor
+   F#7(13b)           Bm7(9) Bm7 Bm7(9) Bm7
+Do caminho daquele menino
+G#m7(b5)              C#7(b9)
+  Eu pus os meus pés no riacho
+  F#m      F#m/F      F#m7
+E acho que nunca os tirei
+  D#m7(b5)                                      E7(9) E9- E E7
+O sol ainda brilha na estrada que eu nunca passei
+
+A                          C#m7
+  Eu vi a mulher preparando outra pessoa
+   F#7               F#7(13-)             Bm7(9) Bm7 Bm7(9) Bm7
+O tempo parou pra eu olhar para aquela barriga
+G#m7(b5)        C#7(b9)
+  A vida é amiga da arte
+    F#m         F#m/F        F#m7
+É a parte que o sol me ensinou
+
+  D#m7(b5)                                      E7(9) E9- E E7
+O sol que atravessa essa estrada que nunca passou
+
+A                   C#7
+  Por isso uma força me leva a cantar
+F#m                       Em7  A7  D
+  Por isso essa força estranha
+                   D#º    A/E      F#7
+Por isso é que eu canto, não posso parar
+F#m6                   Bm7   E7
+  Por isso essa voz tama----nha
+
+A                             C#m7
+  Eu vi muitos cabelos brancos na fronte do artista
+  F#7               F#7(13-)               Bm7(9) Bm7 Bm7(9) Bm7
+O tempo não pára no entanto ele nunca envelhece
+G#m7(b5)            C#7(b9)    F#m      F#m/F      F#m7
+Aquele que conhece o jogo, do fogo das coisas que são
+    D#m7(b5)                                     E7(9) E9- E E7
+É o sol, é o tempo, é a estrada, é o pé e é o chão
+
+A                              C#m7
+  Eu vi muitos homens brigando. Ouvi seus gritos
+F#7                F#7(13-)          Bm7(9) Bm7 Bm7(9) Bm7
+Estive no fundo de cada vontade encoberta
+ G#m7(b5)                C#7(b9)
+E a coisa mais certa de todas as coisas
+    F#m     F#m/F         F#m7
+Não vale um caminho sob o sol
+    D#m7(b5)                                         E7(9) E9- E E7
+É o sol sobre a estrada, é o sol sobre a estrada, é o sol
+
+A                   C#7
+  Por isso uma força me leva a cantar
+F#m                       Em7  A7  D
+  Por isso essa força estranha
+                   D#º    A/E      F#7
+Por isso é que eu canto, não posso parar
+F#m6                   Bm7   E7
+  Por isso essa voz tama----nha
+
+A                   C#7
+  Por isso uma força me leva a cantar
+F#m                       Em7   A7    D
+  Por isso essa força estranha, no ar
+                   D#º    A/E      F#7
+Por isso é que eu canto, não posso parar
+F#m6                   Bm7   E7(9)
+  Por isso essa voz tama----nha
+
+----------------- Acordes -----------------
+A = X 0 2 2 2 0
+A/E = 0 X 2 2 2 0
+A7 = X 0 2 0 2 0
+Bm7 = X 2 4 2 3 2
+Bm7(9) = X 2 0 2 2 X
+C#7 = X 4 3 4 2 X
+C#7(b9) = X 4 3 4 3 X
+C#m7 = X 4 6 4 5 4
+D = X X 0 2 3 2
+D#m7(b5) = X X 1 2 2 2
+D#º = X X 1 2 1 2
+E = 0 2 2 1 0 0
+E7 = 0 2 2 1 3 0
+E7(9) = X X 2 1 3 2
+E9- = 0 2 3 1 0 0
+Em7 = 0 2 2 0 3 0
+F#7 = 2 4 2 3 2 2
+F#7(13-) = 2 X 2 3 3 2
+F#m = 2 4 4 2 2 2
+F#m/F = X X 3 2 2 2
+F#m6 = 2 X 1 2 2 X
+F#m7 = 2 X 2 2 2 X
+G#m7(b5) = 4 X 4 4 3 X

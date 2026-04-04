@@ -1,0 +1,57 @@
+Gilberto Gil - Bem Devagar
+
+Intro: C Am Dm G
+
+      C7+   Am7
+Sem correr
+      Dm7       G7
+Bem devagar
+        C7+     Am      Gm7     C7/9-
+A felicidade voltou pra mim
+        F7+   F#dim
+Sem perceber
+        G7
+sem suspeitar
+        A7      D7/9    G7
+O meu coração deixou você surgir
+        C7+     Am7
+E como o despertar
+        Dm7     G7      A7
+depois de um sonho mau
+        Dm7     G7      Gm7     C7/9-
+Eu vi o amor surgindo em seu olhar
+        F7+     Fm6     Em      A7
+E a beleza da ternura de sentir você
+
+        Dm7
+Chegou sem correr
+G7      C7+     C7/9-
+Bem devagar
+        F7+     Fm6
+Amor velho que se perde
+        Em      C7/9-
+Sai correndo para outro ninho
+        Fm6     Bb7/9
+Amor novo que se ganha
+        Eb7+    Dm7     G7
+Vem sem pressa, vem mansinho
+
+----------------- Acordes -----------------
+A7 = X 0 2 0 2 0
+Am = X 0 2 2 1 0
+Am7 = X 0 2 0 1 0
+Bb7/9 = X 1 0 1 1 X
+C = X 3 2 0 1 0
+C7+ = X 3 2 0 0 X
+C7/9- = X 3 2 3 2 X
+D7/9 = X 5 4 5 5 X
+Dm = X X 0 2 3 1
+Dm7 = X 5 7 5 6 5
+Eb7+ = X X 1 3 3 3
+Em = 0 2 2 0 0 0
+F#dim = 2 X 1 2 1 X
+F7+ = 1 X 2 2 1 X
+Fm6 = 1 X 0 1 1 X
+G = 3 2 0 0 0 3
+G7 = 3 5 3 4 3 3
+Gm7 = 3 X 3 3 3 X

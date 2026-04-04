@@ -1,0 +1,121 @@
+﻿Milton Nascimento - A Sede do Peixe
+
+Capo Casa 1
+
+   Intro: A A9- Am7
+E|--------5-5--5-5--3-3--
+B|--------2-2--2-2--1-1--
+G|--------2-2--3-3--2-2--
+D|-----------------------
+A|---0--0----------------
+E|-0---------------------
+
+Am7
+Para o que o suor não me deu
+Am6      Am5+     Em/A D4/A
+O fogo do amor ensinou
+Am7 Am6        Am9        Am
+Ser o barro embaixo do sol
+    Am9       Am9-      Em/A D4/A
+Ser chuva lavrando sertão
+Am7        Em9          D4+ D
+Qual aleijadinho de sabará
+
+E|-4-----4-4-----4-4-----4-4-----
+B|-----3-------3-------3-------3-
+G|---2-------2-------2-------2---
+D|-0-----------------------------
+A|-------------------------------
+E|-------------------------------
+
+
+E|--1----0----1--------0--0--0-...
+B|--3----0----1--------4--4--4-...
+G|--2----0----2--------2--2--2-...
+D|------------3----------------
+A|--5--5------3-------0--------
+E|-------0--0-1----1-----------
+
+E a semente...  das bananas
+
+Am7
+Para o que não tem solução
+Am6      Am5+     Em/A D4/A
+A sede do peixe ensinou
+Am7 Am6        Am9        Am
+Não me vale a água do mar
+    Am9        Am9-      Em/A D4/A
+Nem vinho, nem glória, navio
+Am7          Em7(9)             D4+ D
+Nem o sal da língua que beija o frio
+    Dm Em F       A11+
+Nem ao menos toda raiva
+          A5
+E|----------------
+B|-----5--5-5--5--
+G|-----2--2-3--3--
+D|----------------
+A|-----0----------
+E|--0-------------
+
+A4              Am7
+Para o que não tem mais razão
+ Am6      Am5+       Em/A Em7(9)
+A calma do louco ensinou
+
+   z G/D
+E|--0--3--3--------0--0-...
+B|--3--3--3--------4--4-...
+G|--0--0--0--------2--2-...
+D|--------------0-------
+A|-----------0----------
+E|----------------------
+
+
+Am7 Em7(9) D4+ D Dm Em F A11+
+
+E|-4-----4-4-----4-2-----2-2-----2-
+B|-----3-------3-------3-------3---
+G|---2-------2-------2-------2-----
+D|-0-------------------------------
+A|---------------------------------
+E|---------------------------------
+
+E|-1-----1-1-----1-3-----3-1--3----------0--0--...
+B|-----0-------0-------0----------2^0----4--4--...
+G|---0-------0-------0----------------2--2--2--...
+D|-0-----0-------------------------------------
+A|------------------------------------0--------
+E|---------0-----0-1------------1--------------
+
+E4+  Am7
+Para...    o que não tem mais nada
+Am6        Am5+         Em/A Em7(9)
+A calma do louco ensinou
+Em7/D G/D    E4+
+A dizer razão
+
+----------------- Acordes -----------------
+Capotraste na 1ª casa
+A*  = X 0 2 2 2 0 - (*A# na forma de A)
+A11+*  = X 0 7 6 4 X - (*A#11+ na forma de A11+)
+A4*  = X 0 2 2 3 0 - (*A#4 na forma de A4)
+A5*  = X 0 2 2 X X - (*A#5 na forma de A5)
+A9-*  = X 0 2 3 2 0 - (*A#9- na forma de A9-)
+Am*  = X 0 2 2 1 0 - (*A#m na forma de Am)
+Am5+*  = 5 8 7 5 6 5 - (*A#m5+ na forma de Am5+)
+Am6*  = 5 X 4 5 5 X - (*A#m6 na forma de Am6)
+Am7*  = X 0 2 0 1 0 - (*A#m7 na forma de Am7)
+Am9*  = X 0 2 4 1 0 - (*A#m9 na forma de Am9)
+D*  = X X 0 2 3 2 - (*D# na forma de D)
+D4+*  = X 5 6 7 7 5 - (*D#4+ na forma de D4+)
+D4/A*  = X 0 0 2 3 3 - (*D#4/A# na forma de D4/A)
+Dm*  = X X 0 2 3 1 - (*D#m na forma de Dm)
+E4+*  = 0 2 2 3 0 0 - (*F4+ na forma de E4+)
+Em*  = 0 2 2 0 0 0 - (*Fm na forma de Em)
+Em/A*  = X 0 2 0 0 X - (*Fm/A# na forma de Em/A)
+Em7(9)*  = X 7 5 7 7 X - (*Fm7(9) na forma de Em7(9))
+Em7/D*  = X X 0 0 3 0 - (*Fm7/D# na forma de Em7/D)
+Em9*  = 0 2 4 0 0 0 - (*Fm9 na forma de Em9)
+F*  = 1 3 3 2 1 1 - (*F# na forma de F)
+G/D*  = X 5 5 4 3 X - (*G#/D# na forma de G/D)
